@@ -9,6 +9,11 @@ def tmp_db(tmp_path) -> str:
     return str(tmp_path / "test.db")
 
 @pytest.fixture
+def tmp_db_path(tmp_path) -> str:
+    """Alias used by ported ingest tests."""
+    return str(tmp_path / "test.db")
+
+@pytest.fixture
 def mock_llm_api_key(monkeypatch):
     monkeypatch.setenv("LLM_API_KEY", "sk-test-fake")
     monkeypatch.setenv("LLM_BASE_URL", "https://example.com/v1")
