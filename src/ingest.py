@@ -334,9 +334,9 @@ def ingest_pdf(pdf_path: str, db_path: str, embedder, year: int | None = None) -
     # 1) markitdown
     md_path = Path("data/cache/markdown") / f"{sha256}.md"
     md_path.parent.mkdir(parents=True, exist_ok=True)
-    import subprocess
+    import sys
     subprocess.run(
-        ["markitdown", pdf_path, "-o", str(md_path)],
+        [sys.executable, "-m", "markitdown", pdf_path, "-o", str(md_path)],
         check=True,
     )
 
