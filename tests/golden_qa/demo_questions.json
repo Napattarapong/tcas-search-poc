@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "วิศวะจุฬารอบ 1 ปี 2569 รับกี่คน",
+    "expected_path": "structured",
+    "expected_citation_kind": "row"
+  },
+  {
+    "id": 2,
+    "question": "ค่าเทอมคณะวิทยาศาสตร์ มหิดลเท่าไหร่",
+    "expected_path": "structured",
+    "expected_citation_kind": "row"
+  },
+  {
+    "id": 3,
+    "question": "ทุนเรียนดีของมหิดลมีอะไรบ้าง",
+    "expected_path": "free",
+    "expected_citation_kind": "chunk"
+  },
+  {
+    "id": 4,
+    "question": "คุณสมบัติผู้สมัครวิศวะจุฬารอบ 1",
+    "expected_path": "free",
+    "expected_citation_kind": "chunk"
+  },
+  {
+    "id": 5,
+    "question": "อาจารย์ที่ปรึกษาดีๆ ของจุฬามีใครบ้าง",
+    "expected_path": "structured",
+    "expected_expected_empty": true
+  }
+]
