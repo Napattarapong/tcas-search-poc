@@ -109,35 +109,26 @@ def _handle_question(question: str) -> dict | None:
             "path": path, "sources": sources}
 
 
+@st.cache_resource(show_spinner="กำลังโหลดโมเดลฝัง...")
 def _vector_search(question: str) -> list[dict]:
-    """Embed the question and search the FAISS index. Loads embedder + index lazily."""
-    from src.vector_search import BgeM3Embedder, build_index, search
-    from src.db import get_conn
+    """Embed the question and search the FAISS index.
 
-    db = _setup_db()
-    if not st.session_state.get("_vector_ready"):
-        with st.spinner("กำลังโหลดโมเดลฝัง..."):
-            embedder = BgeM3Embedder(cache_dir="data/models")
-            with get_conn(db, read_only=True) as conn:
-                rows = conn.execute(
-                    "SELECT id, source_document_id, text FROM chunks ORDER BY id"
-                ).fetchall()
-            chunk_dicts = [{"id": r[0], "source_document_id": r[1], "text": r[2]} for r in rows]
-            if not chunk_dicts:
-                st.session_state["_vector_ready"] = True
-                st.session_state["_index"] = None
-                st.session_state["_chunks"] = []
-                st.session_state["_embedder"] = embedder
-                return []
-            index = build_index(chunk_dicts, embedder=embedder)
-            st.session_state["_vector_ready"] = True
-            st.session_state["_index"] = index
-            st.session_state["_chunks"] = chunk_dicts
-            st.session_state["_embedder"] = embedder
-    embedder = st.session_state["_embedder"]
-    index = st.session_state["_index"]
-    if index is None:
+    Streamlit caches the embedder + index across reruns, so they're built
+    once and reused. Returns search results directly.
+    """
+    from src.vector_search import BgeM3Embedder, build_index, search
+    from src.db import init_db, get_conn
+
+    init_db(DB_PATH)
+    embedder = BgeM3Embedder(cache_dir="data/models")
+    with get_conn(DB_PATH, read_only=True) as conn:
+        rows = conn.execute(
+            "SELECT id, source_document_id, text FROM chunks ORDER BY id"
+        ).fetchall()
+    chunk_dicts = [{"id": r[0], "source_document_id": r[1], "text": r[2]} for r in rows]
+    if not chunk_dicts:
         return []
+    index = build_index(chunk_dicts, embedder=embedder)
     return search(index, question, embedder=embedder, k=5, threshold=0.3)
 
 
