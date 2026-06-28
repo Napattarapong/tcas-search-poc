@@ -264,7 +264,7 @@ def _extract_structured(markdown_text: str) -> dict:
 
 
 def ingest_pdf_markdown_only(
-    md_path: str, sha256: str, db_path: str, embedder, source_doc_id: int | None = None
+    md_path: str, sha256: str, db_path: str, embedder, source_doc_id: int | None = None, year: int | None = None
 ) -> int:
     """Insert source_document row, chunk the markdown, embed, and insert chunks.
 
@@ -288,8 +288,8 @@ def ingest_pdf_markdown_only(
                 source_doc_id = existing[0]
             else:
                 cur = conn.execute(
-                    "INSERT INTO source_documents(file_path, sha256, source_kind) VALUES(?,?,?)",
-                    (md_path, sha256, "pdf"),
+                    "INSERT INTO source_documents(file_path, sha256, source_kind, year) VALUES(?,?,?,?)",
+                    (md_path, sha256, "pdf", year),
                 )
                 source_doc_id = cur.lastrowid
                 conn.commit()
@@ -374,7 +374,8 @@ def ingest_pdf(pdf_path: str, db_path: str, embedder, year: int | None = None) -
 
     # Chunk + embed (always)
     n_chunks = ingest_pdf_markdown_only(str(md_path), sha256, db_path, embedder,
-                                        source_doc_id=source_document_id)
+                                        source_doc_id=source_document_id,
+                                        year=year)
 
     return {"sha256": sha256, "markdown_path": str(md_path), "chunks": n_chunks,
             "structured": structured, "source_document_id": source_document_id}

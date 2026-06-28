@@ -129,7 +129,7 @@ def _vector_search(question: str) -> list[dict]:
     if not chunk_dicts:
         return []
     index = build_index(chunk_dicts, embedder=embedder)
-    return search(index, question, embedder=embedder, k=5, threshold=0.3)
+    return search(index, question, embedder=embedder, k=5, threshold=0.5)
 
 
 def _render_rendered(rendered: dict) -> None:
