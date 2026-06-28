@@ -256,7 +256,7 @@ def _extract_structured(markdown_text: str) -> dict:
     import json
     import re
     raw = chat(messages=[{"role": "user", "content": prompt}], temperature=0.0,
-               response_format={"type": "json_object"})
+               response_format={"type": "json_object"}, max_tokens=4096)
     # Some models (e.g. Typhoon) wrap JSON in markdown fences even with
     # response_format=json_object. Strip them before parsing.
     stripped = raw.strip()

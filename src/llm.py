@@ -34,6 +34,7 @@ def chat(
     temperature: float = 0.0,
     response_format: dict | None = None,
     timeout: int = 60,
+    max_tokens: int | None = None,
 ) -> str:
     """Call an OpenAI-compatible chat endpoint. Return assistant text.
 
@@ -48,13 +49,18 @@ def chat(
         "Authorization": f"Bearer {cfg.api_key}",
         "Content-Type": "application/json",
     }
-    payload = {
+    payload: dict = {
         "model": model or cfg.model,
         "messages": messages,
         "temperature": temperature,
     }
     if response_format is not None:
         payload["response_format"] = response_format
+    if max_tokens is not None:
+        # Some providers (OpenAI legacy, Typhoon) use max_tokens; newer ones
+        # use max_completion_tokens. Send both — the provider ignores unknown.
+        payload["max_tokens"] = max_tokens
+        payload["max_completion_tokens"] = max_tokens
     try:
         r = requests.post(url, json=payload, headers=headers, timeout=timeout)
         r.raise_for_status()

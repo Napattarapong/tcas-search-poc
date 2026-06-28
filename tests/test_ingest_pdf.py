@@ -54,8 +54,16 @@ def _seed_program(tmp_db_path):
 
 def fake_markitdown(cmd, **kwargs):
     """Mock for src.ingest.subprocess.run that does the real PDF→markdown via
-    `python -m markitdown` (avoiding recursion with the patched subprocess.run)."""
-    _, pdf_path, _, md_path_str = cmd[:4]
+    `python -m markitdown` (avoiding recursion with the patched subprocess.run).
+
+    Accepts either the bare `["markitdown", pdf, "-o", md]` shape or the
+    `["python", "-m", "markitdown", pdf, "-o", md]` shape.
+    """
+    if cmd and cmd[0] == "markitdown":
+        _, pdf_path, _, md_path_str = cmd[:4]
+    else:
+        # [python, -m, markitdown, pdf, -o, md]
+        _, _, _, pdf_path, _, md_path_str = cmd[:6]
     md_path = Path(md_path_str)
     md_path.parent.mkdir(parents=True, exist_ok=True)
     real = _REAL_RUN(
