@@ -254,9 +254,16 @@ def _extract_structured(markdown_text: str) -> dict:
         f"{markdown_text}"
     )
     import json
+    import re
     raw = chat(messages=[{"role": "user", "content": prompt}], temperature=0.0,
                response_format={"type": "json_object"})
-    return json.loads(raw)
+    # Some models (e.g. Typhoon) wrap JSON in markdown fences even with
+    # response_format=json_object. Strip them before parsing.
+    stripped = raw.strip()
+    fence_match = re.match(r"^```(?:json)?\s*\n?(.*?)\n?\s*```\s*$", stripped, re.DOTALL)
+    if fence_match:
+        stripped = fence_match.group(1).strip()
+    return json.loads(stripped)
 
 
 def ingest_pdf_markdown_only(
