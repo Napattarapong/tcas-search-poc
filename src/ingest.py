@@ -187,21 +187,6 @@ def _persist_structured(db_path: str, structured: dict, source_document_id: int)
     return {"rounds": n_round, "cutoffs": n_cut, "requirements": n_req}
 
 
-def cli_pdf(args) -> None:
-    from src.vector_search import BgeM3Embedder
-    embedder = BgeM3Embedder(cache_dir="data/models")
-    summary = ingest_pdf(
-        pdf_path=args.pdf,
-        db_path=args.db_path,
-        embedder=embedder,
-        year=args.year,
-    )
-    if summary.get("structured", {}).get("_error"):
-        print(json.dumps(summary, ensure_ascii=False), file=sys.stderr)
-        sys.exit(2)
-    print(json.dumps(summary, ensure_ascii=False))
-
-
 # ---- CLI ----
 
 def cli_tcas(args) -> None:
@@ -214,6 +199,21 @@ def cli_tcas(args) -> None:
         db_path=db_path,
         allowed_tcas_ids=set(args.allowed.split(",")),
     )
+    print(json.dumps(summary, ensure_ascii=False))
+
+
+def cli_pdf(args) -> None:
+    from src.vector_search import BgeM3Embedder
+    embedder = BgeM3Embedder(cache_dir="data/models")
+    summary = ingest_pdf(
+        pdf_path=args.pdf,
+        db_path=args.db_path,
+        embedder=embedder,
+        year=args.year,
+    )
+    if summary.get("structured", {}).get("_error"):
+        print(json.dumps(summary, ensure_ascii=False), file=sys.stderr)
+        sys.exit(2)
     print(json.dumps(summary, ensure_ascii=False))
 
 
@@ -237,10 +237,6 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     args.func(args)
     return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
 
 
 # --------------------------------------------------------------------------
@@ -379,3 +375,7 @@ def ingest_pdf(pdf_path: str, db_path: str, embedder, year: int | None = None) -
 
     return {"sha256": sha256, "markdown_path": str(md_path), "chunks": n_chunks,
             "structured": structured, "source_document_id": source_document_id}
+
+
+if __name__ == "__main__":
+    sys.exit(main())
