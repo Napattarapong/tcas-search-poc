@@ -283,3 +283,97 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
+
+# --------------------------------------------------------------------------
+# Chunk + embed path (vector search ingest)
+# --------------------------------------------------------------------------
+
+def _extract_structured(markdown_text: str) -> dict:
+    """Stub: in production, this calls the LLM to extract rounds/cutoffs/requirements.
+    Tests can monkeypatch this to return {}."""
+    # Import lazily to avoid circular imports
+    from src.llm import chat
+    prompt = (
+        "Extract admission_rounds, cutoff_scores, and requirements from this markdown. "
+        "Return JSON: {\"rounds\": [...], \"cutoffs\": [...], \"requirements\": [...]}.\n\n"
+        f"{markdown_text}"
+    )
+    import json
+    raw = chat(messages=[{"role": "user", "content": prompt}], temperature=0.0,
+               response_format={"type": "json_object"})
+    return json.loads(raw)
+
+
+def ingest_pdf_markdown_only(
+    md_path: str, sha256: str, db_path: str, embedder, source_doc_id: int | None = None
+) -> int:
+    """Insert source_document row, chunk the markdown, embed, and insert chunks.
+
+    Returns the number of chunks inserted. Does NOT run structured extraction
+    (caller is expected to do that separately, possibly via the LLM).
+    """
+    from src.db import init_db, get_conn
+    from src.chunking import chunk_markdown
+    from src.vector_search import build_index
+
+    init_db(db_path)
+    text = Path(md_path).read_text(encoding="utf-8")
+
+    with get_conn(db_path) as conn:
+        if source_doc_id is None:
+            cur = conn.execute(
+                "INSERT INTO source_documents(file_path, sha256, source_kind) VALUES(?,?,?)",
+                (md_path, sha256, "pdf"),
+            )
+            source_doc_id = cur.lastrowid
+            conn.commit()
+
+        chunks_text = chunk_markdown(text, max_tokens=300, overlap=50)
+        for i, ctext in enumerate(chunks_text):
+            conn.execute(
+                "INSERT INTO chunks(source_document_id, chunk_index, text, faiss_index_offset) "
+                "VALUES(?,?,?,?)",
+                (source_doc_id, i, ctext, i),
+            )
+        conn.commit()
+
+    # Rebuild in-memory FAISS index from all chunks in DB
+    with get_conn(db_path, read_only=True) as conn:
+        rows = conn.execute(
+            "SELECT id, source_document_id, text FROM chunks ORDER BY id"
+        ).fetchall()
+    chunk_dicts = [
+        {"id": r[0], "source_document_id": r[1], "text": r[2]} for r in rows
+    ]
+    index = build_index(chunk_dicts, embedder=embedder)
+    return len(chunks_text)
+
+
+def ingest_pdf(pdf_path: str, db_path: str, embedder, year: int | None = None) -> dict:
+    """Full PDF ingest: markitdown → structured extract + chunks + embeddings."""
+    import hashlib
+    from pathlib import Path
+    sha256 = hashlib.sha256(Path(pdf_path).read_bytes()).hexdigest()
+
+    # 1) markitdown
+    md_path = Path("data/cache/markdown") / f"{sha256}.md"
+    md_path.parent.mkdir(parents=True, exist_ok=True)
+    import subprocess
+    subprocess.run(
+        ["markitdown", pdf_path, "-o", str(md_path)],
+        check=True,
+    )
+
+    # 2) structured extract (best-effort, may fail without API key)
+    md_text = md_path.read_text(encoding="utf-8")
+    try:
+        structured = _extract_structured(md_text)
+    except Exception as e:
+        structured = {"rounds": [], "cutoffs": [], "requirements": [], "_error": str(e)}
+
+    # 3) chunk + embed (always)
+    n_chunks = ingest_pdf_markdown_only(str(md_path), sha256, db_path, embedder)
+
+    return {"sha256": sha256, "markdown_path": str(md_path), "chunks": n_chunks,
+            "structured": structured}
