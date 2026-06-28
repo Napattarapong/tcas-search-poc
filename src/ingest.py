@@ -10,7 +10,6 @@ import sys
 from pathlib import Path
 
 from src.db import init_db, get_conn
-from src.llm import chat
 
 
 def _record_source_document(
@@ -110,24 +109,6 @@ def ingest_tcas_from_path(
 # PDF ingest (markitdown + LLM extract)
 # --------------------------------------------------------------------------
 
-# NOTE: {markdown} is sourced from untrusted PDFs. Validate LLM JSON output against
-# the schema before using it (prompt injection risk — mitigation is out of scope for POC).
-EXTRACT_PROMPT_TEMPLATE = """You are a structured-data extractor. From the markdown below, produce ONE JSON object with three arrays: admission_rounds, cutoff_scores, requirements.
-
-Schema:
-- admission_rounds: {{program_tcas_id: str, year: int, round_no: int, apply_open: date|null, apply_close: date|null, exam_date: date|null, interview_date: date|null, seats: int|null}}
-- cutoff_scores: {{program_tcas_id: str, year: int, round_no: int, score_type: str, min_score: number|null, max_score: number|null, gpa_min: number|null}}
-- requirements: {{program_tcas_id: str, year: int, round_no: int, kind: "doc"|"eligibility"|"condition", text: str}}
-
-Use Thai year as-is (2569 = 2026 academic year).
-Output ONLY JSON. No commentary.
-
-Markdown:
----
-{markdown}
-"""
-
-
 def _run_markitdown(pdf_path: Path, out_md_path: Path) -> None:
     """Run the installed markitdown CLI to convert a PDF to markdown."""
     out_md_path.parent.mkdir(parents=True, exist_ok=True)
@@ -144,101 +125,78 @@ def _lookup_program_id(conn, tcas_program_id: str) -> int | None:
     return row[0] if row else None
 
 
-def ingest_pdf_from_path(
-    pdf_path: Path,
-    db_path: str,
-    year: int,
-) -> dict:
-    """Convert PDF → markdown → LLM extract → upsert admission_rounds, cutoff_scores, requirements."""
-    pdf_path = Path(pdf_path)
-    raw = pdf_path.read_bytes()
-    sha = hashlib.sha256(raw).hexdigest()
-    init_db(db_path)
+def _persist_structured(db_path: str, structured: dict, source_document_id: int) -> dict:
+    """Write structured extract (rounds/cutoffs/requirements) into the DB.
+
+    Accepts the new shape from _extract_structured:
+        {"rounds": [...], "cutoffs": [...], "requirements": [...]}
+    Returns counts {"rounds": int, "cutoffs": int, "requirements": int}.
+    """
+    if not isinstance(structured, dict):
+        return {"rounds": 0, "cutoffs": 0, "requirements": 0}
+    n_round = n_cut = n_req = 0
     with get_conn(db_path, read_only=False) as conn:
-        existing = conn.execute(
-            "SELECT id FROM source_documents WHERE sha256=?", (sha,)
-        ).fetchone()
-        if existing:
-            return {"rounds": 0, "cutoffs": 0, "requirements": 0,
-                    "skipped": True, "source_document_id": existing[0]}
+        # Idempotency: if this source already wrote rounds, skip.
+        existing_rounds = conn.execute(
+            "SELECT COUNT(*) FROM admission_rounds WHERE source_document_id=?",
+            (source_document_id,),
+        ).fetchone()[0]
+        if existing_rounds:
+            return {"rounds": 0, "cutoffs": 0, "requirements": 0}
 
-        cur = conn.execute(
-            "INSERT INTO source_documents (file_path, sha256, source_kind, year) "
-            "VALUES (?, ?, 'pdf', ?)",
-            (str(pdf_path), sha, year),
-        )
-        sd_id = cur.lastrowid
-        conn.commit()
-
-    md_path = Path("data/cache/markdown") / f"{sha}.md"
-    _run_markitdown(pdf_path, md_path)
-    markdown = md_path.read_text(encoding="utf-8", errors="replace")
-
-    prompt = EXTRACT_PROMPT_TEMPLATE.format(markdown=markdown)
-    raw_response = chat(
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.0,
-        response_format={"type": "json_object"},
-    )
-    Path("data/extracted").mkdir(parents=True, exist_ok=True)
-    Path(f"data/extracted/{sha}.json").write_text(raw_response, encoding="utf-8")
-
-    try:
-        parsed = json.loads(raw_response)
-    except json.JSONDecodeError:
-        return {"rounds": 0, "cutoffs": 0, "requirements": 0, "error": "json_decode",
-                "source_document_id": sd_id}
-
-    with get_conn(db_path, read_only=False) as conn:
-        n_round = n_cut = n_req = 0
-        for r in parsed.get("admission_rounds", []):
-            pid = _lookup_program_id(conn, r["program_tcas_id"])
+        for r in structured.get("rounds", []):
+            pid = _lookup_program_id(conn, r.get("program_tcas_id", ""))
             if pid is None:
                 continue
             cur = conn.execute(
                 "INSERT INTO admission_rounds (program_id, year, round_no,"
                 "apply_open, apply_close, exam_date, interview_date, seats,"
                 "source_document_id) VALUES (?,?,?,?,?,?,?,?,?)",
-                (pid, r["year"], r["round_no"], r.get("apply_open"),
-                 r.get("apply_close"), r.get("exam_date"),
-                 r.get("interview_date"), r.get("seats"), sd_id),
+                (pid, r.get("year"), r.get("round_no"),
+                 r.get("apply_open"), r.get("apply_close"),
+                 r.get("exam_date"), r.get("interview_date"),
+                 r.get("seats"), source_document_id),
             )
             round_id = cur.lastrowid
             n_round += 1
-            for c in parsed.get("cutoff_scores", []):
-                if (c.get("program_tcas_id") == r["program_tcas_id"]
-                        and c.get("year") == r["year"]
-                        and c.get("round_no") == r["round_no"]):
+            for c in structured.get("cutoffs", []):
+                if (c.get("program_tcas_id") == r.get("program_tcas_id")
+                        and c.get("year") == r.get("year")
+                        and c.get("round_no") == r.get("round_no")):
                     conn.execute(
                         "INSERT INTO cutoff_scores (round_id, score_type,"
                         "min_score, max_score, gpa_min, source_document_id) "
                         "VALUES (?,?,?,?,?,?)",
-                        (round_id, c["score_type"], c.get("min_score"),
-                         c.get("max_score"), c.get("gpa_min"), sd_id),
+                        (round_id, c.get("score_type"),
+                         c.get("min_score"), c.get("max_score"),
+                         c.get("gpa_min"), source_document_id),
                     )
                     n_cut += 1
-            for q in parsed.get("requirements", []):
-                if (q.get("program_tcas_id") == r["program_tcas_id"]
-                        and q.get("year") == r["year"]
-                        and q.get("round_no") == r["round_no"]):
+            for q in structured.get("requirements", []):
+                if (q.get("program_tcas_id") == r.get("program_tcas_id")
+                        and q.get("year") == r.get("year")
+                        and q.get("round_no") == r.get("round_no")):
                     conn.execute(
                         "INSERT INTO requirements (round_id, kind, text,"
                         "source_document_id) VALUES (?,?,?,?)",
-                        (round_id, q["kind"], q["text"], sd_id),
+                        (round_id, q.get("kind"), q.get("text"),
+                         source_document_id),
                     )
                     n_req += 1
         conn.commit()
-    return {"rounds": n_round, "cutoffs": n_cut, "requirements": n_req,
-            "source_document_id": sd_id}
+    return {"rounds": n_round, "cutoffs": n_cut, "requirements": n_req}
 
 
 def cli_pdf(args) -> None:
-    summary = ingest_pdf_from_path(
-        pdf_path=Path(args.pdf),
+    from src.vector_search import BgeM3Embedder
+    embedder = BgeM3Embedder(cache_dir="data/models")
+    summary = ingest_pdf(
+        pdf_path=args.pdf,
         db_path=args.db_path,
+        embedder=embedder,
         year=args.year,
     )
-    if "error" in summary:
+    if summary.get("structured", {}).get("_error"):
         print(json.dumps(summary, ensure_ascii=False), file=sys.stderr)
         sys.exit(2)
     print(json.dumps(summary, ensure_ascii=False))
@@ -310,33 +268,50 @@ def ingest_pdf_markdown_only(
 ) -> int:
     """Insert source_document row, chunk the markdown, embed, and insert chunks.
 
-    Returns the number of chunks inserted. Does NOT run structured extraction
-    (caller is expected to do that separately, possibly via the LLM).
+    Returns the number of chunks inserted. Idempotent: if a source_document with
+    the given sha256 already has chunks, skip re-chunking and return the existing
+    count. Does NOT run structured extraction (caller is expected to do that
+    separately, possibly via the LLM).
     """
     from src.db import init_db, get_conn
     from src.chunking import chunk_markdown
     from src.vector_search import build_index
 
     init_db(db_path)
-    text = Path(md_path).read_text(encoding="utf-8")
 
     with get_conn(db_path) as conn:
         if source_doc_id is None:
-            cur = conn.execute(
-                "INSERT INTO source_documents(file_path, sha256, source_kind) VALUES(?,?,?)",
-                (md_path, sha256, "pdf"),
-            )
-            source_doc_id = cur.lastrowid
-            conn.commit()
+            existing = conn.execute(
+                "SELECT id FROM source_documents WHERE sha256=?", (sha256,)
+            ).fetchone()
+            if existing:
+                source_doc_id = existing[0]
+            else:
+                cur = conn.execute(
+                    "INSERT INTO source_documents(file_path, sha256, source_kind) VALUES(?,?,?)",
+                    (md_path, sha256, "pdf"),
+                )
+                source_doc_id = cur.lastrowid
+                conn.commit()
 
-        chunks_text = chunk_markdown(text, max_tokens=300, overlap=50)
-        for i, ctext in enumerate(chunks_text):
-            conn.execute(
-                "INSERT INTO chunks(source_document_id, chunk_index, text, faiss_index_offset) "
-                "VALUES(?,?,?,?)",
-                (source_doc_id, i, ctext, i),
-            )
-        conn.commit()
+        # Idempotency: if chunks already exist for this source, skip re-chunking.
+        already = conn.execute(
+            "SELECT COUNT(*) FROM chunks WHERE source_document_id=?",
+            (source_doc_id,),
+        ).fetchone()[0]
+        if already:
+            n_chunks = already
+        else:
+            text = Path(md_path).read_text(encoding="utf-8")
+            chunks_text = chunk_markdown(text, max_tokens=300, overlap=50)
+            for i, ctext in enumerate(chunks_text):
+                conn.execute(
+                    "INSERT INTO chunks(source_document_id, chunk_index, text, faiss_index_offset) "
+                    "VALUES(?,?,?,?)",
+                    (source_doc_id, i, ctext, i),
+                )
+            conn.commit()
+            n_chunks = len(chunks_text)
 
     # Rebuild in-memory FAISS index from all chunks in DB
     with get_conn(db_path, read_only=True) as conn:
@@ -347,7 +322,7 @@ def ingest_pdf_markdown_only(
         {"id": r[0], "source_document_id": r[1], "text": r[2]} for r in rows
     ]
     index = build_index(chunk_dicts, embedder=embedder)
-    return len(chunks_text)
+    return n_chunks
 
 
 def ingest_pdf(pdf_path: str, db_path: str, embedder, year: int | None = None) -> dict:
@@ -372,8 +347,34 @@ def ingest_pdf(pdf_path: str, db_path: str, embedder, year: int | None = None) -
     except Exception as e:
         structured = {"rounds": [], "cutoffs": [], "requirements": [], "_error": str(e)}
 
-    # 3) chunk + embed (always)
-    n_chunks = ingest_pdf_markdown_only(str(md_path), sha256, db_path, embedder)
+    # 3) chunk + embed (always) — also resolves source_document_id
+    init_db(db_path)
+    with get_conn(db_path, read_only=False) as conn:
+        existing = conn.execute(
+            "SELECT id FROM source_documents WHERE sha256=?", (sha256,)
+        ).fetchone()
+        if existing:
+            source_document_id = existing[0]
+        else:
+            cur = conn.execute(
+                "INSERT INTO source_documents (file_path, sha256, source_kind, year) "
+                "VALUES (?, ?, 'pdf', ?)",
+                (str(pdf_path), sha256, year),
+            )
+            source_document_id = cur.lastrowid
+            conn.commit()
+
+    # Persist structured data into DB tables (best-effort)
+    if structured and not structured.get("_error"):
+        try:
+            counts = _persist_structured(db_path, structured, source_document_id)
+            structured["_db_counts"] = counts
+        except Exception as e:
+            structured.setdefault("_error", f"persist: {e}")
+
+    # Chunk + embed (always)
+    n_chunks = ingest_pdf_markdown_only(str(md_path), sha256, db_path, embedder,
+                                        source_doc_id=source_document_id)
 
     return {"sha256": sha256, "markdown_path": str(md_path), "chunks": n_chunks,
-            "structured": structured}
+            "structured": structured, "source_document_id": source_document_id}

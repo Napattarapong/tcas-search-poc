@@ -1,13 +1,19 @@
 """Tests for PDF ingest. Uses a fake LLM and a real markitdown run on a tiny PDF."""
 import json
+import subprocess as _real_subprocess
+import sys
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import patch, MagicMock
 from src.db import init_db, get_conn
-from src.ingest import ingest_pdf_from_path
+from src.ingest import ingest_pdf
 from src.vector_search import FakeEmbedder
 
-LLM_RESPONSE = json.dumps({
-    "admission_rounds": [{
+# Capture the real subprocess.run BEFORE any patches are applied.
+_REAL_RUN = _real_subprocess.run
+
+# Shape returned by _extract_structured: {"rounds": [...], "cutoffs": [...], "requirements": [...]}
+LLM_STRUCTURED = {
+    "rounds": [{
         "program_tcas_id": "P001",
         "year": 2569,
         "round_no": 1,
@@ -17,7 +23,7 @@ LLM_RESPONSE = json.dumps({
         "interview_date": None,
         "seats": 50,
     }],
-    "cutoff_scores": [{
+    "cutoffs": [{
         "program_tcas_id": "P001",
         "year": 2569,
         "round_no": 1,
@@ -32,7 +38,7 @@ LLM_RESPONSE = json.dumps({
         {"program_tcas_id": "P001", "year": 2569, "round_no": 1,
          "kind": "doc", "text": "ID card"},
     ],
-})
+}
 
 
 def _seed_program(tmp_db_path):
@@ -46,17 +52,33 @@ def _seed_program(tmp_db_path):
     )
 
 
+def fake_markitdown(cmd, **kwargs):
+    """Mock for src.ingest.subprocess.run that does the real PDF→markdown via
+    `python -m markitdown` (avoiding recursion with the patched subprocess.run)."""
+    _, pdf_path, _, md_path_str = cmd[:4]
+    md_path = Path(md_path_str)
+    md_path.parent.mkdir(parents=True, exist_ok=True)
+    real = _REAL_RUN(
+        [sys.executable, "-m", "markitdown", str(pdf_path), "-o", str(md_path)],
+        check=True,
+        capture_output=True,
+    )
+    return real
+
+
 def test_ingest_pdf_creates_round_cutoff_and_requirements(tmp_db_path):
     _seed_program(tmp_db_path)
-    with patch("src.ingest.chat", return_value=LLM_RESPONSE):
-        summary = ingest_pdf_from_path(
-            pdf_path=Path("tests/fixtures/sample.pdf"),
+    with patch("src.ingest._extract_structured", return_value=LLM_STRUCTURED), \
+         patch("src.ingest.subprocess.run", side_effect=fake_markitdown):
+        summary = ingest_pdf(
+            pdf_path="tests/fixtures/sample.pdf",
             db_path=tmp_db_path,
+            embedder=FakeEmbedder(dim=16),
             year=2569,
         )
-    assert summary["rounds"] == 1
-    assert summary["cutoffs"] == 1
-    assert summary["requirements"] == 2
+    assert summary["structured"] == LLM_STRUCTURED
+    assert summary["chunks"] >= 1
+    assert summary["sha256"]
     with get_conn(tmp_db_path, read_only=True) as conn:
         n_rounds = conn.execute("SELECT COUNT(*) FROM admission_rounds").fetchone()[0]
         n_cut = conn.execute("SELECT COUNT(*) FROM cutoff_scores").fetchone()[0]
@@ -67,12 +89,25 @@ def test_ingest_pdf_creates_round_cutoff_and_requirements(tmp_db_path):
     assert n_rounds == 1 and n_cut == 1 and n_req == 2
     assert apply_close == "2026-02-15"
 
+
 def test_ingest_pdf_is_idempotent(tmp_db_path):
     _seed_program(tmp_db_path)
-    with patch("src.ingest.chat", return_value=LLM_RESPONSE):
-        summary1 = ingest_pdf_from_path(Path("tests/fixtures/sample.pdf"), tmp_db_path, 2569)
-        summary2 = ingest_pdf_from_path(Path("tests/fixtures/sample.pdf"), tmp_db_path, 2569)
-    assert summary2["skipped"] is True
+    with patch("src.ingest._extract_structured", return_value=LLM_STRUCTURED), \
+         patch("src.ingest.subprocess.run", side_effect=fake_markitdown):
+        summary1 = ingest_pdf(
+            pdf_path="tests/fixtures/sample.pdf",
+            db_path=tmp_db_path,
+            embedder=FakeEmbedder(dim=16),
+            year=2569,
+        )
+        summary2 = ingest_pdf(
+            pdf_path="tests/fixtures/sample.pdf",
+            db_path=tmp_db_path,
+            embedder=FakeEmbedder(dim=16),
+            year=2569,
+        )
+    # Second call should not duplicate rows
+    assert summary1["sha256"] == summary2["sha256"]
     with get_conn(tmp_db_path, read_only=True) as conn:
         n = conn.execute("SELECT COUNT(*) FROM admission_rounds").fetchone()[0]
     assert n == 1
@@ -83,12 +118,13 @@ def test_pdf_ingest_populates_chunks_table(tmp_db, monkeypatch):
     from src.db import init_db, get_conn
     init_db(tmp_db)
 
-    # Skip the structured-extract step by mocking the LLM
+    # Skip the structured-extract step by mocking it to no-op
     from src import ingest as ingest_mod
     monkeypatch.setattr(ingest_mod, "_extract_structured", lambda md: {"rounds": [], "cutoffs": [], "requirements": []})
 
     # Provide a fixture markdown file
-    md_path = tmp_db_path(tmp_db) / "announcement.md"
+    md_dir = tmp_db_path(tmp_db)
+    md_path = md_dir / "announcement.md"
     md_path.write_text(
         "# ประกาศรับสมัคร\n\nนักศึกษาต้องมี GPA ไม่ต่ำกว่า 3.5 "
         "และสามารถสมัครได้ตั้งแต่วันที่ 1 มีนาคม ถึง 30 เมษายน "
