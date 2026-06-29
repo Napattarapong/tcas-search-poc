@@ -1,52 +1,156 @@
-# Thai University Q&A (Hybrid: NL→SQL + Vector Search)
+# 🎓 Thai University QA - Hybrid Search System
 
-A Thai-language Q&A chatbot over Thai university admission data. Combines NL→SQL for structured fields (seats, dates, costs) with vector search for free-text requirements (scholarships, eligibility). Every cited sentence points to a verifiable DB row or text chunk.
+ระบบตอบคำถามเกี่ยวกับมหาวิทยาลัยไทย (TCAS) ด้วย RAG แบบ Hybrid ที่ผสมผสานระหว่าง SQL Database และ Vector Search
+
+## Overview
+
+ระบบนี้ตอบคำถามเกี่ยวกับหลักสูตร การรับสมัคร และคะแนนของมหาวิทยาลัยชั้นนำ 3 แห่งในประเทศไทย:
+- จุฬาลงกรณ์มหาวิทยาลัย (CU)
+- มหาวิทยาลัยมหิดล (MU)
+- มหาวิทยาลัยเชียงใหม่ (CMU)
+
+### Key Features
+
+- **Hybrid Pipeline**: เลือกเส้นทางอัตโนมัติระหว่าง SQL query และ vector search
+- **Natural Language to SQL**: ใช้ LLM แปลงคำถามภาษาธรรมชาติเป็น SQL query
+- **Thai NLP**: ประมวลผลภาษาไทยด้วย PyThaiNLP
+- **Grounded RAG**: คำตอบอ้างอิงจากข้อมูลจริงในฐานข้อมูล ไม่ hallucinate
+- **Streamlit UI**: อินเตอร์เฟซสนทนาภาษาไทย
 
 ## Architecture
 
 ```
-Thai question → Router (keywords)
-   ├─ structured → NL→SQL → rows ─┐
-   └─ free       → bge-m3 + FAISS → chunks ─┤
-                                          ↓
-                          Composer → Thai prose + citations
-                                          ↓
-                                Validator (drops uncited)
-                                          ↓
-                                   Streamlit UI
+┌─────────────────┐
+│   User Question  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│     Router      │ ← Classifies: structured vs free
+└────────┬────────┘
+         │
+    ┌────┴────┐
+    ▼         ▼
+┌───────┐ ┌───────┐
+│ SQL   │ │Vector │ → NL-to-SQL  → FAISS Search
+│ Path  │ │ Path │
+└───┬───┘ └───┬───┘
+    │         │
+    └────┬────┘
+         ▼
+┌─────────────────┐
+│    Composer     │ ← LLM generates prose + citations
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   Final Answer  │
+└─────────────────┘
 ```
 
-See `docs/superpowers/specs/2026-06-28-thai-uni-qa-hybrid-design.md` for the full design.
+## Project Structure
 
-## Setup
+```
+thai-uni-qa-hybrid/
+├── app.py                 # Streamlit chat UI
+├── src/
+│   ├── db.py             # SQLite database operations
+│   ├── router.py         # Intent classification (structured vs free)
+│   ├── nl_to_sql.py     # Natural language to SQL translation
+│   ├── vector_search.py # FAISS vector search with BGE-M3
+│   ├── compose.py      # LLM-powered answer generation
+│   ├── chunking.py     # Document chunking strategies
+│   ├── ingest.py      # TCAS PDF ingestion pipeline
+│   ├── llm.py        # LLM API client
+│   └── validator.py   # SQL query validation
+├── scripts/
+│   ├── download_tcas_pdfs.py
+│   ├── convert_pdfs_to_markdown.py
+│   ├── structure_markdowns.py
+│   └── ...
+├── tests/
+│   ├── test_router.py
+│   ├── test_nl_to_sql_safety.py
+│   ├── test_vector_search.py
+│   └── ...
+└── pyproject.toml
+```
+
+## Installation
 
 ```bash
-# Use the existing venv at C:/Users/Napattarapong/.venv
-C:/Users/Napattarapong/.venv/Scripts/pip install -e ".[dev]"
+# Clone the repository
+git clone https://github.com/Napattarapong/tcas-search-poc.git
+cd tcas-search-poc
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+# Install dependencies
+pip install -e ".[dev]"
+
+# Copy environment template
 cp .env.example .env
-# Edit .env and set LLM_API_KEY
+# Edit .env with your API keys
 ```
 
-## Ingest
+## Configuration
+
+Edit `.env` file:
+
+```env
+# Required: LLM API key (OpenAI compatible)
+OPENAI_API_KEY=sk-...
+
+# Optional
+DB_PATH=data/university.db
+MODEL_CACHE_DIR=data/models
+```
+
+## Usage
+
+### 1. Ingest TCAS Data (first time only)
 
 ```bash
-# 1) Pull TCAS JSON for our 3 universities
 python -m src.ingest tcas
-
-# 2) Ingest a per-university admission PDF (also builds the FAISS index)
-python -m src.ingest pdf "C:/Users/Napattarapong/Downloads/some-announcement.pdf" --year 2569
 ```
 
-## Run
+This will:
+- Download TCAS PDFs from university websites
+- Convert PDFs to markdown
+- Create SQLite database with tables
+- Build FAISS index for vector search
+
+### 2. Run the Chat UI
 
 ```bash
 streamlit run app.py
 ```
 
-## Test
+### 3. Ask Questions
+
+Example questions:
+- "วิศวะจุฬารอบ 1 ปี 2569 รับกี่คน"
+- "คะแนนขั้นต่ำ อักษร ศาสตร์ มหิดล ปี 2568"
+- "มีคณะอะไรบ้างที่รับ Portfolio"
+
+## Database Schema
+
+```sql
+universities      -- มหาวิทยาลัย
+programs       -- หลักสูตร/คณะ
+admission_rounds -- รอบการรับสมัคร
+cutoff_scores   -- คะแนนขั้นต่ำ
+requirements   -- คุณสมบัติ/เอกสารที่ต้องยื่น
+chunks         -- ข้อความต้นฉบับ (สำหรับ vector search)
+source_documents -- เอกสารต้นฉบับ
+```
+
+## Testing
 
 ```bash
-pytest -v
+pytest tests/
 ```
 
 ## Demo Questions
@@ -59,15 +163,19 @@ pytest -v
 | 4 | คุณสมบัติผู้สมัครวิศวะจุฬารอบ 1 | free | chunk |
 | 5 | อาจารย์ที่ปรึกษาดีๆ ของจุฬามีใครบ้าง | structured | (ไม่พบข้อมูล) |
 
-## Files
+## Tech Stack
 
-- `src/llm.py` — OpenAI-compatible HTTP client
-- `src/db.py` — 7-table SQLite schema
-- `src/router.py` — keyword-based path selector
-- `src/nl_to_sql.py` — Thai question → safe SQL
-- `src/chunking.py` — Thai sentence splitter + paragraph chunker
-- `src/vector_search.py` — bge-m3 embedder + FAISS index
-- `src/compose.py` — rows + chunks → cited prose
-- `src/validator.py` — citation regex
-- `src/ingest.py` — CLI: `tcas` or `pdf`
-- `app.py` — Streamlit UI
+- **Database**: SQLite with FAISS
+- **Embedder**: BGE-M3 (multilingual, Thai-capable)
+- **LLM**: OpenAI API (or compatible)
+- **Thai NLP**: PyThaiNLP
+- **UI**: Streamlit
+- **PDF**: markitdown
+
+## License
+
+MIT License
+
+## Author
+
+Napattarapong Chen
