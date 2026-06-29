@@ -109,14 +109,14 @@ def _handle_question(question: str) -> dict | None:
             "path": path, "sources": sources}
 
 
-@st.cache_resource(show_spinner="กำลังโหลดโมเดลฝัง...")
-def _vector_search(question: str) -> list[dict]:
-    """Embed the question and search the FAISS index.
+@st.cache_resource(show_spinner="กำลังโหลดโมเดลฝัง... (ครั้งเดียว)")
+def _get_search_index() -> tuple:
+    """Build the embedder + FAISS index once per session, reuse across questions.
 
-    Streamlit caches the embedder + index across reruns, so they're built
-    once and reused. Returns search results directly.
+    bge-m3 is large (~2.3 GB) and CPU encoding 6k+ chunks takes 1-2 min,
+    so we must build it once and cache the resource.
     """
-    from src.vector_search import BgeM3Embedder, build_index, search
+    from src.vector_search import BgeM3Embedder, build_index
     from src.db import init_db, get_conn
 
     init_db(DB_PATH)
@@ -127,9 +127,19 @@ def _vector_search(question: str) -> list[dict]:
         ).fetchall()
     chunk_dicts = [{"id": r[0], "source_document_id": r[1], "text": r[2]} for r in rows]
     if not chunk_dicts:
-        return []
+        return (embedder, None, [])
     index = build_index(chunk_dicts, embedder=embedder)
-    return search(index, question, embedder=embedder, k=5, threshold=0.5)
+    return (embedder, index, chunk_dicts)
+
+
+def _vector_search(question: str) -> list[dict]:
+    """Embed the question and search the FAISS index. Fast on subsequent calls."""
+    from src.vector_search import search as faiss_search
+
+    embedder, index, _ = _get_search_index()
+    if index is None:
+        return []
+    return faiss_search(index, question, embedder=embedder, k=5, threshold=0.5)
 
 
 def _render_rendered(rendered: dict) -> None:
