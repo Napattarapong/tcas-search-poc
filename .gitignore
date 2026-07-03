@@ -1,0 +1,14 @@
+# large / regenerable data (rebuild with scrape_all.py / convert_all.py)
+data/pdfs/
+data/text/
+data/vector/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# secrets / env
+.env
+*.key

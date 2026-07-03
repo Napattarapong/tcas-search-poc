@@ -1,0 +1,26 @@
+{
+  "university_id": "905",
+  "round": "R3",
+  "archetype": "index",
+  "count": 3,
+  "programs": [
+    {
+      "tcas_code": "49050104111701A",
+      "program_name_th": "",
+      "seats": 100,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49050205111701A",
+      "program_name_th": "",
+      "seats": 100,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49050106111301A",
+      "program_name_th": "",
+      "seats": 100,
+      "subject_codes": []
+    }
+  ]
+}

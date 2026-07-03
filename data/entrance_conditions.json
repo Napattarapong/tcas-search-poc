@@ -1,0 +1,1434 @@
+[
+  {
+    "university_id": "001",
+    "university_name_en": "Chulalongkorn University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/001/pdf/1760427560416/TCAS69_R1_Q.pdf",
+        "path": "data/pdfs/001_Chulalongkorn_University/file_path_1__TCAS69_R1_Q.pdf",
+        "bytes": 603825,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/001/pdf/1761896659891/TCAS69_R2_Q.pdf",
+        "path": "data/pdfs/001_Chulalongkorn_University/file_path_2__TCAS69_R2_Q.pdf",
+        "bytes": 468329,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/001/pdf/1761700939989/TCAS69_R3_Q.pdf",
+        "path": "data/pdfs/001_Chulalongkorn_University/file_path_3__TCAS69_R3_Q.pdf",
+        "bytes": 246667,
+        "status": "skip"
+      }
+    ]
+  },
+  {
+    "university_id": "004",
+    "university_name_en": "Chiang mai University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/004/pdf/1770622252876/004 รอบที่ 1 090269 ลักษณะโครงการ.pdf",
+        "path": "data/pdfs/004_Chiang_mai_University/file_path_1__004_รอบที่_1_090269_ลักษณะโครงการ.pdf",
+        "bytes": 9381603,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/004/pdf/1773220419851/004 รอบที่ 2 110369 ปรับจำนวนรับรอบ 2.pdf",
+        "path": "data/pdfs/004_Chiang_mai_University/file_path_2__004_รอบที่_2_110369_ปรับจำนวนรับรอบ_2.pdf",
+        "bytes": 7160274,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/004/pdf/1778229758792/004 รอบที่ 3 070569 ปรับจำนวนรับรอบที่ 3+เอา credit FST  ออก.pdf",
+        "path": "data/pdfs/004_Chiang_mai_University/file_path_3__004_รอบที่_3_070569_ปรับจำนวนรับรอบที่_3+เอา_credit_FST__ออก.pdf",
+        "bytes": 2788736,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/004/pdf/1779968157645/004 รอบที่ 4 280569 รอบที่ 4 หลังปรับ + ภูเขาทดแทน 2 คน.pdf",
+        "path": "data/pdfs/004_Chiang_mai_University/file_path_4__004_รอบที่_4_280569_รอบที่_4_หลังปรับ_+_ภูเขาทดแทน_2_คน.pdf",
+        "bytes": 21337191,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/004/pdf/1770622534699/004 พิการ รอบที่ 1-2 090269 ลักษณะโครงการ.pdf",
+        "path": "data/pdfs/004_Chiang_mai_University/file_path_handicap__004_พิการ_รอบที่_1-2_090269_ลักษณะโครงการ.pdf",
+        "bytes": 742611,
+        "status": "skip"
+      }
+    ]
+  },
+  {
+    "university_id": "005",
+    "university_name_en": "Thammasat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/005/pdf/1762835893009/TU_TCAS69_1.pdf",
+        "path": "data/pdfs/005_Thammasat_University/file_path_1__TU_TCAS69_1.pdf",
+        "bytes": 1540865,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/005/pdf/1761617988769/TCAS 3 Admission.pdf",
+        "path": "data/pdfs/005_Thammasat_University/file_path_3__TCAS_3_Admission.pdf",
+        "bytes": 1182000,
+        "status": "skip"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/005/pdf/1767753577222/disability_TU.pdf",
+        "path": "data/pdfs/005_Thammasat_University/file_path_handicap__disability_TU.pdf",
+        "bytes": 241727,
+        "status": "skip"
+      }
+    ]
+  },
+  {
+    "university_id": "008",
+    "university_name_en": "Silpakorn University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/008/pdf/1762828142913/เกณฑ์ฯ รอบ 1 ช่วง 2 2569  v.ทปอ 11พย68.pdf",
+        "path": "data/pdfs/008_Silpakorn_University/file_path_1__เกณฑ์ฯ_รอบ_1_ช่วง_2_2569__v.ทปอ_11พย68.pdf",
+        "bytes": 2468040,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/008/pdf/1762829634902/เกณฑ์ฯ รอบ 2 โควตา ver.ทปอ (update111168).pdf",
+        "path": "data/pdfs/008_Silpakorn_University/file_path_2__เกณฑ์ฯ_รอบ_2_โควตา_ver.ทปอ_(update111168).pdf",
+        "bytes": 1820352,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/008/pdf/1761816395034/เกณฑ์ฯ รอบ 3-2569  ver.ทปอ.pdf",
+        "path": "data/pdfs/008_Silpakorn_University/file_path_3__เกณฑ์ฯ_รอบ_3-2569__ver.ทปอ.pdf",
+        "bytes": 1024310,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/008/pdf/1780041439963/ประกาศฯ เรื่อง เกณฑ์การรับสมัครคัดเลือก รอบ 4 รับตรงอิสระ.pdf",
+        "path": "data/pdfs/008_Silpakorn_University/file_path_4__ประกาศฯ_เรื่อง_เกณฑ์การรับสมัครคัดเลือก_รอบ_4_รับตรงอิสระ.pdf",
+        "bytes": 2032324,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "009",
+    "university_name_en": "Srinakharinwirot University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/009/pdf/1763518346128/ระเบียบการ TCAS1-69_1.pdf",
+        "path": "data/pdfs/009_Srinakharinwirot_University/file_path_1__ระเบียบการ_TCAS1-69_1.pdf",
+        "bytes": 11621146,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/009/pdf/1773129674245/ระเบียบการรับสมัคร TCAS 2-2569.pdf",
+        "path": "data/pdfs/009_Srinakharinwirot_University/file_path_2__ระเบียบการรับสมัคร_TCAS_2-2569.pdf",
+        "bytes": 7325622,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/009/pdf/1775619454883/ประกาศระเบียบการ TCAS_3_69_ฉบับลงประกาศ.pdf",
+        "path": "data/pdfs/009_Srinakharinwirot_University/file_path_3__ประกาศระเบียบการ_TCAS_3_69_ฉบับลงประกาศ.pdf",
+        "bytes": 5991051,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/009/pdf/1763091428624/โครงการผู้พิการ TCAS 1-69.pdf",
+        "path": "data/pdfs/009_Srinakharinwirot_University/file_path_handicap__โครงการผู้พิการ_TCAS_1-69.pdf",
+        "bytes": 5737917,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "010",
+    "university_name_en": "Prince of Songkla University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/010/pdf/1759113409306/List TCAS 69.pdf",
+        "path": "data/pdfs/010_Prince_of_Songkla_University/file_path_1__List_TCAS_69.pdf",
+        "bytes": 3051373,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/010/pdf/1773898541585/048_Direct_69.pdf",
+        "path": "data/pdfs/010_Prince_of_Songkla_University/file_path_2__048_Direct_69.pdf",
+        "bytes": 737984,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/010/pdf/1778126681832/049_Admission.pdf",
+        "path": "data/pdfs/010_Prince_of_Songkla_University/file_path_3__049_Admission.pdf",
+        "bytes": 481861,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/010/pdf/1759113461288/014_Quota_Disabled_Person_r1-1.pdf",
+        "path": "data/pdfs/010_Prince_of_Songkla_University/file_path_handicap__014_Quota_Disabled_Person_r1-1.pdf",
+        "bytes": 252532,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "013",
+    "university_name_en": "Maejo University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/013/pdf/1764643440329/02 ประกาศรับสมัครหลักสูตร 4 และ 5 ปี รอบที่ 1.2.pdf",
+        "path": "data/pdfs/013_Maejo_University/file_path_1__02_ประกาศรับสมัครหลักสูตร_4_และ_5_ปี_รอบที่_1.2.pdf",
+        "bytes": 503056,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/013/pdf/1775022331831/ประกาศรับสมัครรอบที่2.pdf",
+        "path": "data/pdfs/013_Maejo_University/file_path_2__ประกาศรับสมัครรอบที่2.pdf",
+        "bytes": 501463,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/013/pdf/1778231999493/ประกาศรับสมัครรอบที่ 3+ตาราง 8พ.ค.69.pdf",
+        "path": "data/pdfs/013_Maejo_University/file_path_3__ประกาศรับสมัครรอบที่_3+ตาราง_8พ.ค.69.pdf",
+        "bytes": 724968,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/013/pdf/1769507777070/รอบที 2 ประกาศหลักสูตร 4 และ 5 ปี (นักศึกษาพิกา.pdf",
+        "path": "data/pdfs/013_Maejo_University/file_path_handicap__รอบที_2_ประกาศหลักสูตร_4_และ_5_ปี_(นักศึกษาพิกา.pdf",
+        "bytes": 487627,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "014",
+    "university_name_en": "King Mongkut’s University of Technology Thonburi",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/014/pdf/1765692828359/014KMUTTR1TCAS69.pdf",
+        "path": "data/pdfs/014_King_Mongkut’s_University_of_Technology_Thonburi/file_path_1__014KMUTTR1TCAS69.pdf",
+        "bytes": 4337037,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/014/pdf/1770360811267/014KMUTTR2TCAS69.pdf",
+        "path": "data/pdfs/014_King_Mongkut’s_University_of_Technology_Thonburi/file_path_2__014KMUTTR2TCAS69.pdf",
+        "bytes": 4160490,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/014/pdf/1764146608473/014KMUTTR3TCAS69.pdf",
+        "path": "data/pdfs/014_King_Mongkut’s_University_of_Technology_Thonburi/file_path_3__014KMUTTR3TCAS69.pdf",
+        "bytes": 4177837,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/014/pdf/1774427002887/014KMUTTR2-disabled-TCAS69.pdf",
+        "path": "data/pdfs/014_King_Mongkut’s_University_of_Technology_Thonburi/file_path_handicap__014KMUTTR2-disabled-TCAS69.pdf",
+        "bytes": 1137839,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "015",
+    "university_name_en": "King Mongkut’s University of Technology North Bangkok",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/015/pdf/1777261091290/TCASR1-69.pdf",
+        "path": "data/pdfs/015_King_Mongkut’s_University_of_Technology_North_Bangkok/file_path_1__TCASR1-69.pdf",
+        "bytes": 90686,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/015/pdf/1777261102381/TCASR2-69.pdf",
+        "path": "data/pdfs/015_King_Mongkut’s_University_of_Technology_North_Bangkok/file_path_2__TCASR2-69.pdf",
+        "bytes": 72477,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/015/pdf/1779357465402/tcas3n.pdf",
+        "path": "data/pdfs/015_King_Mongkut’s_University_of_Technology_North_Bangkok/file_path_3__tcas3n.pdf",
+        "bytes": 1898031,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "016",
+    "university_name_en": "King Mongkut’s Institute of Technology Ladkrabang",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/016/pdf/1772611747346/กำหนดการ TCAS 69_KMITL ปรับปรุง.pdf",
+        "path": "data/pdfs/016_King_Mongkut’s_Institute_of_Technology_Ladkrabang/file_path_1__กำหนดการ_TCAS_69_KMITL_ปรับปรุง.pdf",
+        "bytes": 4115440,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/016/pdf/1772611781909/กำหนดการ TCAS 69_KMITL ปรับปรุง.pdf",
+        "path": "data/pdfs/016_King_Mongkut’s_Institute_of_Technology_Ladkrabang/file_path_2__กำหนดการ_TCAS_69_KMITL_ปรับปรุง.pdf",
+        "bytes": 4115440,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "017",
+    "university_name_en": "Suranaree University of Technology",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/017/pdf/1763007445240/คุณสมบัติการรับสมัครรอบ1.2.pdf",
+        "path": "data/pdfs/017_Suranaree_University_of_Technology/file_path_1__คุณสมบัติการรับสมัครรอบ1.2.pdf",
+        "bytes": 5622143,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/017/pdf/1776739327760/SUT_รอบ2QUOTA_2569.pdf",
+        "path": "data/pdfs/017_Suranaree_University_of_Technology/file_path_2__SUT_รอบ2QUOTA_2569.pdf",
+        "bytes": 5863860,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/017/pdf/1777601282883/ประกาศคุณสมบัติทางการ_SUT_010569.pdf",
+        "path": "data/pdfs/017_Suranaree_University_of_Technology/file_path_3__ประกาศคุณสมบัติทางการ_SUT_010569.pdf",
+        "bytes": 5788796,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "020",
+    "university_name_en": "Naresuan University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/020/pdf/1762747476423/020_Naresuan.pdf",
+        "path": "data/pdfs/020_Naresuan_University/file_path_1__020_Naresuan.pdf",
+        "bytes": 4563666,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "021",
+    "university_name_en": "Mahasarakham University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/021/pdf/1761096966672/รอบที่ 1 Portfolio.pdf",
+        "path": "data/pdfs/021_Mahasarakham_University/file_path_1__รอบที่_1_Portfolio.pdf",
+        "bytes": 227297,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/021/pdf/1761096974731/รอบที่ 2 Quota.pdf",
+        "path": "data/pdfs/021_Mahasarakham_University/file_path_2__รอบที่_2_Quota.pdf",
+        "bytes": 228774,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/021/pdf/1761096998925/รอบที่ 3 Admission.pdf",
+        "path": "data/pdfs/021_Mahasarakham_University/file_path_3__รอบที่_3_Admission.pdf",
+        "bytes": 178587,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "023",
+    "university_name_en": "Walailak University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/023/pdf/1759851763395/รายละเอียดการรับสมัคร TCAS ประจำปี 2569.pdf",
+        "path": "data/pdfs/023_Walailak_University/file_path_1__รายละเอียดการรับสมัคร_TCAS_ประจำปี_2569.pdf",
+        "bytes": 148832,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/023/pdf/1759851771426/รายละเอียดการรับสมัคร TCAS ประจำปี 2569.pdf",
+        "path": "data/pdfs/023_Walailak_University/file_path_2__รายละเอียดการรับสมัคร_TCAS_ประจำปี_2569.pdf",
+        "bytes": 148832,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/023/pdf/1759851781504/รายละเอียดการรับสมัคร TCAS ประจำปี 2569.pdf",
+        "path": "data/pdfs/023_Walailak_University/file_path_3__รายละเอียดการรับสมัคร_TCAS_ประจำปี_2569.pdf",
+        "bytes": 148832,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/023/pdf/1759851791693/รายละเอียดการรับสมัคร TCAS ประจำปี 2569.pdf",
+        "path": "data/pdfs/023_Walailak_University/file_path_4__รายละเอียดการรับสมัคร_TCAS_ประจำปี_2569.pdf",
+        "bytes": 148832,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "024",
+    "university_name_en": "Mae Fah Luang University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/024/pdf/1759808199468/PR-TCAS1-1.pdf",
+        "path": "data/pdfs/024_Mae_Fah_Luang_University/file_path_1__PR-TCAS1-1.pdf",
+        "bytes": 746191,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/024/pdf/1759808210897/PR-TCAS2-2.pdf",
+        "path": "data/pdfs/024_Mae_Fah_Luang_University/file_path_2__PR-TCAS2-2.pdf",
+        "bytes": 1611839,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/024/pdf/1759808222225/PR-TCAS3-3.pdf",
+        "path": "data/pdfs/024_Mae_Fah_Luang_University/file_path_3__PR-TCAS3-3.pdf",
+        "bytes": 1270920,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/024/pdf/1760000127096/นโยบายหลักเกณฑ์และวิธีการรับคนพิการเพื่อรับทุนอุดหนุนเข้าศึกษาในมหาวิทยาลัยแม่ฟ้าหลวงปีการศึกษา2569.pdf",
+        "path": "data/pdfs/024_Mae_Fah_Luang_University/file_path_handicap__นโยบายหลักเกณฑ์และวิธีการรับคนพิการเพื่อรับทุนอุดหนุนเข้าศึกษาในมหาวิทยาลัยแม่ฟ้าหลวงปีการศึกษา2569.pdf",
+        "bytes": 2706511,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "028",
+    "university_name_en": "Kalasin University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/028/pdf/1759998199520/pdf24_merged (12).pdf",
+        "path": "data/pdfs/028_Kalasin_University/file_path_1__pdf24_merged_(12).pdf",
+        "bytes": 876989,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/028/pdf/1759998214910/pdf24_merged (12).pdf",
+        "path": "data/pdfs/028_Kalasin_University/file_path_2__pdf24_merged_(12).pdf",
+        "bytes": 876989,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/028/pdf/1759998226061/pdf24_merged (12).pdf",
+        "path": "data/pdfs/028_Kalasin_University/file_path_3__pdf24_merged_(12).pdf",
+        "bytes": 876989,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/028/pdf/1759998238799/pdf24_merged (12).pdf",
+        "path": "data/pdfs/028_Kalasin_University/file_path_4__pdf24_merged_(12).pdf",
+        "bytes": 876989,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "031",
+    "university_name_en": "Consortium of Thai Medical Schools",
+    "pdfs": [
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/031/pdf/1774423400935/5031_dist_doc_69_25690325_1423.pdf",
+        "path": "data/pdfs/031_Consortium_of_Thai_Medical_Schools/file_path_3__5031_dist_doc_69_25690325_1423.pdf",
+        "bytes": 9205027,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "032",
+    "university_name_en": "Chulabhorn Royal Academy of Science",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/032/pdf/1767081571372/ประกาศรับสมัครนักศึกษา ราชวิทยาลัยจุฬาภรณ์ ปีการศึกษา 2569.pdf",
+        "path": "data/pdfs/032_Chulabhorn_Royal_Academy_of_Science/file_path_1__ประกาศรับสมัครนักศึกษา_ราชวิทยาลัยจุฬาภรณ์_ปีการศึกษา_2569.pdf",
+        "bytes": 22533318,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/032/pdf/1761625642449/ประกาศรับสมัครนักศึกษา ปีการศึกษา 2569 รอบ 2-3.pdf",
+        "path": "data/pdfs/032_Chulabhorn_Royal_Academy_of_Science/file_path_2__ประกาศรับสมัครนักศึกษา_ปีการศึกษา_2569_รอบ_2-3.pdf",
+        "bytes": 20495347,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/032/pdf/1779694182347/ประกาศรับสมัครนักศึกษา ราชวิทยาลัยจุฬาภรณ์ ปีการศึกษา 2569-แก้ไขวันสัมภาษณ์ รอบที่ 3.pdf",
+        "path": "data/pdfs/032_Chulabhorn_Royal_Academy_of_Science/file_path_3__ประกาศรับสมัครนักศึกษา_ราชวิทยาลัยจุฬาภรณ์_ปีการศึกษา_2569-แก้ไขวันสัมภาษณ์_รอบที่_3.pdf",
+        "bytes": 20616026,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/032/pdf/1779694195744/ประกาศรับสมัครนักศึกษา ราชวิทยาลัยจุฬาภรณ์ ปีการศึกษา 2569-แก้ไขวันสัมภาษณ์ รอบที่ 3.pdf",
+        "path": "data/pdfs/032_Chulabhorn_Royal_Academy_of_Science/file_path_4__ประกาศรับสมัครนักศึกษา_ราชวิทยาลัยจุฬาภรณ์_ปีการศึกษา_2569-แก้ไขวันสัมภาษณ์_รอบที่_3.pdf",
+        "bytes": 20616026,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "034",
+    "university_name_en": "Ramkhamhaeng University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/034/pdf/1760518304510/รอบ1.pdf",
+        "path": "data/pdfs/034_Ramkhamhaeng_University/file_path_1__รอบ1.pdf",
+        "bytes": 3807291,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/034/pdf/1760674576420/รอบ2.69.pdf",
+        "path": "data/pdfs/034_Ramkhamhaeng_University/file_path_2__รอบ2.69.pdf",
+        "bytes": 20356699,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/034/pdf/1760674589249/รอบ3.69.pdf",
+        "path": "data/pdfs/034_Ramkhamhaeng_University/file_path_3__รอบ3.69.pdf",
+        "bytes": 20771588,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/034/pdf/1760674602022/รอบ4.69.pdf",
+        "path": "data/pdfs/034_Ramkhamhaeng_University/file_path_4__รอบ4.69.pdf",
+        "bytes": 18959686,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "035",
+    "university_name_en": "Chitralada Technology Institute",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/035/pdf/1759464897939/2569_admission.pdf",
+        "path": "data/pdfs/035_Chitralada_Technology_Institute/file_path_1__2569_admission.pdf",
+        "bytes": 476785,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/035/pdf/1759464750869/2569_admission.pdf",
+        "path": "data/pdfs/035_Chitralada_Technology_Institute/file_path_2__2569_admission.pdf",
+        "bytes": 476785,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/035/pdf/1759464912746/2569_admission.pdf",
+        "path": "data/pdfs/035_Chitralada_Technology_Institute/file_path_3__2569_admission.pdf",
+        "bytes": 476785,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "059",
+    "university_name_en": "Christian University of Thailand",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/059/pdf/1760085862137/20251010105532260.pdf",
+        "path": "data/pdfs/059_Christian_University_of_Thailand/file_path_1__20251010105532260.pdf",
+        "bytes": 44611,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/059/pdf/1759831543271/ประกาศเกณฑ์คัดเลือก มคต.pdf",
+        "path": "data/pdfs/059_Christian_University_of_Thailand/file_path_4__ประกาศเกณฑ์คัดเลือก_มคต.pdf",
+        "bytes": 194461,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "061",
+    "university_name_en": "Mahanakorn University of Technology",
+    "pdfs": [
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/061/pdf/1778816290372/09_admission69_dvm.pdf",
+        "path": "data/pdfs/061_Mahanakorn_University_of_Technology/file_path_3__09_admission69_dvm.pdf",
+        "bytes": 148461,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "073",
+    "university_name_en": "Huachiew Chalermprakiet University",
+    "pdfs": [
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/073/pdf/1773806213279/073-ม.หัวเฉียวเฉลิมพระเกียรติ.pdf",
+        "path": "data/pdfs/073_Huachiew_Chalermprakiet_University/file_path_3__073-ม.หัวเฉียวเฉลิมพระเกียรติ.pdf",
+        "bytes": 498560,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "103",
+    "university_name_en": "Dhurakij Pundit University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/103/pdf/1759858953849/รอบ1.pdf",
+        "path": "data/pdfs/103_Dhurakij_Pundit_University/file_path_1__รอบ1.pdf",
+        "bytes": 519298,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/103/pdf/1774862234692/DPU-รอบ 2.pdf",
+        "path": "data/pdfs/103_Dhurakij_Pundit_University/file_path_2__DPU-รอบ_2.pdf",
+        "bytes": 423604,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/103/pdf/1774862103626/DPU-รอบ 3.pdf",
+        "path": "data/pdfs/103_Dhurakij_Pundit_University/file_path_3__DPU-รอบ_3.pdf",
+        "bytes": 423396,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "115",
+    "university_name_en": "Saint Louis College",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/115/pdf/1760075693182/Port 69.pdf",
+        "path": "data/pdfs/115_Saint_Louis_College/file_path_1__Port_69.pdf",
+        "bytes": 7257221,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/115/pdf/1760075708299/Quota 69.pdf",
+        "path": "data/pdfs/115_Saint_Louis_College/file_path_2__Quota_69.pdf",
+        "bytes": 7271139,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/115/pdf/1760075883382/Admission 69.pdf",
+        "path": "data/pdfs/115_Saint_Louis_College/file_path_3__Admission_69.pdf",
+        "bytes": 8605569,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/115/pdf/1760075906993/Direct-Admission 69.pdf",
+        "path": "data/pdfs/115_Saint_Louis_College/file_path_4__Direct-Admission_69.pdf",
+        "bytes": 7267284,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "117",
+    "university_name_en": "Dusit Thani College",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/117/pdf/1761125841334/AW_TCAS69_round1.jpg",
+        "path": "data/pdfs/117_Dusit_Thani_College/file_path_1__AW_TCAS69_round1.jpg.pdf",
+        "bytes": 2503758,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/117/pdf/1761125978352/AW_TCAS69_round3.jpg",
+        "path": "data/pdfs/117_Dusit_Thani_College/file_path_3__AW_TCAS69_round3.jpg.pdf",
+        "bytes": 2480120,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "130",
+    "university_name_en": "Hatyai University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/130/pdf/1759841213225/เอกสารแนบ.pdf",
+        "path": "data/pdfs/130_Hatyai_University/file_path_1__เอกสารแนบ.pdf",
+        "bytes": 208543,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/130/pdf/1759841344012/เอกสารแนบ.pdf",
+        "path": "data/pdfs/130_Hatyai_University/file_path_2__เอกสารแนบ.pdf",
+        "bytes": 208543,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/130/pdf/1759841355518/เอกสารแนบ.pdf",
+        "path": "data/pdfs/130_Hatyai_University/file_path_3__เอกสารแนบ.pdf",
+        "bytes": 208543,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/130/pdf/1759931900422/เอกสารแนบ.pdf",
+        "path": "data/pdfs/130_Hatyai_University/file_path_4__เอกสารแนบ.pdf",
+        "bytes": 208543,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "142",
+    "university_name_en": "Chaiyaphum Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/142/pdf/1760942956685/Portfolio69.pdf",
+        "path": "data/pdfs/142_Chaiyaphum_Rajabhat_University/file_path_1__Portfolio69.pdf",
+        "bytes": 320508,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/142/pdf/1769669380462/Quota-2569.pdf",
+        "path": "data/pdfs/142_Chaiyaphum_Rajabhat_University/file_path_2__Quota-2569.pdf",
+        "bytes": 691795,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "144",
+    "university_name_en": "ChiangMai Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/144/pdf/1764580190333/ประกาศรอบที่1-69.pdf",
+        "path": "data/pdfs/144_ChiangMai_Rajabhat_University/file_path_1__ประกาศรอบที่1-69.pdf",
+        "bytes": 273701,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "146",
+    "university_name_en": "Dhonburi Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/146/pdf/1759461592354/admission2569_1.jpg",
+        "path": "data/pdfs/146_Dhonburi_Rajabhat_University/file_path_1__admission2569_1.jpg.pdf",
+        "bytes": 722646,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/146/pdf/1759461613858/admission2569_1.jpg",
+        "path": "data/pdfs/146_Dhonburi_Rajabhat_University/file_path_2__admission2569_1.jpg.pdf",
+        "bytes": 722646,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/146/pdf/1759461623941/admission2569_1.jpg",
+        "path": "data/pdfs/146_Dhonburi_Rajabhat_University/file_path_3__admission2569_1.jpg.pdf",
+        "bytes": 722646,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/146/pdf/1759461634225/admission2569_1.jpg",
+        "path": "data/pdfs/146_Dhonburi_Rajabhat_University/file_path_4__admission2569_1.jpg.pdf",
+        "bytes": 722646,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "148",
+    "university_name_en": "Nakhon Ratchasima Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/148/pdf/1760414084054/R169_notice2tcas_4y-v1.pdf",
+        "path": "data/pdfs/148_Nakhon_Ratchasima_Rajabhat_University/file_path_1__R169_notice2tcas_4y-v1.pdf",
+        "bytes": 523555,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/148/pdf/1760585051705/R269_how2entNRRU.pdf",
+        "path": "data/pdfs/148_Nakhon_Ratchasima_Rajabhat_University/file_path_2__R269_how2entNRRU.pdf",
+        "bytes": 323364,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/148/pdf/1760585069227/R369_how2entNRRU.pdf",
+        "path": "data/pdfs/148_Nakhon_Ratchasima_Rajabhat_University/file_path_3__R369_how2entNRRU.pdf",
+        "bytes": 261800,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/148/pdf/1760585082711/R469_how2entNRRU.pdf",
+        "path": "data/pdfs/148_Nakhon_Ratchasima_Rajabhat_University/file_path_4__R469_how2entNRRU.pdf",
+        "bytes": 269052,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/148/pdf/1760585093183/DSS-69_how2entNRRU.pdf",
+        "path": "data/pdfs/148_Nakhon_Ratchasima_Rajabhat_University/file_path_handicap__DSS-69_how2entNRRU.pdf",
+        "bytes": 229065,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "150",
+    "university_name_en": "Phranakhon Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/150/pdf/1759994198524/สาขาที่เปิดรับรอบ Portfolio.pdf",
+        "path": "data/pdfs/150_Phranakhon_Rajabhat_University/file_path_1__สาขาที่เปิดรับรอบ_Portfolio.pdf",
+        "bytes": 226869,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/150/pdf/1759994319237/สาขาที่เปิดรับรอบ โควตา.pdf",
+        "path": "data/pdfs/150_Phranakhon_Rajabhat_University/file_path_2__สาขาที่เปิดรับรอบ_โควตา.pdf",
+        "bytes": 251682,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/150/pdf/1759994406977/สาขาที่เปิดรับรอบ Admission.pdf",
+        "path": "data/pdfs/150_Phranakhon_Rajabhat_University/file_path_3__สาขาที่เปิดรับรอบ_Admission.pdf",
+        "bytes": 248601,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/150/pdf/1759994458012/ประกาศคนพิการ-1_merged.pdf",
+        "path": "data/pdfs/150_Phranakhon_Rajabhat_University/file_path_handicap__ประกาศคนพิการ-1_merged.pdf",
+        "bytes": 1185593,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "152",
+    "university_name_en": "Pibulsongkram Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/152/pdf/1759920521833/1. ประกาศรับสมัคร รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio 1.1).pdf",
+        "path": "data/pdfs/152_Pibulsongkram_Rajabhat_University/file_path_1__1._ประกาศรับสมัคร_รอบที่_1_การรับด้วยแฟ้มสะสมผลงาน_(Portfolio_1.1).pdf",
+        "bytes": 7194704,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/152/pdf/1777976528058/1. ประกาศรับสมัครรอบที่ 3.pdf",
+        "path": "data/pdfs/152_Pibulsongkram_Rajabhat_University/file_path_3__1._ประกาศรับสมัครรอบที่_3.pdf",
+        "bytes": 1382491,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "153",
+    "university_name_en": "Valaya Alongkorn Rajabhat University under the Royal Patronage",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/153/pdf/1760584532118/คณมนุษยศาสตร์และสังคมศาสตร์ (TCAS) 69.pdf",
+        "path": "data/pdfs/153_Valaya_Alongkorn_Rajabhat_University_under_the_Royal_Patronage/file_path_1__คณมนุษยศาสตร์และสังคมศาสตร์_(TCAS)_69.pdf",
+        "bytes": 94651,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/153/pdf/1760584598260/คณมนุษยศาสตร์และสังคมศาสตร์ (TCAS) 69.pdf",
+        "path": "data/pdfs/153_Valaya_Alongkorn_Rajabhat_University_under_the_Royal_Patronage/file_path_2__คณมนุษยศาสตร์และสังคมศาสตร์_(TCAS)_69.pdf",
+        "bytes": 94651,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/153/pdf/1760584664467/คณมนุษยศาสตร์และสังคมศาสตร์ (TCAS) 69.pdf",
+        "path": "data/pdfs/153_Valaya_Alongkorn_Rajabhat_University_under_the_Royal_Patronage/file_path_3__คณมนุษยศาสตร์และสังคมศาสตร์_(TCAS)_69.pdf",
+        "bytes": 94651,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "164",
+    "university_name_en": "Songkhla Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/164/pdf/1763527370644/SKRU_R1.pdf",
+        "path": "data/pdfs/164_Songkhla_Rajabhat_University/file_path_1__SKRU_R1.pdf",
+        "bytes": 197063,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/164/pdf/1763527413168/SKRU_R2.pdf",
+        "path": "data/pdfs/164_Songkhla_Rajabhat_University/file_path_2__SKRU_R2.pdf",
+        "bytes": 220156,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/164/pdf/1763527428421/SKRU_R3.pdf",
+        "path": "data/pdfs/164_Songkhla_Rajabhat_University/file_path_3__SKRU_R3.pdf",
+        "bytes": 168769,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/164/pdf/1763527470858/SKRU_R4.pdf",
+        "path": "data/pdfs/164_Songkhla_Rajabhat_University/file_path_4__SKRU_R4.pdf",
+        "bytes": 191107,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/164/pdf/1763543853344/SKRU_P.pdf",
+        "path": "data/pdfs/164_Songkhla_Rajabhat_University/file_path_handicap__SKRU_P.pdf",
+        "bytes": 296325,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "165",
+    "university_name_en": "Suan Dusit University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/165/pdf/1759200382195/TCAS69_R1_Portfolio.pdf",
+        "path": "data/pdfs/165_Suan_Dusit_University/file_path_1__TCAS69_R1_Portfolio.pdf",
+        "bytes": 811575,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/165/pdf/1759739013430/SDU_การรับนักศึกษาพิการ.pdf",
+        "path": "data/pdfs/165_Suan_Dusit_University/file_path_handicap__SDU_การรับนักศึกษาพิการ.pdf",
+        "bytes": 1805724,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "166",
+    "university_name_en": "Suan Sunandha Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/166/pdf/1764814905706/ประกาศรับสมัครนักศึกษา ประจำปี 2569 (รอบที่ 1 Portfolio) 2 ธ.ค. 68 แก้ไขวันที่รับสมัคร.pdf",
+        "path": "data/pdfs/166_Suan_Sunandha_Rajabhat_University/file_path_1__ประกาศรับสมัครนักศึกษา_ประจำปี_2569_(รอบที่_1_Portfolio)_2_ธ.ค._68_แก้ไขวันที่รับสมัคร.pdf",
+        "bytes": 1894311,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/166/pdf/1770618961215/ประกาศรับสมัครนักศึกษา ประจำปี 2569 (รอบที่ 2 Quota) โควตาวิชาและความสามารถพิเศษ (รวมทุกคณะ) 29 ธ.ค. 68.pdf",
+        "path": "data/pdfs/166_Suan_Sunandha_Rajabhat_University/file_path_2__ประกาศรับสมัครนักศึกษา_ประจำปี_2569_(รอบที่_2_Quota)_โควตาวิชาและความสามารถพิเศษ_(รวมทุกคณะ)_29_ธ.ค._68.pdf",
+        "bytes": 1149504,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/166/pdf/1777448068800/เกณฑ์การคัดเลือกผู้สมัคร ประจำปีการศึกษา 2569 (รอบ 3 Admission) ล่าสุด 290469.pdf",
+        "path": "data/pdfs/166_Suan_Sunandha_Rajabhat_University/file_path_3__เกณฑ์การคัดเลือกผู้สมัคร_ประจำปีการศึกษา_2569_(รอบ_3_Admission)_ล่าสุด_290469.pdf",
+        "bytes": 658819,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/166/pdf/1779783531828/ประกาศรับสมัครนักศึกษาคัดเลือก รอบที่ 4 Direct Admission ประจำปี 2569 ล่าสุด 25 พ.ค. 69.pdf",
+        "path": "data/pdfs/166_Suan_Sunandha_Rajabhat_University/file_path_4__ประกาศรับสมัครนักศึกษาคัดเลือก_รอบที่_4_Direct_Admission_ประจำปี_2569_ล่าสุด_25_พ.ค._69.pdf",
+        "bytes": 574089,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "171",
+    "university_name_en": "Ubon Ratchathani Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/171/pdf/1761032508495/admission69-1-port1-2.pdf",
+        "path": "data/pdfs/171_Ubon_Ratchathani_Rajabhat_University/file_path_1__admission69-1-port1-2.pdf",
+        "bytes": 646582,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/171/pdf/1777541651883/anouncement22-2569-2.pdf",
+        "path": "data/pdfs/171_Ubon_Ratchathani_Rajabhat_University/file_path_2__anouncement22-2569-2.pdf",
+        "bytes": 467750,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/171/pdf/1777541505528/69-admission-admission.pdf",
+        "path": "data/pdfs/171_Ubon_Ratchathani_Rajabhat_University/file_path_3__69-admission-admission.pdf",
+        "bytes": 409858,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "174",
+    "university_name_en": "Bansomdejchaopraya Rajabhat University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/174/pdf/1773125030842/2569-1-3-Announcement.pdf",
+        "path": "data/pdfs/174_Bansomdejchaopraya_Rajabhat_University/file_path_1__2569-1-3-Announcement.pdf",
+        "bytes": 1659334,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/174/pdf/1773125043854/2569-2-1-Announcement.pdf",
+        "path": "data/pdfs/174_Bansomdejchaopraya_Rajabhat_University/file_path_2__2569-2-1-Announcement.pdf",
+        "bytes": 4411385,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/174/pdf/1777691826602/2569-3-Announcement.pdf",
+        "path": "data/pdfs/174_Bansomdejchaopraya_Rajabhat_University/file_path_3__2569-3-Announcement.pdf",
+        "bytes": 829505,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/174/pdf/1780085498446/2569-4-Announcement.pdf",
+        "path": "data/pdfs/174_Bansomdejchaopraya_Rajabhat_University/file_path_4__2569-4-Announcement.pdf",
+        "bytes": 1511868,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/174/pdf/1771470932781/2569_Disability.pdf",
+        "path": "data/pdfs/174_Bansomdejchaopraya_Rajabhat_University/file_path_handicap__2569_Disability.pdf",
+        "bytes": 374043,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "181",
+    "university_name_en": "Siam University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/181/pdf/1760602676704/รอบ 1v2.pdf",
+        "path": "data/pdfs/181_Siam_University/file_path_1__รอบ_1v2.pdf",
+        "bytes": 1473397,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/181/pdf/1777450206858/รอบ 3v3.pdf",
+        "path": "data/pdfs/181_Siam_University/file_path_3__รอบ_3v3.pdf",
+        "bytes": 635911,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "191",
+    "university_name_en": "Rajamangala University of Technology Thanyaburi",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/191/pdf/1761547395512/ระเบียบการรับสมัครฯ ปีการศึกษา 2569 รอบ TCAS1 Portfolio.pdf",
+        "path": "data/pdfs/191_Rajamangala_University_of_Technology_Thanyaburi/file_path_1__ระเบียบการรับสมัครฯ_ปีการศึกษา_2569_รอบ_TCAS1_Portfolio.pdf",
+        "bytes": 4562829,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/191/pdf/1766109756058/ระเบียบการรับสมัครฯ ปีการศึกษา 2569 รอบ TCAS2 (Quota).pdf",
+        "path": "data/pdfs/191_Rajamangala_University_of_Technology_Thanyaburi/file_path_2__ระเบียบการรับสมัครฯ_ปีการศึกษา_2569_รอบ_TCAS2_(Quota).pdf",
+        "bytes": 5771825,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/191/pdf/1766109777106/ระเบียบการรับสมัครฯ ปีการศึกษา 2569 รอบ TCAS3 (Admission).pdf",
+        "path": "data/pdfs/191_Rajamangala_University_of_Technology_Thanyaburi/file_path_3__ระเบียบการรับสมัครฯ_ปีการศึกษา_2569_รอบ_TCAS3_(Admission).pdf",
+        "bytes": 8075043,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "192",
+    "university_name_en": "Rajamangala University of Technology Krungthep",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/192/pdf/1766491658944/RMUTK_Admission69_TCAS1-Portfolio_V7_15Dec25.pdf",
+        "path": "data/pdfs/192_Rajamangala_University_of_Technology_Krungthep/file_path_1__RMUTK_Admission69_TCAS1-Portfolio_V7_15Dec25.pdf",
+        "bytes": 6246417,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/192/pdf/1769617048496/RMUTK_Admission69_TCAS2_V4_28Jan26.pdf",
+        "path": "data/pdfs/192_Rajamangala_University_of_Technology_Krungthep/file_path_2__RMUTK_Admission69_TCAS2_V4_28Jan26.pdf",
+        "bytes": 14447815,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/192/pdf/1775555189771/RMUTK_Admission69_TCAS3-Admission_V5_7Apr26.pdf",
+        "path": "data/pdfs/192_Rajamangala_University_of_Technology_Krungthep/file_path_3__RMUTK_Admission69_TCAS3-Admission_V5_7Apr26.pdf",
+        "bytes": 3795270,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/192/pdf/1779934575353/RMUTK_Admission69_TCAS4-2-Direct Admission_V1_22May26.pdf",
+        "path": "data/pdfs/192_Rajamangala_University_of_Technology_Krungthep/file_path_4__RMUTK_Admission69_TCAS4-2-Direct_Admission_V1_22May26.pdf",
+        "bytes": 2446787,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/192/pdf/1768208955218/681229_ประกาศแผนรับพิการปี 69 (ตามมติสภา).pdf",
+        "path": "data/pdfs/192_Rajamangala_University_of_Technology_Krungthep/file_path_handicap__681229_ประกาศแผนรับพิการปี_69_(ตามมติสภา).pdf",
+        "bytes": 700941,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "194",
+    "university_name_en": "Rajamangala University of Technology Phra Nakhon",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/194/pdf/1771381894952/RMUTP-TCAS1-69.pdf",
+        "path": "data/pdfs/194_Rajamangala_University_of_Technology_Phra_Nakhon/file_path_1__RMUTP-TCAS1-69.pdf",
+        "bytes": 803401,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/194/pdf/1773715552678/TCAS2-69.pdf",
+        "path": "data/pdfs/194_Rajamangala_University_of_Technology_Phra_Nakhon/file_path_2__TCAS2-69.pdf",
+        "bytes": 521474,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/194/pdf/1778143686537/ระเบียบการ T3-2569.pdf",
+        "path": "data/pdfs/194_Rajamangala_University_of_Technology_Phra_Nakhon/file_path_3__ระเบียบการ_T3-2569.pdf",
+        "bytes": 474543,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_4",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/194/pdf/1779940315776/ระเบียบการ T4-2569.pdf",
+        "path": "data/pdfs/194_Rajamangala_University_of_Technology_Phra_Nakhon/file_path_4__ระเบียบการ_T4-2569.pdf",
+        "bytes": 455689,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "195",
+    "university_name_en": "Rajamangala University of Technology Rattanakosin",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/195/pdf/1761532038344/TCAS69_RMUTR_TCAS1.pdf",
+        "path": "data/pdfs/195_Rajamangala_University_of_Technology_Rattanakosin/file_path_1__TCAS69_RMUTR_TCAS1.pdf",
+        "bytes": 9343498,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/195/pdf/1760945452250/RMUTR_TCAS_69.pdf",
+        "path": "data/pdfs/195_Rajamangala_University_of_Technology_Rattanakosin/file_path_2__RMUTR_TCAS_69.pdf",
+        "bytes": 86234,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/195/pdf/1778241625773/Manual_TCAS3_69.pdf",
+        "path": "data/pdfs/195_Rajamangala_University_of_Technology_Rattanakosin/file_path_3__Manual_TCAS3_69.pdf",
+        "bytes": 6892269,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "199",
+    "university_name_en": "Rajamangala University of Technology Isan",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/199/pdf/1761123193343/คุณสมบัติรอบที่ 1.pdf",
+        "path": "data/pdfs/199_Rajamangala_University_of_Technology_Isan/file_path_1__คุณสมบัติรอบที่_1.pdf",
+        "bytes": 416922,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/199/pdf/1761123321389/คุณสมบัติรอบที่ 2.pdf",
+        "path": "data/pdfs/199_Rajamangala_University_of_Technology_Isan/file_path_2__คุณสมบัติรอบที่_2.pdf",
+        "bytes": 445838,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/199/pdf/1777610238624/ประกาศรับสมัคร  ปี 2569 CH3.pdf",
+        "path": "data/pdfs/199_Rajamangala_University_of_Technology_Isan/file_path_3__ประกาศรับสมัคร__ปี_2569_CH3.pdf",
+        "bytes": 610543,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_handicap",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/199/pdf/1777279432762/ประกาศรับสมัครนักศึกษาพิการ ปี 2569 OK.pdf",
+        "path": "data/pdfs/199_Rajamangala_University_of_Technology_Isan/file_path_handicap__ประกาศรับสมัครนักศึกษาพิการ_ปี_2569_OK.pdf",
+        "bytes": 218067,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "218",
+    "university_name_en": "Srisavarindhira Thai Red Cross Institute of Nursing",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/218/pdf/1761902111279/1. ประกาศรับสมัครรอบที่ 1 Portfolio-69.pdf",
+        "path": "data/pdfs/218_Srisavarindhira_Thai_Red_Cross_Institute_of_Nursing/file_path_1__1._ประกาศรับสมัครรอบที่_1_Portfolio-69.pdf",
+        "bytes": 154674,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/218/pdf/1762154976449/ประกาศรับสมัครรอบที่ 2 โควตา.pdf",
+        "path": "data/pdfs/218_Srisavarindhira_Thai_Red_Cross_Institute_of_Nursing/file_path_2__ประกาศรับสมัครรอบที่_2_โควตา.pdf",
+        "bytes": 2447452,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/218/pdf/1778641148503/8. ประกาศรับสมัครรอบที่ 3 Admission-69.pdf",
+        "path": "data/pdfs/218_Srisavarindhira_Thai_Red_Cross_Institute_of_Nursing/file_path_3__8._ประกาศรับสมัครรอบที่_3_Admission-69.pdf",
+        "bytes": 156146,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "221",
+    "university_name_en": "Praboromarajchanok Institute",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/221/pdf/1759829253940/ปฏิทินรับสมัคร ปตรี 69.png",
+        "path": "data/pdfs/221_Praboromarajchanok_Institute/file_path_1__ปฏิทินรับสมัคร_ปตรี_69.png.pdf",
+        "bytes": 254010,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/221/pdf/1770013438394/ปฏิทินส่ง TCAS แก้ไข 2 ก.พ.69.jpg",
+        "path": "data/pdfs/221_Praboromarajchanok_Institute/file_path_2__ปฏิทินส่ง_TCAS_แก้ไข_2_ก.พ.69.jpg.pdf",
+        "bytes": 482120,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/221/pdf/1770013468436/ปฏิทินส่ง TCAS แก้ไข 2 ก.พ.69.jpg",
+        "path": "data/pdfs/221_Praboromarajchanok_Institute/file_path_3__ปฏิทินส่ง_TCAS_แก้ไข_2_ก.พ.69.jpg.pdf",
+        "bytes": 482120,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "265",
+    "university_name_en": "Princess Galyani Vadhana Institute of Music",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/265/pdf/1761124658145/Portfolio_1B.pdf",
+        "path": "data/pdfs/265_Princess_Galyani_Vadhana_Institute_of_Music/file_path_1__Portfolio_1B.pdf",
+        "bytes": 119728,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/265/pdf/1762928645057/Quota 69.pdf",
+        "path": "data/pdfs/265_Princess_Galyani_Vadhana_Institute_of_Music/file_path_2__Quota_69.pdf",
+        "bytes": 175221,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "905",
+    "university_name_en": "Nation University",
+    "pdfs": [
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/905/pdf/1778208135576/NTU TCAS69 Admission.pdf",
+        "path": "data/pdfs/905_Nation_University/file_path_3__NTU_TCAS69_Admission.pdf",
+        "bytes": 114772,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "910",
+    "university_name_en": "Ratchathani University",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/910/pdf/1759377244180/คุณสมบัติการรับสมัคร-มหาวิทยาลัยราชธานี-TCAS69.pdf",
+        "path": "data/pdfs/910_Ratchathani_University/file_path_1__คุณสมบัติการรับสมัคร-มหาวิทยาลัยราชธานี-TCAS69.pdf",
+        "bytes": 92332,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_2",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/910/pdf/1759377259788/คุณสมบัติการรับสมัคร-มหาวิทยาลัยราชธานี-TCAS69.pdf",
+        "path": "data/pdfs/910_Ratchathani_University/file_path_2__คุณสมบัติการรับสมัคร-มหาวิทยาลัยราชธานี-TCAS69.pdf",
+        "bytes": 92332,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/910/pdf/1778123480990/การสอบสัมภาษณ์-ADMISSION-69.pdf",
+        "path": "data/pdfs/910_Ratchathani_University/file_path_3__การสอบสัมภาษณ์-ADMISSION-69.pdf",
+        "bytes": 118852,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "911",
+    "university_name_en": "Pathumthani University",
+    "pdfs": [
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/911/pdf/1759989964697/TCAS69-PTU-Admission-09Oct25.xlsx",
+        "path": "data/pdfs/911_Pathumthani_University/file_path_3__TCAS69-PTU-Admission-09Oct25.xlsx.pdf",
+        "bytes": 2436827,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "university_id": "931",
+    "university_name_en": "Siam Technology College",
+    "pdfs": [
+      {
+        "round_key": "file_path_1",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/931/pdf/1761643592104/TCAS69_เปิดสนามสอบTGAT, TPAT.pdf",
+        "path": "data/pdfs/931_Siam_Technology_College/file_path_1__TCAS69_เปิดสนามสอบTGAT,_TPAT.pdf",
+        "bytes": 2571382,
+        "status": "ok"
+      },
+      {
+        "round_key": "file_path_3",
+        "url": "https://s3.ap-southeast-1.amazonaws.com/my-tcas/931/pdf/1771056806452/03-Admission 69 -a4.pdf",
+        "path": "data/pdfs/931_Siam_Technology_College/file_path_3__03-Admission_69_-a4.pdf",
+        "bytes": 1718571,
+        "status": "ok"
+      }
+    ]
+  }
+]

@@ -1,0 +1,518 @@
+{
+  "university_id": "005",
+  "round": "R1",
+  "archetype": "index",
+  "count": 85,
+  "programs": [
+    {
+      "tcas_code": "10050202610501A",
+      "program_name_th": "",
+      "seats": 70,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050202610801A",
+      "program_name_th": "",
+      "seats": 100,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050102610501A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050102610801A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050203903201AA",
+      "program_name_th": "",
+      "seats": 5,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050203903201AB",
+      "program_name_th": "",
+      "seats": 5,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050203903201AC",
+      "program_name_th": "",
+      "seats": 5,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050204611101A",
+      "program_name_th": "",
+      "seats": 70,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050205903701A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050405903701A",
+      "program_name_th": "",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050105903701B",
+      "program_name_th": "",
+      "seats": 18,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050206901401A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050206902001A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050206902401A",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050206902402A",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050206902404A",
+      "program_name_th": "",
+      "seats": 5,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050206902401B",
+      "program_name_th": "",
+      "seats": 50,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050106904301B",
+      "program_name_th": "",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050208903501A",
+      "program_name_th": "",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050208903501B",
+      "program_name_th": "",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209220201A",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209210301A",
+      "program_name_th": "",
+      "seats": 25,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209210401A",
+      "program_name_th": "",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209211001A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209211002A",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209211201A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209214001A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209212701A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209212801A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209213101A",
+      "program_name_th": "",
+      "seats": 5,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209213301A",
+      "program_name_th": "",
+      "seats": 5,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209500401A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209220201B",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209220202B",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209210302A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209213301B",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209210301B",
+      "program_name_th": "",
+      "seats": 25,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209213302B",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209210302B",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209211401B",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209212702A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050209211801A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050409220201A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210300501A",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210300601A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210300701A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210301601A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210302101A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210303501A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210301001B",
+      "program_name_th": "",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210301601B",
+      "program_name_th": "",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050210302101B",
+      "program_name_th": "",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050310302001B",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050211100101A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050212111301A",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050212112001A",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050212112001B",
+      "program_name_th": "",
+      "seats": 150,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050212902002B",
+      "program_name_th": "",
+      "seats": 70,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050214111701A",
+      "program_name_th": "",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050215800101AA",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050215800101AB",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050215800401A",
+      "program_name_th": "",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050415800101A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050215800501B",
+      "program_name_th": "",
+      "seats": 50,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050216400501B",
+      "program_name_th": "",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050216400701B",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050216400401B",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050216400301B",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050216400502B",
+      "program_name_th": "",
+      "seats": 32,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050216400201E",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050217112701A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050217112702A",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050417112701A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050417112702A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050417112703A",
+      "program_name_th": "",
+      "seats": 15,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050218130101A",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050219903601A",
+      "program_name_th": "",
+      "seats": 65,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050123220101B",
+      "program_name_th": "",
+      "seats": 23,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050123904001B",
+      "program_name_th": "",
+      "seats": 27,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050124903601B",
+      "program_name_th": "",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050224210303B",
+      "program_name_th": "",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050224903601B",
+      "program_name_th": "",
+      "seats": 80,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050424903601A",
+      "program_name_th": "",
+      "seats": 50,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050424903601B",
+      "program_name_th": "",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10050230903601B",
+      "program_name_th": "",
+      "seats": 10,
+      "subject_codes": []
+    }
+  ]
+}
