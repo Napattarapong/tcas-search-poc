@@ -1,0 +1,369 @@
+{
+  "university": "Srisavarindhira Thai Red Cross Institute of Nursing",
+  "university_id": "218",
+  "round": "R2",
+  "archetype": "criteria",
+  "program_count": 8,
+  "programs": [
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (โควตาภาคตะวันออก)",
+      "tcas_code": null,
+      "faculty_th": "สานักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": 35,
+      "project_code": "โควตาภาคตะวันออก",
+      "round_label": "รอบที่ 2 ประเภทโควตาภาคตะวันออก",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ตอนที่ 1 การสื่อสารภาษาอังกฤษ (English Communication)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ตอนที่ 2 การคิดอย่างมีเหตุผล (Critical and Logical Thinking)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ตอนที่ 3 สมรรถนะด้านการทำงานในอนาคต (Future Workforce Competencies)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ภาษาอังกฤษ สัดส่วนร้อยละ 20; สอบสัมภาษณ์ ผ่าน; ตรวจร่างกาย ผ่าน; ทดสอบบุคลิกภาพ ผ่าน; เป็นหญิงโสดหรือชายโสด อายุไม่ต่ำกว่า 16 ปีบริบูรณ์; น้ำหนักไม่น้อยกว่า 40 กก. ส่วนสูงไม่ต่ำกว่า 150 ซม.; มีภูมิลำเนาในทะเบียนบ้านเขตภาคตะวันออก 7 จังหวัด ไม่น้อยกว่า 90 วัน; เรียนแผนการเรียน วิทย์-คณิต; รับทุนสภากาชาดไทยและปฏิบัติงานหลังสำเร็จการศึกษาไม่น้อยกว่า 4 ปี"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (โควตาบุตรเจ้าหน้าที่สภากาชาดไทย)",
+      "tcas_code": null,
+      "faculty_th": "สานักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": null,
+      "project_code": "โควตาบุตรเจ้าหน้าที่สภากาชาดไทย",
+      "round_label": "รอบที่ 2 ประเภทโควตาบุตรเจ้าหน้าที่สภากาชาดไทย",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นบุตรเจ้าหน้าที่สภากาชาดไทย; เป็นหญิงโสดหรือชายโสด อายุไม่ต่ำกว่า 16 ปีบริบูรณ์; น้ำหนักไม่น้อยกว่า 40 กก. ส่วนสูงไม่ต่ำกว่า 150 ซม.; ต้องสอบ TGAT และวิชาสามัญ (คณิตศาสตร์ 1, เคมี, ชีววิทยา, ภาษาอังกฤษ); หน้าเอกสารไม่ระบุสัดส่วน/ค่าน้ำหนักและจำนวนรับ"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "สานักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": 5,
+      "project_code": "โควตาบุตรเจ้าหน้าที่สภากาชาดไทย",
+      "round_label": "รอบที่ 2 ประเภทโควตาบุตรเจ้าหน้าที่สภากาชาดไทย",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX ม.4-6",
+          "weight_percent": "ไม่ระบุ (คิดเป็นสัดส่วน)",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การคิดอย่างมีเหตุผล (Critical and Logical Thinking)",
+          "weight_percent": "10",
+          "min_threshold": "30 คะแนน"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "คะแนนวิชาสามัญ (ภาค 1)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "คะแนนวิชาสามัญ (ภาค 2)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสอบสัมภาษณ์",
+          "weight_percent": null,
+          "min_threshold": "ผ่าน"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ทดสอบบุคลิกภาพ",
+          "weight_percent": null,
+          "min_threshold": "ผ่าน"
+        }
+      ],
+      "other_conditions_th": "บุตรเจ้าหน้าที่สภากาชาดไทย; รับทุนสภากาชาดไทยตลอด 4 ปี ต้องทำสัญญารับทุนและสัญญาค้ำประกัน; ปฏิบัติงานกับสภากาชาดไทยหลังสำเร็จการศึกษาไม่น้อยกว่า 4 ปี หากผิดสัญญาต้องชดใช้ 2 เท่าของเงินทุนพร้อมดอกเบี้ย; ค่าสมัคร 500 บาท; ส่งเอกสาร EMS ภายใน 1 เม.ย. 2569; ตรวจร่างกาย ณ รพ. ก่อนสอบสัมภาษณ์; ทดสอบบุคลิกภาพออนไลน์ 24 เม.ย. 2569; สอบสัมภาษณ์ 28 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "สานักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": null,
+      "project_code": "ผู้สำเร็จการศึกษาหลักสูตรประกาศนียบัตรผู้ช่วยพยาบาล",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสมตลอดหลักสูตร ประกาศนียบัตรผู้ช่วยพยาบาล",
+          "weight_percent": "20",
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การประเมินความรู้พื้นฐานทางวิทยาศาสตร์สุขภาพ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การวัดความรู้พื้นฐานการพยาบาล",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การประเมินเจตคติและคุณลักษณะความพร้อมการเรียนพยาบาล",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ทดสอบบุคลิกภาพ",
+          "weight_percent": null,
+          "min_threshold": "ผ่าน"
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษาหลักสูตรประกาศนียบัตรผู้ช่วยพยาบาล; เป็นหญิงโสดหรือชายโสด อายุไม่ต่ำกว่า 16 ปี (เกิด พ.ศ. 2553) และไม่เกิน 30 ปี; น้ำหนักไม่น้อยกว่า 40 กก. ส่วนสูงไม่ต่ำกว่า 150 ซม.; ไม่มีข้อผูกพันทุนจากแหล่งอื่น; รับทุนสภากาชาดไทย ต้องทำสัญญารับทุนและค้ำประกัน ปฏิบัติงานกับสภากาชาดไทยหลังสำเร็จไม่น้อยกว่า 4 ปี; ห้ามโรคประจำตัวที่เป็นอุปสรรคการเรียนและประกอบวิชาชีพพยาบาล; สอบปรนัย ความรู้พื้นฐานทางคณิตศาสตร์ วิทยาศาสตร์ ภาษาอังกฤษ และการพยาบาล"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (โควตากรุงเทพมหานครและปริมณฑล)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 2 ประเภทโควตากรุงเทพมหานครและปริมณฑล",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT ตอนที่ 1 การสื่อสารภาษาอังกฤษ (English Communication)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT ตอนที่ 2 การคิดอย่างมีเหตุผล (Critical and Logical Thinking)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT ตอนที่ 3 สมรรถนะด้านการทำงานในอนาคต (Future Workforce Competencies)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level MATH1",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level CHEM",
+          "subject_name_th": "เคมี",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level BIO",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีภูมิลำเนาในทะเบียนบ้านเขตกรุงเทพมหานครและปริมณฑล (5 จังหวัด); น้ำหนักตัวไม่น้อยกว่า 40 กก. ส่วนสูงไม่ต่ำกว่า 150 ซม.; สอบสัมภาษณ์ ผ่าน; ตรวจร่างกาย ผ่าน; ทดสอบบุคลิกภาพ ผ่าน; วิชาภาษาอังกฤษ (A-Level) สัดส่วนร้อยละ 20; รับทุนสภากาชาดไทย ต้องปฏิบัติงานกับสภากาชาดไทยหลังสำเร็จการศึกษาไม่น้อยกว่า 4 ปี"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (โควตาทายาท ทหาร/ตำรวจตระเวนชายแดนที่เสียชีวิต)",
+      "tcas_code": null,
+      "faculty_th": "สานักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": null,
+      "project_code": "โควตาทายาท ทหาร/ตำรวจตระเวนชายแดนที่เสียชีวิต",
+      "round_label": "รอบที่ 2 ประเภทโควตา",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "30 คะแนน (ตอนที่1 ภาษาอังกฤษ, ตอนที่2 คิดอย่างมีเหตุผล, ตอนที่3 สมรรถนะการทำงาน ตอนละ 10%)"
+        },
+        {
+          "subject_code": "A1",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A2",
+          "subject_name_th": "เคมี",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A4",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A3",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นหญิงโสดหรือชายโสด อายุไม่ต่ำกว่า 16 ปี (เกิด พ.ศ. 2553); น้ำหนักไม่น้อยกว่า 40 กก. สูงไม่ต่ำกว่า 150 ซม.; สุขภาพสมบูรณ์ทั้งร่างกายและจิตใจ ไม่มีโรคที่เป็นอุปสรรคต่อการพยาบาล; ตรวจร่างกายและสอบสัมภาษณ์ต้องผ่าน; เป็นทายาททหาร/ตำรวจตระเวนชายแดนที่เสียชีวิตหรือทุพพลภาพจากการปฏิบัติหน้าที่; ได้รับทุนสภากาชาดไทย ต้องทำสัญญารับทุนและค้ำประกัน ปฏิบัติงานในสภากาชาดไทยไม่น้อยกว่า 4 ปีหลังสำเร็จการศึกษา"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (โควตายุวกาชาด)",
+      "tcas_code": null,
+      "faculty_th": "สานักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": null,
+      "project_code": "โควตายุวกาชาด",
+      "round_label": "รอบที่ 2 ประเภทโควตา",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "30 คะแนน (ตอนที่1 ภาษาอังกฤษ, ตอนที่2 คิดอย่างมีเหตุผล, ตอนที่3 สมรรถนะการทำงาน ตอนละ 10%)"
+        },
+        {
+          "subject_code": "A1",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A2",
+          "subject_name_th": "เคมี",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A4",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A3",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นหญิงโสดหรือชายโสด อายุไม่ต่ำกว่า 16 ปี (เกิด พ.ศ. 2553); น้ำหนักไม่น้อยกว่า 40 กก. สูงไม่ต่ำกว่า 150 ซม.; สุขภาพสมบูรณ์ทั้งร่างกายและจิตใจ ไม่มีโรคที่เป็นอุปสรรคต่อการพยาบาล; ตรวจร่างกายและสอบสัมภาษณ์ต้องผ่าน; เป็นยุวกาชาด; ได้รับทุนสภากาชาดไทย ต้องทำสัญญารับทุนและค้ำประกัน ปฏิบัติงานในสภากาชาดไทยไม่น้อยกว่า 4 ปีหลังสำเร็จการศึกษา"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (หลักสูตรพยาบาลศาสตรบัณฑิต)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": 3,
+      "project_code": "โควตายุวกาชาด",
+      "round_label": "รอบที่ 2 ประเภทโควตายุวกาชาด",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (English Communication)",
+          "weight_percent": "10",
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คิดเชิงวิเคราะห์และตรรกะ (Critical and Logical Thinking)",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สมรรถนะด้านการทำงานในอนาคต",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิทยาศาสตร์ (ไม่ระบุชัดเจน)",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผ่านหลักสูตรการอบรมอาสายุวกาชาดไม่น้อยกว่า 2 หลักสูตร (พื้นฐานยุวกาชาด/ปฐมพยาบาลเบื้องต้น/การดูแลผู้สูงอายุ/อื่นๆ); มีประวัติกิจกรรมจิตอาสาสภากาชาดไทยไม่น้อยกว่า 240 ชม.; มี Portfolio; หนังสือรับรองความประพฤติจากโรงเรียนและสำนักงานยุวกาชาด; สอบสัมภาษณ์ ผ่าน; ตรวจร่างกาย ผ่าน; ทดสอบบุคลิกภาพ ผ่าน; คุณสมบัติอื่นๆ ให้อยู่ในดุลยพินิจของคณะกรรมการ"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "university": "Phranakhon Rajabhat University",
+  "university_id": "150",
+  "round": "R1",
+  "archetype": "criteria",
+  "program_count": 37,
+  "programs": [
+    {
+      "program_name_th": "ภาษาอังกฤษ",
+      "tcas_code": "22401",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน ใช้คะแนน TPAT5"
+    },
+    {
+      "program_name_th": "ดนตรีศึกษา",
+      "tcas_code": "25701",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "จิตวิทยาการแนะแนวและการปรึกษา",
+      "tcas_code": "26001",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน ใช้คะแนน TPAT5"
+    },
+    {
+      "program_name_th": "การสอนวิทยาศาสตร์และเทคโนโลยี",
+      "tcas_code": "25901",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย (GPAX)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาเฉพาะ (TPAT5)",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 แผนการเรียนวิทย์-คณิต มีความมุ่งมั่นศรัทธาในวิชาชีพครู"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": "52006",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 แผนการเรียนวิทย์-คณิต ศิลป์-คำนวณ (เทียบเท่า) หรือ ปวช.สาขาวิชาสถาปัตยกรรม ปวช.ก่อสร้าง"
+    },
+    {
+      "program_name_th": "ออกแบบผลิตภัณฑ์อุตสาหกรรม",
+      "tcas_code": "51802",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน หรือ ปวช.สาขาวิชาที่เกี่ยวข้อง มีพื้นฐานความรู้ด้านศิลปะออกแบบ"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์อัจฉริยะและคอมพิวเตอร์",
+      "tcas_code": "56219",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน ปวช.ช่างอุตสาหการทุกสาขา ปวช.ด้านคอมพิวเตอร์"
+    },
+    {
+      "program_name_th": "การจัดการเทคโนโลยีดิจิทัลและสารสนเทศ",
+      "tcas_code": "56102",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 ปวช.ที่มีพื้นฐานทางคอมพิวเตอร์"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอุตสาหการ",
+      "tcas_code": "53311",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน หรือ ปวช.ช่างทุกสาขาวิชา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีวิศวกรรมโยธา",
+      "tcas_code": "54902",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน หรือ ปวช.ที่มีพื้นฐานทางช่างอุตสาหกรรมทุกสาขา"
+    },
+    {
+      "program_name_th": "การจัดการโลจิสติกส์",
+      "tcas_code": "54802",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปวช./ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการจัดการอุตสาหกรรม",
+      "tcas_code": "56302",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน หรือ ปวช.ทุกสาขาวิชา หรือ ปวส.ทุกสาขาวิชาทางอุตสาหกรรม (เทียบโอน)"
+    },
+    {
+      "program_name_th": "เทคโนโลยีวิศวกรรมไฟฟ้า",
+      "tcas_code": "55619",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน หรือ ปวช.ทุกสาขาวิชา รับเทียบโอน ปวส.สาขาไฟฟ้า/อิเล็กทรอนิกส์/คอมพิวเตอร์ หรือปริญญาตรีใบที่ 2"
+    },
+    {
+      "program_name_th": "การบริหารทรัพย์สินและเทคโนโลยีอาคาร",
+      "tcas_code": "56411",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 (เทียบเท่า) หรือ ปวช.ทุกแผนการเรียน หรืออนุปริญญา หรือผู้สำเร็จระดับปริญญาตรีจากสาขาวิชาอื่น หรือผู้มีประสบการณ์ทำงานที่เกี่ยวข้องอย่างน้อย 2 ปี"
+    },
+    {
+      "program_name_th": "การพัฒนาชุมชน",
+      "tcas_code": "30103",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ดุริยางคศิลป์ตะวันตก",
+      "tcas_code": "34622",
+      "faculty_th": "คณดุริยางคศิลป์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน และต้องมีทักษะทางดนตรีตะวันตก"
+    },
+    {
+      "program_name_th": "นาฏศิลป์และการละคร",
+      "tcas_code": "34310",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน และต้องมีทักษะทางนาฏศิลป์และการแสดง"
+    },
+    {
+      "program_name_th": "ภาษาไทย",
+      "tcas_code": "31203",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษ",
+      "tcas_code": "31403",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษธุรกิจเพื่อการสื่อสารนานาชาติ",
+      "tcas_code": "34503",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "รัฐประศาสนศาสตร์",
+      "tcas_code": "31616",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภูมิศาสตร์และภูมิสารสนเทศ",
+      "tcas_code": "33802",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การออกแบบ",
+      "tcas_code": "34121",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน มีทักษะทางศิลปะและความคิดสร้างสรรค์ ต้องผ่านการทดสอบด้านความรู้และปฏิบัติตามมาตรฐานที่สาขาและมหาวิทยาลัยกำหนด"
+    },
+    {
+      "program_name_th": "รัฐศาสตร์",
+      "tcas_code": "33415",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาจีนธุรกิจ",
+      "tcas_code": "33603",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "พุทธศาสตร์เพื่อการพัฒนาท้องถิ่น",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการศึกษา และพระภิกษุ-สามเณร"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์",
+      "tcas_code": "10402",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศ",
+      "tcas_code": "11302",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": "11502",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน หรือ ปวส./ปริญญาตรีทุกสาขาวิชา (เทียบโอนรายวิชา)"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการอาหารและความเป็นผู้ประกอบการสมัยใหม่",
+      "tcas_code": "15002",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์เครื่องสำอาง",
+      "tcas_code": "13402",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 แผนการเรียนวิทย์-คณิต ศิลป์-คำนวณ"
+    },
+    {
+      "program_name_th": "คอมพิวเตอร์แอนิเมชันและมัลติมีเดีย",
+      "tcas_code": "13702",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การแพทย์แผนไทยประยุกต์บัณฑิต",
+      "tcas_code": "14220",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "จบมัธยมศึกษาตอนปลาย แผนวิทยาศาสตร์-คณิตศาสตร์ หน่วยกิตวิทย์ไม่น้อยกว่า 22 และคณิตไม่น้อยกว่า 12"
+    },
+    {
+      "program_name_th": "การประกอบอาหารและการบริการอาหาร",
+      "tcas_code": "15303",
+      "faculty_th": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการเกษตรสมัยใหม่",
+      "tcas_code": "15402",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การจัดการสิ่งแวดล้อมและทรัพยากรธรรมชาติ",
+      "tcas_code": "14702",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่าทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีผลิตภัณฑ์ชีวภาพกับการประกอบธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ม.6 หรือเทียบเท่า (ทุกแผนการเรียน) และ กศน."
+    }
+  ]
+}

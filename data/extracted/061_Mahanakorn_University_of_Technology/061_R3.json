@@ -1,0 +1,20 @@
+{
+  "university": "Mahanakorn University of Technology",
+  "university_id": "061",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 1,
+  "programs": [
+    {
+      "program_name_th": "สัตวแพทยศาสตรบัณฑิต (สพ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเทคโนโลยีมหานคร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS รอบ 3 Admission#2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สัมภาษณ์ที่อาคาร F ชั้น 2 ห้อง F208 วันพฤหัสบดีที่ 28 พฤษภาคม 2569 เวลา 9.00-12.00 น. | ขึ้นทะเบียนและชำระค่าลงทะเบียน 28-29 พฤษภาคม 2569 | รวมค่าลงทะเบียนทั้งสิ้น 108,025 บาท | ปฐมนิเทศ 8-14 มิถุนายน 2569 | เปิดภาคเรียน 15 มิถุนายน 2569"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "university": "Songkhla Rajabhat University",
+  "university_id": "164",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 1,
+  "programs": [
+    {
+      "program_name_th": "ไม่พบตารางสาขาวิชาที่เปิดรับในเอกสารที่ให้มา",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับตรงร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เอกสารที่ให้มาเป็นประกาศมหาวิทยาลัยราชภัฏสงขลา ปีการศึกษา 2569 รอบ 3 Admission มีเพียงข้อความส่วนทั่วไป (คุณสมบัติผู้สมัคร เงื่อนไขการสมัคร ปฏิทิน การสอบสัมภาษณ์ การยืนยันสิทธิ์ การรายงานตัว) ไม่มีตารางสาขาวิชาที่เปิดรับพร้อมเกณฑ์คะแนน/ค่าน้ำหนัก ผู้ใช้ระบุว่ารายละเอียดสาขาวิชาและเกณฑ์การพิจารณาคัดเลือกอยู่ในระบบ myTCAS69 ออนไลน์"
+    }
+  ]
+}

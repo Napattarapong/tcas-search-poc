@@ -1,0 +1,571 @@
+{
+  "university": "Siam University",
+  "university_id": "181",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 37,
+  "programs": [
+    {
+      "program_name_th": "ทันตแพทยศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะทันตแพทยศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A level อังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level คณิต 1",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level ฟิสิกส์",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level เคมี",
+          "subject_name_th": "เคมี",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level ชีววิทยา",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครที่จบหลักสูตรแกนกลางเฉพาะสายวิทยาศาสตร์-คณิตศาสตร์ หลักสูตรนานาชาติ หรือหลักสูตร GED; ต้องเป็นผู้มีสัญชาติไทย; มีสุขภาพสมบูรณ์แข็งแรง ปราศจากโรค/ความพิการอันเป็นอุปสรรคต่อการประกอบวิชาชีพทันตกรรม; มีการสัมภาษณ์"
+    },
+    {
+      "program_name_th": "การบริบาลทางเภสัชกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level อังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level คณิต 1",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "ผลรวมของ A level ฟิสิกส์ A level เคมี A level ชีววิทยา",
+          "subject_name_th": "ผลรวมของฟิสิกส์ เคมี และชีววิทยา",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ข้อบังคับสภาเภสัชกรรม ผู้สมัครต้องไม่เป็นโรคตามที่กำหนด (โรคพิษสุราเรื้อรัง โรคเท้าช้าง โรคติดยาเสพติด โรคเรื้อน วัณโรค โรคคุดทะราด โรคซิฟิลิส ฯลฯ); ไม่จำกัดสิทธิผู้มีตาพร้องสี แต่ต้องได้รับการตรวจตาพร้องสี; มีการสัมภาษณ์ วันที่ 29 พฤษภาคม 2569"
+    },
+    {
+      "program_name_th": "การพยาบาล",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์",
+      "seats": 90,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-LEVEL คณิต1",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-LEVEL อังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "ผลรวมของ A-LEVEL วิทยาทั่วไป หรือผลรวมของ A-LEVEL เคมี",
+          "subject_name_th": "ผลรวมของวิทยาทั่วไป หรือผลรวมของเคมี",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ทัศนมาตรศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะทัศนมาตรศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "อาชีวอนามัยและความปลอดภัย",
+      "tcas_code": null,
+      "faculty_th": "ภาควิชาสาธารณสุขศาสตร์ คณะแพทยศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมยานยนต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมโยธา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "นวัตกรรมอาหารและการเป็นผู้ประกอบการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิทยาการข้อมูลและคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การตลาดดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ธุรกิจดิจิทัลและเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "แอนิเมชันและสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "นิติศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิติศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ (วิชาเอกการประชาสัมพันธ์ / วิชาเอกการโฆษณาและสื่อสารการตลาดดิจิทัล / วิชาเอกภาพยนตร์ โทรทัศน์ และสื่อดิจิทัล)",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิด 3 รายวิชาเอก: การประชาสัมพันธ์, การโฆษณาและสื่อสารการตลาดดิจิทัล, ภาพยนตร์ โทรทัศน์ และสื่อดิจิทัล"
+    },
+    {
+      "program_name_th": "การบัญชี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การเงินและการลงทุน",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การตลาด",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การจัดการและการประกอบการ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจระหว่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การโรงแรม การท่องเที่ยวและการบริการ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษสื่อสารธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ภาษาญี่ปุ่นเพื่อการสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การบริหารธุรกิจระหว่างประเทศ (International Business) / การโรงแรมและการท่องเที่ยว การบริหารอุตสาหกรรมบริการ (Hotel & Tourism, Service Industry Management)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิด 2 รายวิชาเอก: International Business และ Hotel & Tourism, Service Industry Management"
+    },
+    {
+      "program_name_th": "การปกครอง",
+      "tcas_code": null,
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admissions",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 9)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level อังกฤษ",
+          "subject_name_th": "A level อังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level คณิต 1",
+          "subject_name_th": "A level คณิต 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A level ฟิสิกส์+เคมี+ชีววิทยา",
+          "subject_name_th": "ผลรวมของ A level ฟิสิกส์ A level เคมี A level ชีววิทยา",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 10)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 11)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 12)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 13)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 14)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 15)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 16)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    }
+  ]
+}

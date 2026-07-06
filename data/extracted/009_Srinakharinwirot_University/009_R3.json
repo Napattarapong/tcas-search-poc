@@ -1,0 +1,3314 @@
+{
+  "university": "Srinakharinwirot University",
+  "university_id": "009",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 99,
+  "programs": [
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 10)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "5"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "70",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. 2569; ประกาศผลครั้งที่ 2 วันที่ 26 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 11)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "4"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "6"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "4"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30",
+          "min_threshold": "6"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. 2569; ประกาศผลครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 12)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. 2569; ประกาศผลครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 13)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. 2569; ประกาศผลครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 14)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. 2569; ประกาศผลครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 15)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. 2569; ประกาศผลครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 16)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. 2569; ประกาศผลครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "หน้า 17 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "15",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        }
+      ],
+      "other_conditions_th": "หน้า 18 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": "5"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "20",
+          "min_threshold": "10"
+        }
+      ],
+      "other_conditions_th": "หน้า 19 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้า 20 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้า 21 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้า 22 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "90",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้า 23 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุในหน้าที่ให้มา - ดูในหน้าก่อนหน้า]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "80",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้า 24 — ไม่มี header row ของโปรแกรมในหน้านี้ (เป็นหน้าต่อจากหน้าก่อนหน้า)"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 25]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "75",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 26]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "60",
+          "min_threshold": "10"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 27]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "70",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 28]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "70",
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 29]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; มีสอบสัมภาษณ์ 30 พ.ค. 69; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 30]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "A-Level คณิตศาสตร์ประยุกต์ 1 หรือ คณิตศาสตร์ประยุกต์ 2 (เลือกสอบ)",
+          "weight_percent": "40",
+          "min_threshold": "คณิตฯ 1 ไม่ต่ำกว่า 20, คณิตฯ 2 ไม่ต่ำกว่า 40"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; มีสอบสัมภาษณ์ 30 พ.ค. 69; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 31]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "A-Level เคมี",
+          "weight_percent": "40",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 32]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "A-Level ชีววิทยา",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "หน้านี้เป็นส่วนต่อของสาขาที่ไม่ปรากฏหัวข้อในเอกสารที่ให้มา; มีสอบสัมภาษณ์ 30 พ.ค. 69; รอบรับสมัคร 6-12 พ.ค. 69, ประกาศผล 20 และ 26 พ.ค. 69, รายงานตัว 15-26 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 33)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "15",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "40",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ.; ประกาศผลครั้งที่ 1: 20 พ.ค. 2569; ประกาศผลครั้งที่ 2: 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569 ที่ https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 34)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ.; ประกาศผลครั้งที่ 1: 20 พ.ค. 2569; ประกาศผลครั้งที่ 2: 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569 ที่ https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 35 ตารางที่ 1)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ.; ประกาศผลครั้งที่ 1: 20 พ.ค. 2569; ประกาศผลครั้งที่ 2: 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569 ที่ https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 35 ตารางที่ 2)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ.; ประกาศผลครั้งที่ 1: 20 พ.ค. 2569; ประกาศผลครั้งที่ 2: 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569 ที่ https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 36)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "100",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ.; ประกาศผลครั้งที่ 1: 20 พ.ค. 2569; ประกาศผลครั้งที่ 2: 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569 ที่ https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 37)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "100",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ.; ประกาศผลครั้งที่ 1: 20 พ.ค. 2569; ประกาศผลครั้งที่ 2: 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569 ที่ https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 38)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ.; ประกาศผลครั้งที่ 1: 20 พ.ค. 2569; ประกาศผลครั้งที่ 2: 26 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569 ที่ https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 39)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "เกณฑ์ขั้นต่ำระบุเป็นร้อยละ (%); รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 40 หลักสูตรพยาบาลศาสตรบัณฑิต)",
+      "tcas_code": null,
+      "faculty_th": "พยาบาลศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องไม่มีประวัติหรืออยู่ระหว่างการรักษาโรคจิตเวชขั้นรุนแรง (psychotic disorders, mood disorders, severe neurotic disorders, antisocial/borderline personality disorders, Bipolar); ไม่มีประวัติโรคติดต่ออันตราย; ไม่มีโรคไม่ติดต่อที่เป็นอุปสรรคต่อการศึกษา (โรคลมชักที่ควบคุมไม่ได้, โรคหัวใจรุนแรง, ความดันเลือดสูงรุนแรงมีภาวะแทรกซ้อน, ไตวายเรื้อรัง, โรคติดสารเสพติด); ไม่มีความผิดปกติการได้ยินทั้งสองข้าง (>40 dB และ speech discrimination score <70%); ต้องไม่ตาบอดสี; ต้องผ่านการตรวจร่างกาย การทดสอบจิตวิทยาและทัศนคติต่อวิชาชีพ และการสอบสัมภาษณ์ (ด้านทักษะสารสนเทศและเทคโนโลยี, ทักษะชีวิตและอาชีพ)"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์ขั้นต่ำวิชา A-LEVEL รวม 5 รายวิชา >= 100 คะแนน; ต้องตรวจร่างกายและเอกซเรย์ทรวงอก; สอบจิตวิทยาและทัศนคติต่อวิชาชีพ; สอบสัมภาษณ์; ต้องมีสุขภาพสมบูรณ์แข็งแรงทั้งร่างกายและจิตใจ ปราศจากโรคหรือความพิการอันเป็นอุปสรรคต่อการศึกษาและประกอบวิชาชีพพยาบาล"
+    },
+    {
+      "program_name_th": "(หลักสูตรในหน้าถัดไป - สาขาสังคมศาสตร์/มนุษยศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์และสอบทัศนคติ"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 49)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "A-Level/วิทยาศาสตร์ประยุกต์",
+          "subject_name_th": "A-Level / วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "15",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "สังคมศึกษา",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "ภาษาไทย",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "ภาษาอังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 50)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level/คณิตศาสตร์ประยุกต์1หรือ2",
+          "subject_name_th": "A-Level / เลือกสอบคณิตศาสตร์ประยุกต์ 1 หรือ คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "สังคมศึกษา",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "ภาษาไทย",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "ภาษาอังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 51)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "100",
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 52)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": "50"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 53)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "A-Level/สังคมศึกษา",
+          "subject_name_th": "A-Level / สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "ภาษาไทย",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "ภาษาอังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": "60"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 54)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level/สังคมศึกษา",
+          "subject_name_th": "A-Level / สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "ภาษาไทย",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "ภาษาอังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": "50"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 55)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level/ภาษาไทย",
+          "subject_name_th": "A-Level / ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "ภาษาอังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "ภาษาจีน",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "55",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 56)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level/ภาษาไทย",
+          "subject_name_th": "A-Level / ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "ภาษาอังกฤษ",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "ภาษาญี่ปุ่น",
+          "subject_name_th": "ภาษาญี่ปุ่น",
+          "weight_percent": "55",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "ภาษาเกาหลี",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาเกาหลี",
+          "weight_percent": "40",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "ภาษาไทย",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 59)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 60)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "5",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "55",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 61)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "10",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": "60"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 62)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เลือกสอบ คณิตศาสตร์ประยุกต์1 หรือ คณิตศาสตร์ประยุกต์2",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 63)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "100",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ 30 พ.ค. 2569; รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 64)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "100",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ 30 พ.ค. 2569; รับสมัคร 6-12 พ.ค. 2569 ผ่านระบบ Mytcas ทปอ."
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 65)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. และครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัวเป็นนิสิต 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 66)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. และครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัวเป็นนิสิต 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 67)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. และครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัวเป็นนิสิต 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 68)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. และครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัวเป็นนิสิต 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 69)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. และครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัวเป็นนิสิต 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 70)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. และครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัวเป็นนิสิต 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 71-72)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีสอบสัมภาษณ์; สมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 วันที่ 20 พ.ค. และครั้งที่ 2 วันที่ 26 พ.ค. 2569; รายงานตัวเป็นนิสิต 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 73)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69, ครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 75)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69, ครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 77)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69, ครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 78)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69, ครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 79)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "100",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69, ครั้งที่2 26 พ.ค. 69; สอบสัมภาษณ์ 30 พ.ค. 69 (รายงานตัว 08.00-08.30 น., สอบ 09.00 น. เป็นต้นไป); รายงานตัวเป็นนิสิต 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 80)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เลือกสอบ ภาษาอังกฤษ, ภาษาฝรั่งเศส, ภาษาเยอรมัน, ภาษาญี่ปุ่น, ภาษาเกาหลี, ภาษาจีน, ภาษาบาลี, ภาษาสเปน *อย่างใดอย่างหนึ่ง*",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69, ครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 81)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ/ภาษาฝรั่งเศส/ภาษาเยอรมัน/ภาษาญี่ปุ่น/ภาษาเกาหลี/ภาษาจีน/ภาษาบาลี/ภาษาสเปน (เลือกสอบอย่างใดอย่างหนึ่ง)",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 82)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 83-84)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "55",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 85-86)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "55",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 87)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); สมัคร 6-12 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขา - หน้า 88)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569 เริ่ม 08.30 น.); สมัคร 6-12 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 97]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT4",
+          "subject_name_th": "TPAT 4",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 98]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT4",
+          "subject_name_th": "TPAT 4",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 99]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 100]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 101]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT",
+          "subject_name_th": "เลือกสอบ TPAT 2 หรือ TPAT 3",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "ไม่มีสอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 102]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เลือกสอบ คณิตศาสตร์ประยุกต์ 1 หรือ คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 103]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เลือกสอบ ภาษาฝรั่งเศส หรือภาษาเยอรมัน หรือภาษาญี่ปุ่น หรือภาษาเกาหลี หรือภาษาจีน หรือภาษาสเปน",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ (30 พ.ค. 2569); รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 104]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เลือกสอบ ภาษาญี่ปุ่น หรือภาษาเกาหลี หรือภาษาจีน",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "ไม่มีสอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; ประกาศผลครั้งที่ 1 (20 พ.ค.) และครั้งที่ 2 (26 พ.ค.); รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 105]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 106]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "100",
+          "min_threshold": "55"
+        }
+      ],
+      "other_conditions_th": "รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 107]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT 21 ทัศนศิลป์",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 108]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT 21 ทัศนศิลป์",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ 30 พ.ค. 69 (08.00-08.30 รายงานตัว, 09.00 น. เป็นต้นไป สอบสัมภาษณ์); รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 109]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT 21 ทัศนศิลป์",
+          "weight_percent": "50",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ 30 พ.ค. 69 (08.00-08.30 รายงานตัว, 09.00 น. เป็นต้นไป สอบสัมภาษณ์); รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 110]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "TPAT4",
+          "subject_name_th": "TPAT 4 ความถนัดทางด้านสถาปัตยกรรมศาสตร์",
+          "weight_percent": "60",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "มีสอบสัมภาษณ์ 30 พ.ค. 69 (08.00-08.30 รายงานตัว, 09.00 น. เป็นต้นไป สอบสัมภาษณ์); รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 111]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - ข้อมูลจากหน้า 112]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "40",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "รอบรับสมัคร 6-12 พ.ค. 69; ประกาศผลครั้งที่1 20 พ.ค. 69; ประกาศผลครั้งที่2 26 พ.ค. 69; รายงานตัว 15-26 มิ.ย. 69 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 113)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "100",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 30 พฤษภาคม 2569; รายงานตัวเข้าเป็นนิสิต 15-26 มิ.ย. 2569 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 114)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "13",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "14",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "13",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์และทดสอบทัศนคติต่อวิชาชีพ ส่งผลตรวจร่างกาย วันที่ 30-31 พฤษภาคม 2569; รายงานตัวเข้าเป็นนิสิต 16-30 มิ.ย. 2569 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 116)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "13",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "14",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "13",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์และทดสอบทัศนคติต่อวิชาชีพ ส่งผลตรวจร่างกาย วันที่ 30-31 พฤษภาคม 2569; รายงานตัวเข้าเป็นนิสิต 16-30 มิ.ย. 2569 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 118)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "35",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "35",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 30 พฤษภาคม 2569; รายงานตัวเข้าเป็นนิสิต 15-26 มิ.ย. 2569 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 119)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 30 พฤษภาคม 2569; รายงานตัวเข้าเป็นนิสิต 15-26 มิ.ย. 2569 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "(ไม่ระบุชื่อสาขาวิชา - หน้า 120)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 30 พฤษภาคม 2569; รายงานตัวเข้าเป็นนิสิต 15-26 มิ.ย. 2569 ผ่าน https://istart.swu.ac.th"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 1 (หน้า 121)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 2 (หน้า 122)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "45",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 3 (หน้า 123)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level สังคมศึกษา",
+          "subject_name_th": "A-Level สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 4 (หน้า 124)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level สังคมศึกษา",
+          "subject_name_th": "A-Level สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level ภาษาไทย",
+          "subject_name_th": "A-Level ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 5 (หน้า 125)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level คณิตศาสตร์ประยุกต์ 1",
+          "subject_name_th": "A-Level คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level วิทยาศาสตร์ประยุกต์",
+          "subject_name_th": "A-Level วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 6 (หน้า 126)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level คณิตศาสตร์ประยุกต์ 1",
+          "subject_name_th": "A-Level คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 7 (หน้า 127)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level ภาษาไทย",
+          "subject_name_th": "A-Level ภาษาไทย",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "การศึกษา (หลักสูตรการศึกษาบัณฑิต) — โครงการ 8 (หน้า 128)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 4 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "A-Level วิทยาศาสตร์ประยุกต์",
+          "subject_name_th": "A-Level วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level ภาษาอังกฤษ",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์; รับสมัคร 6-12 พ.ค. 2569; สอบสัมภาษณ์ 30 พ.ค. 2569; รายงานตัว 15-26 มิ.ย. 2569"
+    }
+  ]
+}

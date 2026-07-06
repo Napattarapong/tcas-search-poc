@@ -1,0 +1,163 @@
+{
+  "university": "Siam Technology College",
+  "university_id": "931",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 14,
+  "programs": [
+    {
+      "program_name_th": "สาขาวิชาสาธารณสุขศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์สุขภาพ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัคร (คุณสมบัติผู้สมัคร, เกณฑ์ขั้นต่ำ, สัดส่วน/ค่าน้ำหนัก) ไม่ปรากฏในหน้านี้ — หน้านี้เป็นเพียงหน้าปก/ภาพรวมโครงสร้างการรับสมัคร TCAS69 รอบที่ 3 ของวิทยาลัยเทคโนโลยีสยาม 7 คณะ 14 สาขา พร้อมกำหนดการสำคัญ (รับสมัคร, ประกาศผู้มีสิทธิ์สัมภาษณ์, สอบสัมภาษณ์, ยืนยันสิทธิ์ ฯลฯ ในช่วง พ.ค.–มิ.ย. 2569)"
+    },
+    {
+      "program_name_th": "สาขาวิชาอาชีวอนามัยและความปลอดภัย",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์สุขภาพ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาการสอนภาษาอังกฤษสำหรับผู้ที่พูดภาษาอื่น (TESOL)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาธุรกิจดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะดิจิทัล",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาการตลาด",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาการบัญชี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการธุรกิจระหว่างประเทศ (IBM)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการนวัตกรรมการท่องเที่ยวและบริการ",
+      "tcas_code": null,
+      "faculty_th": "คณะการบริการและการท่องเที่ยว",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชารัฐประศาสนศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะรัฐประศาสนศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยียานยนต์สมัยใหม่",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีไฟฟ้าและระบบควบคุมอัตโนมัติ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมซ่อมบำรุงอากาศยาน",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมพลังงานและโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลรายละเอียดเกณฑ์การรับสมัครไม่ปรากฏในหน้านี้"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "university": "Dusit Thani College",
+  "university_id": "117",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 1,
+  "programs": [
+    {
+      "program_name_th": "สาขาวิชาการจัดการโรงแรม",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยดุสิตธานี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต (ภาษาไทย) / BACHELOR OF BUSINESS ADMINISTRATION IN HOSPITALITY MANAGEMENT (นานาชาติ) — รับสมัครผ่านระบบ TCAS69 ประจำปีการศึกษา 2569; ข้อมูล ณ วันที่ 15 ต.ค. 2568"
+    }
+  ]
+}

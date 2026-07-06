@@ -1,0 +1,615 @@
+{
+  "university": "Maejo University",
+  "university_id": "013",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 24,
+  "programs": [
+    {
+      "program_name_th": "สาขาวิชาการตลาดดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "มหาวิทยาลัยแม่โจ้-แพร่ เฉลิมพระเกียรติ (จังหวัดแพร่)",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา / GED Ready 155 ขึ้นไป หรือ GED ทั่วไป 145 ขึ้นไป"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต (วิชาเอกการบริหารการเงินและการลงทุน)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "การคิดอย่างมีเหตุผล",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ 2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมธุรกิจดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "การคิดอย่างมีเหตุผล",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "หลักสูตรบัญชีบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "การคิดอย่างมีเหตุผล",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ 2",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "สาขาวิชาการบัญชี",
+      "tcas_code": null,
+      "faculty_th": "มหาวิทยาลัยแม่โจ้-แพร่ เฉลิมพระเกียรติ (จังหวัดแพร่)",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ประเภทวิชาพาณิชยกรรม / ประเภทวิชาบริหารธุรกิจ"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมธุรกิจค้าปลีกสมัยใหม่",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาเศรษฐศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาเศรษฐศาสตร์เกษตรและสิ่งแวดล้อม",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาเศรษฐศาสตร์ดิจิทัลและการสหกรณ์",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาเศรษฐศาสตร์ระหว่างประเทศ (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 แผนวิทย์-คณิต GPA คณิต ≥2.50, วิทย์ ≥2.50, ภาษาต่างประเทศ ≥3.00"
+    },
+    {
+      "program_name_th": "สาขาวิชาพัฒนาการท่องเที่ยว",
+      "tcas_code": null,
+      "faculty_th": "คณะพัฒนาการท่องเที่ยว",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการธุรกิจท่องเที่ยวและบริการ (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "คณะพัฒนาการท่องเที่ยว",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "ความถนัดทั่วไป",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน GPA ภาษาต่างประเทศ ≥2.50 / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาพัฒนาการท่องเที่ยว",
+      "tcas_code": null,
+      "faculty_th": "มหาวิทยาลัยแม่โจ้-แพร่ เฉลิมพระเกียรติ (จังหวัดแพร่)",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา / GED Ready 155 ขึ้นไป หรือ GED ทั่วไป 145 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาการท่องเที่ยวและบริการ",
+      "tcas_code": null,
+      "faculty_th": "มหาวิทยาลัยแม่โจ้-ชุมพร (จังหวัดชุมพร)",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชานิเทศศาสตร์บูรณาการ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "การคิดอย่างมีเหตุผล",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "สมรรถนะการทำงาน",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / ปวช. สาขาศิลปกรรม เทคโนโลยีสารสนเทศ คอมพิวเตอร์กราฟิก การออกแบบและมัลติมีเดีย"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 100,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "45%",
+          "min_threshold": "55"
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "40%",
+          "min_threshold": "55"
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน GPA ภาษาต่างประเทศ ≥3.00"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมสังคม",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "การคิดอย่างมีเหตุผล",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "สมรรถนะการทำงาน",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาการสื่อสารดิจิทัล (วิชาเอกสื่อสารดิจิทัลและมัลติมีเดีย)",
+      "tcas_code": null,
+      "faculty_th": "คณะสารสนเทศและการสื่อสาร",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. สาขาเทคโนโลยีสารสนเทศและการสื่อสาร คอมพิวเตอร์ คอมพิวเตอร์ธุรกิจ / GED Ready 155 ขึ้นไป หรือ GED ทั่วไป 145 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาการสื่อสารดิจิทัล (วิชาเอกเทคโนโลยีสื่อเพื่อเศรษฐกิจสร้างสรรค์)",
+      "tcas_code": null,
+      "faculty_th": "คณะสารสนเทศและการสื่อสาร",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. สาขาเทคโนโลยีสารสนเทศและการสื่อสาร คอมพิวเตอร์ คอมพิวเตอร์ธุรกิจ / GED Ready 155 ขึ้นไป หรือ GED ทั่วไป 145 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชารัฐศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยบริหารศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "สาขาวิชารัฐศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "มหาวิทยาลัยแม่โจ้-แพร่ เฉลิมพระเกียรติ (จังหวัดแพร่)",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา / GED Ready 155 ขึ้นไป หรือ GED ทั่วไป 145 ขึ้นไป"
+    },
+    {
+      "program_name_th": "รัฐศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "มหาวิทยาลัยแม่โจ้-ชุมพร (จังหวัดชุมพร)",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชารัฐประศาสนศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยบริหารศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "การคิดอย่างมีเหตุผล",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "สมรรถนะการทำงาน",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการจัดการชุมชน",
+      "tcas_code": null,
+      "faculty_th": "มหาวิทยาลัยแม่โจ้-แพร่ เฉลิมพระเกียรติ (จังหวัดแพร่)",
+      "seats": 150,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ย",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 ทุกแผนการเรียน / กศน. / ปวช. ทุกประเภทวิชา / GED Ready 155 ขึ้นไป หรือ GED ทั่วไป 145 ขึ้นไป"
+    }
+  ]
+}

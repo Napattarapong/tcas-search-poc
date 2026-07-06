@@ -1,0 +1,119 @@
+{
+  "university": "King Mongkut’s University of Technology North Bangkok",
+  "university_id": "015",
+  "round": "R2",
+  "archetype": "criteria",
+  "program_count": 10,
+  "programs": [
+    {
+      "program_name_th": "บัณฑิตวิทยาลัยวิศวกรรมศาสตร์นานาชาติสิรินธร ไทย-เยอรมัน",
+      "tcas_code": null,
+      "faculty_th": "บัณฑิตวิทยาลัยวิศวกรรมศาสตร์นานาชาติสิรินธร ไทย-เยอรมัน มจพ.",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โครงการรับตรง ผลการเรียน/ผลคะแนน TGAT/TPAT/A-Level และโครงการโควตานักเรียนเรียนดี โรงเรียนเตรียมวิศวกรรมศาสตร์ ไทย-เยอรมัน มจพ. ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "คณะวิทยาศาสตร์ พลังงานและสิ่งแวดล้อม มจพ. วิทยาเขตระยอง",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์ พลังงานและสิ่งแวดล้อม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ วิทยาเขตระยอง",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โครงการโควตา ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "คณะเทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โครงการโควตา ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "โครงการรับตรงใช้คะแนน TGAT/TPAT",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โครงการรับตรงใช้คะแนน TGAT/TPAT ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "โครงการรับตรงสอบข้อเขียน สำหรับผู้มีวุฒิ ม.3 ม.6 ปวช. และ ปวส.",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำหนดสอบข้อเขียนวันเสาร์ที่ 21 มีนาคม 2569 สำหรับผู้มีวุฒิ ม.3 ม.6 ปวช. และ ปวส."
+    },
+    {
+      "program_name_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม มจพ. วิทยาเขตปราจีนบุรี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ วิทยาเขตปราจีนบุรี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สำหรับผู้กำลังศึกษาระดับ ม.6 ปวช. และ ปวส. ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "คณะบริหารธุรกิจและอุตสาหกรรมบริการ มจพ. วิทยาเขตปราจีนบุรี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจและอุตสาหกรรมบริการ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ วิทยาเขตปราจีนบุรี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โครงการโควตา สำหรับผู้กำลังศึกษาระดับ ม.6 ปวช. ปวส. ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี มจพ. วิทยาเขตระยอง",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ วิทยาเขตระยอง",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โครงการโควตา ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "คณะบริหารธุรกิจ มจพ. วิทยาเขตระยอง",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ วิทยาเขตระยอง",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "วิทยาลัยนานาชาติ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โครงการรับตรง ปีการศึกษา 2569"
+    }
+  ]
+}

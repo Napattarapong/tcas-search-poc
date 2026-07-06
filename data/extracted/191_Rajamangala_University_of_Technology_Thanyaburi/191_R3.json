@@ -1,0 +1,1887 @@
+{
+  "university": "Rajamangala University of Technology Thanyaburi",
+  "university_id": "191",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 73,
+  "programs": [
+    {
+      "program_name_th": "การท่องเที่ยว",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 60 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางร่างกายทุกประเภท"
+    },
+    {
+      "program_name_th": "การจัดการการโรงแรม (ปกติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 60 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางร่างกายทุกประเภท"
+    },
+    {
+      "program_name_th": "การจัดการการโรงแรม (พิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 60 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางร่างกายทุกประเภท"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่อการสื่อสาร (ปกติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "35",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีคะแนน TGAT1 ไม่ต่ำกว่า 35 คะแนนต่ำกว่าร้อยละ 60 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางการมองเห็น การพูด การฟัง"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่อการสื่อสาร (พิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "35",
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีคะแนน TGAT1 ไม่ต่ำกว่า 35 คะแนนต่ำกว่าร้อยละ 60 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางการมองเห็น การพูด การฟัง"
+    },
+    {
+      "program_name_th": "อุตสาหกรรมการบริการการบิน",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 60 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางร่างกายทุกประเภท"
+    },
+    {
+      "program_name_th": "พลศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 50 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางร่างกายทุกประเภท"
+    },
+    {
+      "program_name_th": "ภาษาไทยและภาษาจีน เพื่ออุตสาหกรรมการบริการ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 60 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ ไม่รับผู้มีความบกพร่องทางร่างกายทุกประเภท"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่ออาชีพ นานาชาติ หลักสูตรนานาชาติ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "35",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีคะแนน TGAT1 ไม่ต่ำกว่า 20 คะแนนต่ำกว่าร้อยละ 20 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา * ไม่รับผู้มีความบกพร่องทางการมองเห็น การพูด การฟัง"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT5",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 10 ของคะแนนรวมทั้งหมด หมายเหตุ : ต้องมีความสามารถในการมองเห็น โดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร"
+    },
+    {
+      "program_name_th": "วิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT5",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 10 ของคะแนนรวมทั้งหมด หมายเหตุ : ต้องมีความสามารถในการมองเห็น โดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร"
+    },
+    {
+      "program_name_th": "เทคโนโลยีและสื่อสารการศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT5",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 10 ของคะแนนรวมทั้งหมด หมายเหตุ : ต้องมีความสามารถในการมองเห็น โดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการศึกษา และคอมพิวเตอร์ศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT5",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 10 ของคะแนนรวมทั้งหมด หมายเหตุ : ต้องมีความสามารถในการมองเห็น โดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร"
+    },
+    {
+      "program_name_th": "นวัตกรรมการเรียนรู้ และเทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 10 ของคะแนนรวมทั้งหมด หมายเหตุ : 1. ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร 2. ไม่ต้องสอบสมรรถนะวิชาชีพครู"
+    },
+    {
+      "program_name_th": "เทคโนโลยีบริหารงานก่อสร้าง",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การผลิตพืช",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาผู้สมัครที่เลือก มทร.ธัญบุรี ไม่เกินลำดับที่ 5"
+    },
+    {
+      "program_name_th": "สัตวศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาผู้สมัครที่เลือก มทร.ธัญบุรี ไม่เกินลำดับที่ 5"
+    },
+    {
+      "program_name_th": "ประมง",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาผู้สมัครที่เลือก มทร.ธัญบุรี ไม่เกินลำดับที่ 5"
+    },
+    {
+      "program_name_th": "เทคโนโลยีภูมิทัศน์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาผู้สมัครที่เลือก มทร.ธัญบุรี ไม่เกินลำดับที่ 5"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาผู้สมัครที่เลือก มทร.ธัญบุรี ไม่เกินลำดับที่ 5"
+    },
+    {
+      "program_name_th": "การพยาบาลสัตว์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาผู้สมัครที่เลือก มทร.ธัญบุรี ไม่เกินลำดับที่ 5"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต รวม 13 สาขาวิชา (วิศวกรรมเคมี วิศวกรรมโยธา วิศวกรรมไฟฟ้า วิศวกรรมเครื่องกล วิศวกรรมระบบราง วิศวกรรมอุตสาหการ วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม วิศวกรรมสิ่งแวดล้อม วิศวกรรมพอลิเมอร์ วิศวกรรมการผลิตวัสดุสิ่งทอที่ยั่งยืน วิศวกรรมเครื่องกล-เกษตรสมัยใหม่ วิศวกรรมอาหาร วิศวกรรมคอมพิวเตอร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "A-Level 61 (คณิตศาสตร์)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 63",
+          "subject_name_th": "A-Level 63 (ฟิสิกส์)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียนกลุ่มสาระคณิตศาสตร์ ไม่ต่ำกว่า 12 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยี ไม่ต่ำกว่า 22 หน่วยกิต คะแนนต่ำกว่าร้อยละ 5 ของคะแนนรวมทั้งหมด จะไม่รับพิจารณา หมายเหตุ : 1. เลือกสาขาวิชาในชั้นปีที่ 2 ตามเกณฑ์ที่คณะวิศวกรรมศาสตร์กำหนด 2. *สาขาวิชาที่ต้องมีความสามารถในการมองเห็น โดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ จำนวน 10 สาขาวิชา"
+    },
+    {
+      "program_name_th": "วิศวกรรมชลประทานและการจัดการน้ำ*",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "A-Level 61",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 64",
+          "subject_name_th": "A-Level 64",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 22 หน่วยกิต; คะแนนต่ำกว่าร้อยละ 5 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา; ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์อากาศยาน*",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "A-Level 61",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 63",
+          "subject_name_th": "A-Level 63",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนต่ำกว่าร้อยละ 5 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา; ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม - วิศวกรรมเซมิคอนดักเตอร์*",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "A-Level 61",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 22 หน่วยกิต; คะแนนต่ำกว่าร้อยละ 5 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา; ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "การตลาด-การตลาด",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การตลาด-การค้าปลีก",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การตลาด-การจัดนิทรรศการและการตลาดเชิงกิจกรรม",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การจัดการ-การจัดการทรัพยากรมนุษย์",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การจัดการ-นวัตกรรมการจัดการธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "คอมพิวเตอร์ธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การบริหารธุรกิจระหว่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การเงินและการลงทุน",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การจัดการโลจิสติกส์และซัพพลายเชน",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "บัญชีบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "60",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "เศรษฐศาสตร์-เศรษฐศาสตร์ธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "International Business and Logistics หลักสูตรนานาชาติ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "Digital Marketing and Media Creation หลักสูตรนานาชาติ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; หลักสูตรนานาชาติ"
+    },
+    {
+      "program_name_th": "การออกแบบแฟชั่นและนวัตกรรมเครื่องแต่งกาย",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง"
+    },
+    {
+      "program_name_th": "อาหารและโภชนาการ",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง"
+    },
+    {
+      "program_name_th": "นวัตกรรมศิลปะประดิษฐ์สร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง"
+    },
+    {
+      "program_name_th": "การศึกษาปฐมวัย",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT5",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง"
+    },
+    {
+      "program_name_th": "จิตรกรรม",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "40",
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 80 คะแนน; คะแนนต่ำกว่าร้อยละ 25 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "ทัศนศิลป์",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "40",
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 80 คะแนน; คะแนนต่ำกว่าร้อยละ 25 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "ศิลปะไทย",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 70 คะแนน; คะแนนต่ำกว่าร้อยละ 20 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "ออกแบบผลิตภัณฑ์",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "40",
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 80 คะแนน; คะแนนต่ำกว่าร้อยละ 27 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "ออกแบบภายใน",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "40",
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 80 คะแนน; คะแนนต่ำกว่าร้อยละ 27 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "นวัตกรรมการออกแบบผลิตภัณฑ์ร่วมสมัย",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "40",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 70 คะแนน; คะแนนต่ำกว่าร้อยละ 22 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "ศิลปะการออกแบบแฟชั่น",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "40",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 70 คะแนน; คะแนนต่ำกว่าร้อยละ 22 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "ดนตรีสากลศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT5",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT22",
+          "subject_name_th": "TPAT22",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 70 คะแนน; คะแนนต่ำกว่าร้อยละ 20 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "ศิลปศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT5",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง / ม.6 หลักสูตรนานาชาติ; ต้องมีคะแนนรวมไม่ต่ำกว่า 70 คะแนน; คะแนนต่ำกว่าร้อยละ 20 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการผลิตภาพยนตร์และวิทยุโทรทัศน์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ ไม่ต่ำกว่า 2.75; ต้องมีคะแนนรวมไม่ต่ำกว่า 80 คะแนน; เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 4 หน่วยกิต"
+    },
+    {
+      "program_name_th": "ครีเอทีฟมีเดียเทคโนโลยี-เทคโนโลยีการพัฒนาเกมดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ครีเอทีฟมีเดียเทคโนโลยี-เทคโนโลยีการพัฒนาเว็บไซต์ฟูลสแต็ก",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "เทคโนโลยีการพิมพ์ดิจิทัลและบรรจุภัณฑ์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีคะแนนรวมไม่ต่ำกว่า 80 คะแนน; คะแนนต่ำกว่าร้อยละ 20 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา; รับผู้สมัครอายุไม่น้อยกว่า 18 ปี (เกิดวันที่ 12 พฤษภาคม 2551) และไม่เกิน 22 ปี (เกิดวันที่ 12 พฤษภาคม 2547); มีสุขภาพสมบูรณ์ทั้งร่างกายและจิตใจ ไม่เป็นโรคหรือภาวะอื่นๆ ที่อาจก่อให้เกิดอุปสรรคต่อการศึกษาและปฏิบัติงานในสาขาวิชา; เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 4 หน่วยกิต"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการโฆษณาและประชาสัมพันธ์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการปฏิบัติงานในสาขาวิชาที่สมัคร; ผู้ที่มีผลงานเป็นที่รู้จักอย่างแพร่หลายทางด้านการผลิตสื่อบน Platform online เช่น TikTok Youtube Facebook Instagram หรือเป็นผู้ที่มีผลงานประกวดที่ได้รับรางวัลระดับเขต/ระดับประเทศ จะได้รับการพิจารณาเป็นพิเศษ; ผู้ที่มีผลการทดสอบภาษาอังกฤษระดับ B1 หรือเทียบเท่า จะได้รับการพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการผลิตภาพยนตร์และวิทยุโทรทัศน์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "พิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ ไม่ต่ำกว่า 2.75; ต้องมีคะแนนรวมไม่ต่ำกว่า 80 คะแนน; เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 4 หน่วยกิต"
+    },
+    {
+      "program_name_th": "ครีเอทีฟมีเดียเทคโนโลยี-เทคโนโลยีการพัฒนาเกมดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "พิเศษ",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "คณิตศาสตร์ประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้คณิตศาสตร์ ไม่ต่ำกว่า 2.50; เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร"
+    },
+    {
+      "program_name_th": "ชีววิทยาประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี ไม่ต่ำกว่า 2.00; เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (มีใบรับรองแพทย์ระบุตาไม่บอดสี); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "สถิติประยุกต์และวิทยาการวิเคราะห์ข้อมูล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร"
+    },
+    {
+      "program_name_th": "เคมีประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้คณิตศาสตร์ ไม่ต่ำกว่า 2.00; GPAX กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี ไม่ต่ำกว่า 2.00; เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (มีใบรับรองแพทย์ระบุตาไม่บอดสี); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศและการสื่อสารดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระคณิตศาสตร์ ไม่ต่ำกว่า 2.50; GPAX กลุ่มสาระวิทยาศาสตร์และเทคโนโลยี ไม่ต่ำกว่า 2.50; GPAX กลุ่มสาระภาษาต่างประเทศ ไม่ต่ำกว่า 2.25; เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต วิทยาศาสตร์ไม่ต่ำกว่า 15 หน่วยกิต ภาษาต่างประเทศไม่ต่ำกว่า 6 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระคณิตศาสตร์ ไม่ต่ำกว่า 2.50; GPAX กลุ่มสาระวิทยาศาสตร์และเทคโนโลยี ไม่ต่ำกว่า 2.25; GPAX กลุ่มสาระภาษาต่างประเทศ ไม่ต่ำกว่า 2.00; เรียนคณิตศาสตร์ไม่ต่ำกว่า 10 หน่วยกิต วิทยาศาสตร์ไม่ต่ำกว่า 15 หน่วยกิต ภาษาต่างประเทศไม่ต่ำกว่า 9 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (มีใบรับรองแพทย์ระบุตาไม่บอดสี); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีและนวัตกรรมวัสดุ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียนกลุ่มสาระคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์อาหารและการจัดการเทคโนโลยีอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 22 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (มีใบรับรองแพทย์ระบุตาไม่บอดสี); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "การวิเคราะห์และจัดการข้อมูลขนาดใหญ่",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้คณิตศาสตร์ ไม่ต่ำกว่า 2.30; เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT4",
+          "subject_name_th": "TPAT4",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีคะแนนรวมไม่ต่ำกว่า 50 คะแนน; คะแนนต่ำกว่าร้อยละ 20 ของคะแนนรวมทั้งหมดจะไม่รับพิจารณา"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรมภายใน",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "ปกติ",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "การแพทย์แผนไทยประยุกต์บัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะการแพทย์บูรณาการ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT วิชาความถนัดทั่วไป",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT1",
+          "subject_name_th": "TPAT 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX = 10%, A-Level 82 ภาษาอังกฤษ = 10%; มีสุขภาพร่างกายสมบูรณ์ แข็งแรง ปราศจากโรคที่เป็นอุปสรรคต่อการศึกษาและประกอบอาชีพการแพทย์แผนไทยประยุกต์; ต้องมีใบรับรองแพทย์ 5 โรค และใบรับรองแพทย์ภาวะตาบอดสี; เรียนคณิตศาสตร์ไม่น้อยกว่า 12 หน่วยกิต และวิทยาศาสตร์ไม่น้อยกว่า 22 หน่วยกิต"
+    },
+    {
+      "program_name_th": "สุขภาพและความงาม",
+      "tcas_code": null,
+      "faculty_th": "คณะการแพทย์บูรณาการ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร; รับทุกกลุ่มสาระการเรียนรู้"
+    },
+    {
+      "program_name_th": "นวัตกรรมผลิตภัณฑ์สุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะการแพทย์บูรณาการ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติในสาขาวิชาที่สมัคร; เรียนคณิตศาสตร์ไม่น้อยกว่า 6 หน่วยกิต และวิทยาศาสตร์ไม่น้อยกว่า 6 หน่วยกิต"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT วิชาความถนัดทั่วไป",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีผลการตรวจสุขภาพตามแบบฟอร์มที่คณะพยาบาลศาสตร์กำหนด นำมาในวันสอบสัมภาษณ์; ส่วนสูงไม่น้อยกว่า 150 ซม. น้ำหนักไม่ต่ำกว่า 40 กก. ค่าดัชนีมวลกายไม่ควรต่ำกว่า 17 และไม่ควรสูงกว่า 30; ไม่รับกศน. หรือเทียบเท่า"
+    }
+  ]
+}

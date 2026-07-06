@@ -1,0 +1,1155 @@
+{
+  "university": "Rajamangala University of Technology Krungthep",
+  "university_id": "192",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 62,
+  "programs": [
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต (การท่องเที่ยว)",
+      "tcas_code": "5010110",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 85,
+      "project_code": null,
+      "round_label": "TCAS3 Admission",
+      "gpax_min": "2.70",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษาหรือกำลังศึกษา ม.6; มีคุณสมบัติอื่นๆ ตามข้อบังคับของมหาวิทยาลัย"
+    },
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต (การโรงแรม)",
+      "tcas_code": "5010210",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "TCAS3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่พิการทางร่างกาย น้ำหนักเหมาะสมกับส่วนสูง; ชาย: ส่วนสูงไม่ต่ำกว่า 170 ซม. น้ำหนัก 50-70 กก.; หญิง: ส่วนสูงไม่ต่ำกว่า 155 ซม. น้ำหนัก 40-60 กก."
+    },
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต (ภาษาอังกฤษเพื่อการสื่อสารสากล)",
+      "tcas_code": "5010310",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "TCAS3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level Eng",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "100%",
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "มีผลการเรียนเฉลี่ยของกลุ่มสาระการเรียนรู้ภาษาต่างประเทศไม่น้อยกว่า 2.50"
+    },
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต (ภาษาญี่ปุ่น)",
+      "tcas_code": "5010510",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 85,
+      "project_code": null,
+      "round_label": "TCAS3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษาหรือกำลังศึกษา ม.6; มีคุณสมบัติอื่นๆ ตามข้อบังคับของมหาวิทยาลัย"
+    },
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต (ภาษาจีนเพื่อการสื่อสาร)",
+      "tcas_code": "5010710",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "TCAS3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษาหรือกำลังศึกษา ม.6 ที่กระทรวงศึกษาธิการรับรอง; มีคุณสมบัติอื่นๆ ตามข้อบังคับของมหาวิทยาลัย"
+    },
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต (การออกแบบนวัตกรรมผลิตภัณฑ์ ภูมิปัญญาไทย)",
+      "tcas_code": "5010910",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "TCAS3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษาหรือกำลังศึกษา ม.6 หรือเทียบเท่าที่กระทรวงศึกษาธิการรับรอง; มีคุณสมบัติอื่นๆ ตามข้อบังคับของมหาวิทยาลัย"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (เคมี)",
+      "tcas_code": "5020310",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 80,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีจำนวนหน่วยกิตคณิตศาสตร์ไม่น้อยกว่า 6 และวิทยาศาสตร์และเทคโนโลยีไม่น้อยกว่า 6 หน่วยกิต"
+    },
+    {
+      "program_name_th": "เทคโนโลยีบัณฑิต (ออกแบบผลิตภัณฑ์อุตสาหกรรม)",
+      "tcas_code": "5020710",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "เทคโนโลยีบัณฑิต (เทคโนโลยีการถ่ายภาพและภาพยนตร์)",
+      "tcas_code": "5020810",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "เทคโนโลยีบัณฑิต (เทคโนโลยีการพิมพ์ดิจิทัลและออกแบบบรรจุภัณฑ์)",
+      "tcas_code": "5020910",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีใบรับรองแพทย์ที่ผ่านการทดสอบตาไม่บอดสี"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (วิทยาการคอมพิวเตอร์)",
+      "tcas_code": "5021010",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่พิการทางร่างกาย ไม่มีความบกพร่องทางสติปัญญา การเรียนรู้ การสื่อสาร พฤติกรรมหรืออารมณ์ ออทิสติก"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (เทคโนโลยีและการจัดการความปลอดภัยของอาหาร)",
+      "tcas_code": "5021410",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "เทคโนโลยีบัณฑิต (เทคโนโลยีสื่อดิจิทัลและสื่อสารมวลชน)",
+      "tcas_code": "5021610",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีใบรับรองแพทย์ที่ผ่านการทดสอบตาไม่บอดสีและความไม่พิการทางร่างกาย"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (วิทยาศาสตร์เพื่อสุขภาพและความงาม)",
+      "tcas_code": "5021710",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (เทคโนโลยีพลังงานเพื่อสิ่งแวดล้อม)",
+      "tcas_code": "5021910",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สายวิทย์-คณิต"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (เทคโนโลยีสารสนเทศ)",
+      "tcas_code": "5022010",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่พิการทางร่างกาย ไม่มีความบกพร่องทางสติปัญญา การเรียนรู้ การสื่อสาร พฤติกรรมหรืออารมณ์ ออทิสติก"
+    },
+    {
+      "program_name_th": "อุตสาหกรรมศาสตรบัณฑิต (เทคโนโลยียานยนต์สมัยใหม่)",
+      "tcas_code": "5031710",
+      "faculty_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ครุศาสตร์อุตสาหกรรมบัณฑิต (วิศวกรรมเครื่องกล)",
+      "tcas_code": "5031810",
+      "faculty_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ครุศาสตร์อุตสาหกรรมบัณฑิต (วิศวกรรมอุตสาหการ)",
+      "tcas_code": "5031910",
+      "faculty_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "อุตสาหกรรมศาสตรบัณฑิต (เทคโนโลยีวิศวกรรมอุตสาหการสมัยใหม่) วิชาเอกวิศวกรรมการผลิต",
+      "tcas_code": "5032010",
+      "faculty_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จปริญญาตรีโดยการเทียบโอนหน่วยกิตได้"
+    },
+    {
+      "program_name_th": "อุตสาหกรรมศาสตรบัณฑิต (เทคโนโลยีวิศวกรรมอุตสาหการสมัยใหม่) วิชาเอกเทคโนโลยีโลหการและนวัตกรรมวัสดุ",
+      "tcas_code": "5032020",
+      "faculty_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จปริญญาตรีโดยการเทียบโอนหน่วยกิตได้"
+    },
+    {
+      "program_name_th": "อุตสาหกรรมศาสตรบัณฑิต (เทคโนโลยีวิศวกรรมอุตสาหการสมัยใหม่) วิชาเอกวิศวกรรมเครื่องกลและพลังงาน",
+      "tcas_code": "5032030",
+      "faculty_th": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จปริญญาตรีโดยการเทียบโอนหน่วยกิตได้"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมโยธา)",
+      "tcas_code": "5040110",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.80",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "10"
+        }
+      ],
+      "other_conditions_th": "แผนการเรียนคณิตศาสตร์-วิทยาศาสตร์ มีหน่วยกิตคณิตศาสตร์และวิทยาศาสตร์รวมกันไม่น้อยกว่า 25 หน่วยกิต เกรดเฉลี่ยไม่น้อยกว่า 2.75"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมไฟฟ้า)",
+      "tcas_code": "5040210",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "แผนการเรียนคณิตศาสตร์-วิทยาศาสตร์ มีหน่วยกิตคณิตศาสตร์และวิทยาศาสตร์รวมกันไม่น้อยกว่า 21 หน่วยกิต เกรดเฉลี่ยไม่น้อยกว่า 2.50"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมเครื่องกล)",
+      "tcas_code": "5040310",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ชาย/หญิง ส่วนสูงไม่ต่ำกว่า 150 ซม. มีหน่วยกิตคณิตศาสตร์ วิทยาศาสตร์ และภาษาต่างประเทศรวมไม่น้อยกว่า 21 หน่วยกิต ภาษาไทยไม่น้อยกว่า 6 หน่วยกิต เกรดเฉลี่ยแต่ละกลุ่มไม่น้อยกว่า 2.00"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมอุตสาหการ) วิชาเอกวิศวกรรมอุตสาหการ",
+      "tcas_code": "5040410",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมอุตสาหการ) วิชาเอกวิศวกรรมการผลิตความแม่นยำสูง",
+      "tcas_code": "5040420",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม)",
+      "tcas_code": "5040610",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สายวิทยาศาสตร์-คณิตศาสตร์"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมเคมี)",
+      "tcas_code": "5040810",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สายวิทยาศาสตร์-คณิตศาสตร์"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมสำรวจ)",
+      "tcas_code": "5041110",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สายวิทย์-คณิต"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมอัตโนมัติและหุ่นยนต์)",
+      "tcas_code": "5041310",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สายวิทยาศาสตร์-คณิตศาสตร์ หรือเรียนวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 20 หน่วยกิต"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมคอมพิวเตอร์และระบบไอโอที)",
+      "tcas_code": "5041910",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 21,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "การคิดอย่างมีเหตุผล",
+          "weight_percent": "20",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "สมรรถนะการทำงาน",
+          "weight_percent": "10",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "70",
+          "min_threshold": "70"
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จปริญญาตรีโดยการเทียบโอนรายวิชาได้"
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การตลาด) กลุ่มวิชาการบริหารการตลาด ปกติ",
+      "tcas_code": "5050210",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การตลาด) กลุ่มวิชาการบริหารการตลาด พิเศษ",
+      "tcas_code": "5050212",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 100,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ภาคพิเศษ จันทร์-ศุกร์ 13.00-21.00 น."
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การตลาด) กลุ่มวิชาการตลาดระหว่างประเทศและโลจิสติกส์ ปกติ",
+      "tcas_code": "5050220",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การตลาด) กลุ่มวิชาการตลาดระหว่างประเทศและโลจิสติกส์ พิเศษ",
+      "tcas_code": "5050222",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 100,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ภาคพิเศษ จันทร์-ศุกร์ 13.00-21.00 น."
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การจัดการธุรกิจสมัยใหม่) กลุ่มวิชาการจัดการทั่วไป",
+      "tcas_code": "5050310",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การจัดการธุรกิจสมัยใหม่) กลุ่มวิชาการจัดการทรัพยากรมนุษย์",
+      "tcas_code": "5050320",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บัญชีบัณฑิต ปกติ",
+      "tcas_code": "5050410",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 65,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "ความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บัญชีบัณฑิต พิเศษ",
+      "tcas_code": "5050412",
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ภาคพิเศษ จันทร์-ศุกร์ 13.00-20.00 น."
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (นวัตกรรมระบบสารสนเทศ)",
+      "tcas_code": "5050510",
+      "faculty_th": "วิทยาลัยการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "1.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำหรับหลักสูตรนานาชาติต้องเป็นโรงเรียนนานาชาติในประเทศไทยเท่านั้น"
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การเงินและนวัตกรรมทางการเงิน)",
+      "tcas_code": "5050610",
+      "faculty_th": "วิทยาลัยการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การสื่อสารธุรกิจระหว่างประเทศ)",
+      "tcas_code": "5050710",
+      "faculty_th": "วิทยาลัยการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1 การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2 การคิดอย่างมีเหตุผล",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การสื่อสารธุรกิจระหว่างประเทศ) (พิเศษ)",
+      "tcas_code": "5050712",
+      "faculty_th": "วิทยาลังการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "พิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "จัดการเรียนการสอน จันทร์-พฤหัสบดี 13.00-19.00 น."
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (การประเมินราคาทรัพย์สิน)",
+      "tcas_code": "5050910",
+      "faculty_th": "วิทยาลัยการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "เทคโนโลยีบัณฑิต (เทคโนโลยีสารสนเทศและธุรกิจดิจิทัล)",
+      "tcas_code": "5051020",
+      "faculty_th": "วิทยาลัยการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (ธุรกิจการบิน)",
+      "tcas_code": "5051110",
+      "faculty_th": "วิทยาลัยการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (ดิจิทัลสตาร์ตอัป)",
+      "tcas_code": "5051210",
+      "faculty_th": "วิทยาลัยการบริหารและจัดการ (คณะที่เกี่ยวข้อง)",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาระดับปริญญาตรีทุกสาขาวิชา โดยการเทียบโอนหน่วยกิต"
+    },
+    {
+      "program_name_th": "คหกรรมศาสตรบัณฑิต (อาหารและโภชนาการ)",
+      "tcas_code": "5060210",
+      "faculty_th": "วิทยาลัยคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่พิการทางร่างกายเพื่อความเหมาะสมในการปฏิบัติงานด้านอาหาร; สามารถสื่อสาร อธิบายและเข้าใจได้อย่างดี"
+    },
+    {
+      "program_name_th": "ศึกษาศาสตรบัณฑิต (คหกรรมศาสตร์ศึกษา)",
+      "tcas_code": "5060310",
+      "faculty_th": "วิทยาลัยคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (เทคโนโลยีอาหารและนวัตกรรม)",
+      "tcas_code": "5060610",
+      "faculty_th": "วิทยาลัยคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "คหกรรมศาสตรบัณฑิต (เทคโนโลยีเสื้อผ้าและแพตเทิร์น)",
+      "tcas_code": "5060810",
+      "faculty_th": "วิทยาลังคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาระดับปริญญาตรีหลักสูตรอื่น โดยวิธีเทียบโอนรายวิชา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีบัณฑิต (การออกแบบแฟชั่น)",
+      "tcas_code": "5060910",
+      "faculty_th": "วิทยาลังคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "คหกรรมศาสตรบัณฑิต (ธุรกิจอาหาร)",
+      "tcas_code": "5061010",
+      "faculty_th": "วิทยาลังคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่พิการทางร่างกายเพื่อความเหมาะสมในการปฏิบัติงานด้านอาหาร; สามารถสื่อสาร อธิบายและเข้าใจได้อย่างดี"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต (อาหารและการพัฒนาผลิตภัณฑ์)",
+      "tcas_code": "5061210",
+      "faculty_th": "วิทยาลังคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "คหกรรมศาสตรบัณฑิต (คหกรรมศาสตร์)",
+      "tcas_code": "5061310",
+      "faculty_th": "วิทยาลังคหกรรมศาสตร์ (คณะที่เกี่ยวข้อง)",
+      "seats": 35,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาระดับปริญญาตรีทุกสาขาวิชา โดยการเทียบโอนหน่วยกิต"
+    },
+    {
+      "program_name_th": "เทคโนโลยีบัณฑิต (ออกแบบสิ่งทอและแฟชั่น)",
+      "tcas_code": "5072010",
+      "faculty_th": "วิทยาลังอุตสาหกรรมสิ่งทอและการออกแบบแฟชั่น (คณะที่เกี่ยวข้อง)",
+      "seats": 35,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (ผู้ประกอบการธุรกิจแฟชั่น)",
+      "tcas_code": "5072210",
+      "faculty_th": "วิทยาลังอุตสาหกรรมสิ่งทอและการออกแบบแฟชั่น (คณะที่เกี่ยวข้อง)",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "บริหารธุรกิจบัณฑิต (ผู้ประกอบการธุรกิจแฟชั่น) (พิเศษ)",
+      "tcas_code": "5072212",
+      "faculty_th": "วิทยาลังอุตสาหกรรมสิ่งทอและการออกแบบแฟชั่น (คณะที่เกี่ยวข้อง)",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "พิเศษ",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "จัดการเรียนการสอน จันทร์-ศุกร์ 18.00-22.00 น."
+    },
+    {
+      "program_name_th": "หลักสูตรนานาชาติ บริหารธุรกิจบัณฑิต (การจัดการธุรกิจระหว่างประเทศ)",
+      "tcas_code": "5080310",
+      "faculty_th": "วิทยาลัยนานาชาติ",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์คะแนนภาษาอังกฤษ: TOEFL iBT ≥ 64 หรือ IELTS ≥ 5.0 หรือ CU-TEP ≥ 60 หรือ TOEIC ≥ 600; หากไม่มีต้องสอบวัดความรู้ภาษาอังกฤษของวิทยาลัยนานาชาติ ไม่น้อยกว่า 70%"
+    },
+    {
+      "program_name_th": "หลักสูตรนานาชาติ บริหารธุรกิจบัณฑิต (การจัดการการท่องเที่ยวและบริการนานาชาติ)",
+      "tcas_code": "5080410",
+      "faculty_th": "วิทยาลังนานาชาติ",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์คะแนนภาษาอังกฤษ: TOEFL iBT ≥ 64 หรือ IELTS ≥ 5.0 หรือ CU-TEP ≥ 60 หรือ TOEIC ≥ 600; หากไม่มีต้องสอบวัดความรู้ภาษาอังกฤษของวิทยาลัยนานาชาติ ไม่น้อยกว่า 70% หรือเข้าเรียน Intensive English"
+    },
+    {
+      "program_name_th": "หลักสูตรนานาชาติ บริหารธุรกิจบัณฑิต (การบัญชีและเทคโนโลยีสารสนเทศ)",
+      "tcas_code": "5080510",
+      "faculty_th": "วิทยาลังนานาชาติ",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์คะแนนภาษาอังกฤษ: TOEFL iBT ≥ 64 หรือ IELTS ≥ 5.0 หรือ CU-TEP ≥ 60 หรือ TOEIC ≥ 600; หากไม่มีต้องสอบวัดความรู้ภาษาอังกฤษของวิทยาลัยนานาชาติ ไม่น้อยกว่า 70%"
+    }
+  ]
+}

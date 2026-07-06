@@ -1,0 +1,4124 @@
+{
+  "university": "Silpakorn University",
+  "university_id": "008",
+  "round": "R2",
+  "archetype": "criteria",
+  "program_count": 147,
+  "programs": [
+    {
+      "program_name_th": "ทัศนศิลป์",
+      "tcas_code": null,
+      "faculty_th": "คณะจิตรกรรม ประติมากรรมและภาพพิมพ์",
+      "seats": 15,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "0100",
+          "subject_name_th": "วาดเส้น",
+          "weight_percent": "25%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "0101",
+          "subject_name_th": "องค์ประกอบศิลป์",
+          "weight_percent": "25%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "0102",
+          "subject_name_th": "สร้างสรรค์",
+          "weight_percent": "25%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "0103",
+          "subject_name_th": "ความรู้ทั่วไปทางศิลปะ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 5 ภาคการศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้ที่กำลังศึกษา ม.6 หรือเทียบเท่า ใน 28 จังหวัดและกรุงเทพมหานคร; สอบสัมภาษณ์ 27 เม.ย. 2569; ต้องสมัครสอบวิชาเฉพาะที่จัดสอบโดยคณะผ่าน admission.su.ac.th"
+    },
+    {
+      "program_name_th": "ทัศนศิลป์ (เอกทฤษฎีศิลป์)",
+      "tcas_code": null,
+      "faculty_th": "คณะจิตรกรรม ประติมากรรมและภาพพิมพ์",
+      "seats": 3,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "0100",
+          "subject_name_th": "วาดเส้น",
+          "weight_percent": "20%",
+          "min_threshold": "40%"
+        },
+        {
+          "subject_code": "0101",
+          "subject_name_th": "องค์ประกอบศิลป์",
+          "weight_percent": "20%",
+          "min_threshold": "40%"
+        },
+        {
+          "subject_code": "0102",
+          "subject_name_th": "สร้างสรรค์",
+          "weight_percent": "20%",
+          "min_threshold": "40%"
+        },
+        {
+          "subject_code": "0103",
+          "subject_name_th": "ความรู้ทั่วไปทางศิลปะ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 5 ภาคการศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้ที่กำลังศึกษา ม.6 หรือเทียบเท่า ใน 28 จังหวัดและกรุงเทพมหานคร; สอบสัมภาษณ์ 27 เม.ย. 2569; ต้องสมัครสอบวิชาเฉพาะที่จัดสอบโดยคณะผ่าน admission.su.ac.th"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 13,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "40",
+          "subject_name_th": "ความถนัดทางสถาปัตยกรรมศาสตร์ (TPAT4)",
+          "weight_percent": "30%",
+          "min_threshold": "30%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "35%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "สัมภาษณ์",
+          "subject_name_th": "สัมภาษณ์และนำเสนอ Portfolio",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้ที่กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ใน 28 จังหวัดและกรุงเทพมหานคร; A-Level 3 วิชารวม 35%; สอบสัมภาษณ์ 27 เม.ย. 2569 ณ คณะสถาปัตยกรรมศาสตร์ วังท้าพระ; Portfolio 10 หน้า A4 ออกแบบ 'บันได'"
+    },
+    {
+      "program_name_th": "ภูมิสถาปัตยกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 3,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "40",
+          "subject_name_th": "ความถนัดทางสถาปัตยกรรมศาสตร์ (TPAT4)",
+          "weight_percent": "30%",
+          "min_threshold": "30%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "35%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "สัมภาษณ์",
+          "subject_name_th": "สัมภาษณ์และนำเสนอ Portfolio",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้ที่กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ใน 28 จังหวัดและกรุงเทพมหานคร; A-Level 3 วิชารวม 35%; สอบสัมภาษณ์ 28 เม.ย. 2569; Portfolio 10 หน้า A4 ออกแบบ 'มุมพักผ่อนกลางแจ้ง'; ส่งเอกสารทางไปรษณีย์ไทย"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรมไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการโควตาความสามารถพิเศษด้านสถาปัตยกรรมไทย",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "สัมภาษณ์",
+          "subject_name_th": "สัมภาษณ์ (ทดสอบความถนัดทางสถาปัตยกรรมไทย และสัมภาษณ์)",
+          "weight_percent": "55%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้ที่กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า; GPAX ไม่ต่ำกว่า 2.75; สอบสัมภาษณ์ 28 เม.ย. 2569 ณ คณะสถาปัตยกรรมศาสตร์ วังท้าพระ; เตรียม Portfolio ด้านศิลปะไทยและสถาปัตยกรรมไทย"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 2,
+      "project_code": "โครงการโควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "Portfolio",
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้ที่กำลังศึกษา ม.6 ในโรงเรียนสาธิตมหาวิทยาลัยศิลปากร; GPAX 5 ภาคการศึกษา ไม่ต่ำกว่า 3.00; Portfolio 10 หน้า A4 ออกแบบ 'บันได'"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรมไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 5,
+      "project_code": "โควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.85",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษา ม.6 ในโรงเรียนสาธิตมหาวิทยาลัยศิลปากร; คัดเลือกด้วย Portfolio (18-20 หน้า A4) และสัมภาษณ์/Verification ผลงาน วันที่ 28 เม.ย. 2569; ส่งเอกสารทางไปรษณีย์ภายใน 5 มี.ค. 2569"
+    },
+    {
+      "program_name_th": "ภูมิสถาปัตยกรรมศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 2,
+      "project_code": "โควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษา ม.6 ในโรงเรียนสาธิตมหาวิทยาลัยศิลปากร; คัดเลือกด้วย Portfolio 10 หน้า A4 (ค่าน้ำหนัก 75%) และสัมภาษณ์ (ค่าน้ำหนัก 25%) วันที่ 28 เม.ย. 2569; ส่งเอกสารทางไปรษณีย์ภายใน 5 มี.ค. 2569"
+    },
+    {
+      "program_name_th": "ประวัติศาสตร์ศิลปะ",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 5,
+      "project_code": "โครงการเสริมสร้างศักยภาพทางวิชาการด้านวัฒนธรรมและภาษา คณะโบราณคดี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "45%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "45%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "45%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "45%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีความรู้/สนใจพิเศษด้านศิลปวัฒนธรรมและได้รับการรับรองจากสถาบัน; Portfolio 10 หน้า A4 (10 คะแนน); GPAX ค่าน้ำหนัก 10%; สัมภาษณ์ 100 คะแนน วันที่ 27 เม.ย. 2569; ส่งเอกสารภายใน 10 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "ประวัติศาสตร์ท้องถิ่น",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 6,
+      "project_code": "โครงการเสริมสร้างศักยภาพทางวิชาการด้านวัฒนธรรมและภาษา คณะโบราณคดี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีความรู้/ความสามารถด้านประวัติศาสตร์ท้องถิ่น วัฒนธรรมและภูมิปัญญาท้องถิ่น และได้รับการรับรอง; เคยเข้าร่วมโครงการวัฒนธรรน้อย 5 กิจกรรม; Portfolio 10 หน้า A4 (50 คะแนน)"
+    },
+    {
+      "program_name_th": "ประวัติศาสตร์ท้องถิ่น",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 2,
+      "project_code": "โครงการความร่วมมือทางวิชาการด้านวัฒนธรรมและภาษา คณะโบราณคดี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษา ม.6 ในโรงเรียนที่อยู่ในโครงการความร่วมมือฯ (โรงเรียนเบญจมราชูทิศ ราชบุรี, โรงเรียนดรุณาราชบุรี); มีความรู้ความสามารถพิเศษด้านประวัติศาสตร์ท้องถิ่น วัฒนธรรมและภูมิปัญญาท้องถิ่น ได้รับการรับรองจากสถาบันการศึกษาหรือหน่วยงานท้องถิ่น; เคยเข้าร่วมโครงการเพิ่มพูนประสบการณ์ด้านวัฒนธรรมท้องถิ่น อย่างน้อย 5 กิจกรรม; คัดเลือกโดยแฟ้มสะสมผลงาน (Portfolio) 50 คะแนน และสัมภาษณ์ 50 คะแนน; สัมภาษณ์ 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "ประวัติศาสตร์ท้องถิ่น",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 2,
+      "project_code": "โครงการการรับนักศึกษาจากโรงเรียนที่มีข้อตกลงความร่วมมือทางวิชาการกับมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษา ม.6 ในโรงเรียนที่อยู่ในโครงการความร่วมมือฯ จำนวน 29 โรงเรียน; มีความรู้ความสามารถพิเศษด้านประวัติศาสตร์ท้องถิ่น วัฒนธรรมและภูมิปัญญาท้องถิ่น ได้รับการรับรองจากสถาบันการศึกษาหรือหน่วยงานท้องถิ่น; เคยเข้าร่วมโครงการเพิ่มพูนประสบการณ์ด้านวัฒนธรรมท้องถิ่น อย่างน้อย 5 กิจกรรม; คัดเลือกโดยแฟ้มสะสมผลงาน (Portfolio) 50 คะแนน และสัมภาษณ์ 50 คะแนน; สัมภาษณ์ 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "การออกแบบนิเทศศิลป์",
+      "tcas_code": null,
+      "faculty_th": "คณะมัณฑนศิลป์",
+      "seats": 5,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า จากสถาบันการศึกษาในเขตภูมิภาคตะวันตก ภาคกลางและภาคใต้ตอนบน 28 จังหวัดและกรุงเทพมหานคร; รับหลักสูตรแกนกลาง นานาชาติ อาชีวศึกษา กศน. และ GED; มีคะแนนสอบวิชาเฉพาะคณะมัณฑนศิลป์ ปี 2569; คัดเลือกโดยวิชาเฉพาะวาดเส้นมัณฑนศิลป์ 50% และวิชาเฉพาะสาขา 50% ผ่านทุกวิชาไม่ต่ำกว่าร้อยละ 50 และสัมภาษณ์เป็นขั้นตอนสุดท้าย 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "การออกแบบผลิตภัณฑ์",
+      "tcas_code": null,
+      "faculty_th": "คณะมัณฑนศิลป์",
+      "seats": 5,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า จากสถาบันการศึกษาในเขตภูมิภาคตะวันตก ภาคกลางและภาคใต้ตอนบน 28 จังหวัดและกรุงเทพมหานคร; รับหลักสูตรแกนกลาง นานาชาติ อาชีวศึกษา กศน. และ GED; มีคะแนนสอบวิชาเฉพาะคณะมัณฑนศิลป์ ปี 2569; คัดเลือกโดยวิชาเฉพาะวาดเส้นมัณฑนศิลป์ 50% และวิชาเฉพาะสาขา 50% ผ่านทุกวิชาไม่ต่ำกว่าร้อยละ 50 และสัมภาษณ์เป็นขั้นตอนสุดท้าย 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "ประยุกตศิลปศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะมัณฑนศิลป์",
+      "seats": 10,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า จากสถาบันการศึกษาในเขตภูมิภาคตะวันตก ภาคกลางและภาคใต้ตอนบน 28 จังหวัดและกรุงเทพมหานคร; รับหลักสูตรแกนกลาง นานาชาติ อาชีวศึกษา กศน. และ GED; มีคะแนนสอบวิชาเฉพาะคณะมัณฑนศิลป์ ปี 2569; คัดเลือกโดยวิชาเฉพาะวาดเส้นมัณฑนศิลป์ 50% และวิชาเฉพาะสาขา 50% ผ่านทุกวิชาไม่ต่ำกว่าร้อยละ 50 และสัมภาษณ์เป็นขั้นตอนสุดท้าย 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "ศิลปะและการออกแบบเครื่องเคลือบดินเผา",
+      "tcas_code": null,
+      "faculty_th": "คณะมัณฑนศิลป์",
+      "seats": 10,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า จากสถาบันการศึกษาในเขตภูมิภาคตะวันตก ภาคกลางและภาคใต้ตอนบน 28 จังหวัดและกรุงเทพมหานคร; รับหลักสูตรแกนกลาง นานาชาติ อาชีวศึกษา กศน. และ GED; มีคะแนนสอบวิชาเฉพาะคณะมัณฑนศิลป์ ปี 2569; คัดเลือกโดยวิชาเฉพาะวาดเส้นมัณฑนศิลป์ 50% และวิชาเฉพาะสาขา 50% ผ่านทุกวิชาไม่ต่ำกว่าร้อยละ 50 และสัมภาษณ์เป็นขั้นตอนสุดท้าย 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "การออกแบบเครื่องประดับ",
+      "tcas_code": null,
+      "faculty_th": "คณะมัณฑนศิลป์",
+      "seats": 10,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า จากสถาบันการศึกษาในเขตภูมิภาคตะวันตก ภาคกลางและภาคใต้ตอนบน 28 จังหวัดและกรุงเทพมหานคร; รับหลักสูตรแกนกลาง นานาชาติ อาชีวศึกษา กศน. และ GED; มีคะแนนสอบวิชาเฉพาะคณะมัณฑนศิลป์ ปี 2569; คัดเลือกโดยวิชาเฉพาะวาดเส้นมัณฑนศิลป์ 50% และวิชาเฉพาะสาขา 50% ผ่านทุกวิชาไม่ต่ำกว่าร้อยละ 50 และสัมภาษณ์เป็นขั้นตอนสุดท้าย 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "การออกแบบแฟชั่น (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะมัณฑนศิลป์",
+      "seats": 10,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า จากสถาบันการศึกษาในเขตภูมิภาคตะวันตก ภาคกลางและภาคใต้ตอนบน 28 จังหวัดและกรุงเทพมหานคร; รับหลักสูตรแกนกลาง นานาชาติ อาชีวศึกษา กศน. และ GED; มีคะแนนสอบวิชาเฉพาะคณะมัณฑนศิลป์ ปี 2569; คัดเลือกโดยวิชาเฉพาะวาดเส้นมัณฑนศิลป์ 50% และวิชาเฉพาะสาขา 50% ผ่านทุกวิชาไม่ต่ำกว่าร้อยละ 50 และสัมภาษณ์เป็นขั้นตอนสุดท้าย 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชายุโรปศึกษา (กลุ่มภาษาเยอรมัน) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "อักษรศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการพิเศษยุโรปศึกษา",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 28 จังหวัด (ภาคตะวันตก ภาคกลาง ภาคใต้ตอนบน); รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชายุโรปศึกษา (กลุ่มภาษาฝรั่งเศส) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "อักษรศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการพิเศษยุโรปศึกษา",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 28 จังหวัด (ภาคตะวันตก ภาคกลาง ภาคใต้ตอนบน); รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชายุโรปศึกษา (กลุ่มภาษาเยอรมัน) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "อักษรศาสตร์",
+      "seats": 2,
+      "project_code": "โครงการนักเรียนเรียนดีด้านภาษายุโรป (เฉพาะพื้นที่ กทม.)",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจากโรงเรียนในเขตกรุงเทพมหานคร; GPAX ไม่ต่ำกว่า 3.50; ผลการเรียนเฉลี่ยวิชาภาษาอังกฤษและภาษาเยอรมัน ไม่ต่ำกว่า 3.50; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชายุโรปศึกษา (กลุ่มภาษาฝรั่งเศส) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "อักษรศาสตร์",
+      "seats": 2,
+      "project_code": "โครงการนักเรียนเรียนดีด้านภาษายุโรป (เฉพาะพื้นที่ กทม.)",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจากโรงเรียนในเขตกรุงเทพมหานคร; GPAX ไม่ต่ำกว่า 3.50; ผลการเรียนเฉลี่ยวิชาภาษาอังกฤษและภาษาฝรั่งเศส ไม่ต่ำกว่า 3.50; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชายุโรปศึกษา (กลุ่มภาษาเยอรมัน) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "อักษรศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการการรับนักศึกษาจากโรงเรียนที่มีข้อตกลงความร่วมมือทางวิชาการกับมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 29 โรงเรียนในเขตพื้นที่การศึกษามัธยมศึกษานครปฐมที่มีข้อตกลงความร่วมมือกับมหาวิทยาลัยศิลปากร; GPAX ไม่ต่ำกว่า 3.50; ผลการเรียนเฉลี่ยวิชาภาษาอังกฤษ ไม่ต่ำกว่า 3.50; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชายุโรปศึกษา (กลุ่มภาษาฝรั่งเศส) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "อักษรศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการการรับนักศึกษาจากโรงเรียนที่มีข้อตกลงความร่วมมือทางวิชาการกับมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 29 โรงเรียนในเขตพื้นที่การศึกษามัธยมศึกษานครปฐมที่มีข้อตกลงความร่วมมือกับมหาวิทยาลัยศิลปากร; GPAX ไม่ต่ำกว่า 3.50; ผลการเรียนเฉลี่ยวิชาภาษาอังกฤษ ไม่ต่ำกว่า 3.50; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาไทย",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 2,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 28 จังหวัดและ กทม.; ไม่มีร่างกายทุพพลภาพหรือความพิการเป็นอุปสรรคต่อวิชาชีพครู; GPAX ไม่ต่ำกว่า 3.00; ผลการเรียนเฉลี่ยวิชาภาษาไทย ไม่ต่ำกว่า 3.50; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษ",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 25,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "60%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 28 จังหวัดและ กทม.; รับหลักสูตรแกนกลาง/นานาชาติ; สอบสัมภาษณ์ ค่าน้ำหนัก 20% วันที่ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 10,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "55%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 28 จังหวัดและ กทม.; รับหลักสูตรแกนกลาง/นานาชาติ; สอบสัมภาษณ์ ค่าน้ำหนัก 20% วันที่ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 25,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "นักเรียนจาก 28 จังหวัดและ กทม.; ไม่มีร่างกายทุพพลภาพหรือความพิการเป็นอุปสรรคต่อวิชาชีพครู; GPAX ไม่ต่ำกว่า 3.25 (ค่าน้ำหนัก GPAX 10%); ต้องมีใบรายงานการตรวจสุขภาพและเอกซเรย์ร่างกาย; ต้องส่ง Portfolio; สอบสัมภาษณ์ 27 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชาการประถมศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 20,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "นักเรียนจาก 28 จังหวัดและ กทม.; รับเฉพาะหลักสูตรแกนกลาง; เกณฑ์คัดเลือกและสอบสัมภาษณ์ดูต่อในหน้าถัดไป"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาการศึกษาปฐมวัย",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "25%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อการปฏิบัติงานในวิชาชีพครู; มีผลการตรวจสุขภาพและเอกซเรย์ร่างกาย; สอบสัมภาษณ์ 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาการศึกษาปฐมวัย (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "25%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อการปฏิบัติงานในวิชาชีพครู; มีผลการตรวจสุขภาพและเอกซเรย์ร่างกาย; สอบสัมภาษณ์ 27 เมษายน 2569; รายละเอียดหลักสูตร https://shorturl.at/qJyvn"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาคณิตศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "GPAX ไม่ต่ำกว่า 3.00 และผลการเรียนเฉลี่ยวิชาคณิตศาสตร์ ไม่ต่ำกว่า 3.00; เรียนรายวิชาคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต; GPAX ค่าน้ำหนัก 10%; ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อวิชาชีพครู; สอบสัมภาษณ์ 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาคณิตศาสตร์ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "GPAX ไม่ต่ำกว่า 2.75 และผลการเรียนเฉลี่ยวิชาคณิตศาสตร์ ไม่ต่ำกว่า 2.75; เรียนรายวิชาคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต; GPAX ค่าน้ำหนัก 15%; ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อวิชาชีพครู; สอบสัมภาษณ์ 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาภาษาจีน (โครงการพิเศษ 1 ปริญญา)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ 1 ปริญญา",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "40%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; สัมภาษณ์ ค่าน้ำหนัก 10% วันที่ 27 เมษายน 2569; ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อวิชาชีพครู"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาภาษาจีน (โครงการพิเศษ 2 ปริญญา)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ 2 ปริญญา",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "40%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "1. ปริญญาศึกษาศาสตรบัณฑิต สาขาวิชาภาษาจีน มหาวิทยาลัยศิลปากร 2. B.A. จากมหาวิทยาลัยยูนนาน ประเทศจีน; GPAX ค่าน้ำหนัก 10%; สัมภาษณ์ ค่าน้ำหนัก 10% วันที่ 27 เมษายน 2569; ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อวิชาชีพครู"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาเทคโนโลยีการศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; สอบสัมภาษณ์ ค่าน้ำหนัก 30% (Online) วันที่ 27 เมษายน 2569; แฟ้มสะสมผลงาน (Portfolio) ฉบับจริง"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาเทคโนโลยีการศึกษา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 20,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; สอบสัมภาษณ์ ค่าน้ำหนัก 30% (Online) วันที่ 27 เมษายน 2569; แฟ้มสะสมผลงาน (Portfolio) ฉบับจริง"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาจิตวิทยา",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "30%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "30%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "30%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อการปฏิบัติงานจิตวิทยา; มีผลการตรวจสุขภาพและเอกซเรย์ร่างกาย; สอบสัมภาษณ์ ค่าน้ำหนัก 10% วันที่ 27 เมษายน 2569"
+    },
+    {
+      "program_name_th": "จิตวิทยา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "ศิลปศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อการปฏิบัติงานจิตวิทยา; ต้องมีผลการตรวจสุขภาพและเอกซเรย์ร่างกาย"
+    },
+    {
+      "program_name_th": "การศึกษาตลอดชีวิต",
+      "tcas_code": null,
+      "faculty_th": "ศิลปศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%"
+    },
+    {
+      "program_name_th": "ศิลปศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดทางศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; กรณีได้รับรางวัลการแข่งขันทักษะทางศิลปะจะได้รับการพิจารณาเป็นพิเศษ; ไม่มีร่างกายทุพพลภาพหรือปัญหาด้านสุขภาพจิตอันเป็นอุปสรรคต่อวิชาชีพครู"
+    },
+    {
+      "program_name_th": "ศิลปศึกษา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดทางศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; ไม่มีร่างกายทุพพลภาพหรือปัญหาด้านสุขภาพจิตอันเป็นอุปสรรคต่อวิชาชีพครู"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์ศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีผลการเรียนเฉลี่ยสะสมวิชาวิทยาศาสตร์ 5 ภาคการศึกษา ไม่ต่ำกว่า 2.50; ไม่เป็นผู้มีร่างกายทุพพลภาพที่เป็นอุปสรรคต่อการเป็นครู"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์ศึกษา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีผลการเรียนเฉลี่ยสะสมวิชาวิทยาศาสตร์ 5 ภาคการศึกษา ไม่ต่ำกว่า 2.50; ไม่เป็นผู้มีร่างกายทุพพลภาพที่เป็นอุปสรรคต่อการเป็นครู"
+    },
+    {
+      "program_name_th": "ภาษาจีน (โครงการพิเศษ 1 ปริญญา)",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการโควตาโรงเรียนในเครือข่าย 19 โรงเรียน",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "40%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; สำหรับนักเรียนจากโรงเรียนในเครือข่าย 19 โรงเรียน; ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อวิชาชีพครู"
+    },
+    {
+      "program_name_th": "ภาษาจีน (โครงการพิเศษ 2 ปริญญา)",
+      "tcas_code": null,
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการโควตาโรงเรียนในเครือข่าย 19 โรงเรียน",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "40%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; สำหรับนักเรียนจากโรงเรียนในเครือข่าย 19 โรงเรียน; ปริญญา 1: ศึกษาศาสตรบัณฑิต สาขาวิชาภาษาจีน มหาวิทยาลัยศิลปากร / ปริญญา 2: B.A. จากมหาวิทยาลัยยูนนาน ประเทศจีน; ไม่มีร่างกายทุพพลภาพหรือความพิการอันเป็นอุปสรรคต่อวิชาชีพครู"
+    },
+    {
+      "program_name_th": "ชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "50%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เคมี",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "ฟิสิกส์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "20%",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "10%",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "60%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "จุลชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "10%",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "60%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เคมีประยุกต์และจุลชีววิทยาอุตสาหกรรม",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เคมีผลิตภัณฑ์และธุรกิจเครื่องสำอาง",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "20%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์ประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "30%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "ชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "30%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เคมี",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "70%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "ฟิสิกส์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "50%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "สถิติและวิทยาการวิเคราะห์ข้อมูล",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "30%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์สิ่งแวดล้อม",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "15%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "55%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "10%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "60%",
+          "min_threshold": "30%"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "จุลชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "20%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "60%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "10%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "60%",
+          "min_threshold": "30%"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "วิทยาการข้อมูล",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "30%",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เคมีประยุกต์และจุลชีววิทยาอุตสาหกรรม",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "70%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เคมีผลิตภัณฑ์และธุรกิจเครื่องสำอาง",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "70%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "เภสัชศาสตรบัณฑิต (6 ปี)",
+      "tcas_code": null,
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 10,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "16.65%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษา ม.6 ใน 28 จังหวัดและกรุงเทพมหานคร; ต้องสามารถทำสัญญาผูกพันกับรัฐบาล; สุขภาพแข็งแรง ปราศจากโรค/ความพิการที่เป็นอุปสรรคต่อวิชาชีพเภสัชกรรม; สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 ณ คณะเภสัชศาสตร์ มศิลปากร"
+    },
+    {
+      "program_name_th": "เภสัชศาสตรบัณฑิต (6 ปี) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 25,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "16.65%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษา ม.6 ใน 28 จังหวัดและกรุงเทพมหานคร; ต้องสามารถทำสัญญาผูกพันกับรัฐบาล; สุขภาพแข็งแรง ปราศจากโรค/ความพิการที่เป็นอุปสรรคต่อวิชาชีพเภสัชกรรม; สอบสัมภาษณ์ วันที่ 27 เมษายน 2569 ณ คณะเภสัชศาสตร์ มศิลปากร"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชานวัตกรรมเครื่องสำอางและศิลปะความงาม (โครงการพิเศษ) - รูปแบบที่ 1",
+      "tcas_code": null,
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 20,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX น้ำหนัก 10% (หากเป็นนักเรียนโรงเรียน MOU กับคณะเภสัชศาสตร์ น้ำหนัก MOU 5% + GPAX 5%); กำลังศึกษาหรือสำเร็จ ม.6 ใน 28 จังหวัดและกรุงเทพมหานคร; เลือกสมัครได้ 1 รูปแบบ"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชานวัตกรรมเครื่องสำอางและศิลปะความงาม (โครงการพิเศษ) - รูปแบบที่ 2",
+      "tcas_code": null,
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 20,
+      "project_code": "โครงการโควตา 28 จังหวัดและกรุงเทพมหานคร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX น้ำหนัก 10% (หากเป็นนักเรียนโรงเรียน MOU กับคณะเภสัชศาสตร์ น้ำหนัก MOU 5% + GPAX 5%); กำลังศึกษาหรือสำเร็จ ม.6 ใน 28 จังหวัดและกรุงเทพมหานคร; เลือกสมัครได้ 1 รูปแบบ"
+    },
+    {
+      "program_name_th": "สุขภาพดิจิทัล (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียน ม.6 ในโรงเรียนเขตภูมิภาคตะวันตก ภาคกลาง ภาคใต้ตอนบน 28 จังหวัดและกรุงเทพฯ; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED (GED ต้องมี Equivalence Certificate); สัมภาษณ์ Online 28 เม.ย. 2569; ส่งเอกสารภายใน 5 มี.ค. 2569"
+    },
+    {
+      "program_name_th": "เภสัชศาสตรบัณฑิต (6 ปี) - โครงการร่วมผลิตเภสัชกรปฐมภูมิ",
+      "tcas_code": null,
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 25,
+      "project_code": "โครงการร่วมผลิตเภสัชกรปฐมภูมิ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "16.65%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนไทย ม.6 ในจังหวัด กาญจนบุรี นครปฐม เพชรบุรี ราชบุรี ประจวบคีรีขันธ์ สุพรรณบุรี; ผู้สมัครหรือบิดา/มารดา/ผู้ปกครอง ต้องมีภูมิลำเนาในจังหวัดที่ยื่นสมัครไม่น้อยกว่า 3 ปี; จัดสรรโควตาตามจังหวัด (กาญจนบุรี 4, นครปฐม 4, เพชรบุรี 4, ราชบุรี 4, ประจวบคีรีขันธ์ 3, สุพรรณบุรี 6); สัมภาษณ์ 27 เม.ย. 2569 ณ คณะเภสัชศาสตร์ มศ. พระราชวังสนามจันทร์; ส่งเอกสารภายใน 5 มี.ค. 2569"
+    },
+    {
+      "program_name_th": "เภสัชศาสตรบัณฑิต (6 ปี) (โครงการพิเศษ) - ความร่วมมือกับสมาคมร้านขายยาและสมาคมผู้ประกอบการร้านยารวมใจไทย",
+      "tcas_code": null,
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 15,
+      "project_code": "โครงการความร่วมมือคณะเภสัชศาสตร์กับสมาคมร้านขายยาและสมาคมผู้ประกอบการร้านยารวมใจไทย",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "16.65%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียน ม.6; เป็นบุตรหลานร้านขายยาที่เป็นสมาชิกสมาคมร้านขายยาหรือสมาคมผู้ประกอบการร้านยารวมใจไทย; ต้องมีเอกสารรับรองจากสมาคม; ต้องสามารถทำสัญญาผูกพันกับรัฐบาลหลังจบการศึกษา; ต้องมีสุขภาพสมบูรณ์และปราศจากโรค/ความพิการที่เป็นอุปสรรคตามเกณฑ์ 5.1-5.7; สัมภาษณ์ 27 เม.ย. 2569 ณ คณะเภสัชศาสตร์ มศ. พระราชวังสนามจันทร์; ส่งเอกสารภายใน 5 มี.ค. 2569"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 30%; สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ"
+    },
+    {
+      "program_name_th": "ปิโตรเคมีและวัสดุพอลิเมอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "40%",
+          "min_threshold": "TSCORE ไม่น้อยกว่า 40"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "40%",
+          "min_threshold": "TSCORE ไม่น้อยกว่า 55"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 20%; สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 20,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 50%; สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนด GPAX ขั้นต่ำ; สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ/กศน./GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวมทั้ง 3 วิชา เมื่อคิดเป็นร้อยเปอร์เซ็นต์ต้องไม่น้อยกว่า 30%; สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ"
+    },
+    {
+      "program_name_th": "วิศวกรรมการจัดการและโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมวัสดุและนาโนเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "35%"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ Online 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมกระบวนการชีวภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "70%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 30%; สอบสัมภาษณ์ 28 เม.ย. 2569"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ"
+    },
+    {
+      "program_name_th": "ธุรกิจวิศวกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนด GPAX ขั้นต่ำ; สอบสัมภาษณ์ 28 เม.ย. 2569; รับนักเรียน 28 จังหวัดและกรุงเทพฯ; หลักสูตรแกนกลาง/นานาชาติ/กศน./GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สัมภาษณ์ วันที่ 28 เมษายน 2569 (Onsite หรือ Online)"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดค่าระดับผลการเรียนเฉลี่ยสะสม; สัมภาษณ์ วันที่ 28 เมษายน 2569 (Onsite หรือ Online)"
+    },
+    {
+      "program_name_th": "วิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "30%",
+          "min_threshold": "25% (คะแนนรวม 3 วิชา)"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวมทั้ง 3 วิชา เมื่อคิดเป็นร้อยเปอร์เซ็นต์ต้องไม่น้อยกว่า 25%; สัมภาษณ์ วันที่ 28 เมษายน 2569 (Onsite หรือ Online)"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สัมภาษณ์ วันที่ 28 เมษายน 2569 (Onsite หรือ Online)"
+    },
+    {
+      "program_name_th": "วิศวกรรมการจัดการและโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สัมภาษณ์ วันที่ 28 เมษายน 2569 (Onsite หรือ Online)"
+    },
+    {
+      "program_name_th": "วิศวกรรมวัสดุและนาโนเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "25%"
+        }
+      ],
+      "other_conditions_th": "สัมภาษณ์ วันที่ 28 เมษายน 2569 รูปแบบ Online"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สัมภาษณ์ วันที่ 28 เมษายน 2569 (Onsite หรือ Online)"
+    },
+    {
+      "program_name_th": "ธุรกิจวิศวกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดค่าระดับผลการเรียนเฉลี่ยสะสม; สัมภาษณ์ วันที่ 28 เมษายน 2569 (Onsite หรือ Online)"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาวิศวกรรมเครื่องกล ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; ไม่กำหนดค่าระดับผลการเรียนเฉลี่ยสะสม"
+    },
+    {
+      "program_name_th": "ธุรกิจวิศวกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาธุรกิจวิศวกรรม ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; ไม่กำหนดค่าระดับผลการเรียนเฉลี่ยสะสม"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์ ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; GPAX ไม่ต่ำกว่า 2.50 ของชั้น ม.4-ม.6 (5 ภาคการศึกษา สำหรับผู้ที่กำลังศึกษา ม.6 ในปีการศึกษา 2568)"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาวิศวกรรมไฟฟ้าสื่อสาร ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; GPAX ไม่ต่ำกว่า 2.50 ของชั้น ม.4-ม.6 (5 ภาคการศึกษา สำหรับผู้ที่กำลังศึกษา ม.6 ในปีการศึกษา 2568)"
+    },
+    {
+      "program_name_th": "เทคโนโลยีชีวภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาเทคโนโลยีชีวภาพ ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; GPAX ไม่ต่ำกว่า 2.75 ของชั้นมัธยมศึกษาตอนปลาย (5 ภาคการศึกษา สำหรับ ม.6 ปี 2568 หรือ 6 ภาคการศึกษา สำหรับผู้สำเร็จการศึกษา)"
+    },
+    {
+      "program_name_th": "วิศวกรรมกระบวนการชีวภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาวิศวกรรมกระบวนการชีวภาพ ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; GPAX ไม่ต่ำกว่า 2.75 ของชั้นมัธยมศึกษาตอนปลาย (5 ภาคการศึกษา สำหรับ ม.6 ปี 2568 หรือ 6 ภาคการศึกษา สำหรับผู้สำเร็จการศึกษา)"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "GPAX ไม่ต่ำกว่า 3.00 ของชั้น ม.4-ม.6 (5 ภาคการศึกษา สำหรับ ม.6 ปี 2568 หรือ 6 ภาคการศึกษา สำหรับผู้สำเร็จการศึกษา)"
+    },
+    {
+      "program_name_th": "วิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาวิศวกรรมเคมี ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; GPAX ไม่ต่ำกว่า 3.00 ของชั้น ม.4-ม.6 (5 ภาคการศึกษา สำหรับ ม.6 ปี 2568 หรือ 6 ภาคการศึกษา สำหรับผู้สำเร็จการศึกษา ปี 2567)"
+    },
+    {
+      "program_name_th": "วิศวกรรมวัสดุและนาโนเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาวิศวกรรมวัสดุและนาโนเทคโนโลยี หรือ ภาควิชาวิทยาการและวิศวกรรมวัสดุ ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; GPAX ไม่ต่ำกว่า 3.00 ของชั้นมัธยมศึกษาตอนปลาย (5 ภาคการศึกษา สำหรับ ม.6 ปี 2568 หรือ 6 ภาคการศึกษา สำหรับผู้สำเร็จการศึกษา)"
+    },
+    {
+      "program_name_th": "ปิโตรเคมีและวัสดุพอลิเมอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาปิโตรเคมีและวัสดุพอลิเมอร์ หรือ ภาควิชาวิทยาการและวิศวกรรมวัสดุ ในระดับประกาศนียบัตรดีเด่น; ไม่มีการสอบสัมภาษณ์; GPAX ไม่ต่ำกว่า 3.25 ของชั้นมัธยมศึกษาตอนปลาย (5 ภาคการศึกษา สำหรับ ม.6 ปี 2568 หรือ 6 ภาคการศึกษา สำหรับผู้สำเร็จการศึกษา)"
+    },
+    {
+      "program_name_th": "วิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": "โครงการค่ายอัจฉริยภาพวิศวศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร ประจำปีการศึกษา 2568-2569 สาขาวิชาวิศวกรรมเคมี ภาควิชาวิศวกรรมเคมี ในระดับประกาศนียบัตรดีมากขึ้นไป; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": "โครงการค่ายอัจฉริยภาพวิศวศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร ประจำปีการศึกษา 2569 สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์ สาขาวิชาวิศวกรรมไฟฟ้าสื่อสาร ภาควิชาวิศวกรรมไฟฟ้า ในระดับประกาศนียบัตรดีมากขึ้นไป; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมวัสดุและนาโนเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": "โครงการค่ายอัจฉริยภาพวิศวศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาวิศวกรรมวัสดุและนาโนเทคโนโลยี ภาควิชาวิทยาการและวิศวกรรมวัสดุ หรือประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร ภาควิชาวิทยาการและวิศวกรรมวัสดุ ในระดับประกาศนียบัตรดีมากขึ้นไป; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมกระบวนการชีวภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": "โครงการค่ายอัจฉริยภาพวิศวศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาเทคโนโลยีชีวภาพ หรือสาขาวิชาวิศวกรรมกระบวนการชีวภาพ ภาควิชาเทคโนโลยีชีวภาพ ในระดับประกาศนียบัตรดีมากขึ้นไป; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": "โครงการค่ายอัจฉริยภาพวิศวศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร ประจำปีการศึกษา 2569 สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์ สาขาวิชาวิศวกรรมไฟฟ้าสื่อสาร ภาควิชาวิศวกรรมไฟฟ้า ในระดับประกาศนียบัตรดีมากขึ้นไป; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ธุรกิจวิศวกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": "โครงการค่ายอัจฉริยภาพวิศวศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องได้รับประกาศนียบัตรโครงการค่ายอัจฉริยภาพวิศวศิลปากร สาขาวิชาธุรกิจวิศวกรรม ภาควิชาวิศวกรรมเครื่องกล ในระดับประกาศนียบัตรดีมากขึ้นไป; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตรบัณฑิต วิชาเอกดนตรีคลาสสิก",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการนักเรียนผู้มีความรู้ความสามารถพิเศษทางด้านดนตรี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความรู้ความสามารถพิเศษทางด้านดนตรี หรือนักเรียนในโรงเรียนที่มีบันทึกข้อตกลงความร่วมมือกับคณะดุริยางคศาสตร์ ฯ; มีความรู้พื้นฐานด้านทฤษฎีดนตรีและโสตทักษะ; มีความสามารถปฏิบัติเครื่องดนตรีคลาสสิก/ขับร้องคลาสสิก; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 60 คะแนน + สัมภาษณ์ 40 คะแนน (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตรบัณฑิต วิชาเอกดนตรีและสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการนักเรียนผู้มีความรู้ความสามารถพิเศษทางด้านดนตรี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มีความสามารถปฏิบัติเครื่องดนตรีคลาสสิก หรือดนตรีสมัยนิยม/ขับร้องคลาสสิก หรือขับร้องสากล หรือขับร้องไทยสากล หรือขับร้องดนตรีสมัยนิยม; ผู้สมัครที่ปฏิบัติเครื่องดนตรีไทย/ดนตรีพื้นเมืองที่อ่านโน้ตสากลได้จะได้รับการพิจารณาเป็นพิเศษ; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 60 คะแนน + สัมภาษณ์ 40 คะแนน (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตรบัณฑิต วิชาเอกดนตรีแจ๊ส",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 10,
+      "project_code": "โครงการนักเรียนผู้มีความรู้ความสามารถพิเศษทางด้านดนตรี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มีความสามารถปฏิบัติเครื่องดนตรีแจ๊ส/ขับร้องแจ๊ส; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 60 คะแนน + สัมภาษณ์ 40 คะแนน (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตรบัณฑิต วิชาเอกดนตรีเชิงพาณิชย์",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 20,
+      "project_code": "โครงการนักเรียนผู้มีความรู้ความสามารถพิเศษทางด้านดนตรี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มีความสามารถในการแต่งเพลง และปฏิบัติเครื่องดนตรีคลาสสิก หรือแจ๊ส หรือดนตรีสมัยนิยม/ขับร้องคลาสสิก หรือแจ๊ส หรือดนตรีสมัยนิยม; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 60 คะแนน + สัมภาษณ์ 40 คะแนน (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตรบัณฑิต วิชาเอกละครเพลง",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการนักเรียนผู้มีความรู้ความสามารถพิเศษทางด้านดนตรี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มีความสามารถขับร้องคลาสสิก หรือ Musical Theatre and Film หรือขับร้องแจ๊ส และมีทักษะพื้นฐานการเต้นรำ; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 60 คะแนน + สัมภาษณ์ 40 คะแนน (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตรบัณฑิต วิชาเอกผู้ประกอบการดนตรีศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการนักเรียนผู้มีความรู้ความสามารถพิเศษทางด้านดนตรี",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มีความสามารถปฏิบัติเครื่องดนตรีคลาสสิก หรือแจ๊ส หรือดนตรีสมัยนิยม/ขับร้องคลาสสิก หรือแจ๊ส หรือดนตรีสมัยนิยม; สอบสัมภาษณ์ในหัวข้อเหตุผลที่เลือกเข้าศึกษาและสิ่งที่มุ่งหวังหลังจบการศึกษา; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 60 คะแนน + สัมภาษณ์ 40 คะแนน (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต สาขาวิชาอุตสาหกรรมบันเทิง วิชาเอกธุรกิจดนตรีและบันเทิง",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": "โครงการส่งเสริมเยาวชนสู่อุตสาหกรรมธุรกิจดนตรีและบันเทิง",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีทักษะพื้นฐานด้านการจัดการและธุรกิจ; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) + TGAT 20% + A-Level 40% (วิชา 62, 70, 81, 82) + สัมภาษณ์ 40% (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "ศิลปศาสตรบัณฑิต สาขาวิชาอุตสาหกรรมบันเทิง วิชาเอกการจัดการและพัฒนาไอดอลและอินฟลูเอนเซอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะดุริยางคศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": "โครงการส่งเสริมเยาวชนสู่อุตสาหกรรมธุรกิจดนตรีและบันเทิง",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มีทักษะพื้นฐานด้านการร้อง การเต้นรำ การนำเสนอเป็นภาษาไทยและภาษาอังกฤษ (หากมีทักษะภาษาที่สามจะได้รับการพิจารณาเป็นพิเศษ); วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 80% + สัมภาษณ์และทดสอบความสามารถ 20% (ร้องเพลง, เต้นประกอบจังหวะ, นำเสนอภาษาไทยและอังกฤษ) (27-28 เม.ย. 2569)"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาสัตวศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 50,
+      "project_code": "โครงการโควตา 65 จังหวัด",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "Portfolio",
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "60",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "30",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้สมัครต้องกำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนการเรียน วิทย์-คณิต หรือ ศิลป์คำนวณ; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ต้องมีสุขภาพสมบูรณ์แข็งแรง; สัมภาษณ์ Online วันที่ 27 เมษายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาเทคโนโลยีการผลิตพืช",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 100,
+      "project_code": "โครงการโควตา 65 จังหวัด",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "Portfolio",
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "40",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; Portfolio ต้องเขียนเหตุผลในการเลือกเรียนและประวัติส่วนตัว; สัมภาษณ์ Online วันที่ 27 เมษายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาศาสตร์การประมง",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 80,
+      "project_code": "โครงการโควตา 65 จังหวัด",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "Portfolio",
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "60",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "30",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ต้องมีสุขภาพสมบูรณ์แข็งแรง; Portfolio ไม่ต่ำกว่า 10 หน้า (รวมปก คำนำ สารบัญ); สัมภาษณ์ Online วันที่ 27 เมษายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาผู้ประกอบการธุรกิจการเกษตรและอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 60,
+      "project_code": "โครงการโควตา 65 จังหวัด",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "1.80",
+      "weighted_subjects": [
+        {
+          "subject_code": "Portfolio",
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "60",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "30",
+          "min_threshold": "1.80"
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ต้องมีสุขภาพสมบูรณ์แข็งแรง; Portfolio ไม่เกิน 10 หน้า (ไม่รวมปก คำนำ สารบัญ); สัมภาษณ์ Online วันที่ 27 เมษายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาส่งเสริมการเกษตร",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 60,
+      "project_code": "โครงการโควตา 65 จังหวัด",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สัมภาษณ์",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; กรณีทุพพลภาพหรือความพิการให้อยู่ในดุลพินิจของคณะกรรมการฯ; สัมภาษณ์ Online วันที่ 27 เมษายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 121 ตารางที่ 1]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (1)-(3) เลือกใช้เพียง 2 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 121 ตารางที่ 2]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (1)-(3) เลือกใช้เพียง 2 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 122]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (1)-(3) เลือกใช้เพียง 2 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 123]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "100",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "100",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "100",
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (1)-(3) เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 124 ตารางที่ 1]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "80",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (2)-(3) เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 124 ตารางที่ 2]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "50",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "50",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "50",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (1)-(3) เลือกใช้เพียง 2 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 125]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "80",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (2)-(3) เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 126]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "วิชา TGAT ลำดับ (2)-(3) เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 127]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1 (A-Level)",
+          "weight_percent": "100",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 (A-Level)",
+          "weight_percent": "100",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา (A-Level)",
+          "weight_percent": "100",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย (A-Level)",
+          "weight_percent": "100",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ (A-Level)",
+          "weight_percent": "100",
+          "min_threshold": "10"
+        }
+      ],
+      "other_conditions_th": "วิชา A-Level ลำดับ (1)-(5) เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 128 ตารางที่ 1]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1 (A-Level)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 (A-Level)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา (A-Level)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย (A-Level)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ (A-Level)",
+          "weight_percent": "50",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "วิชา A-Level ลำดับ (1)-(5) เลือกใช้เพียง 2 รายวิชา"
+    },
+    {
+      "program_name_th": "[ไม่ระบุชื่อสาขา - หน้า 128 ตารางที่ 2 (ไม่สมบูรณ์)]",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1 (A-Level)",
+          "weight_percent": "100",
+          "min_threshold": "15"
+        }
+      ],
+      "other_conditions_th": "ตารางถูกตัดที่หน้า 128 — ข้อมูลไม่ครบ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 40,
+      "project_code": "โครงการโควตา 65 จังหวัด",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปีการศึกษา 2569; ชั้นปีที่ 1-3 เรียน ณ วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 4 เรียน ณ วิทยาเขตเมืองทองธานี จ.นนทบุรี; ผู้ที่กำลังศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า จากโรงเรียนใน 65 จังหวัดที่กำหนด; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; กรณีมีร่างกายทุพพลภาพหรือความพิการ ให้อยู่ในดุลพินิจของคณะกรรมการฯ; วิธีการคัดเลือกแบ่งเป็น 2 รูปแบบ เลือกสมัครได้ 1 รูปแบบ — รูปแบบที่ 1: แฟ้มสะสมผลงาน (Portfolio) 10 คะแนน (รวมไม่เกิน 12 หน้า A4) ประกอบด้วย ปพ.1 จำนวน 5 ภาคการศึกษา GPAX ไม่ต่ำกว่า 2.75, เรียงความอย่างน้อย 1 หน้า, การออกแบบ UI อย่างน้อย 6 หน้าจอ"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตซิตี้แคมปัส เมืองทองธานี จ.นนทบุรี; ผู้สมัครจากโรงเรียนในจังหวัดที่กำหนด (กรุงเทพฯ และปริมณฑล ฯลฯ)"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตซิตี้แคมปัส เมืองทองธานี จ.นนทบุรี; ผู้สมัครจากโรงเรียนในจังหวัดที่กำหนด"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "83/84/85/86/87/88/89",
+          "subject_name_th": "ภาษาฝรั่งเศส หรือ ภาษาเยอรมัน หรือ ภาษาญี่ปุ่น หรือ ภาษาเกาหลี หรือ ภาษาจีน หรือ ภาษาบาลี หรือ ภาษาสเปน (เลือก 1 วิชา)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตซิตี้แคมปัส เมืองทองธานี จ.นนทบุรี; ผู้สมัครจากโรงเรียนในจังหวัดที่กำหนด; เลือกใช้วิชาภาษาที่ 2 เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดทางศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        }
+      ],
+      "other_conditions_th": "GPAX 20%; รวมถึงวิชา 81 ภาษาไทย 10% (min 10) และ 82 ภาษาอังกฤษ 10% (min 10) รวมเป็น 8 รายวิชา"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดทางศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10",
+          "min_threshold": "10"
+        }
+      ],
+      "other_conditions_th": "GPAX 20%; รวมถึงวิชา 81 ภาษาไทย 10% (min 10) และ 82 ภาษาอังกฤษ 10% (min 10) รวมเป็น 8 รายวิชา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92/93",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2) หรือ สมรรถนะการทำงาน (TGAT3) (เลือก 1 วิชา)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตพระราชวังสนามจันทร์ จ.นครปฐม; ผู้สมัครจากโรงเรียนในจังหวัดที่กำหนด; คุณสมบัติภาษาอังกฤษ: เกรดเฉลี่ยภาษาต่างประเทศ ≥ 3.00 หรือ TOEFL PBT ≥ 470 / IBT ≥ 55 หรือ TOEIC ≥ 550 หรือ IELTS ≥ 4.5 หรือ CU-TEP ≥ 60"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92/93",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2) หรือ สมรรถนะการทำงาน (TGAT3) (เลือก 1 วิชา)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตพระราชวังสนามจันทร์ จ.นครปฐม; ผู้สมัครจากโรงเรียนในจังหวัดที่กำหนด; คุณสมบัติภาษาอังกฤษ: เกรดเฉลี่ยภาษาต่างประเทศ ≥ 3.00 หรือ TOEFL PBT ≥ 470 / IBT ≥ 55 หรือ TOEIC ≥ 550 หรือ IELTS ≥ 4.5 หรือ CU-TEP ≥ 60"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีดิจิทัลเพื่อธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) – การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) – การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) – สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชา A-Level ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82-89",
+          "subject_name_th": "วิชา A-Level ภาษาต่างประเทศ (เลือก 1 วิชา: 82 ภาษาอังกฤษ / 83 ภาษาฝรั่งเศส / 84 ภาษาเยอรมัน / 85 ภาษาญี่ปุ่น / 86 ภาษาเกาหลี / 87 ภาษาจีน / 88 ภาษาบาลี / 89 ภาษาสเปน)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คัดเลือกด้วยแฟ้มสะสมผลงาน (Portfolio) 80 คะแนน และสัมภาษณ์; สัมภาษณ์วันที่ 27 เม.ย. 2569; GPAX 5 ภาคการศึกษา ≥ 3.00; ผลการเรียนกลุ่มคณิตศาสตร์ ≥ 3.00; กลุ่มภาษาอังกฤษ ≥ 2.75 หรือกลุ่มศิลปะ ≥ 3.00; โควตาโรงเรียนในเครือข่าย 35 โรงเรียน โดยเฉพาะ; TGAT2 หรือ TGAT3 เลือกใช้เพียง 1 วิชา; A-Level ภาษาต่างประเทศ เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีดิจิทัลเพื่อการออกแบบ (วิชาเอกการออกแบบอินเทอร์แอคทีฟแอปพลิเคชัน หรือ วิชาเอกการออกแบบเกม)",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) – การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) – การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) – สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชา A-Level ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82-89",
+          "subject_name_th": "วิชา A-Level ภาษาต่างประเทศ (เลือก 1 วิชา: 82 ภาษาอังกฤษ / 83 ภาษาฝรั่งเศส / 84 ภาษาเยอรมัน / 85 ภาษาญี่ปุ่น / 86 ภาษาเกาหลี / 87 ภาษาจีน / 88 ภาษาบาลี / 89 ภาษาสเปน)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คัดเลือกด้วยแฟ้มสะสมผลงาน (Portfolio) 80 คะแนน และสัมภาษณ์; สัมภาษณ์วันที่ 27 เม.ย. 2569; GPAX 5 ภาคการศึกษา ≥ 3.00; เป็นผู้มีความรู้ความสามารถพิเศษและได้รับการรับรองจากสถาบันการศึกษา; พื้นฐานวิทยาศาสตร์: ภาษาไทย ≥ 3.00, คณิตศาสตร์ ≥ 3.00, วิทยาศาสตร์และเทคโนโลยี ≥ 3.00; พื้นฐานศิลปศาสตร์: ภาษาไทย ≥ 3.00, คณิตศาสตร์ ≥ 3.00, และเลือกภาษาอังกฤษ ≥ 2.75 หรือศิลปะ ≥ 3.00; โควตาโรงเรียนในเครือข่าย 35 โรงเรียน; TGAT2 หรือ TGAT3 เลือกใช้เพียง 1 วิชา; A-Level ภาษาต่างประเทศ เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ (โครงการโควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร)",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการโควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนโรงเรียนสาธิต มหาวิทยาลัยศิลปากร ชั้น ม.6; เรียน ณ วิทยาเขตซิตี้แคมปัส เมืองทองธานี จ.นนทบุรี; หลักสูตรนิเทศศาสตรบัณฑิต"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ (โครงการโควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร) - สาขาสังคมศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการโควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนโรงเรียนสาธิต มหาวิทยาลัยศิลปากร ชั้น ม.6; เรียน ณ วิทยาเขตซิตี้แคมปัส เมืองทองธานี จ.นนทบุรี"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ (โครงการโควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร) - สาขาภาษาต่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการโควตาโรงเรียนสาธิตมหาวิทยาลัยศิลปากร",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "83/84/85/86/87/88/89",
+          "subject_name_th": "ภาษาฝรั่งเศส หรือ ภาษาเยอรมัน หรือ ภาษาญี่ปุ่น หรือ ภาษาเกาหลี หรือ ภาษาจีน หรือ ภาษาบาลี หรือ ภาษาสเปน (เลือก 1 วิชา)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนโรงเรียนสาธิต มหาวิทยาลัยศิลปากร ชั้น ม.6; เรียน ณ วิทยาเขตซิตี้แคมปัส เมืองทองธานี จ.นนทบุรี; ** เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสร้างสรรค์ (โครงการโควตาโรงเรียนในเครือข่าย)",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": null,
+      "project_code": "โครงการโควตาโรงเรียนในเครือข่าย",
+      "round_label": "รอบ 2 โควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผลการเรียนรวมกลุ่มสาระวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 3.00; ผลการเรียนรวมกลุ่มสาระภาษาไทย คณิตศาสตร์ และภาษาต่างประเทศ ไม่ต่ำกว่า 3.00; วิธีการคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 80 คะแนน + สัมภาษณ์ 20 คะแนน; สัมภาษณ์ 27 เม.ย. 2569 Online Zoom; รับจากโรงเรียนในเครือข่าย 35 โรงเรียน"
+    }
+  ]
+}

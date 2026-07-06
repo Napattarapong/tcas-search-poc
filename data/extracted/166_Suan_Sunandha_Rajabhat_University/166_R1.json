@@ -1,0 +1,196 @@
+{
+  "university": "Suan Sunandha Rajabhat University",
+  "university_id": "166",
+  "round": "R1",
+  "archetype": "criteria",
+  "program_count": 17,
+  "programs": [
+    {
+      "program_name_th": "การจัดการอุตสาหกรรมท่องเที่ยวและบริการ",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีใจรักงานด้านบริการ มีบุคลิกภาพดี คล่องแคล่ว กระตือรือร้น มีมนุษยสัมพันธ์ และกล้าแสดงออก มีความรู้พื้นฐานภาษาอังกฤษ"
+    },
+    {
+      "program_name_th": "การจัดการโรงแรมและธุรกิจที่พัก",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีใจรักงานด้านบริการ มีบุคลิกภาพดี คล่องแคล่ว กระตือรือร้น มีมนุษยสัมพันธ์ และกล้าแสดงออก มีความรู้พื้นฐานภาษาอังกฤษ"
+    },
+    {
+      "program_name_th": "ธุรกิจระหว่างประเทศ (หลักสูตรสองภาษา)",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษามัธยมศึกษาชั้นปีที่ 6 หรือเทียบเท่า เกรดเฉลี่ย 4-5 เทอม ไม่ต่ำกว่า 2.00 เกรดเฉลี่ยสะสมกลุ่มภาษาต่างประเทศไม่ต่ำกว่า 2.00"
+    },
+    {
+      "program_name_th": "การจัดการท่องเที่ยว โรงแรมและอีเวนต์ (หลักสูตรสองภาษา)",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษามัธยมศึกษาชั้นปีที่ 6 หรือเทียบเท่า มีความกระตือรือร้น ตั้งใจและสนใจที่จะเรียนรู้เกี่ยวกับศาสตร์ธุรกิจบริการ"
+    },
+    {
+      "program_name_th": "การแพทย์แผนไทยประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "หลักสูตรแพทย์แผนไทยประยุกต์บัณฑิต",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาไม่ต่ำกว่าระดับชั้นมัธยมศึกษาตอนปลาย ไม่รับเทียบเท่า สุขภาพร่างกายและจิตใจสมบูรณ์ ไม่เป็นผู้พิการ ไม่มีโรคที่เป็นอุปสรรคต่อการเรียนหรือการประกอบวิชาชีพ (เช่น โรคจิต วัณโรค ตาบอดสี ฯลฯ) ไม่มีประวัติอาชญากรรมหรือพฤติกรรมไม่เหมาะสมต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาธารณสุขชุมชน",
+      "tcas_code": null,
+      "faculty_th": "สาธารณสุขศาสตรบัณฑิต",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ค่าดัชนีมวลกาย (BMI) ไม่เกิน 30 ต้องเป็นผู้ที่สำเร็จการศึกษาชั้นมัธยมศึกษาตอนปลายหรือเทียบเท่าขึ้นไป ไม่เป็นผู้พิการทางสายตาหรือมีความผิดปกติทางร่างกายที่เป็นอุปสรรคต่อการศึกษาและ/หรือต่อการประกอบวิชาชีพ ไม่เป็นผู้วิกลจริต จิตฟั่นเฟือนไม่สมประกอบ หรือเป็นโรคที่กำหนดไว้ในข้อบังคับสภาการสาธารณสุขชุมชน"
+    },
+    {
+      "program_name_th": "สาธารณสุขศาสตร์และการส่งเสริมสุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "สาธารณสุขศาสตรบัณฑิต",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ไม่มีความพิการและความผิดปกติทางร่างกาย ผู้ที่สำเร็จการศึกษาชั้นมัธยมศึกษาตอนปลายหรือเทียบเท่าขึ้นไป ทั้งนี้ให้เป็นไปตามข้อบังคับที่สภาการสาธารณสุขชุมชนกำหนด"
+    },
+    {
+      "program_name_th": "การบริการการแพทย์และสาธารณสุข",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตรบัณฑิต",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษามัธยมศึกษาชั้นปีที่ 6 หรือเทียบเท่า เกรดเฉลี่ย 2.00 ขึ้นไป ผลคะแนนภาษาอังกฤษ (ถ้ามีมาจะพิจารณาเป็นกรณีพิเศษ) ไม่เป็นผู้ทุพพลภาพต่อการปฏิบัติงาน"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การแพทย์และนวัตกรรมสมุนไพร",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตรบัณฑิต",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ไม่มีความพิการและความผิดปกติทางร่างกาย ผู้เข้าศึกษาต้องสำเร็จการศึกษาไม่ต่ำกว่ามัธยมศึกษาตอนปลายหรือเทียบเท่า มีคุณสมบัติครบถ้วนตามข้อบังคับมหาวิทยาลัยราชภัฏสวนสุนันทาว่าด้วยการศึกษาระดับปริญญาตรี พ.ศ. 2561"
+    },
+    {
+      "program_name_th": "สังคมศึกษา",
+      "tcas_code": "1108",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "ภาษาไทย",
+      "tcas_code": "1109",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษ",
+      "tcas_code": "1110",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์",
+      "tcas_code": "1111",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "การศึกษาปฐมวัย",
+      "tcas_code": "1112",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์ทั่วไป",
+      "tcas_code": "1113",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "ประถมศึกษา",
+      "tcas_code": "1116",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "คอมพิวเตอร์ศึกษา",
+      "tcas_code": "1117",
+      "faculty_th": "คณะครุศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ ณ อาคาร 11 คณะครุศาสตร์; สอบ \"คุณลักษณะความเป็นครู\" (google form ออนไลน์ ข้อสอบปรนัย 20 ข้อ); ส่ง Portfolio (pdf 10-20 หน้า ไม่เกิน 10 MB) ระหว่าง 9 ม.ค. – 9 ก.พ. 2569; หากมีผลสอบ CEFR/CU-TEP/TU-GET จะพิจารณาเป็นกรณีพิเศษ"
+    }
+  ]
+}

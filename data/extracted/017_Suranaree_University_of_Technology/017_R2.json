@@ -1,0 +1,965 @@
+{
+  "university": "Suranaree University of Technology",
+  "university_id": "017",
+  "round": "R2",
+  "archetype": "criteria",
+  "program_count": 51,
+  "programs": [
+    {
+      "program_name_th": "คณิตศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 20 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 4 รายวิชา A-Level ไม่ต่ำกว่า 80 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "เคมี",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "ชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "ฟิสิกส์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "จุลชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การแพทย์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 25 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 4 รายวิชา A-Level ไม่ต่ำกว่า 60 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "วิทยาการข้อมูลและภูมิสารสนเทศประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 20 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 4 รายวิชา A-Level ไม่ต่ำกว่า 80 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based วิทยาลัยเทคโนโลยีฐานวิทยาศาสตร์; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การกีฬา",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 75 คะแนน; เป็นนักเรียน ม.6 แผนวิทย์-คณิต หรือเทียบเท่า; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือ 20 จังหวัด; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีดิจิทัล",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน; โรงเรียนอยู่ในเขตภาคตะวันออกเฉียงเหนือ; มีคะแนน A-Level ภาษาไทย สังคมศึกษา ภาษาอังกฤษ และคณิตศาสตร์ประยุกต์ 1 หรือ 2; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีดิจิทัล",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน; โรงเรียนอยู่ในเขตภาคตะวันออกเฉียงเหนือ; มีคะแนน A-Level ภาษาไทย สังคมศึกษา ภาษาอังกฤษ และคณิตศาสตร์ประยุกต์ 1 หรือ 2; ไม่เป็นผู้ยืนยันสิทธิ์รอบ 1 Portfolio"
+    },
+    {
+      "program_name_th": "สำนักวิชาวิศวกรรมศาสตร์ (ยังไม่สังกัดหลักสูตร)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 500,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์และเทคโนโลยี ภาษาต่างประเทศ ≥ 2.75; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมการผลิตอัจฉริยะ",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.20",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า; GPA กลุ่มสาระวิทยาศาสตร์ คณิตศาสตร์ และภาษาต่างประเทศ ≥ 3.20; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเกษตรและอาหาร",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมขนส่งและโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์และเทคโนโลยี ภาษาต่างประเทศ ≥ 3.50; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์และเทคโนโลยี ≥ 3.50; GPA กลุ่มสาระภาษาต่างประเทศ ≥ 3.20; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์และเทคโนโลยี ≥ 3.50; GPA กลุ่มสาระภาษาต่างประเทศ ≥ 3.20; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเซรามิก",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมโทรคมนาคมและโครงข่ายอัจฉริยะ",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. สาขาอิเล็กทรอนิกส์ ไฟฟ้า โทรคมนาคม คอมพิวเตอร์ สารสนเทศ หรือสาขาที่เกี่ยวข้อง; GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์และเทคโนโลยี ภาษาต่างประเทศ ≥ 3.25; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมพอลิเมอร์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.20",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); GPA กลุ่มสาระวิทยาศาสตร์ คณิตศาสตร์ และภาษาต่างประเทศ ≥ 3.20; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); GPA กลุ่มสาระคณิตศาสตร์ ภาษาต่างประเทศ ≥ 3.50; GPA รายวิชาฟิสิกส์ ≥ 3.50; ผ่านการอบรมค่าย 1 (สอวน.); ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมโยธา",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์และเทคโนโลยี ≥ 3.50; GPA กลุ่มสาระภาษาต่างประเทศ ≥ 3.20; ผ่านการอบรมค่าย 1 (สอวน.); ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมโลหการ",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต; GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์ ภาษาต่างประเทศ ≥ 3.00; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต; GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์ ภาษาต่างประเทศ ≥ 3.50; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมธรณี",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.20",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต; GPA กลุ่มสาระวิทยาศาสตร์ คณิตศาสตร์ ภาษาอังกฤษ ≥ 3.20 หรือ GPA เฉลี่ยรายวิชาคณิตศาสตร์ ฟิสิกส์ เคมี ภาษาอังกฤษ ≥ 3.20; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมอิเล็กทรอนิกส์และระบบสมองกลฝังตัว",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ ปวช. Project-based (วททว.); ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเครื่องกลและอากาศยาน (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือโรงเรียนนานาชาติ/ต่างประเทศ; GPA กลุ่มสาระคณิตศาสตร์ ≥ 3.00 หรือ GED Math ≥ 155; คะแนนภาษาอังกฤษ: TOEFL ≥ 500(paper)/180(computer)/64(iBT), IELTS ≥ 5.0, TOEIC ≥ 600, CEFR ≥ B1, SAT ≥ 1000 (Math ≥ 600, English ≥ 400) หรือเทียบเท่า; ทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมโยธา (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือโรงเรียนนานาชาติ/ต่างประเทศ; หรือ GED วิชาละ ≥ 145 และคะแนนรวม ≥ 600"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมปิโตรเคมีและพอลิเมอร์ (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": "18",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. สำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือกำลังศึกษา/สำเร็จการศึกษาโรงเรียนมัธยมศึกษาหลักสูตรนานาชาติหรือต่างประเทศ 2. GPAX ≥ 3.00 หรือ GED ≥ 600 และวิชาละ ≥ 145 3. GPA คณิตศาสตร์ ≥ 3.00 หรือ GED Math ≥ 155 4. GPA กลุ่มภาษาต่างประเทศ ≥ 3.50 หรือคะแนนสอบภาษาอังกฤษ (TOEFL pbt ≥ 400 / IELTS ≥ 4.5 / TOEIC ≥ 450 / CEFR ≥ A2 / SAT ≥ 900 โดย Math ≥ 500 และ English ≥ 400) 5. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเมคคาทรอนิกส์ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": "1",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน 3. GPAX ≥ 2.50 (กำลังศึกษา 4 หรือ 5 ภาคเรียน / สำเร็จการศึกษา 6 ภาคเรียน) 4. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมยานยนต์สมัยใหม่ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": "2",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน 3. GPAX ≥ 2.50 (กำลังศึกษา 4 หรือ 5 ภาคเรียน / สำเร็จการศึกษา 6 ภาคเรียน) 4. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธาและโครงสร้างพื้นฐาน (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 60,
+      "project_code": "3",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. สาขาช่างโยธา ช่างก่อสร้าง ช่างสำรวจ และสาขาที่เกี่ยวข้อง 3. GPAX ≥ 3.00 (กำลังศึกษา 5 ภาคเรียน / สำเร็จการศึกษา 6 ภาคเรียน) 4. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้าอุตสาหกรรมและปัญญาประดิษฐ์ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 60,
+      "project_code": "4",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต GPAX ≥ 2.75 หรือมีหลักฐานเคยผ่านการอบรม/แข่งขันทางวิชาการด้านวิศวกรรมไฟฟ้าอุตสาหกรรมและปัญญาประดิษฐ์ (กว.ไฟฟ้ากำลัง) แทน (กำลังศึกษา 5 ภาคเรียน) หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. สาขาช่างไฟฟ้า ช่างไฟฟ้ากำลัง ช่างอิเล็กทรอนิกส์ ช่างกลไฟฟ้า เมคคาทรอนิกส์ ยานยนต์ไฟฟ้า คอมพิวเตอร์ และสาขาที่เกี่ยวข้อง GPAX ≥ 2.75 หรือมีหลักฐานเคยผ่านการอบรม/แข่งขันทางวิชาการ (กว.ไฟฟ้ากำลัง) แทน (กำลังศึกษา 5 ภาคเรียน) 3. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมระบบสมองกลอัจฉริยะและอิเล็กทรอนิกส์ความถี่สูง (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 40,
+      "project_code": "5",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า สาขาอิเล็กทรอนิกส์ ไฟฟ้า เมคคาทรอนิกส์ คอมพิวเตอร์ และสาขาที่เกี่ยวข้อง 3. GPAX ≥ 2.50 (กำลังศึกษา 5 ภาคเรียน / สำเร็จการศึกษา 6 ภาคเรียน) 4. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาการประกอบการด้วยเทคโนโลยีดิจิทัล (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": "6",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน GPAX ≥ 2.75 (กำลังศึกษา 5 ภาคเรียน) หรือผ่านการอบรมค่ายพัฒนาทักษะที่เกี่ยวข้องกับการเป็นผู้ประกอบการ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน GPAX ≥ 2.75 หรือผ่านการอบรมค่ายพัฒนาทักษะที่เกี่ยวข้องกับการเป็นผู้ประกอบการ 3. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมอุตสาหการและการจัดการข้อมูล (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 30,
+      "project_code": "7",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน GPAX ≥ 2.75 (กำลังศึกษา 5 ภาคเรียน) 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน (อุตสาหกรรม คอมพิวเตอร์ พาณิชยกรรม/บริหารธุรกิจ ศิลปกรรม คหกรรม ท่องเที่ยว และสาขาที่เกี่ยวข้อง) GPAX ≥ 2.75 (กำลังศึกษา 5 ภาคเรียน) 3. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกลและระบบการผลิต (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 40,
+      "project_code": "8",
+      "round_label": "รอบ 2 Quota",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 แผนวิทย์-คณิต GPAX ≥ 2.75 (กำลังศึกษา 5 ภาคเรียน) 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า สาขาเครื่องกล ยานยนต์ เครื่องกลเกษตร เครื่องมือกล ซ่อมบำรุงเครื่องจักรกล เทคนิคการจัดการอุตสาหกรรม และสาขาที่เกี่ยวข้อง GPAX ≥ 2.75 (กำลังศึกษา 5 ภาคเรียน) 3. มีทะเบียนบ้านหรือสถานศึกษาในเขตภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมเมคคาทรอนิกส์ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวส. หรือเทียบเท่า ทุกแผนการเรียน; มีทะเบียนบ้านหรือสถานศึกษาอยู่ในเขตจังหวัดภาคตะวันออกเฉียงเหนือ หรือภาคตะวันออก อย่างใดอย่างหนึ่ง"
+    },
+    {
+      "program_name_th": "วิศวกรรมยานยนต์สมัยใหม่ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวส. หรือเทียบเท่า ทุกแผนการเรียน; มีทะเบียนบ้านหรือสถานศึกษาอยู่ในเขตจังหวัดภาคตะวันออกเฉียงเหนือ หรือภาคตะวันออก อย่างใดอย่างหนึ่ง"
+    },
+    {
+      "program_name_th": "วิศวกรรมโยธาและโครงสร้างพื้นฐาน (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปวส. สาขาช่างโยธา ช่างก่อสร้าง ช่างสำรวจ และสาขาที่เกี่ยวข้อง GPAX ≥ 3.00 (กรณีกำลังศึกษา GPAX 3 ภาคเรียน) หรือมีหนังสือรับรองประสบการณ์การทำงาน; หรือสำเร็จปริญญาตรีทุกสาขา GPAX ≥ 2.50; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าอุตสาหกรรมและปัญญาประดิษฐ์ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปวส. สาขาช่างไฟฟ้า ช่างไฟฟ้ากำลัง ช่างอิเล็กทรอนิกส์ ช่างกลไฟฟ้า เมคคาทรอนิกส์ ยานยนต์ไฟฟ้า คอมพิวเตอร์ และสาขาที่เกี่ยวข้อง GPAX ≥ 2.75 (กรณีกำลังศึกษา GPAX 3 ภาคเรียน) หรือมีหนังสือรับรองประสบการณ์การทำงาน (กว.ไฟฟ้ากำลัง); หรือสำเร็จปริญญาตรีด้านวิศวกรรมศาสตร์ วิทยาศาสตร์ ครุศาสตร์อุตสาหกรรม; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมระบบสมองกลอัจฉริยะและอิเล็กทรอนิกส์ความถี่สูง (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปวส. สาขาอิเล็กทรอนิกส์ ไฟฟ้า เมคคาทรอนิกส์ คอมพิวเตอร์ และสาขาที่เกี่ยวข้อง GPAX ≥ 2.50 (กรณีกำลังศึกษา GPAX 3 ภาคเรียน/กรณีสำเร็จการศึกษา 4 ภาคเรียน) หรือมีหนังสือรับรองประสบการณ์การทำงาน; หรือสำเร็จปริญญาตรีด้านวิศวกรรมศาสตร์ วิทยาศาสตร์ ครุศาสตร์อุตสาหกรรม; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "การประกอบการด้วยเทคโนโลยีดิจิทัล (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 45,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปวส. หรือเทียบเท่า ทุกแผนการเรียน GPAX ≥ 2.50 หรือมีหนังสือรับรองประสบการณ์การทำงาน หรือผ่านการอบรมค่ายพัฒนาทักษะที่เกี่ยวข้องกับการเป็นผู้ประกอบการ; หรือสำเร็จปริญญาตรีทุกสาขา GPAX ≥ 2.50; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการและการจัดการข้อมูล (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปวส. หรือเทียบเท่า ทุกแผนการเรียน GPAX ≥ 2.75 (กรณีกำลังศึกษา GPAX 3 ภาคเรียน) หรือมีหนังสือรับรองประสบการณ์การทำงาน; หรือสำเร็จปริญญาตรีทุกสาขา GPAX ≥ 2.50; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกลและระบบการผลิต (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ปวส. หรือเทียบเท่า ทุกแผนการเรียน GPAX ≥ 2.75 (กรณีกำลังศึกษา GPAX 3 ภาคเรียน) หรือมีหนังสือรับรองประสบการณ์การทำงาน; หรือสำเร็จปริญญาตรีทุกสาขา GPAX ≥ 2.50; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมโยธาและโครงสร้างพื้นฐาน (หลักสูตรนอกเวลา) - รอบเพิ่มเติม",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เงื่อนไขเดียวกับรอบแรก; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าอุตสาหกรรมและปัญญาประดิษฐ์ (หลักสูตรนอกเวลา) - รอบเพิ่มเติม",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "เงื่อนไขเดียวกับรอบแรก; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมระบบสมองกลอัจฉริยะและอิเล็กทรอนิกส์ความถี่สูง (หลักสูตรนอกเวลา) - รอบเพิ่มเติม",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เงื่อนไขเดียวกับรอบแรก; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "การประกอบการด้วยเทคโนโลยีดิจิทัล (หลักสูตรนอกเวลา) - รอบเพิ่มเติม",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 45,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เงื่อนไขเดียวกับรอบแรก; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการและการจัดการข้อมูล (หลักสูตรนอกเวลา) - รอบเพิ่มเติม",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "เงื่อนไขเดียวกับรอบแรก; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกลและระบบการผลิต (หลักสูตรนอกเวลา) - รอบเพิ่มเติม",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "เงื่อนไขเดียวกับรอบแรก; มีทะเบียนบ้านหรือสถานศึกษาในภาคตะวันออกเฉียงเหนือหรือภาคตะวันออก"
+    }
+  ]
+}

@@ -1,0 +1,3502 @@
+{
+  "university": "Silpakorn University",
+  "university_id": "008",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 103,
+  "programs": [
+    {
+      "program_name_th": "หลักสูตรศิลปบัณฑิต สาขาวิชาทัศนศิลป์ (5 ปี)",
+      "tcas_code": null,
+      "faculty_th": "คณะจิตรกรรม ประติมากรรมและภาพพิมพ์",
+      "seats": 45,
+      "project_code": "โครงการรับตรงทุกกลุ่มวิชาเอก",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "0100",
+          "subject_name_th": "วาดเส้น",
+          "weight_percent": "25%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "0101",
+          "subject_name_th": "องค์ประกอบศิลป์",
+          "weight_percent": "25%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "0102",
+          "subject_name_th": "สร้างสรรค์",
+          "weight_percent": "25%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "0103",
+          "subject_name_th": "ความรู้ทั่วไปทางศิลปะ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องสมัครสอบวิชาเฉพาะที่จัดสอบโดยคณะ (17 ก.พ. – 5 มี.ค. 69) ผ่าน admission.su.ac.th และเข้าสอบ 21–22 มี.ค. 69; สอบสัมภาษณ์ 2 มิ.ย. 2569; GPAX ค่าน้ำหนัก 10%"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปบัณฑิต สาขาวิชาทัศนศิลป์ (เอกทฤษฎีศิลป์) (5 ปี)",
+      "tcas_code": null,
+      "faculty_th": "คณะจิตรกรรม ประติมากรรมและภาพพิมพ์",
+      "seats": 2,
+      "project_code": "โครงการรับตรงเอกทฤษฎีศิลป์",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "0100",
+          "subject_name_th": "วาดเส้น",
+          "weight_percent": "20%",
+          "min_threshold": "40%"
+        },
+        {
+          "subject_code": "0101",
+          "subject_name_th": "องค์ประกอบศิลป์",
+          "weight_percent": "20%",
+          "min_threshold": "40%"
+        },
+        {
+          "subject_code": "0102",
+          "subject_name_th": "สร้างสรรค์",
+          "weight_percent": "20%",
+          "min_threshold": "40%"
+        },
+        {
+          "subject_code": "0103",
+          "subject_name_th": "ความรู้ทั่วไปทางศิลปะ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องสมัครสอบวิชาเฉพาะที่จัดสอบโดยคณะ (17 ก.พ. – 5 มี.ค. 69) ผ่าน admission.su.ac.th และเข้าสอบ 21–22 มี.ค. 69; สอบสัมภาษณ์ 2 มิ.ย. 2569; GPAX ค่าน้ำหนัก 15%"
+    },
+    {
+      "program_name_th": "หลักสูตรสถาปัตยกรรมศาสตรบัณฑิต สาขาวิชาสถาปัตยกรรม (5 ปี)",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "40",
+          "subject_name_th": "ความถนัดทางสถาปัตยกรรมศาสตร์ (TPAT4)",
+          "weight_percent": "40%",
+          "min_threshold": "30%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรสถาปัตยกรรมศาสตรบัณฑิต สาขาวิชาสถาปัตยกรรมไทย (5 ปี)",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "40",
+          "subject_name_th": "ความถนัดทางสถาปัตยกรรมศาสตร์ (TPAT4)",
+          "weight_percent": "50%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "A-Level รวม 35% (คณิตศาสตร์ประยุกต์ 1, ฟิสิกส์, ภาษาอังกฤษ); รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรภูมิสถาปัตยกรรมศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "40",
+          "subject_name_th": "ความถนัดทางสถาปัตยกรรมศาสตร์ (TPAT4)",
+          "weight_percent": "40%",
+          "min_threshold": "30%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาโบราณคดี (รูปแบบที่ 1)",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": "39%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "52%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": "40%"
+        }
+      ],
+      "other_conditions_th": "ต้องไม่ตาบอดสีทุกประเภท; สอบสัมภาษณ์ 2 มิ.ย. 2569; หัวข้อสัมภาษณ์: โบราณคดี 70%, ประวัติศาสตร์/การเมือง/สังคม/เศรษฐศาสตร์ 30%"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาโบราณคดี (รูปแบบที่ 2)",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20%",
+          "min_threshold": "39%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "52%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "40%"
+        }
+      ],
+      "other_conditions_th": "ต้องไม่ตาบอดสีทุกประเภท; สอบสัมภาษณ์ 2 มิ.ย. 2569; หัวข้อสัมภาษณ์: โบราณคดี 70%, ประวัติศาสตร์/การเมือง/สังคม/เศรษฐศาสตร์ 30%"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาประวัติศาสตร์ศิลปะ",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 35,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "45%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; A-Level (สังคมศึกษา, ภาษาไทย, ภาษาอังกฤษ) รวม 45%; สอบสัมภาษณ์ 2 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชามานุษยวิทยา",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 45,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "A-Level (สังคมศึกษา, ภาษาไทย, ภาษาอังกฤษ) รวม 50%; สอบสัมภาษณ์ 2 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "70%",
+          "min_threshold": "50%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 10%; สอบสัมภาษณ์ 2 มิ.ย. 2569 (ค่าน้ำหนัก 100%): ความรู้ทั่วไปเกี่ยวกับภาษาไทยและวรรณคดีไทย, ทัศนคติที่มีต่อสาขาวิชา"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาอังกฤษ",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "60%",
+          "min_threshold": "50%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "40%",
+          "min_threshold": "40%"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ 2 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาฝรั่งเศส",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "83",
+          "subject_name_th": "ภาษาฝรั่งเศส",
+          "weight_percent": "100%",
+          "min_threshold": "35%"
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ 2 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาประวัติศาสตร์ท้องถิ่น",
+      "tcas_code": null,
+      "faculty_th": "คณะโบราณคดี",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ 2 มิ.ย. 2569; หัวข้อสัมภาษณ์: ความรู้ทั่วไปเกี่ยวกับสาขาวิชา"
+    },
+    {
+      "program_name_th": "หลักสูตรอักษรศาสตรบัณฑิต (ไม่แยกสาขาวิชาเอก)",
+      "tcas_code": null,
+      "faculty_th": "คณะอักษรศาสตร์",
+      "seats": 390,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "13.33%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "13.33%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "13.34%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/88/89",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 หรือ ภาษาฝรั่งเศส หรือ ภาษาเยอรมัน หรือ ภาษาญี่ปุ่น หรือ ภาษาเกาหลี หรือ ภาษาจีน หรือ ภาษาบาลี หรือ ภาษาสเปน (เลือก 1 วิชา)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รายวิชาลำดับ (4)-(11) ให้เลือกเพียง 1 กลุ่มวิชา; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรอักษรศาสตรบัณฑิต สาขาวิชาภูมิศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะอักษรศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ใช้เกณฑ์คัดเลือกเดียวกับหลักสูตรอักษรศาสตรบัณฑิต (ไม่แยกสาขาวิชาเอก)"
+    },
+    {
+      "program_name_th": "หลักสูตรอักษรศาสตรบัณฑิต สาขาวิชาปรัชญา",
+      "tcas_code": null,
+      "faculty_th": "คณะอักษรศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ใช้เกณฑ์คัดเลือกเดียวกับหลักสูตรอักษรศาสตรบัณฑิต (ไม่แยกสาขาวิชาเอก)"
+    },
+    {
+      "program_name_th": "หลักสูตรอักษรศาสตรบัณฑิต สาขาวิชานาฏยสังคีต (สังคีตศิลป์ไทย)",
+      "tcas_code": null,
+      "faculty_th": "คณะอักษรศาสตร์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ใช้เกณฑ์คัดเลือกเดียวกับหลักสูตรอักษรศาสตรบัณฑิต (ไม่แยกสาขาวิชาเอก)"
+    },
+    {
+      "program_name_th": "หลักสูตรอักษรศาสตรบัณฑิต สาขาวิชาประวัติศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะอักษรศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "A-Level รวม 100% (สังคมศึกษา, ภาษาไทย, ภาษาอังกฤษ); ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาคณิตศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "10%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "40%",
+          "min_threshold": "30%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": "25%"
+        }
+      ],
+      "other_conditions_th": "ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาคณิตศาสตร์ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "GPAX คณิตศาสตร์ ≥ 2.75; หน่วยกิตคณิตศาสตร์ ≥ 12; ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพครู; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาภาษาจีน (1 ปริญญา)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "40%",
+          "min_threshold": "30%"
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพครู; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาภาษาจีน (โครงการพิเศษ 1 ปริญญา)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ 1 ปริญญา",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "40%",
+          "min_threshold": "30%"
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพครู; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาภาษาจีน (โครงการพิเศษ 2 ปริญญา)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ 2 ปริญญา",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "ภาษาจีน",
+          "weight_percent": "40%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ปริญญาศึกษาศาสตรบัณฑิต ม.ศิลปากร และปริญญา B.A. จาก Yunnan University; ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพครู; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาเทคโนโลยีการศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลางและนานาชาติ; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาเทคโนโลยีการศึกษา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลางและนานาชาติ; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาจิตวิทยา",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20%",
+          "min_threshold": "25%"
+        },
+        {
+          "subject_code": "61/62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1 หรือ คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพจิตวิทยา; ต้องมีรายงานการตรวจสุขภาพและเอกซเรย์ร่างกาย; มีการสอบสัมภาษณ์ วันอังคารที่ 2 มิถุนายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาจิตวิทยา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 40,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพจิตวิทยา; ต้องมีรายงานการตรวจสุขภาพและเอกซเรย์ร่างกาย; มีการสอบสัมภาษณ์ วันอังคารที่ 2 มิถุนายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาการศึกษาตลอดชีวิต",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง นานาชาติ อาชีวศึกษา และ กศน.; มีการสอบสัมภาษณ์ วันอังคารที่ 2 มิถุนายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาศาสตร์การกีฬา",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "30%",
+          "min_threshold": "2.25"
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX สุขศึกษาและพลศึกษา/วิทยาศาสตร์การกีฬา ≥ 3.00; นักกีฬากีฬาสากลพิจารณาเป็นพิเศษ; ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพ; มีการสอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิถุนายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาศาสตร์การกีฬา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 30,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX) 6 ภาคการศึกษา",
+          "weight_percent": "30%",
+          "min_threshold": "2.25"
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX สุขศึกษาและพลศึกษา/วิทยาศาสตร์การกีฬา ≥ 3.00; นักกีฬากีฬาสากลพิจารณาเป็นพิเศษ; ไม่มีร่างกายทุพพลภาพเป็นอุปสรรควิชาชีพ; มีการสอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิถุนายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาศิลปศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "15%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "25%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "7%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "7%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "7%"
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพ ความพิการ หรือปัญหาด้านสุขภาพจิตเป็นอุปสรรควิชาชีพครู; มีการสอบสัมภาษณ์ วันอังคารที่ 2 มิถุนายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาศิลปศึกษา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ มหาวิทยาลัยศิลปากร",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "15%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "25%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "7%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "7%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "7%"
+        }
+      ],
+      "other_conditions_th": "ไม่มีร่างกายทุพพลภาพ ความพิการ หรือปัญหาด้านสุขภาพจิตเป็นอุปสรรควิชาชีพครู; มีการสอบสัมภาษณ์ วันอังคารที่ 2 มิถุนายน 2569"
+    },
+    {
+      "program_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สาขาวิชาวิทยาศาสตร์ศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และคณะวิทยาศาสตร์ มหาวิทยาลัยศิลปากร (โครงการความร่วมมือ)",
+      "seats": 10,
+      "project_code": "โครงการความร่วมมือ คณะศึกษาศาสตร์และคณะวิทยาศาสตร์",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับเฉพาะผู้สำเร็จการศึกษา ม.6 ปีการศึกษา 2568; ไม่เป็นผู้มีร่างกายทุพพลภาพเป็นอุปสรรคต่อการเป็นครู"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์ศึกษา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "10",
+          "min_threshold": "2.50"
+        }
+      ],
+      "other_conditions_th": "ผู้สำเร็จการศึกษา ม.6 ปีการศึกษา 2568 เท่านั้น; ไม่เป็นผู้มีร่างกายทุพพลภาพที่เป็นอุปสรรคต่อการเป็นครู; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ชีววิทยา (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "เคมี (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ onsite คณะวิทยาศาสตร์ มหาวิทยาลัยศิลปากร นครปฐม"
+    },
+    {
+      "program_name_th": "ฟิสิกส์ (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "20",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "สถิติและวิทยาการวิเคราะห์ข้อมูล (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "30",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์สิ่งแวดล้อม (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "15",
+      "weighted_subjects": [
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "35",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "55",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์ (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "10",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "60",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "60",
+          "min_threshold": "30%"
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "จุลชีววิทยา (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "20",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศ (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "10",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "60",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "60",
+          "min_threshold": "30%"
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "วิทยาการข้อมูล (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "30",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "เคมีประยุกต์และจุลชีววิทยาอุตสาหกรรม (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ onsite คณะวิทยาศาสตร์ มหาวิทยาลัยศิลปากร นครปฐม"
+    },
+    {
+      "program_name_th": "เคมีผลิตภัณฑ์และธุรกิจเครื่องสำอาง (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ onsite คณะวิทยาศาสตร์ มหาวิทยาลัยศิลปากร นครปฐม"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์ (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "20",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์ประยุกต์ (คณะวิทยาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "30",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดทางวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; สอบสัมภาษณ์แบบ online"
+    },
+    {
+      "program_name_th": "ฟิสิกส์ (ครู) โครงการความร่วมมือระหว่าง คณะวิทยาศาสตร์และคณะศึกษาศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และคณะศึกษาศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "50",
+          "subject_name_th": "ความถนัดครุศาสตร์ ศึกษาศาสตร์ (TPAT5)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้สำเร็จการศึกษา ม.6; ไม่เป็นผู้มีร่างกายทุพพลภาพที่เป็นอุปสรรคต่อการเป็นครู; สอบสัมภาษณ์ วันพุธที่ 3 มิถุนายน 2569 รูปแบบออนไลน์"
+    },
+    {
+      "program_name_th": "หลักสูตรเภสัชศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "16.65%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิ.ย. 2569 เวลา 08.30 น.; ต้องมีคุณสมบัติปฏิบัติงานในส่วนราชการ/หน่วยงานของรัฐได้หลังจบ; ต้องมีสุขภาพสมบูรณ์ ปราศจากโรค/ความพิการอันเป็นอุปสรรคต่อวิชาชีพเภสัชกรรม (ตรวจร่างกายโดยแพทย์); รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "หลักสูตรเภสัชศาสตรบัณฑิต (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 75,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "16.65%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "16.67%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิ.ย. 2569 เวลา 08.30 น.; ต้องมีคุณสมบัติปฏิบัติงานในส่วนราชการ/หน่วยงานของรัฐได้หลังจบ; ต้องมีสุขภาพสมบูรณ์ ปราศจากโรค/ความพิการอันเป็นอุปสรรคต่อวิชาชีพเภสัชกรรม (ตรวจร่างกายโดยแพทย์); รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชานวัตกรรมเครื่องสำอางและศิลปะความงาม (โครงการพิเศษ) - รูปแบบที่ 1",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 30,
+      "project_code": "โครงการพิเศษ รูปแบบที่ 1",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิ.ย. 2569 เวลา 12.30 น.; รับหลักสูตรแกนกลาง/นานาชาติ"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชานวัตกรรมเครื่องสำอางและศิลปะความงาม (โครงการพิเศษ) - รูปแบบที่ 2",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 30,
+      "project_code": "โครงการพิเศษ รูปแบบที่ 2",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิ.ย. 2569 เวลา 12.30 น.; รับหลักสูตรแกนกลาง/นานาชาติ"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาสุขภาพดิจิทัล (โครงการพิเศษ) - รูปแบบที่ 1",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ รูปแบบที่ 1",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิ.ย. 2569 เวลา 12.30 น.; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ต้องมีสุขภาพสมบูรณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาสุขภาพดิจิทัล (โครงการพิเศษ) - รูปแบบที่ 2",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ รูปแบบที่ 2",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิ.ย. 2569 เวลา 12.30 น.; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวศึกษา/กศน./GED; ต้องมีสุขภาพสมบูรณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": "TSCORE >= 30%"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้สมัครต้องมีคะแนน TSCORE รายวิชา 61 ไม่น้อยกว่า 30% และรายวิชา 65 เคมี ไม่น้อยกว่า 40%; รับหลักสูตรแกนกลาง/นานาชาติ/GED; ไม่กำหนด GPAX"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": "TSCORE >= 30%"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวมทั้ง 4 รายวิชา เมื่อคิดเป็นร้อยเปอร์เซ็นต์แล้วต้องไม่น้อยกว่า 40%; ผู้สมัครต้องมีคะแนน TSCORE รายวิชา 61 ไม่น้อยกว่า 30% และรายวิชา 65 เคมี ไม่น้อยกว่า 40%; รับหลักสูตรแกนกลาง/นานาชาติ/GED; ไม่กำหนด GPAX"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "TSCORE >= 30%"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "TSCORE >= 40%"
+        }
+      ],
+      "other_conditions_th": "ผู้สมัครต้องมีคะแนน TSCORE รายวิชา 61 ไม่น้อยกว่า 30% และรายวิชา 65 เคมี ไม่น้อยกว่า 40%; GPAX ม.4-ม.6 ไม่ต่ำกว่า 3.25; รับหลักสูตรแกนกลาง/นานาชาติ/GED"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวมทั้ง 2 รายวิชา (61 และอีกวิชา) เมื่อคิดเป็นร้อยเปอร์เซ็นต์แล้วต้องไม่น้อยกว่า 30%"
+    },
+    {
+      "program_name_th": "วิศวกรรมการจัดการและโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมวัสดุและนาโนเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมกระบวนการชีวภาพ",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "70%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ธุรกิจวิศวกรรม",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวมทั้ง 4 รายวิชา เมื่อคิดเป็นร้อยเปอร์เซ็นต์แล้วต้องไม่น้อยกว่า 40%"
+    },
+    {
+      "program_name_th": "วิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวมทั้ง 2 รายวิชา เมื่อคิดเป็นร้อยเปอร์เซ็นต์แล้วต้องไม่น้อยกว่า 25%"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และระบบคอมพิวเตอร์ (หน้า 54)",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมการจัดการและโลจิสติกส์ (หน้า 55)",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมวัสดุและนาโนเทคโนโลยี (หน้า 55)",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมกระบวนการชีวภาพ (หน้า 55)",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "70%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าสื่อสาร (หน้า 55-56)",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT3)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "ธุรกิจวิศวกรรม (หน้า 56)",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สัตวศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิถุนายน 2569 เวลา 09.00 น. ดูรายละเอียดที่ admission.su.ac.th"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การประมง",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63/64/65/66",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์ หรือ ฟิสิกส์ หรือ เคมี หรือ ชีววิทยา (เลือก 1 วิชา)",
+          "weight_percent": "5%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิถุนายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "เทคโนโลยีการผลิตพืช",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 100,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63/64/65/66",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์ หรือ ฟิสิกส์ หรือ เคมี หรือ ชีววิทยา (เลือก 1 วิชา)",
+          "weight_percent": "5%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิถุนายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "ผู้ประกอบการธุรกิจการเกษตรและอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิถุนายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "ส่งเสริมการเกษตร",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+      "seats": 120,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ใช้คะแนน GPAX 100% สอบสัมภาษณ์ออนไลน์ วันอังคารที่ 2 มิถุนายน 2569 เวลา 09.00 น."
+    },
+    {
+      "program_name_th": "การจัดการนวัตกรรมทางธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 100,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี; เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "การจัดการโรงแรม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 100,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจและภาษา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 80,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "80%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "วิชาโท ภาษาอังกฤษ จีน ญี่ปุ่น เกาหลี; ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี; เลือกวิชา (2)–(3) เพียง 1 วิชา"
+    },
+    {
+      "program_name_th": "การจัดการการท่องเที่ยว",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 100,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี"
+    },
+    {
+      "program_name_th": "การจัดการชุมชน",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 80,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี"
+    },
+    {
+      "program_name_th": "รัฐประศาสนศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 100,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี"
+    },
+    {
+      "program_name_th": "บัญชีบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 120,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "50%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "50%",
+          "min_threshold": "30%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "50%",
+          "min_threshold": "30%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี; เลือกวิชา (2)–(3) เพียง 1 วิชา"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจกีฬา นันทนาการ และเวลเนส",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 100,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี"
+    },
+    {
+      "program_name_th": "การจัดการงานนิทรรศการและงานอีเวนต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 70,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 2–4 เรียนที่เมืองทองธานี จ.นนทบุรี"
+    },
+    {
+      "program_name_th": "การจัดการโลจิสติกส์ระหว่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 70,
+      "project_code": "โครงการเด็กดีอยากเรียน (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "80%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–2 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 3–4 เรียนที่เมืองทองธานี จ.นนทบุรี; เลือกวิชา (2)–(3) เพียง 1 วิชา"
+    },
+    {
+      "program_name_th": "การจัดการนวัตกรรมทางธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 120,
+      "project_code": "โครงการเด็กดีอยากเรียน (พื้นที่การศึกษาบางรัก กรุงเทพมหานคร)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "100%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "100%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "100%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "จัดการเรียนการสอนเป็นภาษาอังกฤษ ภาคการศึกษาละ 1 รายวิชา; ชั้นปีที่ 1 เรียนที่บางรัก และชั้นปีที่ 2–4 เรียนที่เมืองทองธานี; เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "การตลาด",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 80,
+      "project_code": "โครงการเด็กดีอยากเรียน (พื้นที่การศึกษาบางรัก กรุงเทพมหานคร)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "60%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "40%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "40%",
+          "min_threshold": "20%"
+        }
+      ],
+      "other_conditions_th": "จัดการเรียนการสอนเป็นภาษาอังกฤษ ภาคการศึกษาละ 1 รายวิชา; ชั้นปีที่ 1 เรียนที่บางรัก และชั้นปีที่ 2–4 เรียนที่เมืองทองธานี; เลือกวิชา (2)–(3) เพียง 1 วิชา"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจและภาษา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 60,
+      "project_code": "โครงการเด็กดีอยากเรียน (พื้นที่การศึกษาบางรัก กรุงเทพมหานคร)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "80%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "20%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "วิชาโท ภาษาอังกฤษ จีน ญี่ปุ่น เกาหลี; ชั้นปีที่ 1 เรียนที่บางรัก และชั้นปีที่ 2–4 เรียนที่เมืองทองธานี; เลือกวิชา (2)–(3) เพียง 1 วิชา"
+    },
+    {
+      "program_name_th": "การจัดการปกครองดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 20,
+      "project_code": "โครงการเด็กดีอยากเรียน (เมืองทองธานี จังหวัดนนทบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "50%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "50%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "50%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่เมืองทองธานี จังหวัดนนทบุรี; เลือกวิชา (2)–(3) เพียง 1 วิชา"
+    },
+    {
+      "program_name_th": "การจัดการนวัตกรรมทางธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 100,
+      "project_code": "โครงการเด็กดีมีโอกาส (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี; เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "การจัดการโรงแรม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 100,
+      "project_code": "โครงการเด็กดีมีโอกาส (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "100%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี; เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจและภาษา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาการจัดการ",
+      "seats": 80,
+      "project_code": "โครงการเด็กดีมีโอกาส (วิทยาเขตสารสนเทศเพชรบุรี)",
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "100%",
+          "min_threshold": "15%"
+        }
+      ],
+      "other_conditions_th": "วิชาโท ภาษาอังกฤษ จีน ญี่ปุ่น เกาหลี; ชั้นปีที่ 1–4 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี; เลือกใช้เพียง 1 รายวิชา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการออกแบบ (วิชาเอกการออกแบบอินเทอร์แอคทีฟแอปพลิเคชัน) - รูปแบบที่ 1 พื้นฐานวิทยาศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 20%; ภาษาไทย (81) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; ภาษาอังกฤษ (82) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–17.00 น.; ชั้นปีที่ 1–3 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 4 เรียนที่วิทยาเขตเมืองทองธานี"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการออกแบบ (วิชาเอกการออกแบบอินเทอร์แอคทีฟแอปพลิเคชัน) - รูปแบบที่ 2 พื้นฐานศิลปศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 20%; ภาษาไทย (81) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; ภาษาอังกฤษ (82) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–17.00 น.; ชั้นปีที่ 1–3 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 4 เรียนที่วิทยาเขตเมืองทองธานี"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการออกแบบ (วิชาเอกการออกแบบแอนิเมชัน) - รูปแบบที่ 1 พื้นฐานวิทยาศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 20%; ภาษาไทย (81) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; ภาษาอังกฤษ (82) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–17.00 น.; ชั้นปีที่ 1–3 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 4 เรียนที่วิทยาเขตเมืองทองธานี"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการออกแบบ (วิชาเอกการออกแบบแอนิเมชัน) - รูปแบบที่ 2 พื้นฐานศิลปศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 20%; ภาษาไทย (81) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; ภาษาอังกฤษ (82) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–17.00 น.; ชั้นปีที่ 1–3 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 4 เรียนที่วิทยาเขตเมืองทองธานี"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการออกแบบ (วิชาเอกการออกแบบเกม) - รูปแบบที่ 1 พื้นฐานวิทยาศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 20%; ภาษาไทย (81) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; ภาษาอังกฤษ (82) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–17.00 น.; ชั้นปีที่ 1–3 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 4 เรียนที่วิทยาเขตเมืองทองธานี"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการออกแบบ (วิชาเอกการออกแบบเกม) - รูปแบบที่ 2 พื้นฐานศิลปศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "21",
+          "subject_name_th": "ความถนัดศิลปกรรมศาสตร์ (TPAT21 ทัศนศิลป์)",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10%",
+          "min_threshold": "20%"
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": "10%"
+        }
+      ],
+      "other_conditions_th": "GPAX ค่าน้ำหนัก 20%; ภาษาไทย (81) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; ภาษาอังกฤษ (82) ค่าน้ำหนัก 10% เกณฑ์ขั้นต่ำ 10%; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–17.00 น.; ชั้นปีที่ 1–3 เรียนที่วิทยาเขตสารสนเทศเพชรบุรี และชั้นปีที่ 4 เรียนที่วิทยาเขตเมืองทองธานี"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสร้างสรรค์ - รูปแบบที่ 1 พื้นฐานวิทยาศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2) ** หรือ สมรรถนะการทำงาน (TGAT3) ** เลือก 1 วิชา",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตพระราชวังสนามจันทร์ จ.นครปฐม; คุณสมบัติ: ผลการเรียนเฉลี่ยกลุ่มสาระภาษาต่างประเทศ ม.ปลาย ไม่ต่ำกว่า 3.00 หรือ TOEFL PBT ≥470 / IBT ≥55 หรือ TOEIC ≥550 หรือ IELTS ≥4.5 หรือ CU-TEP ≥60; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–16.00 น."
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสร้างสรรค์ - รูปแบบที่ 2 พื้นฐานศิลปศาสตร์ รูปแบบที่ 1",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2) ** หรือ สมรรถนะการทำงาน (TGAT3) ** เลือก 1 วิชา",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตพระราชวังสนามจันทร์ จ.นครปฐม; คุณสมบัติ: ผลการเรียนเฉลี่ยกลุ่มสาระภาษาต่างประเทศ ม.ปลาย ไม่ต่ำกว่า 3.00 หรือ TOEFL PBT ≥470 / IBT ≥55 หรือ TOEIC ≥550 หรือ IELTS ≥4.5 หรือ CU-TEP ≥60; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–16.00 น."
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสร้างสรรค์ - รูปแบบที่ 3 พื้นฐานศิลปศาสตร์ รูปแบบที่ 2",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "การคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ *** หรือ 83 ภาษาฝรั่งเศส *** หรือ 84 ภาษาเยอรมัน *** หรือ 85 ภาษาญี่ปุ่น *** หรือ 86 ภาษาเกาหลี *** หรือ 87 ภาษาจีน *** หรือ 88 ภาษาบาลี *** หรือ 89 ภาษาสเปน *** (เลือก 1 วิชา)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตพระราชวังสนามจันทร์ จ.นครปฐม; คุณสมบัติ: ผลการเรียนเฉลี่ยกลุ่มสาระภาษาต่างประเทศ ม.ปลาย ไม่ต่ำกว่า 3.00 หรือ TOEFL PBT ≥470 / IBT ≥55 หรือ TOEIC ≥550 หรือ IELTS ≥4.5 หรือ CU-TEP ≥60; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–16.00 น."
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสร้างสรรค์ - รูปแบบที่ 4 พื้นฐานศิลปศาสตร์ รูปแบบที่ 3",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 รับกลางร่วมกัน (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "การสื่อสารภาษาอังกฤษ (TGAT1)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "สมรรถนะการทำงาน (TGAT3)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ *** หรือ 83 ภาษาฝรั่งเศส *** หรือ 84 ภาษาเยอรมัน *** หรือ 85 ภาษาญี่ปุ่น *** หรือ 86 ภาษาเกาหลี *** หรือ 87 ภาษาจีน *** หรือ 88 ภาษาบาลี *** หรือ 89 ภาษาสเปน *** (เลือก 1 วิชา)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียน ณ วิทยาเขตพระราชวังสนามจันทร์ จ.นครปฐม; คุณสมบัติ: ผลการเรียนเฉลี่ยกลุ่มสาระภาษาต่างประเทศ ม.ปลาย ไม่ต่ำกว่า 3.00 หรือ TOEFL PBT ≥470 / IBT ≥55 หรือ TOEIC ≥550 หรือ IELTS ≥4.5 หรือ CU-TEP ≥60; สอบสัมภาษณ์ออนไลน์ ZOOM วันพุธที่ 3 มิถุนายน 2569 เวลา 09.00–16.00 น."
+    }
+  ]
+}

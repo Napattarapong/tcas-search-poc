@@ -1,0 +1,123 @@
+{
+  "university": "Saint Louis College",
+  "university_id": "115",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 3,
+  "programs": [
+    {
+      "program_name_th": "กายภาพบำบัด",
+      "tcas_code": null,
+      "faculty_th": "คณะกายภาพบำบัด",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "> 2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "Physics",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "Biology",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาตอนปลายหรือเทียบเท่า รวมถึงการศึกษานอกโรงเรียนทุกแผนการเรียน; เป็นคนไทยหรือคนต่างชาติที่สื่อสารด้วยภาษาไทยได้; มีความประพฤติดีและไม่เคยมีชื่อเสียงเสียหาย ไม่เคยต้องโทษคดีอาญา ยกเว้นกรณีประมาท; มีสุขภาพสมบูรณ์ทั้งร่างกายและจิตใจ ไม่เจ็บป่วยหรือเป็นโรคติดต่อร้ายแรง หรือมีความผิดปกติอื่น ๆ ที่เป็นอุปสรรคต่อการศึกษา; เอกสารประกอบการสมัคร: ระเบียนแสดงผลการเรียน (ปพ.1), สำเนาบัตรประจำตัวประชาชน, สำเนาทะเบียนบ้าน"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษาชั้นมัธยมศึกษาตอนปลายหรือนักศึกษาต่างชาติสำเร็จการศึกษาไม่ต่ำกว่าเกรด 12 หรือเทียบเท่าชั้นมัธยมศึกษาตอนปลาย และสามารถสื่อสารด้วยภาษาไทย ภาษาอังกฤษได้ตามเกณฑ์การประเมินของวิทยาลัย; มีความประพฤติดีและไม่เคยมีชื่อเสียงเสียหาย ไม่เคยต้องโทษคดีอาญา; มีสุขภาพสมบูรณ์ทั้งร่างกายและจิตใจ ไม่พิการหรือทุพพลภาพและปราศจากโรคอันเป็นอุปสรรคต่อการศึกษาและการประกอบวิชาชีพ; เอกสารประกอบการสมัคร: ระเบียนแสดงผลการเรียน (ปพ.1), สำเนาบัตรประจำตัวประชาชน, สำเนาทะเบียนบ้าน"
+    },
+    {
+      "program_name_th": "จิตวิทยา",
+      "tcas_code": null,
+      "faculty_th": "คณะจิตวิทยา",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "> 2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "70%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษาตามหลักสูตรการศึกษาขั้นพื้นฐาน (มัธยมศึกษาตอนปลาย) หรือเทียบเท่าตามหลักสูตรกระทรวงการศึกษาธิการ และมีคะแนนเฉลี่ยสะสม > 2.00; มีความประพฤติดีและไม่เคยมีชื่อเสียงเสียหาย ไม่เคยต้องโทษคดีอาญา ยกเว้นกรณีประมาทหรือความผิดลหโทษ; มีสุขภาพสมบูรณ์ทั้งร่างกายและจิตใจ ปราศจากโรคร้ายแรงที่เป็นอุปสรรคต่อการศึกษา (กรณีมีประวัติการรักษาพยาบาลทางสุขภาพกายและสุขภาพจิต ต้องรักษาต่อเนื่องที่อาจเป็นอุปสรรคต่อการศึกษา ขอเอกสารยืนยันจากแพทย์เพื่อใช้ในการพิจารณาเพิ่มเติม); เอกสารประกอบการสมัคร: ระเบียนแสดงผลการเรียน (ปพ.1), สำเนาบัตรประจำตัวประชาชน, สำเนาทะเบียนบ้าน"
+    }
+  ]
+}

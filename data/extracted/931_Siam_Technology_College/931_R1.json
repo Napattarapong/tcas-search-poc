@@ -1,0 +1,163 @@
+{
+  "university": "Siam Technology College",
+  "university_id": "931",
+  "round": "R1",
+  "archetype": "criteria",
+  "program_count": 14,
+  "programs": [
+    {
+      "program_name_th": "ธุรกิจดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะดิจิทัล",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "วิศวกรรมซ่อมบำรุงอากาศยาน",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "วิศวกรรมพลังงานและโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "เทคโนโลยียานยนต์สมัยใหม่",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีไฟฟ้าและระบบควบคุมอัตโนมัติ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "รัฐประศาสนศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะรัฐประศาสนศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "สาธารณสุขศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์สุขภาพ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "อาชีวอนามัยและความปลอดภัย",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์สุขภาพ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "การสอนภาษาอังกฤษสำหรับผู้พูดภาษาอื่น (TESOL)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "การตลาด",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "การจัดการ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจระหว่างประเทศ (IBM)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "การบัญชี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    },
+    {
+      "program_name_th": "การจัดการนวัตกรรมการท่องเที่ยวและการบริการ",
+      "tcas_code": null,
+      "faculty_th": "คณะการบริการและการท่องเที่ยว",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ข้อมูลจากโบรชัวร์รวม ไม่ได้ระบุรายละเอียดเกณฑ์รับสมัคร เกณฑ์ขั้นต่ำ หรือสัดส่วนค่าน้ำหนักในหน้าที่ให้มา"
+    }
+  ]
+}

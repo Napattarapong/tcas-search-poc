@@ -1,0 +1,962 @@
+{
+  "university": "Rajamangala University of Technology Thanyaburi",
+  "university_id": "191",
+  "round": "R1",
+  "archetype": "criteria",
+  "program_count": 79,
+  "programs": [
+    {
+      "program_name_th": "การท่องเที่ยว",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรม/จิตอาสา, ผลงานทางวิชาการ/โครงงาน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจเรียน; สาขาพลศึกษามีการทดสอบความสามารถทางด้านกีฬาในวันสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "การจัดการการโรงแรม",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "การจัดการการโรงแรม (พิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "ภาคพิเศษ; Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่อการสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ ไม่ต่ำกว่า 3.00; Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่อการสื่อสาร (พิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ภาคพิเศษ; GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ ไม่ต่ำกว่า 2.75; Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "อุตสาหกรรมการบริการการบิน",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "พลศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีการทดสอบความสามารถทางด้านกีฬาในวันสอบสัมภาษณ์; Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "ภาษาไทยและภาษาจีนเพื่ออุตสาหกรรมการบริการ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่ออาชีพนานาชาติ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรนานาชาติ; GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ ไม่ต่ำกว่า 2.75; Portfolio ตามเกณฑ์คณะศิลปศาสตร์"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio: ประวัติทั่วไป, Transcript 5 ภาคการศึกษา, เหตุผลที่สนใจ, ทักษะคอมพิวเตอร์, ความสามารถพิเศษ, ผลงาน/รางวัล, คติประจำใจ, กิจกรรมจิตอาสา, ผลงานวิชาการโดดเด่น; สอบสมรรถนะวิชาชีพครู; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม; สอบสมรรถนะวิชาชีพครู; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม; สอบสมรรถนะวิชาชีพครู; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม; สอบสมรรถนะวิชาชีพครู; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "วิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม; สอบสมรรถนะวิชาชีพครู; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "เทคโนโลยีและสื่อสารการศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศึกษาศาสตรบัณฑิต; Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม; สอบสมรรถนะวิชาชีพครู; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัลเพื่อการศึกษาและคอมพิวเตอร์ศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศึกษาศาสตรบัณฑิต; Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม; สอบสมรรถนะวิชาชีพครู; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "วิศวกรรมเมคคาทรอนิกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต; Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม; ต้องมีความสามารถในการมองเห็น"
+    },
+    {
+      "program_name_th": "นวัตกรรมการเรียนรู้และเทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต; Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม"
+    },
+    {
+      "program_name_th": "เทคโนโลยีบริหารงานก่อสร้าง",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์อุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรอุตสาหกรรมศาสตรบัณฑิต; Portfolio และเงื่อนไขเดียวกับคณะครุศาสตร์อุตสาหกรรม"
+    },
+    {
+      "program_name_th": "การผลิตพืช",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6 แกนกลาง/กศน./GED; Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรม/จิตอาสา, ผลงานวิชาการ/โครงงาน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจเรียน"
+    },
+    {
+      "program_name_th": "สัตวศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะเทคโนโลยีการเกษตร"
+    },
+    {
+      "program_name_th": "ประมง",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะเทคโนโลยีการเกษตร"
+    },
+    {
+      "program_name_th": "เทคโนโลยีภูมิทัศน์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะเทคโนโลยีการเกษตร"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะเทคโนโลยีการเกษตร"
+    },
+    {
+      "program_name_th": "การพยาบาลสัตว์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีการเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ตามเกณฑ์คณะเทคโนโลยีการเกษตร"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต รวม 13 สาขาวิชา (วิศวกรรมเคมี, วิศวกรรมโยธา, วิศวกรรมไฟฟ้า, วิศวกรรมเครื่องกล, วิศวกรรมระบบราง, วิศวกรรมอุตสาหการ, วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม, วิศวกรรมสิ่งแวดล้อม, วิศวกรรมคอมพิวเตอร์, วิศวกรรมวัสดุ-วิศวกรรมพอลิเมอร์ ฯลฯ)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 22 หน่วยกิต; Portfolio: ประวัติทั่วไป, ผลการศึกษา 5 ภาคการศึกษา, เหตุผลที่สนใจ, ผลงานวิชาการ, กิจกรรม, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ; สอบสัมภาษณ์; เลือกสาขาในชั้นปีที่ 2; *สาขาที่ต้องมีความสามารถในการมองเห็น จำนวน 9 สาขาวิชา"
+    },
+    {
+      "program_name_th": "วิศวกรรมชลประทานและการจัดการน้ำ",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวศ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 22 หน่วยกิต | Portfolio: ประวัติทั่วไป, ผลการศึกษา 2.75 ขึ้นไป, เหตุผลที่สนใจ, ผลงานทางวิชาการ, กิจกรรมร่วมกับโรงเรียน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์อากาศยาน",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวศ.บ. 4 ปี ภาคปกติ | ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ | Portfolio เช่นเดียวกับสาขาวิศวกรรมชลประทาน"
+    },
+    {
+      "program_name_th": "วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม - วิศวกรรมเซมิคอนดัคเตอร์",
+      "tcas_code": null,
+      "faculty_th": "วิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวศ.บ. 4 ปี ภาคปกติ | ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ | Portfolio เช่นเดียวกับสาขาวิศวกรรมชลประทาน"
+    },
+    {
+      "program_name_th": "การตลาด-การตลาด",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, เหตุผลที่สนใจ, ทักษะคอมพิวเตอร์, กิจกรรมวิชาชีพ, ผลงาน/โครงงาน, กิจกรรมในสถานศึกษา, ความสามารถพิเศษ"
+    },
+    {
+      "program_name_th": "การตลาด-การค้าปลีก",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "การตลาด-การจัดนิทรรศการและการตลาดเชิงกิจกรรม",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "การจัดการ-การจัดการทรัพยากรมนุษย์",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "การจัดการ-นวัตกรรมการจัดการธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "คอมพิวเตอร์ธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "การบริหารธุรกิจระหว่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "การจัดการโลจิสติกส์และซัพพลายเชน",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "3.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "การเงินและการลงทุน",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาการตลาด-การตลาด"
+    },
+    {
+      "program_name_th": "บัญชีบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "3.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบช.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, เหตุผลที่สนใจ, ทักษะคอมพิวเตอร์, กิจกรรมวิชาชีพ, ผลงาน/โครงงาน, กิจกรรมในสถานศึกษา, ความสามารถพิเศษ"
+    },
+    {
+      "program_name_th": "เศรษฐศาสตร์-เศรษฐศาสตร์ธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ"
+    },
+    {
+      "program_name_th": "Business Administration - International Business and Logistics (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี (นานาชาติ) ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ"
+    },
+    {
+      "program_name_th": "Business Administration - Digital Marketing and Media Creation (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "บริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบธ.บ. 4 ปี (นานาชาติ) ภาคปกติ"
+    },
+    {
+      "program_name_th": "การออกแบบแฟชั่นและนวัตกรรม (เครื่องแต่งกาย)",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรคศ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, กิจกรรม/จิตอาสา, ผลงาน/โครงงาน, ความสามารถพิเศษ"
+    },
+    {
+      "program_name_th": "อาหารและโภชนาการ",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรคศ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง | Portfolio เช่นเดียวกับสาขาการออกแบบแฟชั่นและนวัตกรรม"
+    },
+    {
+      "program_name_th": "นวัตกรรมศิลปะประดิษฐ์สร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรคศ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง | Portfolio เช่นเดียวกับสาขาการออกแบบแฟชั่นและนวัตกรรม"
+    },
+    {
+      "program_name_th": "การศึกษาปฐมวัย",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีคหกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศษ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง"
+    },
+    {
+      "program_name_th": "จิตรกรรม",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรม/จิตอาสา, ผลงาน/โครงงาน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจ, นำผลงานทางศิลปะมาเสนอ | สอบสัมภาษณ์และสอบทักษะปฏิบัติทางด้านทัศนศิลป์"
+    },
+    {
+      "program_name_th": "ทัศนศิลป์",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio และสอบสัมภาษณ์เช่นเดียวกับสาขาจิตรกรรม"
+    },
+    {
+      "program_name_th": "ศิลปะไทย",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio และสอบสัมภาษณ์เช่นเดียวกับสาขาจิตรกรรม"
+    },
+    {
+      "program_name_th": "ออกแบบนิเทศศิลป์",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรม/จิตอาสา, ผลงาน/โครงงาน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจ, นำผลงานด้านออกแบบมาเสนอ | สอบสัมภาษณ์และสอบทักษะปฏิบัติทางด้านออกแบบ"
+    },
+    {
+      "program_name_th": "ออกแบบผลิตภัณฑ์",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio และสอบสัมภาษณ์เช่นเดียวกับสาขาออกแบบนิเทศศิลป์"
+    },
+    {
+      "program_name_th": "ออกแบบภายใน",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio และสอบสัมภาษณ์เช่นเดียวกับสาขาออกแบบนิเทศศิลป์"
+    },
+    {
+      "program_name_th": "นวัตกรรมการออกแบบผลิตภัณฑ์ร่วมสมัย",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio และสอบสัมภาษณ์เช่นเดียวกับสาขาออกแบบนิเทศศิลป์"
+    },
+    {
+      "program_name_th": "ศิลปะการออกแบบแฟชั่น",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio และสอบสัมภาษณ์เช่นเดียวกับสาขาออกแบบนิเทศศิลป์"
+    },
+    {
+      "program_name_th": "นาฏศิลป์ศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศษ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรม/จิตอาสา, ผลงาน/โครงงาน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจ | สอบสัมภาษณ์และสอบทักษะปฏิบัติทางด้านนาฏศิลป์"
+    },
+    {
+      "program_name_th": "ดนตรีไทย",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศษ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรม/จิตอาสา, ผลงาน/โครงงาน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจ | สอบสัมภาษณ์และสอบทักษะปฏิบัติทางด้านดนตรีไทยและขับร้องเพลงไทย"
+    },
+    {
+      "program_name_th": "ดนตรีสากลศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศษ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรมดนตรีสากล, ผลงานแข่งขันดนตรีสากล, เล่นเครื่องดนตรีสากลได้อย่างน้อย 1 เครื่อง/ขับร้องเพลงดนตรีสากล, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจ | สอบสัมภาษณ์และสอบทักษะปฏิบัติเครื่องดนตรีสากลหรือขับร้องเพลงดนตรีสากล"
+    },
+    {
+      "program_name_th": "ศิลปศึกษา",
+      "tcas_code": null,
+      "faculty_th": "ศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศษ.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ | Portfolio: ประวัติทั่วไป, ประวัติการศึกษา, ประวัติสุขภาพ, กิจกรรม/จิตอาสา, ผลงาน/โครงงาน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, เหตุผลที่สนใจ, นำผลงานทางศิลปะมาเสนอ | สอบสัมภาษณ์และสอบทักษะปฏิบัติทางด้านทัศนศิลป์"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการผลิตภาพยนตร์และวิทยุโทรทัศน์",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรทล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/ตามอัธยาศัย (กศน.) เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 6 หน่วยกิต | GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศไม่ต่ำกว่า 2.75 | ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการปฏิบัติ | Portfolio: ประวัติส่วนตัว, ประวัติการศึกษา, เหตุผลที่สนใจ, ผลงานทางวิชาการ, ผลงานอื่นๆ, กิจกรรมร่วมกับโรงเรียน, ความสามารถพิเศษ, ทักษะภาษาต่างประเทศ, ทักษะปฏิบัติที่เกี่ยวข้อง, ผลงาน Startup จะได้รับการพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "ครีเอทีฟมีเดียเทคโนโลยี – เทคโนโลยีการพัฒนาเกมดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรทล.บ. 4 ปี ภาคปกติ | รับ ม.6 หลักสูตรแกนกลาง/นานาชาติ/ตามอัธยาศัย (กศน.) เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 6 หน่วยกิต | GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศไม่ต่ำกว่า 2.75 | Portfolio เช่นเดียวกับสาขาเทคโนโลยีการผลิตภาพยนตร์และวิทยุโทรทัศน์"
+    },
+    {
+      "program_name_th": "ครีเอทีฟมีเดียเทคโนโลยี – เทคโนโลยีการพัฒนาเว็บไซต์ฟูลสแต็ก",
+      "tcas_code": null,
+      "faculty_th": "เทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.30",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรทล.บ. 4 ปี ภาคปกติ | Portfolio เช่นเดียวกับสาขาเทคโนโลยีการผลิตภาพยนตร์และวิทยุโทรทัศน์"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการพิมพ์ดิจิทัลและบรรจุภัณฑ์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ (แนบเอกสารผลงานที่เกี่ยวข้องกับสาขาวิชา) Portfolio: ประวัติส่วนตัว ประวัติการศึกษา เหตุผลที่สนใจสมัคร ผลงานทางวิชาการ ผลงานอื่นๆ กิจกรรมร่วมกับโรงเรียน ความสามารถพิเศษ ทักษะภาษาต่างประเทศ ทักษะปฏิบัติ; อายุไม่น้อยกว่า 18 ปี และไม่เกิน 22 ปี; มีสุขภาพสมบูรณ์ทั้งร่างกายและจิตใจ; เรียนคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 4 หน่วยกิต"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการโฆษณาและประชาสัมพันธ์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการปฏิบัติ; ผู้มีผลงานบน Platform online (TikTok, Youtube, Facebook, Instagram) หรือผลงานประกวดระดับเขต/ประเทศ จะได้รับการพิจารณาเป็นพิเศษ; ผู้มีผลการทดสอบภาษาอังกฤษระดับ B1 หรือเทียบเท่า จะได้รับการพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการผลิตภาพยนตร์และวิทยุโทรทัศน์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ภาคพิเศษ; GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศไม่ต่ำกว่า 2.75; ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและการปฏิบัติ; เรียนคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 4 หน่วยกิต"
+    },
+    {
+      "program_name_th": "ครีเอทีฟมีเดียเทคโนโลยี – เทคโนโลยีการพัฒนาเกมดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.30",
+      "weighted_subjects": [],
+      "other_conditions_th": "ภาคพิเศษ; GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศไม่ต่ำกว่า 2.75; สอบสัมภาษณ์ (แนบเอกสารผลงานที่เกี่ยวข้องกับสาขาวิชา) Portfolio: ประวัติส่วนตัว ประวัติการศึกษา เหตุผลที่สนใจสมัคร ผลงานทางวิชาการ ผลงานอื่นๆ กิจกรรมร่วมกับโรงเรียน ความสามารถพิเศษ ทักษะภาษาต่างประเทศ ทักษะปฏิบัติ; เรียนคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 4 หน่วยกิต"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์ประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้คณิตศาสตร์ไม่ต่ำกว่า 2.50; เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "ชีววิทยาประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 2.00; เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (ตาไม่บอดสี ต้องมีใบรับรองแพทย์); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "สถิติประยุกต์และวิทยาการวิเคราะห์ข้อมูล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียนคณิตศาสตร์ไม่ต่ำกว่า 4 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "เคมีประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้คณิตศาสตร์ไม่ต่ำกว่า 2.00; GPAX กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 2.00; เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (ตาไม่บอดสี ต้องมีใบรับรองแพทย์); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศและการสื่อสารดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้คณิตศาสตร์ไม่ต่ำกว่า 2.50; GPAX กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 2.50; เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 3 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX กลุ่มสาระการเรียนรู้คณิตศาสตร์ไม่ต่ำกว่า 2.50; GPAX กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 2.25; GPAX กลุ่มสาระการเรียนรู้ภาษาต่างประเทศไม่ต่ำกว่า 2.00; เรียนคณิตศาสตร์ไม่ต่ำกว่า 10 หน่วยกิต วิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 15 หน่วยกิต และภาษาต่างประเทศไม่ต่ำกว่า 9 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (ตาไม่บอดสี ต้องมีใบรับรองแพทย์); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "ฟิสิกส์ประยุกต์-นวัตกรรมวัสดุและนาโนเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "*อยู่ระหว่างปรับปรุงชื่อสาขาวิชาเป็น เทคโนโลยีและนวัตกรรมวัสดุ; เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์อาหารและการจัดการเทคโนโลยีอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 22 หน่วยกิต; ต้องมีความสามารถในการมองเห็น (ตาไม่บอดสี ต้องมีใบรับรองแพทย์); ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "การวิเคราะห์และจัดการข้อมูลขนาดใหญ่",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เรียนคณิตศาสตร์ไม่ต่ำกว่า 5 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและการทดลองปฏิบัติ"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรสถ.บ. 5 ปี; สอบทักษะปฏิบัติทางด้านออกแบบ สอบสัมภาษณ์; Portfolio: ประวัติทั่วไป ประวัติการศึกษา เหตุผลที่สนใจเรียน ผลงานด้านศิลปะและการออกแบบทางสถาปัตยกรรม/สถาปัตยกรรมภายใน ผลงานทางวิชาการ กิจกรรม ความสามารถพิเศษ ทักษะภาษาต่างประเทศ; นำผลงานด้านศิลปะและการออกแบบฉบับจริงมาแสดงในวันสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรมภายใน",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรสถ.บ. 5 ปี; รายละเอียด Portfolio เช่นเดียวกับสาขาสถาปัตยกรรม"
+    },
+    {
+      "program_name_th": "การแพทย์แผนไทยประยุกต์บัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะการแพทย์บูรณาการ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง/นานาชาติ เรียนคณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 22 หน่วยกิต; Portfolio + สอบสัมภาษณ์; ต้องมีใบรับรองแพทย์ภาวะตาบอดสีและใบรับรองแพทย์ 5 โรค (วัณโรคระยะแพร่เชื้อ, โรคเท้าช้าง, โรคจากสารเสพติด, โรคพิษสุราเรื้อรัง, โรคเรื้อรัง/ร้ายแรงอื่นๆ); เขียนเรียงความเรื่อง \"แพทย์แผนไทยประยุกต์ที่ฉันเข้าใจ\""
+    },
+    {
+      "program_name_th": "สุขภาพและความงาม",
+      "tcas_code": null,
+      "faculty_th": "คณะการแพทย์บูรณาการ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง/นานาชาติ; Portfolio + สอบสัมภาษณ์; ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและปฏิบัติ; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและปฏิบัติ"
+    },
+    {
+      "program_name_th": "นวัตกรรมผลิตภัณฑ์สุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะการแพทย์บูรณาการ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS1 (Portfolio)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หลักสูตรแกนกลาง/นานาชาติ เรียนคณิตศาสตร์ไม่ต่ำกว่า 6 หน่วยกิต และวิทยาศาสตร์และเทคโนโลยีไม่ต่ำกว่า 6 หน่วยกิต; Portfolio + สอบสัมภาษณ์; ต้องมีความสามารถในการมองเห็นโดยไม่เป็นอุปสรรคต่อการเรียนและปฏิบัติ; ต้องไม่มีความบกพร่องทางกายภาพที่เป็นอุปสรรคต่อการเรียนและปฏิบัติ"
+    }
+  ]
+}

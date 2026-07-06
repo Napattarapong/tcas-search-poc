@@ -1,0 +1,417 @@
+{
+  "university": "King Mongkut’s University of Technology Thonburi",
+  "university_id": "014",
+  "round": "ha",
+  "archetype": "criteria",
+  "program_count": 11,
+  "programs": [
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPA คณิตศาสตร์",
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "GPA วิทยาศาสตร์",
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "GPA ภาษาต่างประเทศ",
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 8, วิทยาศาสตร์ 20, ภาษาต่างประเทศ 6; เรียกสอบคัดเลือกตามจำนวนผู้สมัครที่ผ่านเกณฑ์; ไม่กำหนดค่าน้ำหนัก GPAX และ GPA ในขั้นตอนเรียกสอบและรับเข้าศึกษา"
+    },
+    {
+      "program_name_th": "วิศวกรรมยานยนต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPA คณิตศาสตร์",
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "GPA วิทยาศาสตร์",
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "GPA ภาษาต่างประเทศ",
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 8, วิทยาศาสตร์ 20, ภาษาต่างประเทศ 6; เรียกสอบคัดเลือกตามจำนวนผู้สมัครที่ผ่านเกณฑ์; ไม่กำหนดค่าน้ำหนัก GPAX และ GPA ในขั้นตอนเรียกสอบและรับเข้าศึกษา"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 2,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPA คณิตศาสตร์",
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPA วิทยาศาสตร์",
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": "30",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPA ภาษาต่างประเทศ",
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": "20",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "10",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "สอบสัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 10, วิทยาศาสตร์ 20, ภาษาต่างประเทศ ไม่กำหนดขั้นต่ำ; รับเฉพาะ ม.6 (ไม่รับ GED/กศน.); จำนวนเรียกสอบคัดเลือก 5 คน; ค่าน้ำหนักเกณฑ์การเรียกสอบคัดเลือก: GPAX 10%, GPA คณิตศาสตร์ 40%, GPA วิทยาศาสตร์ 30%, GPA ภาษาต่างประเทศ 20%; ค่าน้ำหนักเกณฑ์การรับเข้าศึกษา: สอบสัมภาษณ์ 100%"
+    },
+    {
+      "program_name_th": "สถิติและวิทยาการข้อมูล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPA คณิตศาสตร์",
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPA วิทยาศาสตร์",
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": "30",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPA ภาษาต่างประเทศ",
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": "20",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "10",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "สอบสัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 10, วิทยาศาสตร์ 20, ภาษาต่างประเทศ ไม่กำหนดขั้นต่ำ; รับเฉพาะ ม.6 (ไม่รับ GED/กศน.); จำนวนเรียกสอบคัดเลือก 3 คน; ค่าน้ำหนักเกณฑ์การเรียกสอบคัดเลือก: GPAX 10%, GPA คณิตศาสตร์ 40%, GPA วิทยาศาสตร์ 30%, GPA ภาษาต่างประเทศ 20%; ค่าน้ำหนักเกณฑ์การรับเข้าศึกษา: สอบสัมภาษณ์ 100%"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPA คณิตศาสตร์",
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPA วิทยาศาสตร์",
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": "GPA ภาษาต่างประเทศ",
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "สอบสัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 10, วิทยาศาสตร์และเทคโนโลยี 5, ภาษาต่างประเทศ ไม่กำหนดขั้นต่ำ; รับเฉพาะ ม.6; จำนวนเรียกสอบคัดเลือก N/A; มีแฟ้มสะสมผลงาน; ไม่กำหนดค่าน้ำหนักในขั้นตอนเรียกสอบและรับเข้าศึกษา (ยกเว้นสอบสัมภาษณ์ 100%)"
+    },
+    {
+      "program_name_th": "นวัตกรรมบริการดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPA คณิตศาสตร์",
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "GPA วิทยาศาสตร์",
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": "GPA ภาษาต่างประเทศ",
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "สอบสัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 10, วิทยาศาสตร์และเทคโนโลยี 5, ภาษาต่างประเทศ ไม่กำหนดขั้นต่ำ; รับเฉพาะ ม.6; จำนวนเรียกสอบคัดเลือก 3 คน; มีแฟ้มสะสมผลงาน; ไม่กำหนดค่าน้ำหนักในขั้นตอนเรียกสอบและรับเข้าศึกษา (ยกเว้นสอบสัมภาษณ์ 100%)"
+    },
+    {
+      "program_name_th": "นวัตกรรมบริการดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": "-",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กรณีที่มีผลการสอบ TGAT/TPAT3 หลักสูตรจะนำผลดังกล่าวมาประกอบการพิจารณา; ต้องมีแฟ้มสะสมผลงาน (Portfolio) ที่สนับสนุนการเข้าเรียนในสาขาวิชาเทคโนโลยีสารสนเทศ; หากมีผลงานทางเทคโนโลยีสารสนเทศ ให้ผู้สมัครเตรียมการนำเสนอผลงานในระหว่างการสัมภาษณ์; สอบสัมภาษณ์โดยคณะเทคโนโลยีสารสนเทศ; หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 5, วิทยาศาสตร์และเทคโนโลยี ไม่กำหนดขั้นต่ำ, ภาษาต่างประเทศ 6"
+    },
+    {
+      "program_name_th": "การออกแบบดิจิทัล (หลักสูตรนานาชาติ) - สาขาวิชาเอกแอนิเมชั่นและวิชวลเอฟเฟกต์",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผลการทดสอบภาษาอังกฤษ เลือกยื่นประเภทใดประเภทหนึ่งเท่านั้น (TOEFL iBT > 61, TOEFL Paper-Based > 500, TOEFL Computer-Based > 173, TOEFL iBT Home Edition > 72, IELTS > 5.50, TU-GET > 63, CU-TEP > 61, DuoLingo > 85, RMIT > 5.50); สำหรับผู้เข้าสมัครที่มีผลการเรียนดี หากคะแนนภาษาอังกฤษไม่ถึงเกณฑ์ขั้นต่ำ สามารถใช้เงื่อนไขผลการทดสอบภาษาอังกฤษประเภท B แทนได้; หน่วยกิตขั้นต่ำ: คณิตศาสตร์ ไม่กำหนดขั้นต่ำ, วิทยาศาสตร์ ไม่กำหนดขั้นต่ำ, ภาษาต่างประเทศ ไม่กำหนดขั้นต่ำ"
+    },
+    {
+      "program_name_th": "การออกแบบดิจิทัล (หลักสูตรนานาชาติ) - สาขาวิชาเอกการออกแบบและการสร้างเกม",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผลการทดสอบภาษาอังกฤษ เลือกยื่นประเภทใดประเภทหนึ่งเท่านั้น (TOEFL iBT > 61, TOEFL Paper-Based > 500, TOEFL Computer-Based > 173, TOEFL iBT Home Edition > 72, IELTS > 5.50, TU-GET > 63, CU-TEP > 61, DuoLingo > 85, RMIT > 5.50); สำหรับผู้เข้าสมัครที่มีผลการเรียนดี หากคะแนนภาษาอังกฤษไม่ถึงเกณฑ์ขั้นต่ำ สามารถใช้เงื่อนไขผลการทดสอบภาษาอังกฤษประเภท B แทนได้; หน่วยกิตขั้นต่ำ: คณิตศาสตร์ ไม่กำหนดขั้นต่ำ, วิทยาศาสตร์ ไม่กำหนดขั้นต่ำ, ภาษาต่างประเทศ ไม่กำหนดขั้นต่ำ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีแนวสร้างสรรค์ (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 1,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": "-",
+          "min_threshold": "ไม่กำหนดขั้นต่ำ"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผลการทดสอบภาษาอังกฤษ เลือกยื่นประเภทใดประเภทหนึ่งเท่านั้น (TOEFL iBT > 61, TOEFL Paper-Based > 500, TOEFL Computer-Based > 173, TOEFL iBT Home Edition > 72, IELTS > 5.50, TU-GET > 63, CU-TEP > 61, DuoLingo > 85, RMIT > 5.50); สำหรับผู้เข้าสมัครที่มีผลการเรียนดี หากคะแนนภาษาอังกฤษไม่ถึงเกณฑ์ขั้นต่ำ สามารถใช้เงื่อนไขผลการทดสอบภาษาอังกฤษประเภท B แทนได้; ต้องส่งเอกสารเพิ่มเติมเพื่อพิจารณาการคัดเลือกเข้าศึกษา; หน่วยกิตขั้นต่ำ: คณิตศาสตร์ ไม่กำหนดขั้นต่ำ, วิทยาศาสตร์ ไม่กำหนดขั้นต่ำ, ภาษาต่างประเทศ ไม่กำหนดขั้นต่ำ"
+    },
+    {
+      "program_name_th": "วิศวกรรมระบบปัญญาประดิษฐ์ (พื้นที่การศึกษาราชบุรี)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 2,
+      "project_code": "โครงการรับนักศึกษาพิการ",
+      "round_label": "รอบที่ 2",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA วิทยาศาสตร์",
+          "weight_percent": "-",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA ภาษาต่างประเทศ",
+          "weight_percent": "-",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: คณิตศาสตร์ 8, วิทยาศาสตร์และเทคโนโลยี 18, ภาษาต่างประเทศ 6"
+    }
+  ]
+}

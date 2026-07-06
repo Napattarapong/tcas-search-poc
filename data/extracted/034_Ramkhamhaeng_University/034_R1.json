@@ -1,0 +1,207 @@
+{
+  "university": "Ramkhamhaeng University",
+  "university_id": "034",
+  "round": "R1",
+  "archetype": "criteria",
+  "program_count": 18,
+  "programs": [
+    {
+      "program_name_th": "วิศวกรรมโยธา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 14 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.eng.ru.ac.th | โทร. 02-310-8570, 091-093-0451"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 14 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.eng.ru.ac.th | โทร. 02-310-8570, 091-093-0451"
+    },
+    {
+      "program_name_th": "วิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 14 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.eng.ru.ac.th | โทร. 02-310-8570, 091-093-0451"
+    },
+    {
+      "program_name_th": "วิศวกรรมคอมพิวเตอร์ (ภาคภาษาอังกฤษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 14 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.eng.ru.ac.th | โทร. 02-310-8570, 091-093-0451"
+    },
+    {
+      "program_name_th": "ทัศนมาตรศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะทัศนมาตรศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 23 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.opto.ru.ac.th | Line ID: @083pitqg | โทร. 02-310-8906"
+    },
+    {
+      "program_name_th": "สาธารณสุขศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 20 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.publichealth.ru.ac.th | Line ID: @PHPHRU | โทร. 02-310-8928"
+    },
+    {
+      "program_name_th": "ภาพยนตร์ดิจิทัลและสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต | รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 12 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | https://mac.ru.ac.th/dfc | โทร. 02-310-8993, 02-310-8979"
+    },
+    {
+      "program_name_th": "ดนตรีสากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 23 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.fa.ru.ac.th | Line: https://lin.ee/SnikAlO | โทร. 02-310-8296, 02-310-8291"
+    },
+    {
+      "program_name_th": "ดนตรีและนาฏกรรม เอกดนตรีไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 23 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.fa.ru.ac.th | Line: https://lin.ee/SnikAlO | โทร. 02-310-8296, 02-310-8291"
+    },
+    {
+      "program_name_th": "ดนตรีและนาฏกรรม เอกนาฏกรรมไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | สอบสัมภาษณ์ 23 ม.ค. 69 | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.fa.ru.ac.th | Line: https://lin.ee/SnikAlO | โทร. 02-310-8296, 02-310-8291"
+    },
+    {
+      "program_name_th": "ปรัชญา",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | ไม่มีการสอบสัมภาษณ์ | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.human.ru.ac.th | โทร. 0-2310-8269, 082-491-8867"
+    },
+    {
+      "program_name_th": "ภาษาตะวันตก (ภาษาสเปน)",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | ไม่มีการสอบสัมภาษณ์ | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.human.ru.ac.th | โทร. 0-2310-8269, 082-491-8867"
+    },
+    {
+      "program_name_th": "สารสนเทศศาสตร์และบรรณารักษศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | ไม่มีการสอบสัมภาษณ์ | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.human.ru.ac.th | โทร. 0-2310-8269, 082-491-8867"
+    },
+    {
+      "program_name_th": "เศรษฐศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 | ไม่มีการสอบสัมภาษณ์ | ประกาศผล 6 ก.พ. 69 | ยืนยันสิทธิ์ 6-7 ก.พ. 69 | www.eco.ru.ac.th | โทร. 02-310-8534"
+    },
+    {
+      "program_name_th": "สาขาวิชาการพัฒนาทรัพยากรมนุษย์",
+      "tcas_code": null,
+      "faculty_th": "คณะพัฒนาทรัพยากรมนุษย์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 สอบสัมภาษณ์ 21 ม.ค. 69 ประกาศผล 6 ก.พ. 69 ยืนยันสิทธิ์ 6-7 ก.พ. 69"
+    },
+    {
+      "program_name_th": "สาขาวิชาสื่อและนวัตกรรมการสื่อสารระดับโลก",
+      "tcas_code": null,
+      "faculty_th": "สถาบันการศึกษานานาชาติ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 สอบสัมภาษณ์ 12 ม.ค. 69 ประกาศผล 6 ก.พ. 69 ยืนยันสิทธิ์ 6-7 ก.พ. 69"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษ",
+      "tcas_code": null,
+      "faculty_th": "สถาบันการศึกษานานาชาติ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 สอบสัมภาษณ์ 12 ม.ค. 69 ประกาศผล 6 ก.พ. 69 ยืนยันสิทธิ์ 6-7 ก.พ. 69"
+    },
+    {
+      "program_name_th": "สาขาวิชาธุรกิจระดับโลกและความเป็นผู้ประกอบการในยุคดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "สถาบันการศึกษานานาชาติ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต รับสมัคร 28 ต.ค. - 30 ธ.ค. 2568 สอบสัมภาษณ์ 12 ม.ค. 69 ประกาศผล 6 ก.พ. 69 ยืนยันสิทธิ์ 6-7 ก.พ. 69"
+    }
+  ]
+}

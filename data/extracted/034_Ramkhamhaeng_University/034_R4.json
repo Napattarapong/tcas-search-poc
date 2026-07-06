@@ -1,0 +1,97 @@
+{
+  "university": "Ramkhamhaeng University",
+  "university_id": "034",
+  "round": "R4",
+  "archetype": "criteria",
+  "program_count": 8,
+  "programs": [
+    {
+      "program_name_th": "ภาพยนตร์ดิจิทัลและสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต ไม่มีการสอบสัมภาษณ์ รับสมัคร 28 พ.ค. - 2 มิ.ย. 69 ประกาศผล 6 มิ.ย. 69 ยืนยันสิทธิ์ 6-7 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "ภาพยนตร์ดิจิทัลและสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะสื่อสารมวลชน",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต ไม่มีการสอบสัมภาษณ์ รับสมัคร 7-14 มิ.ย. 69 ประกาศผล 17 มิ.ย. 69 ยืนยันสิทธิ์ 17-18 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "ดนตรีสากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ 3 มิ.ย. 69 รับสมัคร 28 พ.ค. - 2 มิ.ย. 69 ประกาศผล 6 มิ.ย. 69 ยืนยันสิทธิ์ 6-7 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "ดนตรีสากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ 14-15 มิ.ย. 69 รับสมัคร 7-14 มิ.ย. 69 ประกาศผล 17 มิ.ย. 69 ยืนยันสิทธิ์ 17-18 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "ดนตรีและนาฏกรรม เอกดนตรีไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ 3 มิ.ย. 69 รับสมัคร 28 พ.ค. - 2 มิ.ย. 69 ประกาศผล 6 มิ.ย. 69 ยืนยันสิทธิ์ 6-7 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "ดนตรีและนาฏกรรม เอกดนตรีไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ 14-15 มิ.ย. 69 รับสมัคร 7-14 มิ.ย. 69 ประกาศผล 17 มิ.ย. 69 ยืนยันสิทธิ์ 17-18 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "ดนตรีและนาฏกรรม เอกนาฏกรรมไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ 3 มิ.ย. 69 รับสมัคร 28 พ.ค. - 2 มิ.ย. 69 ประกาศผล 6 มิ.ย. 69 ยืนยันสิทธิ์ 6-7 มิ.ย. 69"
+    },
+    {
+      "program_name_th": "ดนตรีและนาฏกรรม เอกนาฏกรรมไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ 14-15 มิ.ย. 69 รับสมัคร 7-14 มิ.ย. 69 ประกาศผล 17 มิ.ย. 69 ยืนยันสิทธิ์ 17-18 มิ.ย. 69"
+    }
+  ]
+}

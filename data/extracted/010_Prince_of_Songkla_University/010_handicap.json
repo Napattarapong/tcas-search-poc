@@ -1,0 +1,433 @@
+{
+  "university": "Prince of Songkla University",
+  "university_id": "010",
+  "round": "ha",
+  "archetype": "criteria",
+  "program_count": 31,
+  "programs": [
+    {
+      "program_name_th": "วิทยาศาสตร์กายภาพและชีวภาพ (สามารถเลือกเรียนในสาขาวิชา เคมี-ชีววิทยาประยุกต์ สาขา ฟิสิกส์ สาขาวิชาเคมี สาขาวิชา วัสดุศาสตร์ สาขาวิชา วิทยาศาสตร์พอลิเมอร์ สาขาวิชา ชีววิทยา สาขาวิชาจุลชีววิทยา สาขาวิชาเทคโนโลยีชีวภาพ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์ (หาดใหญ่)",
+      "seats": 3,
+      "project_code": "10200",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "กลุ่มสาระวิทยาศาสตร์และเทคโนโลยี GPA",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "กลุ่มสาระคณิตศาสตร์ GPA",
+          "weight_percent": "7",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "ภาษาต่างประเทศ",
+          "subject_name_th": "กลุ่มสาระภาษาต่างประเทศ GPA",
+          "weight_percent": "5",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาระดับชั้น ม.6 ที่เรียนเน้นในรายวิชาวิทยาศาสตร์; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การคำนวณ (สามารถเลือกเรียนในสาขาวิชา คณิตศาสตร์ สาขาวิชาสถิติประยุกต์และวิทยาการข้อมูล และ สาขาวิชาวิทยาการคอมพิวเตอร์)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์ (หาดใหญ่)",
+      "seats": 2,
+      "project_code": "10201",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "กลุ่มสาระวิทยาศาสตร์และเทคโนโลยี GPA",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "กลุ่มสาระคณิตศาสตร์ GPA",
+          "weight_percent": "7",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "ภาษาต่างประเทศ",
+          "subject_name_th": "กลุ่มสาระภาษาต่างประเทศ GPA",
+          "weight_percent": "5",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาระดับชั้น ม.6 ที่เรียนเน้นในรายวิชาวิทยาศาสตร์"
+    },
+    {
+      "program_name_th": "ระบบสารสนเทศทางธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการจัดการ (หาดใหญ่)",
+      "seats": 1,
+      "project_code": "10501",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่สำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: 1. บกพร่องทางด้านร่างกายและการเคลื่อนไหว 2. บกพร่องทางการมองเห็นบางส่วน 3. บกพร่องทางการได้ยินบางส่วน"
+    },
+    {
+      "program_name_th": "การตลาดและการสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการจัดการ (หาดใหญ่)",
+      "seats": null,
+      "project_code": "10502",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่สำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "การจัดการทรัพยากรมนุษย์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการจัดการ (หาดใหญ่)",
+      "seats": null,
+      "project_code": "10503",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่สำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "การจัดการและความเป็นผู้ประกอบการ (นานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการจัดการ (หาดใหญ่)",
+      "seats": null,
+      "project_code": "10504",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่สำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "การจัดการไมซ์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการจัดการ (หาดใหญ่)",
+      "seats": null,
+      "project_code": "10505",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่สำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "รัฐประศาสนศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการจัดการ (หาดใหญ่)",
+      "seats": null,
+      "project_code": "10506",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่สำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "การเงินและการลงทุน",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการจัดการ (หาดใหญ่)",
+      "seats": null,
+      "project_code": "10507",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่สำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "นิติศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "นิติศาสตร์ (หาดใหญ่)",
+      "seats": 2,
+      "project_code": "11101",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: 1. บกพร่องทางด้านร่างกายและการเคลื่อนไหว 2. บกพร่องทางการมองเห็น 3. บกพร่องทางการได้ยิน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการเกษตร (เทคโนโลยีผลิตพืช)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี (ปัตตานี)",
+      "seats": 5,
+      "project_code": "20201",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "กลุ่มสาระวิทยาศาสตร์และเทคโนโลยี GPA",
+          "weight_percent": "20",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "กลุ่มสาระคณิตศาสตร์ GPA",
+          "weight_percent": "12",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "ภาษาต่างประเทศ",
+          "subject_name_th": "กลุ่มสาระภาษาต่างประเทศ GPA",
+          "weight_percent": "6",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการเกษตร (เทคโนโลยีผลิตสัตว์)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี (ปัตตานี)",
+      "seats": 5,
+      "project_code": "20202",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "กลุ่มสาระวิทยาศาสตร์และเทคโนโลยี GPA",
+          "weight_percent": "20",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "กลุ่มสาระคณิตศาสตร์ GPA",
+          "weight_percent": "12",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "ภาษาต่างประเทศ",
+          "subject_name_th": "กลุ่มสาระภาษาต่างประเทศ GPA",
+          "weight_percent": "6",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "พัฒนาสังคม",
+      "tcas_code": null,
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์ (ปัตตานี)",
+      "seats": 3,
+      "project_code": "20301",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "ภาษาอาหรับเพื่อการสื่อสารธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์ (ปัตตานี)",
+      "seats": 2,
+      "project_code": "20302",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษ",
+      "tcas_code": null,
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์ (ปัตตานี)",
+      "seats": 3,
+      "project_code": "20303",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "ภาษาต่างประเทศ",
+          "subject_name_th": "กลุ่มสาระภาษาต่างประเทศ GPA",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        }
+      ],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "อิสลามศึกษา (นานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการอิสลาม (ปัตตานี)",
+      "seats": 2,
+      "project_code": "20401",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ วิชาการเอกการสร้างสรรค์สื่อดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการสื่อสาร (ปัตตานี)",
+      "seats": 1,
+      "project_code": "20601",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว (ไม่มีภาวะพิการซ้อน / ไม่ใช้กายอุปกรณ์ / สามารถช่วยเหลือตนเองได้ / ฟัง พูด อ่านและเขียน หรือจับอุปกรณ์ได้ด้วยมือปกติ เช่นเดียวกับบุคคลทั่วไป)"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ วิชาการเอกการสื่อสารการตลาดเพื่อการประกอบการ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการสื่อสาร (ปัตตานี)",
+      "seats": 1,
+      "project_code": "20602",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว (ไม่มีภาวะพิการซ้อน / ไม่ใช้กายอุปกรณ์ / สามารถช่วยเหลือตนเองได้ / ฟัง พูด อ่านและเขียน หรือจับอุปกรณ์ได้ด้วยมือปกติ เช่นเดียวกับบุคคลทั่วไป); ส่งแฟ้มสะสมผลงาน (Portfolio) ให้สาขาพิจารณา"
+    },
+    {
+      "program_name_th": "คอมพิวเตอร์และวิทยาการสารสนเทศเพื่อการจัดการ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการสื่อสาร (ปัตตานี)",
+      "seats": 3,
+      "project_code": "20603",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว (สามารถพิมพ์คีย์บอร์ดได้)"
+    },
+    {
+      "program_name_th": "นวัตกรรมการออกแบบสื่อ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาการสื่อสาร (ปัตตานี)",
+      "seats": 2,
+      "project_code": "20604",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางการได้ยิน"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "ศิลปศาสตร์และวิทยาการจัดการ (สุราษฎร์ธานี)",
+      "seats": 5,
+      "project_code": "40201",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: บกพร่องทางด้านร่างกายและการเคลื่อนไหว (สามารถอ่านออก-เขียนได้ด้วยตนเอง โดยไม่ต้องใช้ผู้ช่วยหรือเครื่องมือที่มีลักษณะเฉพาะ และเรียนร่วมกับคนอื่นได้)"
+    },
+    {
+      "program_name_th": "การจัดการรัฐกิจ",
+      "tcas_code": null,
+      "faculty_th": "ศิลปศาสตร์และวิทยาการจัดการ (สุราษฎร์ธานี)",
+      "seats": 5,
+      "project_code": "40202",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; รับผู้พิการแขน-ขา เท่านั้น"
+    },
+    {
+      "program_name_th": "การบริหารธุรกิจประกันภัยและการจัดการความเสี่ยง",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50101",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า; ประเภทความพิการ: 1. บกพร่องทางด้านร่างกายและการเคลื่อนไหว 2. บกพร่องทางการได้ยิน (หูตึง ไม่มีภาวะพิการซ้อน)"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศทางธุรกิจ (การจัดการสารสนเทศและเทคโนโลยีดิจิทัล)",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50102",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศทางธุรกิจ (ธุรกิจดิจิทัล)",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50103",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "บัญชีบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50104",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "การตลาด",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50105",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "การจัดการการท่องเที่ยวและโรงแรม",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50106",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "การจัดการรัฐกิจ",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50107",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "พาณิชยศาสตร์และการจัดการ (ตรัง)",
+      "seats": 5,
+      "project_code": "50108",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": null,
+      "faculty_th": "สถาปัตยกรรมศาสตร์ (ตรัง)",
+      "seats": 5,
+      "project_code": "50201",
+      "round_label": "รอบที่ 1/1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้ที่กำลังศึกษาหรือสำเร็จการศึกษาระดับชั้น ม.6 หรือเทียบเท่า"
+    }
+  ]
+}

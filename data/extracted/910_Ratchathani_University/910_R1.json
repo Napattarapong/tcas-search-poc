@@ -1,0 +1,61 @@
+{
+  "university": "Ratchathani University",
+  "university_id": "910",
+  "round": "R1",
+  "archetype": "criteria",
+  "program_count": 3,
+  "programs": [
+    {
+      "program_name_th": "สาขาวิชา (คณะศึกษาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ Portfolio",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจากแต้มระดับคะแนนเฉลี่ยสะสม 5 ภาคเรียน (ม.4 เทอม 1 ถึง ม.6 เทอม 1) ไม่ต่ำกว่า 2.50"
+    },
+    {
+      "program_name_th": "สาขาวิชา (คณะศึกษาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ Quota",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ไม่ระบุเกณฑ์ในเอกสาร"
+    },
+    {
+      "program_name_th": "สาขาวิชา (คณะศึกษาศาสตร์)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "A-Level (คณิตศาสตร์ประยุกต์ 1, ชีววิทยา, ภาษาอังกฤษ)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPA",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม (GPA)",
+          "weight_percent": "20%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "การสัมภาษณ์และการตรวจร่างกาย; สำเร็จการศึกษา ม.ปลาย/ปวช./เทียบเท่า หรือปริญญาตรีสาขาอื่นที่ ก.พ. รับรอง หรือ ปวส./อนุปริญญา (เทียบโอนตามประกาศทบวงมหาวิทยาลัย 2545); มีความประพฤติดีและไม่เคยต้องคดีอาญา"
+    }
+  ]
+}

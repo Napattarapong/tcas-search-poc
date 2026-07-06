@@ -1,0 +1,285 @@
+{
+  "university": "Mahasarakham University",
+  "university_id": "021",
+  "round": "R2",
+  "archetype": "criteria",
+  "program_count": 7,
+  "programs": [
+    {
+      "program_name_th": "น.บ. นิติศาสตรบัณฑิต",
+      "tcas_code": "1901",
+      "faculty_th": "คณะนิติศาสตร์",
+      "seats": 25,
+      "project_code": "โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 1",
+      "round_label": "รอบที่ 2 (โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 1)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คุณสมบัติการรับ: รร.หลักสูตรแกนกลาง (ม.6) | จำนวนรับอาจมีการปรับเพิ่ม ติดตามได้ที่เว็บไซต์ MSU"
+    },
+    {
+      "program_name_th": "พทป.บ. การแพทย์แผนไทยประยุกต์บัณฑิต",
+      "tcas_code": "0102",
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": 17,
+      "project_code": "โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2",
+      "round_label": "รอบที่ 2 (โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คุณสมบัติการรับ: รร.หลักสูตรแกนกลาง (ม.6) | จำนวนรับอาจมีการปรับเพิ่ม"
+    },
+    {
+      "program_name_th": "วท.บ. ฉุกเฉินการแพทย์",
+      "tcas_code": "0103",
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": 22,
+      "project_code": "โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2",
+      "round_label": "รอบที่ 2 (โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คุณสมบัติการรับ: รร.หลักสูตรแกนกลาง (ม.6) | ภาษาไทย รหัส 81 น้ำหนัก 10% | จำนวนรับอาจมีการปรับเพิ่ม"
+    },
+    {
+      "program_name_th": "ภ.บ. การบริบาลทางเภสัชกรรม",
+      "tcas_code": "0201",
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 60,
+      "project_code": "โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2",
+      "round_label": "รอบที่ 2 (โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศาสตร์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คุณสมบัติการรับ: รร.หลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวะ (ปวช.), กศน., GED | ภาษาไทย รหัส 81 น้ำหนัก 10% | ภาษาอังกฤษ รหัส 82 น้ำหนัก 10% | จำนวนรับอาจมีการปรับเพิ่ม"
+    },
+    {
+      "program_name_th": "พย.บ. พยาบาลศาสตร์",
+      "tcas_code": "0301",
+      "faculty_th": "คณะพยาบาลศาสตร์",
+      "seats": 60,
+      "project_code": "โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2",
+      "round_label": "รอบที่ 2 (โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คุณสมบัติการรับ: รร.หลักสูตรแกนกลาง (ม.6), นานาชาติ | ภาษาไทย รหัส 81 น้ำหนัก 10% | จำนวนรับอาจมีการปรับเพิ่ม"
+    },
+    {
+      "program_name_th": "น.บ. นิติศาสตรบัณฑิต",
+      "tcas_code": "1901",
+      "faculty_th": "คณะนิติศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 2 โควตาภาคตะวันออกเฉียงเหนือ ครั้งที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คุณสมบัติ รับ ม.6 หลักสูตรแกนกลาง; จำนวนรับอาจมีการปรับเพิ่ม ติดตามได้ที่เว็บไซต์มหาวิทยาลัย"
+    },
+    {
+      "program_name_th": "พ.บ. แพทยศาสตรบัณฑิต (หลักสูตร 6 ปี)",
+      "tcas_code": "0101",
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": 72,
+      "project_code": null,
+      "round_label": "รอบที่ 3 โควตา MSU WISDOM",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศาสตร์",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "5",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รวมค่าน้ำหนัก A-Level ทั้งหมด 100% (ภาษาอังกฤษ รหัส 82 มีค่าน้ำหนัก 20% แต่ไม่ได้แสดงในตารางแยกคอลัมน์)"
+    }
+  ]
+}

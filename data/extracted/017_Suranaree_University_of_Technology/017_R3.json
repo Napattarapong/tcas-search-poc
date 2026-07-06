@@ -1,0 +1,1011 @@
+{
+  "university": "Suranaree University of Technology",
+  "university_id": "017",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 35,
+  "programs": [
+    {
+      "program_name_th": "สำนักวิชาวิศวกรรมศาสตร์ (ยังไม่สังกัดหลักสูตร)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 500,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือเทียบเท่า ปวช. Project-based; คะแนนรวม A-Level (คณิตศาสตร์ ฟิสิกส์ ภาษาอังกฤษ) ไม่ต่ำกว่า 80 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมการผลิตอัจฉริยะ",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.20",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-วิทยาศาสตร์ หรือเทียบเท่า ปวช. Project-based; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเกษตรและอาหาร",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-วิทยาศาสตร์ หรือเทียบเท่า ปวช. Project-based; GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์ ภาษาต่างประเทศ ตั้งแต่ 3.00; ไม่กำหนดคะแนนขั้นต่ำ A-Level; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมขนส่งและโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-วิทยาศาสตร์ หรือเทียบเท่า ปวช. Project-based; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.20",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือเทียบเท่า ปวช. Project-based; GPA กลุ่มสาระวิทยาศาสตร์ คณิตศาสตร์ ภาษาต่างประเทศ แต่ละกลุ่มไม่ต่ำกว่า 3.20; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมพอลิเมอร์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.20",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือเทียบเท่า ปวช. Project-based; หรือ GPA กลุ่มสาระวิทยาศาสตร์ คณิตศาสตร์ ภาษาต่างประเทศ ไม่ต่ำกว่า 3.20; ไม่กำหนดคะแนนขั้นต่ำ A-Level; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมโลหการ",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือเทียบเท่า ปวช. Project-based; GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์ ภาษาต่างประเทศ ตั้งแต่ 3.00; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-วิทยาศาสตร์ หรือเทียบเท่า ปวช. Project-based; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมธรณี",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือเทียบเท่า ปวช. Project-based; GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์ ภาษาต่างประเทศ ไม่ต่ำกว่า 3.20 หรือ TGAT ≥ 15 หรือ TPAT3 ≥ 25; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมปิโตรเลียมและเทคโนโลยีธรณี",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือเทียบเท่า ปวช. Project-based; GPA กลุ่มสาระคณิตศาสตร์ วิทยาศาสตร์ ภาษาต่างประเทศ ไม่ต่ำกว่า 3.25 หรือ TGAT ≥ 15 หรือ TPAT3 ≥ 25; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมเครื่องกลและอากาศยาน (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือโรงเรียนมัธยมศึกษาหลักสูตรนานาชาติ/ต่างประเทศ; GPA คณิตศาสตร์ ≥ 3.00 หรือ GED Math ≥ 155; คะแนนภาษาอังกฤษ TOEFL ≥ 500(paper)/180(computer)/64(internet) หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 600 หรือ CEFR ≥ B1(41) หรือ SAT ≥ 1000; หรือ GED รวม ≥ 600; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมโยธา (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือโรงเรียนมัธยมศึกษาหลักสูตรนานาชาติ/ต่างประเทศ; GPA คณิตศาสตร์ ≥ 3.00 หรือ GED Math ≥ 155; คะแนนภาษาอังกฤษ TOEFL ≥ 500(paper)/180(computer)/64(internet) หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 600 หรือ CEFR ≥ B1(41) หรือ SAT ≥ 1000; หรือ GED รวม ≥ 600; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "หลักสูตรวิศวกรรมปิโตรเคมีและพอลิเมอร์ (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "40"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 แผนวิทยาศาสตร์-คณิตศาสตร์ หรือโรงเรียนมัธยมศึกษาหลักสูตรนานาชาติ/ต่างประเทศ; GPA คณิตศาสตร์ ≥ 3.00 หรือ GED Math ≥ 155; GPA กลุ่มภาษาต่างประเทศ ≥ 3.50 หรือ TOEFL ≥ 400(paper)/120(computer)/40(internet) หรือ IELTS ≥ 4.5 หรือ TOEIC ≥ 450 หรือ CEFR ≥ A2(31) หรือ SAT ≥ 900; หรือ GED รวม ≥ 600; ไม่เป็นผู้ยืนยันสิทธิ์ Clearing House รอบ 1 และ 2"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเมคคาทรอนิกส์ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน 3. มี GPAX ตั้งแต่ 2.50 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมยานยนต์สมัยใหม่ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน 3. มี GPAX ตั้งแต่ 2.50 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธาและโครงสร้างพื้นฐาน (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. สำเร็จการศึกษา ม.6 แผนการเรียนวิทยาศาสตร์-คณิตศาสตร์ หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. สาขาช่างโยธา ช่างก่อสร้าง ช่างสำรวจ และสาขาวิชาอื่น ๆ ที่เกี่ยวข้อง 3. มี GPAX ตั้งแต่ 3.00 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้าอุตสาหกรรมและปัญญาประดิษฐ์ (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. สำเร็จการศึกษา ม.6 แผนการเรียนวิทยาศาสตร์-คณิตศาสตร์ มี GPAX ตั้งแต่ 2.75 ขึ้นไป 2. สำเร็จการศึกษาระดับ ปวช. สาขาช่างไฟฟ้า ช่างไฟฟ้ากำลัง ช่างอิเล็กทรอนิกส์ เมคคาทรอนิกส์ ยานยนต์ไฟฟ้า คอมพิวเตอร์ และสาขาวิชาอื่น ๆ ที่เกี่ยวข้อง มี GPAX ตั้งแต่ 2.75 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมระบบสมองกลอัจฉริยะและอิเล็กทรอนิกส์ความถี่สูง (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน มี GPAX ตั้งแต่ 2.50 ขึ้นไป หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน มี GPAX ตั้งแต่ 2.50 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาการประกอบการด้วยเทคโนโลยีดิจิทัล (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 90,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน หรือ 2. กำลังศึกษาหรือสำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน มี GPAX ตั้งแต่ 2.75 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมอุตสาหการและการจัดการข้อมูล (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. สำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน มี GPAX ตั้งแต่ 2.75 ขึ้นไป (กรณีกำลังศึกษา GPAX 5 ภาคเรียน) หรือ 2. สำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน (เช่น ประเภทวิชาอุตสาหกรรม คอมพิวเตอร์ พาณิชยกรรม/บริหารธุรกิจ ศิลปกรรม คหกรรม อุตสาหกรรมท่องเที่ยว หรือเทียบเท่า และสาขาวิชาอื่น ๆ ที่เกี่ยวข้อง) มี GPAX ตั้งแต่ 2.75 ขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกลและระบบการผลิต (หลักสูตรนอกเวลา)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. สำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน มี GPAX ตั้งแต่ 2.50 ขึ้นไป (กรณีกำลังศึกษา GPAX 5 ภาคเรียน) หรือ 2. สำเร็จการศึกษาระดับ ปวช. หรือเทียบเท่า ทุกแผนการเรียน (เช่น ประเภทวิชาเทคนิคเครื่องกล ช่างยนต์ เทคนิคการผลิต ช่างกลโรงงาน ช่างซ่อมบำรุง หรือเทียบเท่า และสาขาวิชาอื่น ๆ ที่เกี่ยวข้อง) มี GPAX ตั้งแต่ 2.50 ขึ้นไป"
+    },
+    {
+      "program_name_th": "เทคโนโลยีดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "1. สำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน 2. มี GPAX ตั้งแต่ 2.75 ขึ้นไป 3. มีคะแนนสอบ A-Level ในรายวิชาภาษาไทย สังคมศึกษา ภาษาอังกฤษ และคณิตศาสตร์ประยุกต์ 1 หรือคณิตศาสตร์ประยุกต์ 2"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์ดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "1. สำเร็จการศึกษา ม.6 หรือเทียบเท่า ทุกแผนการเรียน 2. มี GPAX ตั้งแต่ 2.75 ขึ้นไป 3. มีคะแนนสอบ A-Level ในรายวิชาภาษาไทย สังคมศึกษา ภาษาอังกฤษ และคณิตศาสตร์ประยุกต์ 1 หรือคณิตศาสตร์ประยุกต์ 2"
+    },
+    {
+      "program_name_th": "คณิตศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "เคมี",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "ชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "ฟิสิกส์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "จุลชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การแพทย์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 100 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 100 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 25 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 60 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 60 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 60 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 60 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คณิตศาสตร์ประยุกต์ 1 ไม่ต่ำกว่า 25 คะแนน; คะแนนรวม 4 รายวิชา A-Level ไม่ต่ำกว่า 60 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "วิทยาการข้อมูลและภูมิสารสนเทศประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 20 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 80 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 80 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 80 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 4 รายวิชา ไม่ต่ำกว่า 80 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คณิตศาสตร์ประยุกต์ 1 ไม่ต่ำกว่า 20 คะแนน; คะแนนรวม 4 รายวิชา A-Level ไม่ต่ำกว่า 80 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การกีฬา",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 75 คะแนน"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 75 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 75 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 75 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": null,
+          "min_threshold": "คะแนนรวม 5 รายวิชา ไม่ต่ำกว่า 75 คะแนน"
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "ไม่ต่ำกว่า 30 คะแนน"
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 5 รายวิชา A-Level ไม่ต่ำกว่า 75 คะแนน; TGAT1 (การสื่อสารภาษาอังกฤษ) ไม่ต่ำกว่า 30 คะแนน; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาพยาบาลศาสตร์",
+      "seats": 37,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "70%",
+          "min_threshold": "ไม่ต่ำกว่า 5 คะแนน"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "70%",
+          "min_threshold": "ไม่ต่ำกว่า 5 คะแนน"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "70%",
+          "min_threshold": "ไม่ต่ำกว่า 5 คะแนน"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "70%",
+          "min_threshold": "ไม่ต่ำกว่า 5 คะแนน"
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT1 (การสื่อสารภาษาอังกฤษ)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GPAX ไม่ต่ำกว่า 3.00; คะแนนเฉลี่ยกลุ่มสาระวิทยาศาสตร์ ภาษาต่างประเทศ คณิตศาสตร์ ภาษาไทย และสังคมศึกษา 6 ภาคการศึกษา ไม่ต่ำกว่า 2.75; แผนการเรียนวิทยาศาสตร์-คณิตศาสตร์เท่านั้น; อายุไม่เกิน 25 ปี; ส่วนสูงไม่น้อยกว่า 150 ซม.; ไม่มีปัญหาสุขภาพกาย/จิต/ความพิการที่เป็นอุปสรรคต่อการประกอบวิชาชีพพยาบาล; ต้องผ่านการตรวจสุขภาพและสอบสัมภาษณ์; ไม่เป็นผู้ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota; มีคะแนนสอบ TGAT ทั้ง 3 ส่วน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการจัดการ",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "1. เป็นผู้ที่สำเร็จการศึกษาชั้น ม.6 ทุกแผนการเรียน 2. มีคะแนนสอบ A-Level ในรายวิชาภาษาไทย สังคมศึกษา ภาษาอังกฤษ และคณิตศาสตร์ประยุกต์ 1 หรือ คณิตศาสตร์ประยุกต์ 2 3. ต้องไม่เป็นผู้ที่ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    },
+    {
+      "program_name_th": "หลักสูตรการจัดการบัณฑิต (นวัตกรรมเทคโนโลยีอุตสาหกรรมบริการ)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. เป็นผู้ที่สำเร็จการศึกษาชั้น ม.6 หรือเทียบเท่า ทุกแผนการเรียน มี GPAX ตั้งแต่ 2.50 ขึ้นไป 2. ต้องไม่เป็นผู้ที่ยืนยันสิทธิ์ในระบบ Clearing House รอบ 1 Portfolio และรอบ 2 Quota"
+    }
+  ]
+}

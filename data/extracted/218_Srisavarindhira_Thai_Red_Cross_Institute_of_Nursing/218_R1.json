@@ -1,0 +1,39 @@
+{
+  "university": "Srisavarindhira Thai Red Cross Institute of Nursing",
+  "university_id": "218",
+  "round": "R1",
+  "archetype": "criteria",
+  "program_count": 1,
+  "programs": [
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "สานักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 1 ประเภทแฟ้มประวัติผลงาน (Portfolio)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "ผลการสอบความรู้ภาษาอังกฤษ (TOEFL/IELTS/TU-GET/CU-TEP/TOEIC/MU GRAD)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "โครงงานนวัตกรรมทางการพยาบาล",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นหญิงโสดหรือชายโสด อายุไม่ต่ำกว่า 16 ปีบริบูรณ์ (เกิด พ.ศ. 2553); น้ำหนักไม่น้อยกว่า 40 กก. ส่วนสูงไม่ต่ำกว่า 150 ซม.; เรียนแผนวิทย์-คณิต; วิทยาศาสตร์ไม่ต่ำกว่า 22 หน่วยกิต GPAX ไม่ต่ำกว่า 3.00; คณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต GPAX ไม่ต่ำกว่า 3.00; ภาษาอังกฤษไม่ต่ำกว่า 9 หน่วยกิต GPAX ไม่ต่ำกว่า 3.00; คะแนนภาษาอังกฤษมีอายุไม่เกิน 2 ปี; คะแนนรวมส่วน 1.1–1.3 ตั้งแต่ 75 ขึ้นไปจึงมีสิทธิ์สอบสัมภาษณ์; ต้องผ่านการสอบสัมภาษณ์ ตรวจร่างกาย และทดสอบบุคลิกภาพ; รับทุนสภากาชาดไทยตลอดหลักสูตร 4 ปี และต้องปฏิบัติงานกับสภากาชาดไทยหลังสำเร็จการศึกษาไม่น้อยกว่า 4 ปี"
+    }
+  ]
+}

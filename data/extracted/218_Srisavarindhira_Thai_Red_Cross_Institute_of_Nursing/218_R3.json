@@ -1,0 +1,57 @@
+{
+  "university": "Srisavarindhira Thai Red Cross Institute of Nursing",
+  "university_id": "218",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 1,
+  "programs": [
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "seats": 90,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT ตอนที่ 1 การสื่อสารภาษาอังกฤษ (English Communication)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT ตอนที่ 2 การคิดอย่างมีเหตุผล (Critical and Logical Thinking)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT ตอนที่ 3 สมรรถนะด้านการทำงานในอนาคต (Future Workforce Competencies)",
+          "weight_percent": "10",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level MATH1",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level CHEM",
+          "subject_name_th": "เคมี",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level BIO",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วิชาภาษาอังกฤษ (A-Level) สัดส่วนร้อยละ 20; สอบสัมภาษณ์ ผ่าน; ตรวจร่างกาย ผ่าน; ทดสอบบุคลิกภาพ ผ่าน; เป็นหญิงโสดหรือชายโสด อายุไม่ต่ำกว่า 16 ปีบริบูรณ์; น้ำหนักไม่น้อยกว่า 40 กก. ส่วนสูงไม่ต่ำกว่า 150 ซม.; เรียนแผนวิทย์-คณิต; วิทยาศาสตร์ไม่ต่ำกว่า 22 หน่วยกิต คณิตศาสตร์ไม่ต่ำกว่า 12 หน่วยกิต ภาษาอังกฤษไม่ต่ำกว่า 9 หน่วยกิต; รับทุนสภากาชาดไทย ต้องปฏิบัติงานหลังสำเร็จการศึกษาไม่น้อยกว่า 4 ปี"
+    }
+  ]
+}

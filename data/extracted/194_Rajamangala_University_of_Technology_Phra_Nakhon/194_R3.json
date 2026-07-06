@@ -1,0 +1,141 @@
+{
+  "university": "Rajamangala University of Technology Phra Nakhon",
+  "university_id": "194",
+  "round": "R3",
+  "archetype": "criteria",
+  "program_count": 12,
+  "programs": [
+    {
+      "program_name_th": "การท่องเที่ยวและการบริการ (ภาคปกติ)",
+      "tcas_code": "T3-30101",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย หรือ กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "การจัดการโรงแรมและธุรกิจบริการ (ภาคปกติ)",
+      "tcas_code": "T3-30102",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย หรือ กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่อการสื่อสารสากล (ภาคปกติ)",
+      "tcas_code": "T3-30103",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย หรือ กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "ภาษาไทยประยุกต์เพื่ออาชีพและนวัตกรรมการสื่อสาร (ภาคปกติ)",
+      "tcas_code": "T3-30104",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย หรือ กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "เทคโนโลยีเสื้อผ้าและการจัดการธุรกิจแฟชั่น (ภาคปกติ)",
+      "tcas_code": "T3-30601",
+      "faculty_th": "คณะอุตสาหกรรมสิ่งทอและออกแบบแฟชั่น",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "นวัตกรรมและเทคโนโลยีสิ่งทอ (ภาคปกติ หลักสูตร 3 ปีครึ่ง)",
+      "tcas_code": "T3-30602",
+      "faculty_th": "คณะอุตสาหกรรมสิ่งทอและออกแบบแฟชั่น",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100; ตาไม่บอดสี"
+    },
+    {
+      "program_name_th": "ออกแบบแฟชั่นและสิ่งทอ-ออกแบบแฟชั่น (ภาคปกติ)",
+      "tcas_code": "T3-30603",
+      "faculty_th": "คณะอุตสาหกรรมสิ่งทอและออกแบบแฟชั่น",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "ออกแบบแฟชั่นและสิ่งทอ–ออกแบบผลิตภัณฑ์สิ่งทอ (ภาคปกติ)",
+      "tcas_code": "T3-30604",
+      "faculty_th": "คณะอุตสาหกรรมสิ่งทอและออกแบบแฟชั่น",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "การออกแบบผลิตภัณฑ์อุตสาหกรรม (ภาคปกติ)",
+      "tcas_code": "T3-30901",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย หรือ กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "การออกแบบบรรจุภัณฑ์และเทคโนโลยีการพิมพ์ (ภาคปกติ)",
+      "tcas_code": "T3-30902",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย หรือ กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "การออกแบบภายใน",
+      "tcas_code": "T3-30904",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย หรือ กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม (ภาคปกติ)",
+      "tcas_code": "T3-30903",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย กำลังศึกษาระดับชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; ผ่านการเรียนกลุ่มสาระการเรียนรู้คณิตศาสตร์ และวิทยาศาสตร์รวมกันไม่ต่ำกว่า 25 หน่วยกิต; องค์ประกอบ ค่าร้อยละ GPAX 100"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "university": "Hatyai University",
+  "university_id": "130",
+  "round": "R2",
+  "archetype": "criteria",
+  "program_count": 23,
+  "programs": [
+    {
+      "program_name_th": "สาขาวิชาการตลาด",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาผู้ประกอบการท่องเที่ยวและบริการดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาการบัญชี (หลักสูตรบัญชีบัณฑิต)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาผู้ประกอบการฐานนวัตกรรมและการออกแบบ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาการสื่อสารและสื่อดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาดิจิทัลมีเดียดีไซน์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาดนตรีสากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาไทย (ครูภาษาไทย)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมศึกษา (ครูสังคม)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาการประถมศึกษา (ครูประถม)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาวิทยาศาสตร์ทั่วไป (ครูวิทย์ฯ)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับเฉพาะสายวิทย์-คณิต"
+    },
+    {
+      "program_name_th": "สาขาวิชาจิตวิทยาการแนะแนวและให้คำปรึกษา (ครูแนะแนว)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาไทยเพื่อการสื่อสารธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาการเมืองการปกครอง",
+      "tcas_code": null,
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาการบริหารจัดการท้องถิ่น",
+      "tcas_code": null,
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชานิติศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิติศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาสาธารณสุขชุมชน",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาอาชีวอนามัยและความปลอดภัย",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษ (ครูภาษาอังกฤษ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติดิษยะศริน",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาอุตสาหกรรมท่องเที่ยว (ธุรกิจการบิน)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติดิษยะศริน",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการธุรกิจระหว่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติดิษยะศริน",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    }
+  ]
+}
