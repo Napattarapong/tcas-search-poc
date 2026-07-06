@@ -1,24 +1,783 @@
 {
+  "university": "Chulabhorn Royal Academy of Science",
   "university_id": "032",
   "round": "R1",
-  "archetype": "list",
-  "count": 4,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 26,
+  "programs": [
     {
-      "item_no": "๓",
-      "text": "๓. การรับสมัคร"
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 70,
+      "project_code": "โครงการเพชรจุฬาภรณ์",
+      "round_label": "รอบที่ ๑ (Portfolio)",
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษา ม.๖ สายวิทยาศาสตร์; มีหน่วยกิตกลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์ครบ; GPAX ม.๔–ม.๖ (5 ภาคเรียน) ≥ 3.50; มีภาวะผู้นำ/รางวัล; คะแนนผลสัมฤทธิ์วิชาภาษาอังกฤษ ม.ปลาย ≥ 3.50; ส่งแฟ้มสะสมผลงาน; สอบสัมภาษณ์; ความสูง ≥ 150 ซม. BMI < 30; ผ่านเกณฑ์ทดสอบภาษาอังกฤษตามที่คณะกำหนด; ไม่มีโรคประจำตัว/ตาบอดสี/ความพิการที่เป็นอุปสรรค"
     },
     {
-      "item_no": "๓",
-      "text": "๓. การรับสมัคร"
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 25,
+      "project_code": "โครงการปณิธานจุฬาภรณ์",
+      "round_label": "รอบที่ ๒ (โควตา)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป (TGAT)",
+          "weight_percent": null,
+          "min_threshold": "30 (แต่ละส่วน)"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "การทดสอบความถนัดทางวิทยาศาสตร์ (TPAT 3)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษา ม.๖ จากโรงเรียนวิทยาศาสตร์จุฬาภรณราชวิทยาลัย และโรงเรียนสาธิตแห่งมหาวิทยาลัยธรรมศาสตร์; GPAX ม.๔–ม.๖ (5 ภาคเรียน) ≥ 3.25; คะแนนผลสัมฤทธิ์วิชาภาษาอังกฤษ ม.ปลาย ≥ 3.25; TGAT ทั้ง 3 ส่วน แต่ละส่วน ≥ 30; TPAT 3 ≥ 30; สอบสัมภาษณ์; ความสูง ≥ 150 ซม. BMI < 30; ผ่านเกณฑ์ทดสอบภาษาอังกฤษตามที่คณะกำหนด; ไม่มีโรคประจำตัว/ตาบอดสี/ความพิการที่เป็นอุปสรรค"
     },
     {
-      "item_no": "๓",
-      "text": "๓. การรับสมัคร"
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 5,
+      "project_code": "โครงการศรัทธาจุฬาภรณ์",
+      "round_label": "รอบที่ ๓ (Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป (TGAT)",
+          "weight_percent": null,
+          "min_threshold": "30 (แต่ละส่วน)"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "การทดสอบความถนัดทางวิทยาศาสตร์ (TPAT 3)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิชาสามัญ 7 วิชา (คณิตศาสตร์ ๑, เคมี, ฟิสิกส์, ชีววิทยา, ภาษาอังกฤษ, ภาษาไทย, สังคมศึกษา)",
+          "weight_percent": null,
+          "min_threshold": "แต่ละวิชา ≥ 20 คะแนน; คะแนนรวมทุกวิชา ≥ 210"
+        }
+      ],
+      "other_conditions_th": "สำเร็จ ม.ปลาย มีหน่วยกิตกลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์ครบ; GPAX ม.๔–ม.๖ ≥ 2.75; TGAT ทั้ง 3 ส่วน แต่ละส่วน ≥ 30; TPAT 3 ≥ 30; A-Level 7 วิชา แต่ละวิชา ≥ 20 และรวม ≥ 210; สอบสัมภาษณ์; ความสูง ≥ 150 ซม. BMI < 30; ผ่านเกณฑ์ทดสอบภาษาอังกฤษตามที่คณะกำหนด; ไม่มีโรคประจำตัว/ตาบอดสี/ความพิการที่เป็นอุปสรรค"
     },
     {
-      "item_no": "๓",
-      "text": "๓. การรับสมัคร"
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": "รับตรงอิสระ",
+      "round_label": "รอบที่ ๔ (Direct Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป (TGAT)",
+          "weight_percent": null,
+          "min_threshold": "30 (แต่ละส่วน)"
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "การทดสอบความถนัดทางวิทยาศาสตร์ (TPAT 3)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิชาสามัญ 7 วิชา (คณิตศาสตร์ ๑, เคมี, ฟิสิกส์, ชีววิทยา, ภาษาอังกฤษ, ภาษาไทย, สังคมศึกษา)",
+          "weight_percent": null,
+          "min_threshold": "แต่ละวิชา ≥ 20 คะแนน; คะแนนรวมทุกวิชา ≥ 210"
+        }
+      ],
+      "other_conditions_th": "สำเร็จ ม.ปลาย มีหน่วยกิตกลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์ครบ; GPAX ม.๔–ม.๖ ≥ 2.75; TGAT ทั้ง 3 ส่วน แต่ละส่วน ≥ 30; TPAT 3 ≥ 30; A-Level 7 วิชา แต่ละวิชา ≥ 20 และรวม ≥ 210; พิจารณาตามความเหมาะสม; สอบสัมภาษณ์; ความสูง ≥ 150 ซม. BMI < 30; ผ่านเกณฑ์ทดสอบภาษาอังกฤษตามที่คณะกำหนด; ไม่มีโรคประจำตัว/ตาบอดสี/ความพิการที่เป็นอุปสรรค"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ ๑ Portfolio",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๑ การสื่อสารภาษาอังกฤษ)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๒ การคิดอย่างมีเหตุผล)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๓ สมรรถนะการทำงานในอนาคต)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TPAT ๓ (ความถนัดทางวิทยาศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "สัญชาติไทย สายวิทยาศาสตร์ มีผลทดสอบภาษาอังกฤษ (TOEFL/IELTS/CU-TEP/TU-GET ฯลฯ) ตามเกณฑ์ ไม่ตาบอดสี ไม่มีโรคประจำตัว/ปัญหาสุขภาพจิต/ความพิการที่เป็นอุปสรรค; หรือใช้ A-Level ๗ วิชา แต่ละวิชา ≥ ๒๐ และคะแนนรวม ≥ ๒๑๐; แฟ้มสะสมผลงาน และใบรับรองภาวะผู้นำจากโรงเรียน; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ ๒ การรับแบบโควตา",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๑ การสื่อสารภาษาอังกฤษ)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๒ การคิดอย่างมีเหตุผล)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๓ สมรรถนะการทำงานในอนาคต)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TPAT ๓ (ความถนัดทางวิทยาศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "สัญชาติไทย สายวิทยาศาสตร์ มีผลทดสอบภาษาอังกฤษตามเกณฑ์ ไม่ตาบอดสี ไม่มีโรคประจำตัว/ปัญหาสุขภาพจิต/ความพิการที่เป็นอุปสรรค; หรือใช้ A-Level ๗ วิชา แต่ละวิชา ≥ ๒๐ และคะแนนรวม ≥ ๒๑๐; ใบรับรองภาวะผู้นำจากโรงเรียน; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ ๓ การรับแบบ Admission (TCAS)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๑ การสื่อสารภาษาอังกฤษ)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๒ การคิดอย่างมีเหตุผล)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๓ สมรรถนะการทำงานในอนาคต)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TPAT ๓ (ความถนัดทางวิทยาศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "สัญชาติไทย สายวิทยาศาสตร์ มีผลทดสอบภาษาอังกฤษตามเกณฑ์ ไม่ตาบอดสี ไม่มีโรคประจำตัว/ปัญหาสุขภาพจิต/ความพิการที่เป็นอุปสรรค; หรือใช้ A-Level ๗ วิชา แต่ละวิชา ≥ ๒๐ และคะแนนรวม ≥ ๒๑๐; รับสมัครผ่านระบบ TCAS ของ ทปอ."
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์อัครราชกุมารี ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ ๔ รับตรงอิสระ (Direct Admission)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๑ การสื่อสารภาษาอังกฤษ)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๒ การคิดอย่างมีเหตุผล)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TGAT (ส่วนที่ ๓ สมรรถนะการทำงานในอนาคต)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TPAT ๓ (ความถนัดทางวิทยาศาสตร์)",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "สำเร็จมัธยมศึกษาตอนปลาย มีหน่วยกิตกลุ่มวิทยาศาสตร์และคณิตศาสตร์ครบ; สัญชาติไทย มีผลทดสอบภาษาอังกฤษตามเกณฑ์ ไม่ตาบอดสี ไม่มีโรคประจำตัว/ปัญหาสุขภาพจิต/ความพิการที่เป็นอุปสรรค; หรือใช้ A-Level ๗ วิชา แต่ละวิชา ≥ ๒๐ และคะแนนรวม ≥ ๒๑๐; พิจารณาตามความเหมาะสม"
+    },
+    {
+      "program_name_th": "รังสีเทคนิค",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ ๑ แฟ้มสะสมผลงาน (Portfolio) โครงการเพชรจุฬาภรณ์",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำหนดการ: รับสมัคร 1–26 ธ.ค. 2568 | ประกาศผู้มีสิทธิ์สอบสัมภาษณ์ 20 ก.พ. 2569 | สอบสัมภาษณ์และส่งผลตรวจร่างกาย 25 ก.พ. 2569 | ประกาศผู้ผ่านการคัดเลือก 4 มี.ค. 2569 | ยืนยันสิทธิ์ Clearing-house 4–5 มี.ค. 2569 | สละสิทธิ์ 6 มี.ค. 2569 | ประกาศรายชื่อผู้ยืนยันสิทธิ์ 8 มี.ค. 2569"
+    },
+    {
+      "program_name_th": "รังสีเทคนิค",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ ๒ โควตา (Quota) โครงการปณิธานจุฬาภรณ์",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำหนดการ: รับสมัคร 1–31 มี.ค. 2569 | ประกาศผู้มีสิทธิ์สอบสัมภาษณ์ 23 เม.ย. 2569 | สอบสัมภาษณ์และส่งผลตรวจร่างกาย (ออนไลน์) 27 เม.ย. 2569 | ประกาศผู้ผ่านการคัดเลือก 1 พ.ค. 2569 | ยืนยันสิทธิ์ Clearing-house 2–3 พ.ค. 2569 | สละสิทธิ์ 4 พ.ค. 2569 | ประกาศรายชื่อผู้ยืนยันสิทธิ์ 7 พ.ค. 2569"
+    },
+    {
+      "program_name_th": "รังสีเทคนิค",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ ๓ รับตรงร่วมกัน (Admission) โครงการศรัทธาจุฬาภรณ์",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำหนดการ: รับสมัคร 6–12 พ.ค. 2569 | สอบสัมภาษณ์และส่งผลตรวจร่างกาย (ออนไลน์) 29 พ.ค. 2569 | ยืนยันสิทธิ์ Clearing-house 20–21 พ.ค. 2569 | สละสิทธิ์ 27 พ.ค. 2569 | ประกาศรายชื่อผู้ยืนยันสิทธิ์ 6 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "รังสีเทคนิค",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ ๔ รับตรงอิสระ (Direct Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "กำหนดการ: พิจารณาตามความเหมาะสม | ยืนยันสิทธิ์ ครั้งที่ 1: 6–7 มิ.ย. 2569, ครั้งที่ 2: 17–18 มิ.ย. 2569 | ระบบ TCAS ไม่อนุญาตให้สละสิทธิ์ หากไม่ต้องการเข้าศึกษาไม่ต้องกดยืนยันสิทธิ์ | ประกาศรายชื่อผู้ยืนยันสิทธิ์ 20 มิ.ย. 2569"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาฉุกเฉินการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 20,
+      "project_code": "โครงการเพชรจุฬาภรณ์",
+      "round_label": "รอบที่ ๑ Portfolio",
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": "60"
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT 1",
+          "weight_percent": null,
+          "min_threshold": "55"
+        }
+      ],
+      "other_conditions_th": "GPAX ≥ 3.50 และ GPA กลุ่มสาระคณิตศาสตร์/วิทยาศาสตร์/ภาษาต่างประเทศ แต่ละกลุ่ม ≥ 3.50 หรือ AS/A level (Biology, Chemistry, Math/Physics) ≥ A หรือ IB HL ≥ 6 หรือ AP ≥ 4; ยื่น Portfolio ไม่เกิน 10 หน้า; สอบสัมภาษณ์ 3 นาที; ผลคะแนนภาษาอังกฤษ (TOEIC/TOEFL/IELTS/MU-ELT/TU-GET/CU-TEP) ถ้ามี"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาฉุกเฉินการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 5,
+      "project_code": "โครงการปณิธานจุฬาภรณ์",
+      "round_label": "รอบที่ ๒ Quota",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level คณิตศาสตร์ประยุกต์ ๑",
+          "weight_percent": "10%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "A-Level ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level เคมี",
+          "weight_percent": "20%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level ชีววิทยา",
+          "weight_percent": "20%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT2/TGAT3",
+          "subject_name_th": "TGAT 2 และ TGAT 3",
+          "weight_percent": null,
+          "min_threshold": "50"
+        }
+      ],
+      "other_conditions_th": "GPAX จากโรงเรียนจุฬาภรณราชวิทยาลัย รวม 5 ภาคการศึกษา ≥ 3.25; ยื่น Portfolio ไม่เกิน 10 หน้า; สอบสัมภาษณ์ 3 นาที; ผลคะแนนภาษาอังกฤษ (ถ้ามี)"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาฉุกเฉินการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 10,
+      "project_code": "โครงการผู้ที่สนใจทางด้านฉุกเฉินการแพทย์",
+      "round_label": "รอบที่ ๒ Quota",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level คณิตศาสตร์ประยุกต์ ๑",
+          "weight_percent": "10%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "A-Level ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level เคมี",
+          "weight_percent": "20%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level ชีววิทยา",
+          "weight_percent": "20%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "TGAT2/TGAT3",
+          "subject_name_th": "TGAT 2 และ TGAT 3",
+          "weight_percent": null,
+          "min_threshold": "50"
+        }
+      ],
+      "other_conditions_th": "GPAX ≥ 3.25; ต้องมีใบประกาศนียบัตรการอบรมกู้ชีพขั้นพื้นฐาน (ไม่เกิน 2 ปี) หรือหนังสือรับรองการปฏิบัติงานอย่างน้อย 2 สัปดาห์ในหน่วยกู้ชีพ/กู้ภัย/ฉุกเฉินการแพทย์; ยื่น Portfolio ไม่เกิน 10 หน้า พร้อมหลักฐานกิจกรรม; สอบสัมภาษณ์ 3 นาที; ผลคะแนนภาษาอังกฤษ (ถ้ามี)"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาฉุกเฉินการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 5,
+      "project_code": "โครงการศรัทธาจุฬาภรณ์",
+      "round_label": "รอบที่ ๓ Admission",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level คณิตศาสตร์ประยุกต์ ๑",
+          "weight_percent": "10%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "A-Level ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level เคมี",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level ชีววิทยา",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "GPAX ≥ 3.25; GPA กลุ่มสาระคณิตศาสตร์/วิทยาศาสตร์/ภาษาต่างประเทศ แต่ละกลุ่ม ≥ 3.00; TGAT2 และ TGAT3 ≥ 50; A-Level ทั้ง 5 วิชารวมกันไม่น้อยกว่า 150 คะแนน; ไม่มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาฉุกเฉินการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": "รับตรงอิสระ (Direct Admission)",
+      "round_label": "รอบที่ ๔ Direct Admission",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level คณิตศาสตร์ประยุกต์ ๑",
+          "weight_percent": "10%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "A-Level ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level เคมี",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level ชีววิทยา",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "GPAX ≥ 3.25; GPA กลุ่มสาระคณิตศาสตร์/วิทยาศาสตร์/ภาษาต่างประเทศ แต่ละกลุ่ม ≥ 3.00; TGAT2 และ TGAT3 ≥ 50; A-Level ทั้ง 5 วิชารวมกันไม่น้อยกว่า 150 คะแนน; ยื่น Portfolio ไม่เกิน 10 หน้า; สอบสัมภาษณ์ 3 นาที; ผลคะแนนภาษาอังกฤษ (ถ้ามี); จำนวนรับพิจารณาตามความเหมาะสม"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาฉุกเฉินการแพทย์ทางอินเทอร์เน็ต",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า (PCCMS)",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ ๑ Portfolio (โครงการเพชรจุฬาภรณ์) / รอบที่ ๒ Quota (โครงการปณิธานจุฬาภรณ์, โครงการผู้ที่สนใจทางด้านฉุกเฉินการแพทย์) / รอบที่ ๓ Admission (โครงการศรัทธาจุฬาภรณ์) / รอบที่ ๔ Direct Admission (รับตรง อิสระ)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หน้าที่ให้มา (หน้า 49) มีเพียงตารางขั้นตอน/กำหนดการรับสมัคร ไม่มีข้อมูลเกณฑ์ขั้นต่ำ สัดส่วน/ค่าน้ำหนัก หรือรายวิชาที่ใช้คำนวณคะแนน หน้า 50–56 ไม่มีเนื้อหา"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหารทางการแพทย์และสุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 10,
+      "project_code": "โครงการเพชรจุฬาภรณ์",
+      "round_label": "รอบที่ ๑ (Portfolio)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "20",
+          "min_threshold": "รวมทุกรายวิชา >= ร้อยละ 20"
+        },
+        {
+          "subject_code": "Portfolio",
+          "subject_name_th": "แฟ้มสะสมผลงาน",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนไทย กำลังศึกษาหรือสำเร็จ ม.๖ วิทย์-คณิต; อายุ >= 16 ปี; TGAT รวม >= ร้อยละ 20; ส่ง Portfolio (PDF ไม่เกิน 20 หน้า) ประกอบด้วย ประวัติส่วนตัว รางวัล/ผลงานวิชาการ กิจกรรมจิตอาสา เรียงความหัวข้อ 'มุมมองของอาหารทางการแพทย์และอาหารสุขภาพยุคใหม่' (<= 300 คำ); ผลสอบภาษาอังกฤษ (MU-ELT/CU-TEP/TU-GET/TOEIC/TOEFL/IELTS) พิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหารทางการแพทย์และสุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 9,
+      "project_code": "โครงการปณิธานจุฬาภรณ์",
+      "round_label": "รอบที่ ๒ (Quota)",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "20",
+          "min_threshold": "รวมทุกรายวิชา >= ร้อยละ 20"
+        },
+        {
+          "subject_code": "A-level",
+          "subject_name_th": "A-level (61 คณิตศาสตร์ประยุกต์ ๑, 65 เคมี, 66 ชีววิทยา, 82 ภาษาอังกฤษ)",
+          "weight_percent": "60",
+          "min_threshold": "รวมทุกรายวิชา >= ร้อยละ 20"
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "นักเรียนไทย กำลังศึกษาหรือสำเร็จ ม.๖ จากโรงเรียนวิทยาศาสตร์จุฬาภรณราชวิทยาลัย; TGAT รวม >= ร้อยละ 20; A-level รวม >= ร้อยละ 20; ผลสอบภาษาอังกฤษมาตรฐานพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหารทางการแพทย์และสุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 16,
+      "project_code": "โครงการศรัทธาจุฬาภรณ์",
+      "round_label": "รอบที่ ๓ (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "20",
+          "min_threshold": "รวมทุกรายวิชา >= ร้อยละ 20"
+        },
+        {
+          "subject_code": "A-level",
+          "subject_name_th": "A-level (61 คณิตศาสตร์ประยุกต์ ๑, 65 เคมี, 66 ชีววิทยา, 82 ภาษาอังกฤษ)",
+          "weight_percent": "70",
+          "min_threshold": "รวมทุกรายวิชา >= ร้อยละ 20"
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จ ม.๖ วิทย์-คณิต; TGAT รวม >= ร้อยละ 20; A-level รวม >= ร้อยละ 20; สมัครผ่าน mytcas.com"
+    },
+    {
+      "program_name_th": "เทคโนโลยีอาหารทางการแพทย์และสุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์ ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": "รับตรงอิสระ",
+      "round_label": "รอบที่ ๔ (Direct Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "20",
+          "min_threshold": "รวมทุกรายวิชา >= ร้อยละ 20"
+        },
+        {
+          "subject_code": "A-level",
+          "subject_name_th": "A-level (61 คณิตศาสตร์ประยุกต์ ๑, 65 เคมี, 66 ชีววิทยา, 82 ภาษาอังกฤษ)",
+          "weight_percent": "70",
+          "min_threshold": "รวมทุกรายวิชา >= ร้อยละ 20"
+        },
+        {
+          "subject_code": "Interview",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จ ม.๖ วิทย์-คณิต; TGAT รวม >= ร้อยละ 20; A-level รวม >= ร้อยละ 20; พิจารณาตามความเหมาะสม มหาวิทยาลัยขอสงวนสิทธิ์ในการเปิดรับ"
+    },
+    {
+      "program_name_th": "วิศวกรรมชีวการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 10,
+      "project_code": "โครงการเพชรจุฬาภรณ์",
+      "round_label": "รอบที่ ๑ (Portfolio)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "20",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "TPAT3 30",
+          "subject_name_th": "ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "20",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "Portfolio",
+          "subject_name_th": "แฟ้มสะสมผลงาน",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "สัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นนักเรียนไทย อายุ 16-30 ปี; GPA วิชาภาษาอังกฤษ ≥ 3.00; TGAT และ TPAT3 30 ต้องนำมายื่นในวันสอบสัมภาษณ์ (ไม่ใช้ในขั้นตอนสมัคร); ส่ง Portfolio (PDF ไม่เกิน 5 หน้า) ประกอบด้วย ประวัติส่วนตัว ความสามารถทางวิชาการ แรงผลักดัน/แรงจูงใจ (คลิปวิดีโอ ≤ 3 นาที) ความสามารถในการสื่อสาร ความริเริ่มสร้างสรรค์/โครงงาน และการศึกษาเรียนรู้ด้วยตนเอง; ถ้ามีคะแนนภาษาอังกฤษมาตรฐาน (MU-ELT, CU-TEP, TU-GET, TOEIC, TOEFL, IELTS, CEFR, Duolingo) จะพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "วิศวกรรมชีวการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 9,
+      "project_code": "โครงการปณิธานจุฬาภรณ์",
+      "round_label": "รอบที่ ๒ (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "10",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "TPAT3 30",
+          "subject_name_th": "ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "A-level",
+          "subject_name_th": "A-level (คณิตศาสตร์ประยุกต์ ๑, ฟิสิกส์, เคมี, ชีววิทยา, ภาษาอังกฤษ)",
+          "weight_percent": "40",
+          "min_threshold": "คณิตศาสตร์ประยุกต์ ๑/ฟิสิกส์/เคมี/ชีววิทยา ≥ 20 คะแนน; ภาษาอังกฤษ ≥ 30 คะแนน"
+        },
+        {
+          "subject_code": "สัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เฉพาะนักเรียนโรงเรียนวิทยาศาสตร์จุฬาภรณราชวิทยาลัย; เป็นนักเรียนไทย อายุ 16-30 ปี; GPA วิชาภาษาอังกฤษ ≥ 3.00; A-level ต้องนำมายื่นในวันสอบสัมภาษณ์; ถ้ามีคะแนนภาษาอังกฤษมาตรฐานจะพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "วิศวกรรมชีวการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "ราชวิทยาลัยจุฬาภรณ์",
+      "seats": 11,
+      "project_code": "โครงการศรัทธาจุฬาภรณ์",
+      "round_label": "รอบที่ ๓ (Admission)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "10",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "TPAT3 30",
+          "subject_name_th": "ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "A-level",
+          "subject_name_th": "A-level (คณิตศาสตร์ประยุกต์ ๑, ฟิสิกส์, เคมี, ชีววิทยา, ภาษาอังกฤษ)",
+          "weight_percent": "40",
+          "min_threshold": "คณิตศาสตร์ประยุกต์ ๑/ฟิสิกส์/เคมี/ชีววิทยา ≥ 20 คะแนน; ภาษาอังกฤษ ≥ 30 คะแนน"
+        },
+        {
+          "subject_code": "สัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นนักเรียนไทย อายุ 16-30 ปี; สำเร็จการศึกษา ม.๖ วิทย์-คณิต; GPA วิชาภาษาอังกฤษ ≥ 3.00; สมัครผ่าน mytcas.com; ถ้ามีคะแนนภาษาอังกฤษมาตรฐานจะพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "วิศวกรรมชีวการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "ราชวิทยาลัยจุฬาภรณ์",
+      "seats": null,
+      "project_code": "รับตรงอิสระ",
+      "round_label": "รอบที่ ๔ (Direct Admission)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "การทดสอบวัดความถนัดทั่วไป",
+          "weight_percent": "10",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "TPAT3 30",
+          "subject_name_th": "ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": "≥ 30%"
+        },
+        {
+          "subject_code": "A-level",
+          "subject_name_th": "A-level (คณิตศาสตร์ประยุกต์ ๑, ฟิสิกส์, เคมี, ชีววิทยา, ภาษาอังกฤษ)",
+          "weight_percent": "40",
+          "min_threshold": "คณิตศาสตร์ประยุกต์ ๑/ฟิสิกส์/เคมี/ชีววิทยา ≥ 20 คะแนน; ภาษาอังกฤษ ≥ 30 คะแนน"
+        },
+        {
+          "subject_code": "สัมภาษณ์",
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาตามความเหมาะสม สงวนสิทธิ์ในการเปิดรับสมัคร; เป็นนักเรียนไทย อายุ 16-30 ปี; สำเร็จการศึกษา ม.๖ วิทย์-คณิต; GPA วิชาภาษาอังกฤษ ≥ 3.00; ถ้ามีคะแนนภาษาอังกฤษมาตรฐานจะพิจารณาเป็นพิเศษ"
     }
   ]
 }

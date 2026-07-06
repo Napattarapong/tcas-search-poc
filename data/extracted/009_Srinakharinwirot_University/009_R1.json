@@ -1,12 +1,3002 @@
 {
+  "university": "Srinakharinwirot University",
   "university_id": "009",
   "round": "R1",
-  "archetype": "list",
-  "count": 1,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 253,
+  "programs": [
     {
-      "item_no": "1",
-      "text": "1. โครงการที่เปิดรับสมัครระหว่าง วันที่ 11 พฤศจิกายน – 11 ธันวาคม 2568"
+      "program_name_th": "สาขาวิชาคณิตศาสตร์",
+      "tcas_code": "02001",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาเคมี",
+      "tcas_code": "02002",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 65,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาชีววิทยา",
+      "tcas_code": "02003",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาฟิสิกส์",
+      "tcas_code": "02004",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาสถิติ",
+      "tcas_code": "02008",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาจุลชีววิทยา",
+      "tcas_code": "02014",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 38,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาวัสดุศาสตร์",
+      "tcas_code": "02107",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาคณิตศาสตร์ (กศ.บ.)",
+      "tcas_code": "02024",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาชีววิทยา (กศ.บ.)",
+      "tcas_code": "02104",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาเคมี (กศ.บ.)",
+      "tcas_code": "02105",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาฟิสิกส์ (กศ.บ.)",
+      "tcas_code": "02106",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 22,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 12-21"
+    },
+    {
+      "program_name_th": "สาขาวิชาปรัชญาและศาสนา",
+      "tcas_code": "01021",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 22-25"
+    },
+    {
+      "program_name_th": "สาขาวิชาสารสนเทศศึกษา",
+      "tcas_code": "01108",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 22-25"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและวัฒนธรรมอาเซียน",
+      "tcas_code": "01131",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 22-25"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและวัฒนธรรมอาเซียน (โครงการพิเศษ)",
+      "tcas_code": "01131",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 22-25"
+    },
+    {
+      "program_name_th": "สาขาวิชาประวัติศาสตร์",
+      "tcas_code": "03001",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "สาขาวิชาประวัติศาสตร์ (โครงการพิเศษ)",
+      "tcas_code": "03001",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 20,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา วิชาเอกการพัฒนาชุมชนเมือง",
+      "tcas_code": "03115",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 22,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา วิชาเอกการพัฒนาชุมชนเมือง (โครงการพิเศษ)",
+      "tcas_code": "03115",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 6,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา",
+      "tcas_code": "03116",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 22,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา (โครงการพิเศษ)",
+      "tcas_code": "03116",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 6,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "วิชาเอกรัฐประศาสนศาสตร์",
+      "tcas_code": "03108",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 16,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรรัฐศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "วิชาเอกความสัมพันธ์ระหว่างประเทศ",
+      "tcas_code": "03109",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 16,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรรัฐศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "วิชาเอกความสัมพันธ์ระหว่างประเทศ (โครงการพิเศษ)",
+      "tcas_code": "03109",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 20,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรรัฐศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "วิชาเอกการเมืองการปกครอง",
+      "tcas_code": "03110",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 16,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรรัฐศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "วิชาเอกการเมืองการปกครอง (โครงการพิเศษ)",
+      "tcas_code": "03110",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 16,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรรัฐศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "สาขาวิชาภูมิศาสตร์และภูมิสารสนเทศ",
+      "tcas_code": "03102",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "สาขาวิชาภูมิศาสตร์และภูมิสารสนเทศ (โครงการพิเศษ)",
+      "tcas_code": "03102",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "หลักสูตรนิติศาสตรบัณฑิต",
+      "tcas_code": "03117",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 24,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "หลักสูตรนิติศาสตรบัณฑิต (โครงการพิเศษ)",
+      "tcas_code": "03117",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 19,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รายละเอียดเกณฑ์คัดเลือกที่หน้า 26-32"
+    },
+    {
+      "program_name_th": "วิชาเอกการตลาด",
+      "tcas_code": "68002",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "วิชาเอกการตลาด (โครงการพิเศษ)",
+      "tcas_code": "68002",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 30,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "วิชาเอกการเงิน",
+      "tcas_code": "68003",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "วิชาเอกการเงิน (โครงการพิเศษ)",
+      "tcas_code": "68003",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 30,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "สาขาวิชาการท่องเที่ยวและการโรงแรม",
+      "tcas_code": "68004",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "สาขาวิชาการท่องเที่ยวและการโรงแรม (โครงการพิเศษ)",
+      "tcas_code": "68004",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 20,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "สาขาวิชาธุรกิจเพื่อสังคม",
+      "tcas_code": "68009",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 38,
+      "project_code": null,
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "สาขาวิชาธุรกิจเพื่อสังคม (โครงการพิเศษ)",
+      "tcas_code": "68009",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 20,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "TCAS รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต; รายละเอียดเกณฑ์คัดเลือกที่หน้า 33-39"
+    },
+    {
+      "program_name_th": "สาขาวิชาคณิตศาสตร์ (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ (มหาวิทยาลัยศรีนครินทรวิโรฒ)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": null,
+          "min_threshold": "50"
+        }
+      ],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6), อาชีวศึกษา, และ กศน. GPAX ไม่ต่ำกว่า 3.50; หน่วยกิตคณิตศาสตร์ไม่ต่ำกว่า 12; ส่ง Portfolio (ประวัติ, รางวัล, เรียงความ 1 หน้า A4); ติดต่อ sukanyah@g.swu.ac.th"
+    },
+    {
+      "program_name_th": "สาขาวิชาชีววิทยา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ (มหาวิทยาลัยศรีนครินทรวิโรฒ)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6) และ กศน.; GPAX ไม่ต่ำกว่า 3.00; GPA คณิตศาสตร์ ≥ 2.50, GPA วิทยาศาสตร์ ≥ 2.50, GPA ภาษาต่างประเทศ ≥ 3.00; หน่วยกิตคณิตศาสตร์ ≥ 12, วิทยาศาสตร์ ≥ 22, ภาษาต่างประเทศ ≥ 9; เรียงความ A4; หนังสือรับรอง 1 ฉบับ; ติดต่อ kongkeat@g.swu.ac.th"
+    },
+    {
+      "program_name_th": "สาขาวิชาเคมี (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ (มหาวิทยาลัยศรีนครินทรวิโรฒ)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6) และนานาชาติ; GPAX ไม่ต่ำกว่า 2.75; GPA คณิตศาสตร์ ≥ 2.75, GPA วิทยาศาสตร์ ≥ 2.75, GPA ภาษาต่างประเทศ ≥ 2.75; หน่วยกิตคณิตศาสตร์ ≥ 12, วิทยาศาสตร์ ≥ 22; Portfolio (ประวัติ, รางวัล, เรียงความ 250-300 คำ); หนังสือรับรอง 1 ฉบับ; ติดต่อ ratchanok@g.swu.ac.th"
+    },
+    {
+      "program_name_th": "สาขาวิชาฟิสิกส์ (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์ (มหาวิทยาลัยศรีนครินทรวิโรฒ)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": null,
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6) และนานาชาติ; GPAX ไม่ต่ำกว่า 2.75; GPA คณิตศาสตร์ ≥ 2.75, GPA วิทยาศาสตร์ ≥ 2.75; หน่วยกิตคณิตศาสตร์ ≥ 12, วิทยาศาสตร์ ≥ 22; หนังสือรับรอง 1 ฉบับ; ติดต่อ anusit@g.swu.ac.th"
+    },
+    {
+      "program_name_th": "สาขาวิชาปรัชญาและศาสนา",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6) และนานาชาติ; GPAX ไม่ต่ำกว่า 2.50; Portfolio แสดงกิจกรรมด้านปรัชญาและศาสนา และเรียงความไม่ต่ำกว่า 2 หน้า A4; ติดต่อคณะมนุษยศาสตร์ โทร. 02-649-5000 ต่อ 16204, 11034, 16076"
+    },
+    {
+      "program_name_th": "สาขาวิชาสารสนเทศศึกษา",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวศึกษา, กศน., GED; GPAX ไม่ต่ำกว่า 2.50; GPA กลุ่มสาระต่างๆ (ภาษาไทย, คณิตศาสตร์, วิทยาศาสตร์, สังคม, การงานอาชีพ, ภาษาต่างประเทศ) ไม่ต่ำกว่า 2.50; GED แต่ละวิชา ≥ 145; ติดต่อคณะมนุษยศาสตร์ โทร. 02-649-5000 ต่อ 16204, 11034, 16076"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและวัฒนธรรมอาเซียน",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวศึกษา, กศน., GED; GPAX ไม่ต่ำกว่า 2.00; GED แต่ละวิชา ≥ 145; ติดต่อคณะมนุษยศาสตร์ โทร. 02-649-5000 ต่อ 16204, 11034, 16511, 16082"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและวัฒนธรรมอาเซียน (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับนักเรียนหลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวศึกษา, กศน., GED; GPAX ไม่ต่ำกว่า 2.00; GED แต่ละวิชา ≥ 145; ติดต่อคณะมนุษยศาสตร์ โทร. 02-649-5000 ต่อ 16204, 11034, 16511, 16082"
+    },
+    {
+      "program_name_th": "สาขาวิชาประวัติศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต สำเร็จหรือกำลังศึกษา ม.6 ปีการศึกษา 2568; Portfolio ไม่เกิน 10 หน้า A4 (รายชื่อโครงการ/กิจกรรมแสดงภาวะผู้นำ, เขียนความเรียงหัวข้อ \"การเรียนประวัติศาสตร์สำคัญอย่างไร\", รางวัล/กิจกรรมอื่นๆ, หนังสือรับรองกิจกรรม); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาประวัติศาสตร์ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต สำเร็จหรือกำลังศึกษา ม.6 ปีการศึกษา 2568; Portfolio ไม่เกิน 10 หน้า A4 (รายชื่อโครงการ/กิจกรรมแสดงภาวะผู้นำ, เขียนความเรียงหัวข้อ \"การเรียนประวัติศาสตร์สำคัญอย่างไร\", รางวัล/กิจกรรมอื่นๆ, หนังสือรับรองกิจกรรม); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา (วิชาเอกการพัฒนาชุมชนเมือง)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต รับ ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.00 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.00); GED แต่ละวิชาไม่ต่ำกว่า 145; Portfolio ไม่เกิน 10 หน้า A4 (SOP, รายชื่อโครงการ/กิจกรรม, หนังสือรับรอง); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา (วิชาเอกการพัฒนาชุมชนเมือง) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต รับ ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.00 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.00); GED แต่ละวิชาไม่ต่ำกว่า 145; Portfolio ไม่เกิน 10 หน้า A4 (SOP, รายชื่อโครงการ/กิจกรรม, หนังสือรับรอง); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา (วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต รับ ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.00 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.00); GED แต่ละวิชาไม่ต่ำกว่า 145; Portfolio ไม่เกิน 10 หน้า A4 (SOP, รายชื่อโครงการ/กิจกรรม, หนังสือรับรอง); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา (วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต รับ ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.00 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.00); GED แต่ละวิชาไม่ต่ำกว่า 145; Portfolio ไม่เกิน 10 หน้า A4 (SOP, รายชื่อโครงการ/กิจกรรม, หนังสือรับรอง); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรรัฐศาสตรบัณฑิต วิชาเอกการเมืองการปกครอง",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6 ปีการศึกษา 2568; ต้องมีผลคะแนน TGAT ปีการศึกษา 2569; Portfolio ไม่เกิน 15 หน้า A4 (เหตุผลสนใจรัฐศาสตร์ มศว, รายชื่อโครงการ/กิจกรรมระบุบทบาท, หนังสือรับรอง, เรียงความ \"ประสบการณ์ของข้าพเจ้า กับ การเป็นนักรัฐศาสตร์ ผู้นำ ผู้รับผิดชอบต่อสังคม\"); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรรัฐศาสตรบัณฑิต วิชาเอกการเมืองการปกครอง (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6 ปีการศึกษา 2568; ต้องมีผลคะแนน TGAT ปีการศึกษา 2569; Portfolio ไม่เกิน 15 หน้า A4 (เหตุผลสนใจรัฐศาสตร์ มศว, รายชื่อโครงการ/กิจกรรมระบุบทบาท, หนังสือรับรอง, เรียงความ \"ประสบการณ์ของข้าพเจ้า กับ การเป็นนักรัฐศาสตร์ ผู้นำ ผู้รับผิดชอบต่อสังคม\"); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรรัฐศาสตรบัณฑิต วิชาเอกความสัมพันธ์ระหว่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6 ปีการศึกษา 2568; ต้องมีผลคะแนน TGAT ปีการศึกษา 2569; Portfolio ไม่เกิน 15 หน้า A4 (เหตุผลสนใจรัฐศาสตร์ มศว, รายชื่อโครงการ/กิจกรรมระบุบทบาท, หนังสือรับรอง, เรียงความ \"ประสบการณ์ของข้าพเจ้า กับ การเป็นนักรัฐศาสตร์ ผู้นำ ผู้รับผิดชอบต่อสังคม\"); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรรัฐศาสตรบัณฑิต วิชาเอกความสัมพันธ์ระหว่างประเทศ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6 ปีการศึกษา 2568; ต้องมีผลคะแนน TGAT ปีการศึกษา 2569; Portfolio ไม่เกิน 15 หน้า A4 (เหตุผลสนใจรัฐศาสตร์ มศว, รายชื่อโครงการ/กิจกรรมระบุบทบาท, หนังสือรับรอง, เรียงความ \"ประสบการณ์ของข้าพเจ้า กับ การเป็นนักรัฐศาสตร์ ผู้นำ ผู้รับผิดชอบต่อสังคม\"); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรรัฐศาสตรบัณฑิต วิชาเอกรัฐประศาสนศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6 ปีการศึกษา 2568; ต้องมีผลคะแนน TGAT ปีการศึกษา 2569; Portfolio ไม่เกิน 15 หน้า A4 (เหตุผลสนใจรัฐศาสตร์ มศว, รายชื่อโครงการ/กิจกรรมระบุบทบาท, หนังสือรับรอง, เรียงความ \"ประสบการณ์ของข้าพเจ้า กับ การเป็นนักรัฐศาสตร์ ผู้นำ ผู้รับผิดชอบต่อสังคม\"); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาภูมิศาสตร์และภูมิสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต รับ ม.6/นานาชาติ/GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.75; GPA คณิตศาสตร์ไม่ต่ำกว่า 2.50; GPA วิทยาศาสตร์ไม่ต่ำกว่า 2.50; หน่วยกิตคณิตศาสตร์ไม่ต่ำกว่า 15, วิทยาศาสตร์ไม่ต่ำกว่า 15; GED แต่ละวิชาไม่ต่ำกว่า 145; ต้องมีใบรับรองแพทย์จักษุแพทย์ (ไม่บอดสี, สายตาปกติ); Portfolio ไม่เกิน 10 หน้า A4 (กิจกรรมแสดงภาวะผู้นำ, กิจกรรม/รางวัลอื่น, ความเรียง \"ความสนใจและเหตุผลที่เลือกเรียนภูมิศาสตร์ มศว\", หนังสือรับรองกิจกรรม); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาภูมิศาสตร์และภูมิสารสนเทศ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต รับ ม.6/นานาชาติ/GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.75; GPA คณิตศาสตร์ไม่ต่ำกว่า 2.50; GPA วิทยาศาสตร์ไม่ต่ำกว่า 2.50; หน่วยกิตคณิตศาสตร์ไม่ต่ำกว่า 15, วิทยาศาสตร์ไม่ต่ำกว่า 15; GED แต่ละวิชาไม่ต่ำกว่า 145; ต้องมีใบรับรองแพทย์จักษุแพทย์ (ไม่บอดสี, สายตาปกติ); Portfolio ไม่เกิน 10 หน้า A4 (กิจกรรมแสดงภาวะผู้นำ, กิจกรรม/รางวัลอื่น, ความเรียง \"ความสนใจและเหตุผลที่เลือกเรียนภูมิศาสตร์ มศว\", หนังสือรับรองกิจกรรม); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรนิติศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.50 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.50; GED เทียบคะแนนเต็ม 4 ไม่ต่ำกว่า 2.50); Portfolio ไม่เกิน 10 หน้า A4 (กิจกรรมแสดงภาวะผู้นำ, กิจกรรม/รางวัลอื่น, เขียนความเรียง \"คุณสมบัติของนักกฎหมายผู้สร้างความเป็นธรรมในสังคมยุคดิจิทัล\", หนังสือรับรองกิจกรรม); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรนิติศาสตรบัณฑิต (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.50 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.50; GED เทียบคะแนนเต็ม 4 ไม่ต่ำกว่า 2.50); Portfolio ไม่เกิน 10 หน้า A4 (กิจกรรมแสดงภาวะผู้นำ, กิจกรรม/รางวัลอื่น, เขียนความเรียง \"คุณสมบัติของนักกฎหมายผู้สร้างความเป็นธรรมในสังคมยุคดิจิทัล\", หนังสือรับรองกิจกรรม); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต วิชาเอกการตลาด",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความแรงบันดาลใจและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต วิชาเอกการตลาด (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความแรงบันดาลใจและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต วิชาเอกการเงิน",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความแรงบันดาลใจและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต วิชาเอกการเงิน (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความแรงบันดาลใจและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต สาขาวิชาการท่องเที่ยวและการโรงแรม",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.30",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความเรื่องใจรักในงานบริการและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต สาขาวิชาการท่องเที่ยวและการโรงแรม (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความเรื่องใจรักในงานบริการและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต สาขาวิชาธุรกิจเพื่อสังคม",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.30",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความแรงบันดาลใจและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรบริหารธุรกิจบัณฑิต สาขาวิชาธุรกิจเพื่อสังคม (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; Portfolio ไม่เกิน 10 หน้า A4 รวมเรียงความแรงบันดาลใจและผลงานจิตอาสา/สาธารณประโยชน์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาศาสตร์การกีฬาและการออกกำลังกาย",
+      "tcas_code": null,
+      "faculty_th": "คณะพลศึกษา",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; GPA คณิตศาสตร์ >= 2.25, วิทยาศาสตร์ >= 2.25, ภาษาต่างประเทศ >= 2.25 (เฉพาะหลักสูตร ม.6); มีความประพฤติดี; ร่างกายสมบูรณ์ไม่มีโรคติดต่อร้ายแรง/โรคประจำตัว/ความพิการที่เป็นอุปสรรค; มีผลคะแนน TGAT ปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชาสาธารณสุขศาสตร์ –อนามัยสิ่งแวดล้อม –สาธารณสุขชุมชน –อาชีวอนามัยและความปลอดภัย",
+      "tcas_code": null,
+      "faculty_th": "คณะสาธารณสุขศาสตร์ (หลักสูตรวิทยาศาสตรบัณฑิต)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.80",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ; หน่วยกิตคณิตศาสตร์ไม่น้อยกว่า 12, วิทยาศาสตร์ไม่น้อยกว่า 22; มีผลคะแนน TGAT และ TPAT 3; ต้องมี Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาผู้นำนันทนาการ",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์ (หลักสูตรศิลปศาสตรบัณฑิต)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; มีเอกสารแสดงความสามารถด้านผู้นำนันทนาการ/จิตอาสา; ต้องมี Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาสุขศึกษาและพลศึกษา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์ (หลักสูตรการศึกษาบัณฑิต)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6 เท่านั้น; มีบุคลิกภาพเหมาะสมกับการเป็นครู; มีเอกสารกีฬา/จิตอาสา; ต้องมี Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาพลศึกษา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์ (หลักสูตรการศึกษาบัณฑิต)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; มีบุคลิกภาพเหมาะสมกับการเป็นครู; มีเอกสารความสามารถด้านภาษาต่างประเทศ/ภาษาญี่ปุ่น/กีฬา; ต้องมี Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาสุขศึกษา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะครุศาสตร์ (หลักสูตรการศึกษาบัณฑิต)",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/GED; มีบุคลิกภาพเหมาะสมกับการเป็นครู; มีเอกสารจิตอาสา; ต้องมี Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรเศรษฐศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1 ปีการศึกษา 2569",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/GED; GPA คณิตศาสตร์ไม่ต่ำกว่า 2.75; หน่วยกิตคณิตศาสตร์ไม่น้อยกว่า 10; GED แต่ละวิชาไม่ต่ำกว่า 145; มีผลคะแนน TGAT; เคยได้รับรางวัลวิชาการระดับชาติ/นานาชาติอย่างน้อย 1 รางวัล; ต้องมี Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ทันตแพทยศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะทันตแพทยศาสตร์",
+      "seats": 6,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ค่าลำดับขั้นสะสมเฉลี่ย",
+          "weight_percent": null,
+          "min_threshold": "3.75"
+        },
+        {
+          "subject_code": "AKAT",
+          "subject_name_th": "Aptitude & Knowledge Admission Test",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "BMAT",
+          "subject_name_th": "BMAT",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สัญชาติไทย; GPA วิชาชีววิทยาและเคมีไม่น้อยกว่า 3.50; มีผลคะแนน BMAT; มีผลคะแนน AKAT (ไม่กำหนดคะแนนขั้นต่ำ); ความสามารถทางภาษาอังกฤษ (TOEFL IBT >= 79 หรือ TOEFL CBT >= 183 หรือ IELTS >= 6.5 แต่ละ Part ไม่น้อยกว่า 6.0); ส่ง Portfolio ไม่เกิน 10 หน้า A4; สอบสัมภาษณ์เป็นภาษาอังกฤษ; ต้องตรวจสุขภาพและสุขภาพจิต; ผู้สำเร็จการศึกษาต้องเข้ารับราชการไม่น้อยกว่า 3 ปี มิฉะนั้นชดใช้ 400,000 บาท"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมเคมี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม",
+          "weight_percent": null,
+          "min_threshold": "2.50"
+        }
+      ],
+      "other_conditions_th": "รับ ม.6/นานาชาติ/กศน./GED; หน่วยกิตคณิตศาสตร์ >= 12 และวิทยาศาสตร์ >= 22; GED แต่ละวิชา >= 145; ต้องเคยเป็นตัวแทนแข่งขันโครงงานวิทยาศาสตร์/นวัตกรรม ระดับกลุ่มโรงเรียนขึ้นไป; ส่ง Portfolio"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 เท่านั้น; หน่วยกิตคณิตศาสตร์ >= 12 และวิทยาศาสตร์ >= 22; ต้องเคยเป็นตัวแทนแข่งขันโครงงานวิทยาศาสตร์/นวัตกรรม ระดับกลุ่มโรงเรียนขึ้นไป; ส่ง Portfolio"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมโยธา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 เท่านั้น; หน่วยกิตคณิตศาสตร์ >= 12 และวิทยาศาสตร์ >= 22; ต้องเคยเป็นตัวแทนแข่งขันโครงงานวิทยาศาสตร์/นวัตกรรม ระดับกลุ่มโรงเรียนขึ้นไป; ส่ง Portfolio"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        }
+      ],
+      "other_conditions_th": "รับ ม.6/นานาชาติ/อาชีวศึกษา; หน่วยกิตคณิตศาสตร์ >= 12 และวิทยาศาสตร์ >= 22 (เฉพาะ ม.6); GPAX อาชีวศึกษา ปวช.1-3 ภาคเรียนที่ 1 รวม 5 ภาคไม่ต่ำกว่า 2.75; ต้องเคยเป็นตัวแทนแข่งขันโครงงานวิทยาศาสตร์/นวัตกรรม ระดับกลุ่มโรงเรียนขึ้นไป; ส่ง Portfolio"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมชีวการแพทย์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "GPA-คณิตศาสตร์",
+          "subject_name_th": "GPA กลุ่มสาระการเรียนรู้คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "GPA-วิทยาศาสตร์",
+          "subject_name_th": "GPA กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        }
+      ],
+      "other_conditions_th": "รับ ม.6/นานาชาติ; หน่วยกิตคณิตศาสตร์ >= 12 และวิทยาศาสตร์ >= 22 (เฉพาะ ม.6); ต้องมีผลงานหรือเคยเป็นตัวแทนแข่งขันโครงงานวิทยาศาสตร์/นวัตกรรม ระดับกลุ่มโรงเรียนขึ้นไป; ส่ง Portfolio"
+    },
+    {
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "คะแนนเฉลี่ยสะสม",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        }
+      ],
+      "other_conditions_th": "รับ ม.6 เท่านั้น; หน่วยกิตคณิตศาสตร์ >= 12 และวิทยาศาสตร์ >= 22; ต้องเคยเป็นตัวแทนแข่งขันโครงงานวิทยาศาสตร์/นวัตกรรม ระดับกลุ่มโรงเรียนขึ้นไป; ส่ง Portfolio"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้า - วิชาเอกวิศวกรรมไฟฟ้ากำลัง",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการเด็กดีมีที่เรียน",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต จบ ม.6 หรือ GED หรือ อาชีวะกลุ่มพลังงานไฟฟ้า; ม.6 GPAX ≥ 3.00, อาชีวะ GPAX ≥ 3.50, GED GPAX ≥ 3.00; หน่วยกิตคณิตศาสตร์ ≥ 10, วิทยาศาสตร์ ≥ 18; เคยผ่านโครงการวิชาการหรือมีผลงานด้านวิทย์/คณิต/วิศวกรรม; คัดเลือกด้วย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้า - วิชาเอกวิศวกรรมโทรคมนาคมและเทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการเด็กดีมีที่เรียน",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต จบ ม.6 หรือ GED หรือ อาชีวะกลุ่มพลังงานไฟฟ้า; ม.6 GPAX ≥ 3.00, อาชีวะ GPAX ≥ 3.50, GED GPAX ≥ 3.00; หน่วยกิตคณิตศาสตร์ ≥ 10, วิทยาศาสตร์ ≥ 18; เคยผ่านโครงการวิชาการหรือมีผลงานด้านวิทย์/คณิต/วิศวกรรม; คัดเลือกด้วย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมสิ่งแวดล้อม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการเด็กดีมีที่เรียน",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต กำลังศึกษา ม.6 และจะจบปี 2568; GPAX ≥ 2.50, GPA คณิตศาสตร์ ≥ 2.50, GPA วิทยาศาสตร์ ≥ 2.50; หน่วยกิตคณิตศาสตร์ ≥ 12, วิทยาศาสตร์ ≥ 22; คัดเลือกด้วย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "กายภาพบำบัด",
+      "tcas_code": null,
+      "faculty_th": "คณะกายภาพบำบัด",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการเด็กดีมีที่เรียน",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต จบ ม.6 หรือนานาชาติ หรือ กศน. หรือ GED; ม.6/นานาชาติ GPAX ≥ 2.50, กศน. GPAX ≥ 2.50, GED GPAX ≥ 2.50; Portfolio ต้องแสดงหลักฐานคุณธรรม/จริยธรรม/ผลงานวิชาการ/กิจกรรมสาธารณสุข; คัดเลือกด้วย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "การส่งเสริมสุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "คณะกายภาพบำบัด",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการเด็กดีมีที่เรียน",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต จบ ม.6 หรือนานาชาติ หรือ กศน. หรือ GED; ม.6/นานาชาติ GPAX ≥ 2.00, กศน. GPAX ≥ 2.00, GED GPAX ≥ 2.00; Portfolio ต้องแสดงหลักฐานคุณธรรม/จริยธรรม/ผลงานวิชาการ/กิจกรรมสาธารณสุข; คัดเลือกด้วย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "กิจกรรมบำบัด",
+      "tcas_code": null,
+      "faculty_th": "คณะกายภาพบำบัด",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการเด็กดีมีที่เรียน",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต จบ ม.6 หรือนานาชาติ; GPAX ≥ 2.50; Portfolio ต้องแสดงหลักฐานคุณธรรม/จริยธรรม/ผลงานวิชาการ(ตั้งแต่ พ.ศ. 2566)/กิจกรรมสาธารณสุข; คัดเลือกด้วย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การอาหารและโภชนาการ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; หน่วยกิตขั้นต่ำ: คณิตศาสตร์≥12, วิทยาศาสตร์≥22, ภาษาต่างประเทศ≥9; ไม่มีความพิการที่เป็นอุปสรรค; Portfolio ไม่เกิน 10 หน้า A4 (เรียงความภาษาไทย, คำถามลักษณะนิสัย, เกียรติประวัติวิทยาศาสตร์, จิตอาสา≤3ผลงาน, ใบรับรองภาษาอังกฤษ); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "เทคโนโลยีวัสดุพอลิเมอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/GED; หน่วยกิตขั้นต่ำ: คณิตศาสตร์≥6, วิทยาศาสตร์≥11, ภาษาต่างประเทศ≥9; ไม่มีความพิการที่เป็นอุปสรรค; Portfolio ไม่เกิน 10 หน้า A4 (เรียงความภาษาไทย, เกียรติประวัติวิทยาศาสตร์, จิตอาสา≤3ผลงาน, ใบรับรองภาษาอังกฤษ); ส่งเอกสารทางอีเมล aiswu@g.swu.ac.th; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "เทคโนโลยีชีวภาพและผลิตภัณฑ์การเกษตร",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6 เท่านั้น; หน่วยกิตขั้นต่ำ: คณิตศาสตร์≥12, วิทยาศาสตร์≥6, ภาษาต่างประเทศ≥9; ไม่มีความพิการที่เป็นอุปสรรค; Portfolio ไม่เกิน 10 หน้า A4 (เรียงความภาษาไทย, เกียรติประวัติวิทยาศาสตร์, จิตอาสา≤3ผลงาน, ใบรับรองภาษาอังกฤษ); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "นวัตกรรมอาหารและธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/อาชีวศึกษา/กศน.; ไม่มีความพิการที่เป็นอุปสรรค; Portfolio ไม่เกิน 10 หน้า A4 (เรียงความภาษาไทย, เกียรติประวัติวิทยาศาสตร์, จิตอาสา≤3ผลงาน, ใบรับรองภาษาอังกฤษ); คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีสิ่งแวดล้อมและทรัพยากร",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "GPA คณิตศาสตร์ ≥ 2.25, GPA วิทยาศาสตร์และเทคโนโลยี ≥ 2.25; หน่วยกิตคณิตศาสตร์ ≥ 6, วิทยาศาสตร์ ≥ 22; สำเร็จหรือกำลังศึกษา ม.6 และจะสำเร็จการศึกษาปี 2568; แฟ้มประวัติและผลงาน (Portfolio) แสดงผลงาน/รางวัลทางวิทยาศาสตร์; หนังสือรับรอง 3 ฉบับ; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิทยาการการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จ/กำลังศึกษา ม.6, นานาชาติ, อาชีวศึกษา, กศน.; GPAX ม.6/นานาชาติ ≥ 2.00, อาชีวศึกษา ≥ 2.00, กศน. ≥ 2.00; แฟ้มประวัติและผลงาน (Portfolio); หนังสือรับรอง 3 ฉบับ; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการจัดการการท่องเที่ยวเพื่อการพัฒนา",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6, นานาชาติ, อาชีวศึกษา, กศน., GED; GPAX ม.6/นานาชาติ ≥ 3.00, อาชีวศึกษา ≥ 3.00, กศน. ≥ 3.00, GED ≥ 3.00; แฟ้มประวัติและผลงาน (Portfolio) แสดงความสนใจด้านการท่องเที่ยว ผลงานกิจกรรมเชิงวิชาการ และกิจกรรมนอกหลักสูตร; หนังสือรับรอง 3 ฉบับ; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการจัดการการท่องเที่ยวเพื่อการพัฒนา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6, นานาชาติ, อาชีวศึกษา, กศน., GED; GPAX ม.6/นานาชาติ ≥ 2.75, อาชีวศึกษา ≥ 2.75, กศน. ≥ 2.75, GED ≥ 2.75; แฟ้มประวัติและผลงาน (Portfolio) แสดงความสนใจด้านการท่องเที่ยว ผลงานกิจกรรมเชิงวิชาการ และกิจกรรมนอกหลักสูตร; หนังสือรับรอง 3 ฉบับ; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการภูมิสังคมและวัฒนธรรม (วิชาเอกการจัดการภูมิสังคม / วิชาเอกการจัดการภูมิวัฒนธรรม)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยโพธิวิชชาลัย",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6, นานาชาติ, อาชีวศึกษา, กศน., GED; ต้องมีความเป็นผู้นำหรืออุทิศตนช่วยเหลือกิจกรรมของโรงเรียน/ชุมชน/สังคม; มีความสามารถพิเศษด้านกิจกรรมเพื่อสังคม ชุมชน วัฒนธรรม หรือด้านการศึกษา; แฟ้มประวัติและผลงาน (Portfolio); หนังสือรับรอง 3 ฉบับ; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมเกษตรและการจัดการลุ่มน้ำอย่างยั่งยืน (วิชาเอกนวัตกรรมเกษตร)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยโพธิวิชชาลัย",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6, นานาชาติ, อาชีวศึกษา, กศน., GED; GPAX ม.6/นานาชาติ ≥ 2.00, อาชีวศึกษา ≥ 2.00, กศน. ≥ 2.00, GED ≥ 2.00; แฟ้มประวัติและผลงาน (Portfolio); หนังสือรับรอง 3 ฉบับ; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและการสื่อสารระหว่างวัฒนธรรม (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6, นานาชาติ, GED; GPAX ม.6/นานาชาติ ≥ 2.00; GED แต่ละวิชา ≥ 145 คะแนน; Portfolio เป็นภาษาอังกฤษไม่เกิน 10 หน้า A4 รวม Presentation Clip (ไม่เกิน 2 นาที), เรียงความภาษาอังกฤษ (500-600 คำ), ประกาศนียบัตรกิจกรรมจิตอาสา, หนังสือรับรอง; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการภาคบริการและการท่องเที่ยวอย่างยั่งยืน (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6, นานาชาติ, GED; รายละเอียดคุณสมบัติเฉพาะและ Portfolio ดูที่หน้าถัดไปของเอกสารต้นฉบับ (ข้อมูลในหน้าที่ให้มาถูกตัดท้าย)"
+    },
+    {
+      "program_name_th": "การจัดการภาคบริการและการท่องเที่ยวอย่างยั่งยืน (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/GED; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 145; Portfolio เป็นภาษาอังกฤษ (ไม่เกิน 10 หน้า A4) รวม VDO presentation, เรียงความภาษาอังกฤษ, หนังสือรับรองคุณธรรม/จริยธรรม, สำเนาใบระเบียนแสดงผลการเรียน; คัดเลือกโดย Portfolio และสอบสัมภาษณ์; ภาคเรียนละ 60,000 บาท; เรียน Pre-college กรกฎาคม–สิงหาคม 2569 ค่าใช้จ่ายไม่เกิน 20,000 บาท"
+    },
+    {
+      "program_name_th": "อัญมณีและเครื่องประดับ (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/หลักสูตรอาชีวศึกษา; ไม่เป็นโรคติดต่อร้ายแรง/โรคประจำตัวที่เป็นอุปสรรคต่อการศึกษา; แสดงหลักฐานความสามารถด้านอัญมณีและเครื่องประดับ (ถ้ามี) ใน Portfolio; หนังสือรับรองคุณธรรม/จริยธรรม 3 ฉบับ; Portfolio ไม่เกิน 10 หน้า A4; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ผลิตภัณฑ์สร้างสรรค์ (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/หลักสูตรอาชีวศึกษา; ไม่เป็นโรคติดต่อร้ายแรง/โรคประจำตัวที่เป็นอุปสรรคต่อการศึกษา; แสดงหลักฐานความสามารถด้านผลิตภัณฑ์สร้างสรรค์ (ถ้ามี) ใน Portfolio; หนังสือรับรองคุณธรรม/จริยธรรม 3 ฉบับ; Portfolio ไม่เกิน 10 หน้า A4; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ผู้ประกอบการใหม่สร้างสรรค์ (หลักสูตร 3 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "TCAS รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/หลักสูตรอาชีวศึกษา/GED; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 145; ต้องมีผลคะแนนภาษาอังกฤษ (TOEFL IBT≥61/PBT≥500/CBT≥130, IELTS≥5.0, TOEIC≥600, CU-TEP≥60, หรือ SWU-SET≥60) อายุไม่เกิน 2 ปี; หนังสือรับรองคุณธรรม/จริยธรรม 3 ฉบับ; Portfolio ไม่เกิน 10 หน้า A4; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาอุตสาหกรรมศึกษา - ไฟฟ้า (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6) หรือหลักสูตรอาชีวศึกษา; TPAT 5 ไม่น้อยกว่า 30 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกจิตวิทยาและการแนะแนว (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6) หรือหลักสูตรนานาชาติ; TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; ต้องมีผลงาน/กิจกรรมสะท้อนความสนใจในสาขาจิตวิทยาการแนะแนว; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกการศึกษาตลอดชีวิต (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวศึกษา, กศน. หรือ GED (GED แต่ละวิชาไม่น้อยกว่า 145 คะแนน); TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกเทคโนโลยีการศึกษาและคอมพิวเตอร์ (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้กำลังศึกษาหลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวศึกษา, กศน. หรือสำเร็จหลักสูตร GED (GED แต่ละวิชาไม่น้อยกว่า 145 คะแนน); TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกการสอนภาษาอังกฤษและการสอนสังคมศึกษา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวศึกษา, กศน. หรือ GED (GED แต่ละวิชาไม่น้อยกว่า 145 คะแนน); TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกการสอนวิทยาศาสตร์และการสอนคณิตศาสตร์ (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6), นานาชาติ, อาชีวศึกษา หรือ GED (GED แต่ละวิชาไม่น้อยกว่า 145 คะแนน); TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกการศึกษาพิเศษและการสอนคณิตศาสตร์ (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6), นานาชาติ หรือ GED (GED แต่ละวิชาไม่น้อยกว่า 145 คะแนน); TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกการศึกษาพิเศษและการสอนภาษาไทย (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6), นานาชาติ, กศน. หรือ GED (GED แต่ละวิชาไม่น้อยกว่า 145 คะแนน); TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิชาเอกการศึกษาพิเศษและการสอนวิทยาศาสตร์ (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จการศึกษาหลักสูตรแกนกลาง (ม.6), นานาชาติ หรือ GED (GED แต่ละวิชาไม่น้อยกว่า 145 คะแนน); TGAT ไม่น้อยกว่า 35 คะแนน; TPAT 5 ไม่น้อยกว่า 35 คะแนน; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิทยาศาสตร์การแพทย์",
+      "tcas_code": null,
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": null,
+      "project_code": "1.1 โครงการเด็กดีมีที่เรียน",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "อายุไม่เกิน 35 ปีบริบูรณ์ นับถึง 1 พ.ย. 2568; รับเฉพาะหลักสูตรแกนกลาง (ม.6); GPA คณิตศาสตร์ ≥ 3.00 และ GPA วิทยาศาสตร์ ≥ 3.00; หน่วยกิตคณิตศาสตร์ ≥ 12 และวิทยาศาสตร์ ≥ 28; ต้องผ่านการแข่งขัน/ค่ายวิทยาศาสตร์-คณิตศาสตร์ หรือมีผลงานวิจัย/โครงงานทางวิทยาศาสตร์; ไม่มีโรค/ความพิการที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา (วิชาเอกการพัฒนาชุมชนเมือง / วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมายฯ; สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.00 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.00); GED แต่ละวิชาไม่ต่ำกว่า 145; เป็นผู้พิการทางการเคลื่อนไหวหรือร่างกายที่ช่วยเหลือตัวเองได้ หรือผู้พิการทางการได้ยินที่ใช้เครื่องช่วยฟังได้; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio ผ่าน TCASFolio"
+    },
+    {
+      "program_name_th": "หลักสูตรนิติศาสตรบัณฑิต / หลักสูตรนิติศาสตรบัณฑิต (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมายฯ; สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.50 (กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.50; GED เทียบเต็ม 4 ไม่ต่ำกว่า 2.50); เป็นผู้พิการทางการเคลื่อนไหวหรือร่างกายที่ช่วยเหลือตัวเองได้ หรือผู้พิการทางการได้ยินที่ใช้เครื่องช่วยฟังได้; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio ผ่าน TCASFolio; นำ Portfolio ฉบับจริงในวันสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรการศึกษาบัณฑิต (เอกเดี่ยว) วิชาเอกการศึกษาตลอดชีวิต (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": "35"
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": null,
+          "min_threshold": "35"
+        }
+      ],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมายฯ; สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; เป็นผู้พิการทางการเคลื่อนไหวหรือร่างกายที่ช่วยเหลือตัวเองได้ (มือสองข้างแข็งแรง); TGAT ไม่ต่ำกว่า 35 คะแนน; TPAT 5 ไม่ต่ำกว่า 35 คะแนน; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio ผ่าน TCASFolio"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต สาขาวิชาดุริยางคศาสตร์สากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมายฯ; สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.50 (อาชีวศึกษา ปวช.1-3 ไม่ต่ำกว่า 2.50; กศน. 3 ภาคเรียน ไม่ต่ำกว่า 2.50; GED เทียบเต็ม 4 ไม่ต่ำกว่า 2.50); เป็นผู้พิการทางการเคลื่อนไหว (บกพร่องทางด้านขาเท่านั้น) ที่ช่วยเหลือตัวเองได้; มีความสามารถด้านเครื่องดนตรีสากลหรือขับร้องคลาสสิก มีผลงานระดับประเทศหรือนานาชาติ; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio (แฟ้มสะสมผลงาน + คลิปวิดีโอบรรเลง/ขับร้อง)"
+    },
+    {
+      "program_name_th": "ศิลปกรรมศาสตรบัณฑิต สาขาวิชาดุริยางคศาสตร์สากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผู้สมัครต้องเป็นบุคคลผู้มีความพิการตามกฎหมาย; ส่งแฟ้มสะสมผลงาน (Portfolio) และคลิปวิดีโอบรรเลงเครื่องดนตรีสากลหรือขับร้องคลาสสิก ผ่าน Google Drive ภายใน 11 ธ.ค. 2568; คัดเลือกโดย Portfolio และการสอบสัมภาษณ์ (ทฤษฎีดนตรี, Sight-Reading, Ear Training, การแสดงความสามารถทางปฏิบัติ); ระบุเครื่องดนตรีหลัก; GPA ไม่น้อยกว่า 2.50"
+    },
+    {
+      "program_name_th": "ศิลปกรรมศาสตรบัณฑิต สาขาวิชาทัศนศิลป์",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผู้สมัครต้องเป็นบุคคลผู้มีความพิการตามกฎหมาย; เป็นผู้พิการทางการเคลื่อนไหว (บกพร่องทางด้านขาเท่านั้น) ที่ช่วยเหลือตัวเองได้; ส่งแฟ้มผลงานทัศนศิลป์ 10 ผลงาน (ผลงานจริง ขนาด A4) ทางไปรษณีย์ ภายใน 11 ธ.ค. 2568; คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; GPAX ไม่น้อยกว่า 2.00"
+    },
+    {
+      "program_name_th": "นวัตกรรมสื่อสารสังคม (หลักสูตร 2 ภาษา) วิชาเอกการจัดการธุริกิจไซเบอร์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมาย; เป็นผู้พิการทางการเคลื่อนไหวที่สามารถช่วยเหลือตัวเองได้; ส่ง Portfolio ผ่านเว็บไซต์วิทยาลัย (ไม่ใช้ TCASFolio); คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "นวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) วิชาเอกการสื่อสารเพื่อสุขภาพ",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมาย; เป็นผู้พิการทางการเคลื่อนไหวที่สามารถช่วยเหลือตัวเองได้; ส่ง Portfolio ผ่านเว็บไซต์วิทยาลัย (ไม่ใช้ TCASFolio); คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "นวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) วิชาเอกการสื่อสารเพื่อการจัดการนวัตกรรม",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมาย; เป็นผู้พิการทางการเคลื่อนไหวที่สามารถช่วยเหลือตัวเองได้; ส่ง Portfolio ผ่านเว็บไซต์วิทยาลัย (ไม่ใช้ TCASFolio); คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "การจัดการภูมิสังคมและวัฒนธรรม วิชาเอกการจัดการภูมิสังคม / วิชาเอกการจัดการภูมิวัฒนธรรม",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยโพธิวิชชาลัย",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมาย; เป็นผู้พิการทางการได้ยินระดับน้อยที่ใช้เครื่องช่วยฟังหรือผู้พิการแขน; ไม่กำหนด GPAX ขั้นต่ำ; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio ผ่าน TCASFolio"
+    },
+    {
+      "program_name_th": "นวัตกรรมเกษตรและการจัดการลุ่มน้ำอย่างยั่งยืน วิชาเอกนวัตกรรมเกษตร",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยโพธิวิชชาลัย",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมาย; เป็นผู้พิการทางการเคลื่อนไหวหรือทางร่างกายระดับน้อย; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio ผ่าน TCASFolio"
+    },
+    {
+      "program_name_th": "เศรษฐศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นบุคคลผู้มีความพิการตามกฎหมาย; เป็นผู้พิการทางการเคลื่อนไหวที่สามารถช่วยเหลือตัวเองได้; GPA คณิตศาสตร์ไม่ต่ำกว่า 2.75; หน่วยกิตคณิตศาสตร์รวมไม่น้อยกว่า 10; มีผลคะแนน TGAT ปีการศึกษา 2569; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร"
+    },
+    {
+      "program_name_th": "วิทยาศาสตร์การอาหารและโภชนาการ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผู้พิการตามกฎหมาย; เฉพาะผู้พิการทางการได้ยินหรือสื่อความหมาย (หูตึง) ที่ใช้เครื่องช่วยฟัง; สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; หน่วยกิตขั้นต่ำ: คณิตศาสตร์≥12, วิทยาศาสตร์≥22, ภาษาต่างประเทศ≥9 (เฉพาะ ม.6); ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio (ไม่เกิน 10 หน้า A4) ประกอบด้วย ใบรับรองภาษาอังกฤษ(ถ้ามี), เกียรติประวัติ/ผลงานด้านวิทยาศาสตร์และเทคโนโลยี(ถ้ามี), หลักฐานจิตอาสา(ไม่เกิน 3 ผลงาน), เรียงความภาษาไทยแสดงความมุ่งมั่นในสาขาวิชา, การตอบคำถามลักษณะนิสัย"
+    },
+    {
+      "program_name_th": "เทคโนโลยีวัสดุพอลิเมอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผู้พิการตามกฎหมาย; เฉพาะผู้พิการทางการได้ยินหรือสื่อความหมาย (หูตึง) ที่ใช้เครื่องช่วยฟัง; สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/GED; หน่วยกิตขั้นต่ำ: คณิตศาสตร์≥6, วิทยาศาสตร์≥11, ภาษาต่างประเทศ≥9 (เฉพาะ ม.6); ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio (ไม่เกิน 10 หน้า A4); ส่งเอกสารสมัครทางอีเมล aiswu@g.swu.ac.th ภายใน 11 ธ.ค. 2568 ก่อน 15.00 น."
+    },
+    {
+      "program_name_th": "เทคโนโลยีชีวภาพและผลิตภัณฑ์การเกษตร",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผู้พิการตามกฎหมาย; เฉพาะผู้พิการทางการได้ยินหรือสื่อความหมาย (หูตึง) ที่ใช้เครื่องช่วยฟัง; สำเร็จหรือกำลังศึกษา ม.6 เท่านั้น; หน่วยกิตขั้นต่ำ: คณิตศาสตร์≥12, วิทยาศาสตร์≥6, ภาษาต่างประเทศ≥9; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio (ไม่เกิน 10 หน้า A4)"
+    },
+    {
+      "program_name_th": "นวัตกรรมอาหารและธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": "1.2 โครงการผู้พิการ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผู้พิการตามกฎหมาย; เป็นผู้พิการทางการเคลื่อนไหว (แขน/ขา/มือพิการบางนิ้ว) ที่ช่วยเหลือตัวเองได้ หรือผู้พิการทางการได้ยินหรือสื่อความหมาย (หูตึง) ที่ใช้เครื่องช่วยฟัง; สำเร็จหรือกำลังศึกษา ม.6/อาชีวศึกษา/กศน.; ต้องผ่านการพิจารณาจากคณะกรรมการบริหารหลักสูตร; ส่ง Portfolio (ไม่เกิน 10 หน้า A4)"
+    },
+    {
+      "program_name_th": "นวัตกรรมสื่อสารสังคม (หลักสูตร 2 ภาษา) - วิชาเอกการออกแบบสื่อปฏิสัมพันธ์และมัลติมีเดีย",
+      "tcas_code": "30001",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 33,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "นวัตกรรมสื่อสารสังคม (หลักสูตร 2 ภาษา) - วิชาเอกการจัดการธุรกิจไซเบอร์",
+      "tcas_code": "30002",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 12,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "นวัตกรรมสื่อสารสังคม (หลักสูตร 2 ภาษา) - วิชาเอกนวัตกรรมคอมพิวเตอร์เพื่อการสื่อสาร",
+      "tcas_code": "30021",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 18,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "ภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) - วิชาเอกการผลิตภาพยนตร์และสื่อดิจิทัล",
+      "tcas_code": "30016",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 18,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; ได้รับการรับรองมาตรฐาน AUN-QA; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "ภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) - วิชาเอกการออกแบบเพื่องานภาพยนตร์และสื่อดิจิทัล",
+      "tcas_code": "30017",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 18,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "ภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) - วิชาเอกการแสดงและกำกับการแสดงภาพยนตร์",
+      "tcas_code": "30013",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 13,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "ภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) - วิชาเอกการจัดการภาพยนตร์และสื่อดิจิทัล",
+      "tcas_code": "30022",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 13,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "นวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) - วิชาเอกการสื่อสารเพื่อการท่องเที่ยว",
+      "tcas_code": "30009",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 27,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; อยู่ระหว่างดำเนินการปรับปรุงหลักสูตร เปลี่ยนชื่อเป็น วิชาเอกการสื่อสารและการผลิตสื่อดิจิทัลเพื่อการท่องเที่ยว; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "นวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) - วิชาเอกการสื่อสารเพื่อสุขภาพ",
+      "tcas_code": "30010",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 4,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "นวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) - วิชาเอกการสื่อสารเพื่อการจัดการนวัตกรรม",
+      "tcas_code": "30011",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 21,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "นวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) - วิชาเอกการสื่อสารเพื่อเศรษฐศาสตร์",
+      "tcas_code": "30019",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 14,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 148-152"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์ - วิชาเอกการออกแบบผลิตภัณฑ์",
+      "tcas_code": "10006",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์ - วิชาเอกการออกแบบแฟชั่น",
+      "tcas_code": "10013",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์ - วิชาเอกการออกแบบเครื่องประดับ",
+      "tcas_code": "10052",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์ - วิชาเอกการออกแบบภายใน",
+      "tcas_code": "10059",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตร์สากล",
+      "tcas_code": "10007",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 24,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "ทัศนศิลป์",
+      "tcas_code": "10015",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 19,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "การออกแบบสื่อสาร",
+      "tcas_code": "10043",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "นาฏศิลป์สร้างสรรค์และการจัดการ - วิชาเอกนาฏศิลป์ไทย",
+      "tcas_code": "10057",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "นาฏศิลป์สร้างสรรค์และการจัดการ - วิชาเอกนาฏศิลป์สากล",
+      "tcas_code": "10058",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "ดนตรีศึกษา (กศ.บ.)",
+      "tcas_code": "10048",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 44,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "นาฏศิลป์ศึกษา (กศ.บ.)",
+      "tcas_code": "10054",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "ศิลปศึกษา (กศ.บ.)",
+      "tcas_code": "10051",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการศิลปวัฒนธรรม (หลักสูตร 2 ภาษา)",
+      "tcas_code": "10053",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 153-174"
+    },
+    {
+      "program_name_th": "อัญมณีและเครื่องประดับ (หลักสูตร 2 ภาษา)",
+      "tcas_code": "69001",
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": 8,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต; ได้รับการรับรองมาตรฐาน AUN-QA; รายละเอียดดูหน้า 175-179"
+    },
+    {
+      "program_name_th": "ผลิตภัณฑ์สร้างสรรค์ (หลักสูตร 2 ภาษา)",
+      "tcas_code": "69002",
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 175-179"
+    },
+    {
+      "program_name_th": "แฟชั่น สิ่งทอ และเครื่องตกแต่ง (หลักสูตร 2 ภาษา)",
+      "tcas_code": "69003",
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": 75,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต; รายละเอียดดูหน้า 175-179"
+    },
+    {
+      "program_name_th": "ผู้ประกอบการใหม่สร้างสรรค์ (หลักสูตร 3 ภาษา)",
+      "tcas_code": "69007",
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรและวิทยาศาสตรบัณฑิต; รายละเอียดดูหน้า 175-179"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์",
+      "tcas_code": "02030",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต; รายละเอียดดูหน้า 180-184"
+    },
+    {
+      "program_name_th": "เคมี",
+      "tcas_code": "02002",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต; รายละเอียดดูหน้า 180-184"
+    },
+    {
+      "program_name_th": "จุลชีววิทยา",
+      "tcas_code": "02014",
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิทยาศาสตรบัณฑิต; รายละเอียดดูหน้า 180-184"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิทยาศาสตร์การกีฬาและการออกกำลังกาย",
+      "tcas_code": "04121",
+      "faculty_th": "คณะพลศึกษา",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีความสามารถด้านกีฬาในระดับชาติและนานาชาติ ด้านวิทยาศาสตร์การกีฬาและการออกกำลังกาย ได้รับการรับรองมาตรฐาน AUN-QA"
+    },
+    {
+      "program_name_th": "หลักสูตรการศึกษาบัณฑิต สาขาวิชาพลศึกษา (กศ.บ.)",
+      "tcas_code": "04101",
+      "faculty_th": "คณะพลศึกษา",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีความสามารถด้านกีฬาในระดับชาติและนานาชาติ"
+    },
+    {
+      "program_name_th": "สาขาวิชาสุขศึกษาและพลศึกษา (กศ.บ.)",
+      "tcas_code": "04100",
+      "faculty_th": "คณะพลศึกษา",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีความสามารถด้านกีฬาในระดับชาติและนานาชาติ"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาจิตวิทยา",
+      "tcas_code": "01001",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษา มีประสบการณ์ และ/หรือมีความโดดเด่นในด้านการประยุกต์ใช้หลักจิตวิทยาในการสื่อสาร"
+    },
+    {
+      "program_name_th": "สาขาวิชาจิตวิทยา (โครงการพิเศษ)",
+      "tcas_code": "01001",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษา มีประสบการณ์ และ/หรือมีความโดดเด่นในด้านการประยุกต์ใช้หลักจิตวิทยาในการสื่อสาร"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาอังกฤษ",
+      "tcas_code": "01005",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษา มีประสบการณ์ และ/หรือมีความโดดเด่นด้านทักษะภาษาอังกฤษ"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษ (โครงการพิเศษ)",
+      "tcas_code": "01005",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษา มีประสบการณ์ และ/หรือมีความโดดเด่นด้านทักษะภาษาอังกฤษ"
+    },
+    {
+      "program_name_th": "สาขาวิชาวรรณกรรมสำหรับเด็ก",
+      "tcas_code": "01020",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษา มีประสบการณ์ ด้านการอ่านวรรณกรรม ด้านการสร้างสรรค์วรรณกรรมและด้านศิลปะ ได้รับการรับรองมาตรฐาน AUN-QA"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและวัฒนธรรมอาเซียน",
+      "tcas_code": "01131",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษาและวัฒนธรรมอาเซียน"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและวัฒนธรรมอาเซียน (โครงการพิเศษ)",
+      "tcas_code": "01131",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษาและวัฒนธรรมอาเซียน"
+    },
+    {
+      "program_name_th": "หลักสูตรการศึกษาบัณฑิต สาขาวิชาภาษาไทย (กศ.บ.)",
+      "tcas_code": "01026",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษาไทย มีประสบการณ์ และ/หรือมีความโดดเด่นด้านทักษะภาษาไทย"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษ (กศ.บ.)",
+      "tcas_code": "01027",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษาอังกฤษ มีประสบการณ์ และ/หรือมีความโดดเด่นด้านทักษะภาษาอังกฤษ"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมอาหารและธุรกิจ",
+      "tcas_code": "71004",
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": 18,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่น หรือมีประสบการณ์เกี่ยวกับการสร้างนวัตกรรมด้านอาหาร วัสดุพอลิเมอร์หรือวัสดุชีวภาพ เทคโนโลยีชีวภาพ การสร้างมูลค่าเพิ่มให้กับผลิตภัณฑ์การเกษตร ธุรกิจผลิตภัณฑ์การเกษตร ธุรกิจอาหาร"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาสังคมวิทยาเพื่อการพัฒนา วิชาเอกการพัฒนาชุมชนเมือง",
+      "tcas_code": "03115",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นในด้านวิทยาศาสตร์ ภูมิศาสตร์ เทคโนโลยี สำรวจ กิจกรรมที่เกี่ยวข้องกับการสำรวจ"
+    },
+    {
+      "program_name_th": "วิชาเอกการพัฒนาชุมชนเมือง (โครงการพิเศษ)",
+      "tcas_code": "03115",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 3,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นในด้านวิทยาศาสตร์ ภูมิศาสตร์ เทคโนโลยี สำรวจ กิจกรรมที่เกี่ยวข้องกับการสำรวจ"
+    },
+    {
+      "program_name_th": "สาขาวิชาสังคมวิทยาเพื่อการพัฒนา วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา",
+      "tcas_code": "03116",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นในด้านวิทยาศาสตร์ ภูมิศาสตร์ เทคโนโลยี สำรวจ กิจกรรมที่เกี่ยวข้องกับการสำรวจ"
+    },
+    {
+      "program_name_th": "วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา (โครงการพิเศษ)",
+      "tcas_code": "03116",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 3,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นในด้านวิทยาศาสตร์ ภูมิศาสตร์ เทคโนโลยี สำรวจ กิจกรรมที่เกี่ยวข้องกับการสำรวจ"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาภูมิศาสตร์และภูมิสารสนเทศ",
+      "tcas_code": "03102",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นในด้านภูมิศาสตร์ ภูมิสารสนเทศ เทคโนโลยี สำรวจ"
+    },
+    {
+      "program_name_th": "สาขาวิชาภูมิศาสตร์และภูมิสารสนเทศ (โครงการพิเศษ)",
+      "tcas_code": "03102",
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นในด้านภูมิศาสตร์ ภูมิสารสนเทศ เทคโนโลยี สำรวจ"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีสิ่งแวดล้อมและทรัพยากร",
+      "tcas_code": "66005",
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่ผ่านโครงการค่ายสิ่งแวดล้อมหรือค่ายอนุรักษ์สิ่งแวดล้อมและทรัพยากรอย่างน้อย 1 ค่าย หรือได้รับรางวัล/ใบประกาศเกียรติคุณในการประกวดแข่งขันระดับสถานศึกษาขึ้นไปในหัวข้อที่สัมพันธ์กับสาขาวิชา"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิทยาการการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
+      "tcas_code": "66007",
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": 4,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่ผ่านโครงการค่ายสิ่งแวดล้อมหรือค่ายอนุรักษ์สิ่งแวดล้อมและทรัพยากรอย่างน้อย 1 ค่าย หรือได้รับรางวัล/ใบประกาศเกียรติคุณในการประกวดแข่งขันระดับสถานศึกษาขึ้นไปในหัวข้อที่สัมพันธ์กับสาขาวิชา"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชานวัตกรรมการจัดการการท่องเที่ยวเพื่อการพัฒนา",
+      "tcas_code": "66006",
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีความรู้ความสามารถเกี่ยวข้องกับอุตสาหกรรมการท่องเที่ยวและบริการ มีทักษะการสื่อสาร ใช้ภาษาอังกฤษหรือภาษาต่างประเทศได้ มีความสามารถในการใช้เทคโนโลยีดิจิทัล มีบุคลิกภาพที่เหมาะสมกับงานบริการ"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการจัดการการท่องเที่ยวเพื่อการพัฒนา (โครงการพิเศษ)",
+      "tcas_code": "66006",
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีความรู้ความสามารถเกี่ยวข้องกับอุตสาหกรรมการท่องเที่ยวและบริการ มีทักษะการสื่อสาร ใช้ภาษาอังกฤษหรือภาษาต่างประเทศได้ มีความสามารถในการใช้เทคโนโลยีดิจิทัล มีบุคลิกภาพที่เหมาะสมกับงานบริการ"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการธุรกิจโลก (หลักสูตรนานาชาติ) (โครงการพิเศษ)",
+      "tcas_code": "68010",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 5,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนผู้มีความสามารถพิเศษทางด้านภาษา มีประสบการณ์ หรือมีความโดดเด่นด้านบริหารธุรกิจ การตลาด การทำธุรกิจออนไลน์ ดารานักแสดง นักร้อง ศิลปิน อินฟลูเอนเซอร์ที่มีผู้ติดตามบนโซเชียลมีเดีย"
+    },
+    {
+      "program_name_th": "หลักสูตรเภสัชศาสตรบัณฑิต วิชาเอกการบริบาลทางเภสัชกรรม",
+      "tcas_code": "12009",
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นด้านวิทยาศาสตร์และภาษา พร้อมนำทักษะไปประยุกต์ในด้านการดูแลผู้ป่วยเรื่องยาและสมุนไพร การผลิตและควบคุมคุณภาพยา สมุนไพรและผลิตภัณฑ์สุขภาพ"
+    },
+    {
+      "program_name_th": "หลักสูตรเภสัชศาสตรบัณฑิต วิชาเอกเภสัชกรรมอุตสาหการ",
+      "tcas_code": "12010",
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นนักเรียนที่มีทักษะหรือความสามารถพิเศษ หรือโดดเด่นด้านวิทยาศาสตร์และภาษา สามารถเข้ารับการคัดเลือกเข้าศึกษาวิชาเอกการบริหารเภสัชกิจเมื่อขึ้นชั้นปีที่ 4 ตามแผนการรับในคู่มือหลักสูตร"
+    },
+    {
+      "program_name_th": "ดุริยางคศาสตร์สากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถด้านเครื่องดนตรีสากลหรือการขับร้องคลาสสิก มีผลงานผ่านการยอมรับระดับประเทศหรือนานาชาติ | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.50 (สาขานี้จัดอยู่ในกลุ่ม 3.2) | การคัดเลือก: ส่งแฟ้มสะสมผลงาน (Portfolio) + คลิปวิดีโอบรรเลงเครื่องดนตรีสากลหรือขับร้องคลาสสิก (Scale, Etude, เพลงบังคับ, เพลงเลือก) | ระบุเครื่องดนตรีหลัก เช่น Piano, Classical Voice, Classical Guitar, Strings (Violin/Viola/Cello), Woodwinds (Flute/Clarinet/Saxophone), Brass (French Horn/Trumpet/Trombone/Euphonium/Tuba) | เอกสารประกอบ: ปพ.1, เรียงความ, จดหมายรับรอง, ใบประกาศนียบัตรสอบปฏิบัติ/ทฤษฎีดนตรี (ถ้ามี), ผลงานการประกวด/แสดง (อายุไม่เกิน 3 ปี) | ดูรายละเอียดเพิ่มเติมที่หน้า 173"
+    },
+    {
+      "program_name_th": "ทัศนศิลป์",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.00 (จัดอยู่ในกลุ่ม 3.1) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "การออกแบบสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.50 (จัดอยู่ในกลุ่ม 3.2) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์: วิชาเอกการออกแบบผลิตภัณฑ์",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.00 (จัดอยู่ในกลุ่ม 3.1) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์: วิชาเอกการออกแบบภายใน",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.50 (จัดอยู่ในกลุ่ม 3.2) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์: วิชาเอกการออกแบบแฟชั่น",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.50 (จัดอยู่ในกลุ่ม 3.2) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "การออกแบบทัศนศิลป์: วิชาเอกการออกแบบเครื่องประดับ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติเฉพาะ: สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/GED และจะสำเร็จการศึกษาในปี 2568 | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.00 | ไม่รับหลักสูตรกศน. | ผู้สำเร็จหลักสูตรนานาชาติ/GED ต้องมีคุณสมบัติตามประกาศ ทปอ. เรื่องเกณฑ์การเทียบวุฒิ"
+    },
+    {
+      "program_name_th": "นาฏศิลป์สร้างสรรค์และการจัดการ: วิชาเอกนาฏศิลป์ไทย",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.00 (จัดอยู่ในกลุ่ม 3.1) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "นาฏศิลป์สร้างสรรค์และการจัดการ: วิชาเอกนาฏศิลป์สากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปกรรมศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.00 (จัดอยู่ในกลุ่ม 3.1) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "ดนตรีศึกษา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.50 (จัดอยู่ในกลุ่ม 3.2) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "นาฏศิลป์ศึกษา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.50 (จัดอยู่ในกลุ่ม 3.2) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "ศิลปศึกษา (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรการศึกษาบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.75 (จัดอยู่ในกลุ่ม 3.3) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการศิลปวัฒนธรรม (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต โครงการทักษะพิเศษ รอบที่ 1 ปีการศึกษา 2569 | คุณสมบัติ: มีความสามารถพิเศษหรือโดดเด่นด้านศิลปกรรม มีประสบการณ์หรือได้รับรางวัลในการประกวดแข่งขันระดับเขตขึ้นไป | GPAX ม.4-ม.6 (5 ภาคเรียน) ไม่ต่ำกว่า 2.00 (จัดอยู่ในกลุ่ม 3.1) | รับผู้สำเร็จการศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตร์และวิทยาศาสตรบัณฑิต สาขาวิชาผู้ประกอบการใหม่สร้างสรรค์ (หลักสูตร 3 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "ไม่ระบุในหน้าเหล่านี้",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/อาชีวศึกษา/GED; GPAX ม.4-6 ไม่ต่ำกว่า 2.00 (อาชีวะ ปวช.1-3 ไม่ต่ำกว่า 2.00); GED แต่ละวิชาไม่ต่ำกว่า 145; ต้องมีผลคะแนนภาษาอังกฤษ (TOEFL IBT≥61 หรือ PBT≥500 หรือ CBT≥130, IELTS≥5.0, TOEIC≥600, CU-TEP≥60, SWU-SET≥60) อายุไม่เกิน 2 ปี; ส่ง Portfolio ผ่าน TCASFolio"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษา ม.6 หรือหลักสูตรนานาชาติ และจะสำเร็จปี 2568; GPAX ม.4-6 ไม่ต่ำกว่า 3.00; GPA คณิตศาสตร์ไม่ต่ำกว่า 3.00; หน่วยกิตคณิตศาสตร์ไม่น้อยกว่า 12; มีผลงานประกวด/แข่งขันเขียนโปรแกรมคอมพิวเตอร์ระดับชาติขึ้นไป (ถ้ามี); TGAT≥50; มีผลคะแนน TPAT 3; ส่ง Portfolio ผ่าน TCASFolio; ติดต่อ sasivimon@g.swu.ac.th"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาเคมี",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": null,
+          "min_threshold": "2.75"
+        }
+      ],
+      "other_conditions_th": "ต้องผ่านโครงการ สอวน. สาขาที่เกี่ยวข้องอย่างน้อย 1 ค่าย หรือได้รับรางวัลระดับชาติ/นานาชาติที่สัมพันธ์กับสาขา; GPAX ม.4-6 ไม่ต่ำกว่า 2.75; หน่วยกิตคณิตศาสตร์≥12 และวิทยาศาสตร์≥22; มีผลคะแนน TGAT และ TPAT 3; ส่งสรุปโครงงานวิทยาศาสตร์ Infographic 1 หน้า A4; ส่ง Portfolio ผ่าน TCASFolio; ติดต่อ https://www.facebook.com/ChemistrySWU/"
+    },
+    {
+      "program_name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาจุลชีววิทยา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPA วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": null,
+          "min_threshold": "3.00"
+        }
+      ],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/กศน./GED; GPAX ม.4-6 ไม่ต่ำกว่า 3.25 (กศน. 3 ภาคเรียนไม่ต่ำกว่า 3.25; GED เทียบเต็ม 4 ไม่ต่ำกว่า 3.25); หน่วยกิตคณิตศาสตร์≥12 และวิทยาศาสตร์≥30; ส่งสรุปโครงงานวิทยาศาสตร์ Infographic 1 หน้า A4; ส่ง Portfolio ผ่าน TCASFolio; ติดต่อ sukhumaporn@g.swu.ac.th"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาอังกฤษ",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; GPA ภาษาต่างประเทศ ≥ 3.25; ส่ง Portfolio; ผลทดสอบภาษาอังกฤษ (TOEFL IBT≥55 หรือ ITP≥500 หรือ IELTS≥5.0 หรือ TOEIC≥550 หรือ CU-TEP≥60 หรือ TU-GET≥500 หรือ SWU-SET≥78) อายุไม่เกิน 2 ปี; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาอังกฤษ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; GPA ภาษาต่างประเทศ ≥ 3.00; ส่ง Portfolio; ผลทดสอบภาษาอังกฤษ (TOEFL IBT≥41 หรือ ITP≥460 หรือ IELTS≥4.5 หรือ TOEIC≥500 หรือ CU-TEP≥50 หรือ TU-GET≥400 หรือ SWU-SET≥50) อายุไม่เกิน 2 ปี; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาวรรณกรรมสำหรับเด็ก",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6; GPA ภาษาไทย ≥ 2.50, วิทยาศาสตร์และเทคโนโลยี ≥ 2.00, สังคมฯ ≥ 2.50, ภาษาต่างประเทศ ≥ 2.50; TGAT ≥ 25 คะแนน; ส่ง Portfolio; สร้างสรรค์ผลงานเขียนเรียงความและแต่งเรื่องพร้อมวาดภาพประกอบ; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาและวัฒนธรรมอาเซียน",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; ส่ง Portfolio แสดงกิจกรรม/รางวัลด้านภาษาและวัฒนธรรมอาเซียน; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาและวัฒนธรรมอาเซียน (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน./GED; ส่ง Portfolio แสดงกิจกรรม/รางวัลด้านภาษาและวัฒนธรรมอาเซียน; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรการศึกษาบัณฑิต สาขาวิชาภาษาไทย (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษา ม.6 และจะสำเร็จปี 2568; GPA ภาษาไทย ≥ 3.50; หน่วยกิตภาษาไทย ≥ 5; มีผล TGAT และ TPAT 5; ส่ง Portfolio แสดงรางวัลทักษะภาษาไทยระดับชาติ ม.4-ม.6; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "หลักสูตรการศึกษาบัณฑิต สาขาวิชาภาษาอังกฤษ (กศ.บ.)",
+      "tcas_code": null,
+      "faculty_th": "คณะมนุษยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษา ม.6/นานาชาติ/อาชีวศึกษา/กศน. หรือสำเร็จ GED; GPA ภาษาต่างประเทศ ≥ 3.25; มีผล TPAT 5; ส่ง Portfolio; ผลทดสอบภาษาอังกฤษ (TOEFL IBT≥55 หรือ ITP≥500 หรือ IELTS≥5.0 หรือ TOEIC≥550 หรือ CU-TEP≥60 หรือ TU-GET≥500 หรือ SWU-SET≥78) อายุไม่เกิน 2 ปี; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "นวัตกรรมอาหารและธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/อาชีวศึกษา/กศน. และจะสำเร็จการศึกษาในปี 2568; มีทักษะ/ประสบการณ์ด้านนวัตกรรมอาหาร ธุรกิจอาหาร/บริการอาหาร หรือการประกอบอาหาร; ส่ง Portfolio (ไม่เกิน 10 หน้า A4) แสดงผลงาน/เกียรติประวัติ/เรียงความความมุ่งมั่นในสาขาวิชา ผ่านระบบ TCASFolio; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สังคมวิทยาเพื่อการพัฒนา (วิชาเอกการพัฒนาชุมชนเมือง / วิชาเอกการวิจัยสังคมวิทยาเพื่อการพัฒนา)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/GED และจะสำเร็จการศึกษาในปี 2568; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 145; Portfolio (ไม่เกิน 10 หน้า A4) ประกอบด้วย SOP เรียงความเรื่องการใช้ทักษะกีฬาเพื่อพัฒนามหาวิทยาลัย รายชื่อโครงการ/รางวัลด้านกีฬา และหนังสือรับรองกิจกรรม; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ภูมิศาสตร์และภูมิสารสนเทศ / ภูมิศาสตร์และภูมิสารสนเทศ (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะสังคมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/GED และจะสำเร็จการศึกษาในปี 2568; GPA คณิตศาสตร์ ≥ 2.50 และ GPA วิทยาศาสตร์ ≥ 2.50 (เฉพาะ ม.6); หน่วยกิตคณิตศาสตร์ ≥ 15 และวิทยาศาสตร์ ≥ 15; GED คะแนนแต่ละวิชา ≥ 145; ต้องมีสายตาปกติ (ใบรับรองจักษุแพทย์); Portfolio (ไม่เกิน 10 หน้า A4) ประกอบด้วยโครงการกิจกรรมด้านความรับผิดชอบต่อสังคม เรียงความเหตุผลที่เลือกเรียนภูมิศาสตร์ มศว และหนังสือรับรองกิจกรรม; คัดเลือกโดย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสิ่งแวดล้อมและทรัพยากร",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "GPA คณิตศาสตร์ ≥ 2.25, GPA วิทยาศาสตร์และเทคโนโลยี ≥ 2.25; หน่วยกิตคณิตศาสตร์ ≥ 6, วิทยาศาสตร์ ≥ 22; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิทยาการการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้จบ ม.6, นานาชาติ, อาชีวศึกษา, กศน., GED; GED GPAX ≥ 2.75; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการการท่องเที่ยวเพื่อการพัฒนา",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้จบ ม.6, นานาชาติ, อาชีวศึกษา, กศน., GED; GED GPAX ≥ 3.00; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการการท่องเที่ยวเพื่อการพัฒนา (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้จบ ม.6, นานาชาติ, อาชีวศึกษา, กศน., GED; GED GPAX ≥ 2.75; คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจโลก (หลักสูตรนานาชาติ) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้จบ ม.6, นานาชาติ, GED; GED GPAX ≥ 2.75; ต้องมีผลคะแนนภาษาอังกฤษ TOEFL IBT ≥ 65 หรือ IELTS ≥ 5.5 หรือ SWU-SET ≥ B2 หรือ CEFR ≥ B2 (อายุ ≤ 2 ปี); คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "เภสัชศาสตรบัณฑิต วิชาเอกการบริบาลทางเภสัชกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สัญชาติไทย; GPA เคมี ≥ 3.50 และ GPA อีก 2 วิชา (คณิตศาสตร์/ฟิสิกส์/ชีววิทยา) ≥ 3.50; ต้องเป็นผู้ผ่านค่าย สอวน. หรือมี IELTS ≥ 6.50 หรือ TOEFL IBT ≥ 79 (อายุ ≥ 6 เดือน); คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "เภสัชศาสตรบัณฑิต วิชาเอกเภสัชกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบที่ 1 โครงการผู้มีทักษะพิเศษ",
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สัญชาติไทย; GPA เคมี ≥ 3.50 และ GPA อีก 2 วิชา (คณิตศาสตร์/ฟิสิกส์/ชีววิทยา) ≥ 3.50; ต้องเป็นผู้ผ่านค่าย สอวน. หรือมี IELTS ≥ 6.50 หรือ TOEFL IBT ≥ 79 (อายุ ≥ 6 เดือน); คัดเลือกด้วย Portfolio และสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมสื่อสารสังคม (หลักสูตร 2 ภาษา) วิชาเอกการออกแบบสื่อปฏิสัมพันธ์และมัลติมีเดีย",
+      "tcas_code": "30001",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี; ส่ง Portfolio ไม่เกิน 10 หน้า A4 ทางเว็บไซต์วิทยาลัยฯ"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมสื่อสารสังคม (หลักสูตร 2 ภาษา) วิชาเอกการจัดการธุรกิจไซเบอร์",
+      "tcas_code": "30002",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี; ส่ง Portfolio ไม่เกิน 10 หน้า A4 ทางเว็บไซต์วิทยาลัยฯ"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมสื่อสารสังคม (หลักสูตร 2 ภาษา) วิชาเอกนวัตกรรมคอมพิวเตอร์เพื่อการสื่อสาร",
+      "tcas_code": "30021",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี; ส่ง Portfolio ไม่เกิน 10 หน้า A4 ทางเว็บไซต์วิทยาลัยฯ"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) วิชาเอกการผลิตภาพยนตร์และสื่อดิจิทัล",
+      "tcas_code": "30016",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ได้รับการรับรองมาตรฐาน AUN-QA; คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) วิชาเอกการออกแบบเพื่องานภาพยนตร์และสื่อดิจิทัล",
+      "tcas_code": "30017",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) วิชาเอกการแสดงและกำกับการแดสงภาพยนตร์",
+      "tcas_code": "30013",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ต้องอัปโหลดคลิปวิดีโอถ่ายการแดสง (Acting) 1 ซีน โดยใช้บท Monologue ความยาวไม่เกิน 3 นาที ทาง YouTube (Unlisted); มีการทดสอบการแดสงและสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษอายุไม่เกิน 2 ปี"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาพยนตร์และสื่อดิจิทัล (หลักสูตร 2 ภาษา) วิชาเอกการจัดการภาพยนตร์และสื่อดิจิทัล",
+      "tcas_code": "30022",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) วิชาเอกการสื่อสารเพื่อการท่องเที่ยว (อยู่ระหว่างปรับปรุงหลักสูตร เปลี่ยนชื่อเป็น วิชาเอกการสื่อสารและการผลิตสื่อดิจิทัลเพื่อการท่องเที่ยว)",
+      "tcas_code": "30009",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 3,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) วิชาเอกการสื่อสารเพื่อการจัดการนวัตกรรม",
+      "tcas_code": "30011",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 3,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการสื่อสาร (หลักสูตร 2 ภาษา) วิชาเอกการสื่อสารเพื่อเศรษฐศาสตร์",
+      "tcas_code": "30019",
+      "faculty_th": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+      "seats": 1,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโลจิสติกส์ (หลักสูตร 2 ภาษา)",
+      "tcas_code": "09015",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี; รายละเอียดเพิ่มเติมที่หน้า 225-227"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมการจัดการศิลปวัฒนธรรม (หลักสูตร 2 ภาษา)",
+      "tcas_code": "10053",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 5,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี; รายละเอียดเพิ่มเติมที่หน้า 228-229"
+    },
+    {
+      "program_name_th": "สาขาวิชาอัญมณีและเครื่องประดับ (หลักสูตร 2 ภาษา)",
+      "tcas_code": "69001",
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": 2,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ได้รับการรับรองมาตรฐาน AUN-QA; คัดเลือกโดย Portfolio และการสอบสัมภาษณ์; ต้องมีผลทดสอบภาษาอังกฤษ (TOEFL IBT ≥ 60 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 650 หรือ SWU-SET ≥ 78) อายุไม่เกิน 2 ปี; รายละเอียดเพิ่มเติมที่หน้า 230-232"
+    },
+    {
+      "program_name_th": "วิศวกรรมโลจิสติกส์ (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/GED; หน่วยกิตคณิตศาสตร์ ≥12 และวิทยาศาสตร์ ≥22 (สำหรับหลักสูตรแกนกลาง); ส่ง Portfolio (≤10 หน้า A4) ผ่าน TCASFolio; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการศิลปวัฒนธรรม (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/อาชีวศึกษา/กศน./GED; ต้องมีความสามารถพิเศษ/โดดเด่นด้านศิลปวัฒนธรรม หรือได้รับรางวัล/ผ่านการประกวดแข่งขัน; ต้องมีจดหมายแนะนำตัวภาษาอังกฤษ (Statement of Purpose ≤1 หน้า A4); ส่ง Portfolio (≤10 หน้า A4) ผ่าน QR CODE; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "อัญมณีและเครื่องประดับ (หลักสูตร 2 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": null,
+      "project_code": "1.4 โครงการพัฒนาบัณฑิตสู่สากล หลักสูตร 2 ภาษา",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/อาชีวศึกษา; ต้องไม่เป็นโรคติดต่อร้ายแรง/โรคประจำตัว/ความพิการที่เป็นอุปสรรคต่อการศึกษาและการฝึกภาคปฏิบัติ; แสดงหลักฐานความสามารถด้านอัญมณีและเครื่องประดับใน Portfolio (≤10 หน้า A4) และนำผลงานมาแสดงวันสอบสัมภาษณ์; คัดเลือกโดย Portfolio + สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาเพื่ออาชีพ (หลักสูตรนานาชาติ)",
+      "tcas_code": "01124",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 85,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต (นานาชาติ) | คัดเลือกผ่าน Portfolio + สอบสัมภาษณ์ | ต้องมีผลคะแนนภาษาอังกฤษ (TOEFL IBT≥60, IELTS≥5.5, TOEIC≥550, CU-TEP≥60, TU-GET≥500, KKU-KEPT≥65, PSU-TEP≥65, KU-EPT≥60, CMU-eTEGS≥65, SWU-SET≥65, DET≥60, SAT≥400, CEFR≥B1) อายุไม่เกิน 2 ปี | รับ ม.6/นานาชาติ/อาชีวะ/กศน./GED"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาเพื่อการสื่อสาร (หลักสูตรนานาชาติ) วิชาเอกภาษาอังกฤษ-ภาษาฝรั่งเศส",
+      "tcas_code": "01126",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต (นานาชาติ) | คัดเลือกผ่าน Portfolio + สอบสัมภาษณ์ | ต้องมีผลคะแนนภาษาอังกฤษ (TOEFL IBT≥61, CBT≥175, IELTS≥5.0, TOEIC≥500, SWU-SET≥65) อายุไม่เกิน 2 ปี | รับ ม.6/นานาชาติ"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาเพื่อการสื่อสาร (หลักสูตรนานาชาติ) วิชาเอกภาษาอังกฤษ-ภาษาเยอรมัน",
+      "tcas_code": "01127",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต (นานาชาติ) | คัดเลือกผ่าน Portfolio + สอบสัมภาษณ์ | ต้องมีผลคะแนนภาษาอังกฤษ (TOEFL IBT≥61, CBT≥175, IELTS≥5.0, TOEIC≥500, SWU-SET≥65) อายุไม่เกิน 2 ปี | รับ ม.6/นานาชาติ"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาเพื่อการสื่อสาร (หลักสูตรนานาชาติ) วิชาเอกภาษาอังกฤษ-ภาษาจีน",
+      "tcas_code": "01132",
+      "faculty_th": "คณะมนุษยศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต (นานาชาติ) | คัดเลือกผ่าน Portfolio + สอบสัมภาษณ์ | ต้องมีผลคะแนนภาษาอังกฤษ (TOEFL IBT≥61, CBT≥175, IELTS≥5.0, TOEIC≥500, SWU-SET≥65) อายุไม่เกิน 2 ปี | รับ ม.6/นานาชาติ"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาและการสื่อสารระหว่างวัฒนธรรม (หลักสูตรนานาชาติ)",
+      "tcas_code": "70007",
+      "faculty_th": "วิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต (นานาชาติ) | คัดเลือกผ่าน Portfolio + สอบสัมภาษณ์ | GED แต่ละวิชา≥145 | Portfolio เป็นภาษาอังกฤษ (Presentation Clip, เรียงความ, ประกาศนียบัตร) | รับ ม.6/นานาชาติ/GED"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการภาคบริการและการท่องเที่ยวอย่างยั่งยืน (หลักสูตรนานาชาติ)",
+      "tcas_code": "70008",
+      "faculty_th": "วิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรบัณฑิต (นานาชาติ) | คัดเลือกผ่าน Portfolio + สอบสัมภาษณ์ | รับ ม.6/นานาชาติ/GED | ดูเกณฑ์เฉพาะในรายละเอียดหน้า 240-244"
+    },
+    {
+      "program_name_th": "หลักสูตรเศรษฐศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": "49002",
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรนานาชาติ | ดูเกณฑ์เฉพาะในรายละเอียดหน้า 245-247"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมด้านความปลอดภัยไซเบอร์ (หลักสูตรนานาชาติ)",
+      "tcas_code": "09026",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 12,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต (นานาชาติ) | ดูเกณฑ์เฉพาะในรายละเอียดหน้า 248-250"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการธุรกิจโลก (หลักสูตรนานาชาติ) (โครงการพิเศษ)",
+      "tcas_code": "68010",
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต (นานาชาติ) โครงการพิเศษ | ดูเกณฑ์เฉพาะในรายละเอียดหน้า 251-253"
+    },
+    {
+      "program_name_th": "สาขาวิชาผู้ประกอบการใหม่สร้างสรรค์ (หลักสูตร 3 ภาษา)",
+      "tcas_code": "69007",
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรศิลปศาสตรและวิทยาศาสตรบัณฑิต (3 ภาษา) | ดูเกณฑ์เฉพาะในรายละเอียดหน้า 254-256"
+    },
+    {
+      "program_name_th": "การจัดการภาคบริการและการท่องเที่ยวอย่างยั่งยืน (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "seats": null,
+      "project_code": "1.5 โครงการรับนักเรียนเข้าศึกษาในหลักสูตรนานาชาติ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/GED; GED แต่ละวิชา ≥145; มีความสามารถด้านภาษาอังกฤษ; Portfolio เป็นภาษาอังกฤษ (VDO presentation ≤2 นาที, เรียงความ ≤2 หน้า A4); คัดเลือก 2 ขั้น: Portfolio → สอบสัมภาษณ์; ภาคเรียนละ 60,000 บาท; เรียน Pre-college ก.ค.–ส.ค. 2569 ค่าใช้จ่ายไม่เกิน 20,000 บาท"
+    },
+    {
+      "program_name_th": "เศรษฐศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": null,
+      "project_code": "1.5 โครงการรับนักเรียนเข้าศึกษาในหลักสูตรนานาชาติ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": null,
+          "min_threshold": "2.50"
+        }
+      ],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/กศน./GED; GED แต่ละวิชา ≥145; GPA เฉพาะกลุ่มสาระคณิตศาสตร์ ≥2.50 และภาษาต่างประเทศ ≥2.50; Portfolio ผ่าน TCASFolio ไม่เกิน 10 หน้า A4; คัดเลือก 2 ขั้น: Portfolio → สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วิศวกรรมด้านความปลอดภัยไซเบอร์ (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": "1.5 โครงการรับนักเรียนเข้าศึกษาในหลักสูตรนานาชาติ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": null,
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": null,
+          "min_threshold": "2.50"
+        }
+      ],
+      "other_conditions_th": "สำเร็จหรือกำลังศึกษา ม.6/หลักสูตรนานาชาติ/อาชีวศึกษา/กศน./GED; GED แต่ละวิชา ≥145; GPAX ≥2.50; GPA คณิตศาสตร์ ≥2.50 และวิทยาศาสตร์และเทคโนโลยี ≥2.50 (เฉพาะ ม.6); หน่วยกิตคณิตศาสตร์ ≥12 และวิทยาศาสตร์ ≥22; IELTS ≥5.0 (อายุไม่เกิน 2 ปี); คัดเลือก 2 ขั้น: Portfolio → สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการธุรกิจโลก (หลักสูตรนานาชาติ) (โครงการพิเศษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจเพื่อสังคม",
+      "seats": null,
+      "project_code": "1.5 โครงการรับนักเรียนเข้าศึกษาในหลักสูตรนานาชาติ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6 หรือหลักสูตรนานาชาติ หรือ GED; ผลการทดสอบภาษาอังกฤษ TOEFL IBT ≥ 65 หรือ IELTS ≥ 5.5 หรือ SWU-SET ≥ B2 (78-100) หรือ CEFR ≥ B2 (5.5) อายุไม่เกิน 2 ปี; GED ต้องมีคะแนนแต่ละวิชา ≥ 145; ส่ง Portfolio (ไม่เกิน 10 หน้า A4) ผ่านระบบ TCASFolio; มีสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาผู้ประกอบการใหม่สร้างสรรค์ (หลักสูตร 3 ภาษา)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+      "seats": null,
+      "project_code": "1.5 โครงการรับนักเรียนเข้าศึกษาในหลักสูตรนานาชาติ",
+      "round_label": "รอบที่ 1",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6 หรือหลักสูตรนานาชาติ หรืออาชีวศึกษา หรือ GED; ผลการทดสอบภาษาอังกฤษ TOEFL IBT ≥ 61 หรือ PBT ≥ 500 หรือ CBT ≥ 130 หรือ IELTS ≥ 5.0 หรือ TOEIC ≥ 600 หรือ CU-TEP ≥ 60 หรือ SWU-SET ≥ 60 อายุไม่เกิน 2 ปี; GED ต้องมีคะแนนแต่ละวิชา ≥ 145; ส่ง Portfolio (ไม่เกิน 10 หน้า A4) ผ่านระบบ TCASFolio; มีสอบสัมภาษณ์"
     }
   ]
 }

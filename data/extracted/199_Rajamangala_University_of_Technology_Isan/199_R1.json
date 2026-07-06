@@ -1,680 +1,1472 @@
 {
+  "university": "Rajamangala University of Technology Isan",
   "university_id": "199",
   "round": "R1",
-  "archetype": "index",
-  "count": 112,
+  "archetype": "criteria",
+  "program_count": 112,
   "programs": [
     {
+      "program_name_th": "สาขาวิชาการบัญชี",
       "tcas_code": "31990101610501A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610901A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610101A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610201A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610202A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610203A",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610601A",
-      "program_name_th": "",
-      "seats": 7,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610602A",
-      "program_name_th": "",
-      "seats": 8,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102212701A",
-      "program_name_th": "",
-      "seats": 9,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102220201A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102210201A",
-      "program_name_th": "",
-      "seats": 11,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102210401A",
-      "program_name_th": "",
-      "seats": 12,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102213301A",
-      "program_name_th": "",
-      "seats": 13,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102211201A",
-      "program_name_th": "",
-      "seats": 14,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102903801A",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102112001A",
-      "program_name_th": "",
-      "seats": 16,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102620101A",
-      "program_name_th": "",
-      "seats": 17,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102902501A",
-      "program_name_th": "",
-      "seats": 18,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "319901025000402A",
-      "program_name_th": "",
-      "seats": 19,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102500403A",
-      "program_name_th": "",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (50%), สอบสัมภาษณ์ (25%), GPAX (25%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์ ระดับจังหวัดขึ้นไป"
     },
     {
-      "tcas_code": "31990102212702A",
-      "program_name_th": "",
-      "seats": 21,
-      "subject_codes": []
+      "program_name_th": "สาขาวิชาระบบสารสนเทศและนวัตกรรมธุรกิจดิจิทัล",
+      "tcas_code": "31990101610901A",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (50%), สอบสัมภาษณ์ (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์ ระดับจังหวัดขึ้นไป"
     },
     {
-      "tcas_code": "31990103302101A",
-      "program_name_th": "",
-      "seats": 22,
-      "subject_codes": []
+      "program_name_th": "สาขาวิชาการเงิน",
+      "tcas_code": "31990101610101A",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (50%), สอบสัมภาษณ์ (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์ ระดับจังหวัดขึ้นไป"
     },
     {
-      "tcas_code": "31990103302102A",
-      "program_name_th": "",
-      "seats": 23,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302701A",
-      "program_name_th": "",
-      "seats": 24,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103301601A",
-      "program_name_th": "",
-      "seats": 25,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103303401A",
-      "program_name_th": "",
-      "seats": 26,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103303402A",
-      "program_name_th": "",
-      "seats": 27,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103301801A",
-      "program_name_th": "",
-      "seats": 28,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103300501A",
-      "program_name_th": "",
-      "seats": 29,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302401A",
-      "program_name_th": "",
+      "program_name_th": "สาขาวิชาการจัดการ - การจัดการทั่วไป",
+      "tcas_code": "31990101610201A",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (50%), สอบสัมภาษณ์ (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์ ระดับจังหวัดขึ้นไป"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการ - การจัดการอุตสาหกรรม",
+      "tcas_code": "31990101610202A",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (50%), สอบสัมภาษณ์ (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์ ระดับจังหวัดขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาการจัดการโลจิสติกส์ - การจัดการโซ่อุปทาน",
+      "tcas_code": "31990101610203A",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (50%), สอบสัมภาษณ์ (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์ ระดับจังหวัดขึ้นไป"
+    },
+    {
+      "program_name_th": "สาขาวิชาการตลาด - การบริหารการตลาด",
+      "tcas_code": "31990101610601A",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ (50%), Portfolio (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมการแข่งขันหรือกิจกรรมที่เกี่ยวกับประกอบธุรกิจ, มีประสบการณ์ฝึกงานหรือทำงานด้านการตลาด"
+    },
+    {
+      "program_name_th": "สาขาวิชาการตลาด - การตลาดดิจิทัล",
+      "tcas_code": "31990101610602A",
+      "faculty_th": "คณะบริหารธุรกิจ (วิทยาเขตนครราชสีมา)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ (50%), Portfolio (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมการแข่งขันหรือกิจกรรมที่เกี่ยวกับประกอบธุรกิจ, มีประสบการณ์ฝึกงานหรือทำงานด้านการตลาดดิจิทัล เช่น Youtuber, Content Creator, มีหน้าร้านออนไลน์ หรือขายของออนไลน์"
+    },
+    {
+      "program_name_th": "สาขาวิชาฟิสิกส์ประยุกต์",
+      "tcas_code": "31990102212701A",
+      "faculty_th": "คณะวิทยาศาสตร์และศิลปศาสตร์ (วิทยาเขตนครราชสีมา)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "9 หน่วยกิต",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "9 หน่วยกิต",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับสายวิทย์-คณิต; สอบสัมภาษณ์ (50%), Portfolio (50%)"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
+      "tcas_code": "31990102220201A",
+      "faculty_th": "คณะวิทยาศาสตร์และศิลปศาสตร์ (วิทยาเขตนครราชสีมา)",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ (50%), Portfolio (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการด้านคอมพิวเตอร์และเทคโนโลยีสารสนเทศ, เป็นผู้นำ/กรรมการจัดกิจกรรมวิชาการที่เกี่ยวกับคอมพิวเตอร์และเทคโนโลยีสารสนเทศ, เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคอมพิวเตอร์และเทคโนโลยีสารสนเทศ"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีโลจิสติกส์",
+      "tcas_code": "31990102210201A",
+      "faculty_th": "คณะวิทยาศาสตร์และศิลปศาสตร์ (วิทยาเขตนครราชสีมา)",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ (70%), Portfolio (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการด้านคณิตศาสตร์หรือเทคโนโลยี, เป็นผู้นำ/กรรมการจิตอาสา, เป็นผู้นำ/กรรมการสภานักเรียน"
+    },
+    {
+      "program_name_th": "สาขาวิชาเคมี",
+      "tcas_code": "31990102210401A",
+      "faculty_th": "คณะวิทยาศาสตร์และศิลปศาสตร์ (วิทยาเขตนครราชสีมา)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "20 หน่วยกิต",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "10 หน่วยกิต",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับสายวิทย์-คณิต; สอบสัมภาษณ์ (50%), Portfolio (50%)"
+    },
+    {
+      "program_name_th": "สาขาวิชาสถิติประยุกต์",
+      "tcas_code": "31990102213301A",
+      "faculty_th": "คณะวิทยาศาสตร์และศิลปศาสตร์ (วิทยาเขตนครราชสีมา)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12 หน่วยกิต",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับสายวิทย์-คณิตและสายศิลป์; สอบสัมภาษณ์ (70%), Portfolio (30%)"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีชีวผลิตภัณฑ์",
+      "tcas_code": "31990102211201A",
+      "faculty_th": "คณะวิทยาศาสตร์และศิลปศาสตร์ (วิทยาเขตนครราชสีมา)",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "10 หน่วยกิต",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "10 หน่วยกิต",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับสายวิทย์-คณิตและสายศิลป์; สอบสัมภาษณ์ (50%), Portfolio (50%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันวิชาการด้านคณิตศาสตร์หรือวิทยาศาสตร์, เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์หรือวิทยาศาสตร์"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีการสื่อสารมวลชน",
+      "tcas_code": "31990102903801A",
+      "faculty_th": "คณะวิทยาศาสตร์และศิลปศาสตร์ (วิทยาเขตนครราชสีมา)",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สอบสัมภาษณ์ (30%), Portfolio ด้านเทคโนโลยีการสื่อสารมวลชน (70%)"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิทยาศาสตร์การกีฬาและสุขภาพ",
+      "tcas_code": "31990102112001A",
+      "faculty_th": null,
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.5",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต และศิลป์-คำนวณ/ภาษา; พิจารณา Portfolio (70%) และสอบสัมภาษณ์ (30%); คุณสมบัติพิเศษ: มีความสามารถทางการกีฬา เป็นตัวแทนเข้าแข่งขันระดับภาค/ชาติ/นานาชาติ พิจารณาเป็นกรณีพิเศษ"
+    },
+    {
+      "program_name_th": "สาขาวิชาการท่องเที่ยวและการบริการ",
+      "tcas_code": "31990102620101A",
+      "faculty_th": null,
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.5",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับทุกสาขาวิชา; สอบสัมภาษณ์ (50%) และ Portfolio (50%); คุณสมบัติ: ความสามารถพิเศษด้านการเป็นมัคคุเทศก์ การบริการ การท่องเที่ยว"
+    },
+    {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษเพื่อการสื่อสาร",
+      "tcas_code": "31990102902501A",
+      "faculty_th": null,
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับทุกสาขาวิชา; กลุ่มสาระภาษาอังกฤษไม่ต่ำกว่า 3.00 (20%), สอบสัมภาษณ์ (50%), Portfolio (30%); คุณสมบัติพิเศษ: เข้าร่วมแข่งขันวิชาการภาษาอังกฤษ เป็นผู้นำจัดกิจกรรมวิชาการ หรือนักเรียนห้องเรียนผู้มีความสามารถพิเศษทางภาษาอังกฤษ"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมข้าว",
+      "tcas_code": "319901025000402A",
+      "faculty_th": null,
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์; GPAX (20%), สอบสัมภาษณ์ (50%), Portfolio (30%); เข้าร่วมการแข่งขันทางวิชาการ; ส่ง Portfolio ที่ natthakittiya.pa@rmuti.ac.th"
+    },
+    {
+      "program_name_th": "สาขาวิชานวัตกรรมธุรกิจการเกษตร",
+      "tcas_code": "31990102500403A",
+      "faculty_th": null,
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (50%), Portfolio (50%); คุณสมบัติพิเศษ: เข้าร่วมการแข่งขันทางวิชาการ; ส่ง Portfolio ที่ natanong.yo@rmuti.ac.th"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิทยาการข้อมูลและการวิเคราะห์",
+      "tcas_code": "31990102212702A",
+      "faculty_th": null,
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต และศิลป์; กลุ่มสาระวิทยาศาสตร์และเทคโนโลยี 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; สอบสัมภาษณ์ (70%), Portfolio (30%)"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธา (ม.6)",
+      "tcas_code": "31990103302101A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 14,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธาและโครงสร้างพื้นฐาน (ม.6)",
+      "tcas_code": "31990103302102A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมสำรวจ (ม.6)",
+      "tcas_code": "31990103302701A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับทุกสาขาวิชา; Portfolio ความสามารถพิเศษ/ความโดดเด่น ด้านวิชาการ กีฬา และดนตรี"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้า (ม.6)",
+      "tcas_code": "31990103301601A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์อัจฉริยะและหุ่นยนต์ประยุกต์ (ม.6)",
+      "tcas_code": "31990103303401A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต และศิลป์; คณิตศาสตร์ไม่น้อยกว่า 6 หน่วยกิต และวิทยาศาสตร์ไม่น้อยกว่า 6 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์และระบบควบคุมอัตโนมัติ (ม.6)",
+      "tcas_code": "31990103303402A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 8,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโทรคมนาคม (ม.6)",
+      "tcas_code": "31990103301801A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต และศิลป์; คณิตศาสตร์ไม่น้อยกว่า 6 หน่วยกิต และวิทยาศาสตร์ไม่น้อยกว่า 8 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมคอมพิวเตอร์ (ม.6)",
+      "tcas_code": "31990103300501A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 4,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโลจิสติกส์ (ม.6)",
+      "tcas_code": "31990103302401A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมวัสดุ-โลหการ (ม.6)",
       "tcas_code": "31990103302501A",
-      "program_name_th": "",
-      "seats": 31,
-      "subject_codes": []
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมวัสดุ-พอลิเมอร์ (ม.6)",
       "tcas_code": "31990103302502A",
-      "program_name_th": "",
-      "seats": 32,
-      "subject_codes": []
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล (ม.6)",
       "tcas_code": "31990103300701A",
-      "program_name_th": "",
-      "seats": 33,
-      "subject_codes": []
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสายวิทย์-คณิต; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องจักรกลหนัก (ม.6)",
       "tcas_code": "31990103300703A",
-      "program_name_th": "",
-      "seats": 34,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 1,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio ความสามารถพิเศษ/ความโดดเด่น ด้านวิชาการ กีฬา ดนตรี; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเมคคาทรอนิกส์ (ม.6)",
       "tcas_code": "31990103301901A",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6; กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 25 หน่วยกิต; Portfolio ความสามารถพิเศษ/ความโดดเด่น ด้านวิชาการ กีฬา ดนตรี; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมการทำความเย็นและการปรับอากาศ (ม.6)",
       "tcas_code": "31990103300702A",
-      "program_name_th": "",
-      "seats": 36,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 4,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6; คณิตศาสตร์ไม่น้อยกว่า 6 หน่วยกิต และวิทยาศาสตร์ไม่น้อยกว่า 8 หน่วยกิต; Portfolio; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องจักรกลเกษตรอัจฉริยะ (ม.6)",
       "tcas_code": "31990103300401A",
-      "program_name_th": "",
-      "seats": 37,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกแผนการเรียน; Portfolio ความสามารถพิเศษ/ความโดดเด่น ด้านวิชาการ กีฬา ดนตรี; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมอาหาร (ม.6)",
       "tcas_code": "31990103300402A",
-      "program_name_th": "",
-      "seats": 38,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกแผนการเรียน; Portfolio ความสามารถพิเศษ/ความโดดเด่น ด้านวิชาการ กีฬา ดนตรี; สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "สาขาวิชาทัศนศิลป์ (จิตรกรรม, ประติมากรรม, ศิลปะภาพพิมพ์) (ม.6)",
       "tcas_code": "31990104800301A",
-      "program_name_th": "",
-      "seats": 39,
-      "subject_codes": []
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกแผนการเรียน; สัมภาษณ์ (50%); Portfolio (50%)"
     },
     {
+      "program_name_th": "สาขาวิชาออกแบบสร้างสรรค์ (การออกแบบผลิตภัณฑ์, การออกแบบเซรามิก, การออกแบบกราฟิกครีเอทีฟและบรรจุภัณฑ์, การออกแบบนวัตศิลป์และแฟชั่น) (ม.6)",
       "tcas_code": "31990104800102A",
-      "program_name_th": "",
-      "seats": 40,
-      "subject_codes": []
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกแผนการเรียน; สัมภาษณ์ (60%); Portfolio ด้านการออกแบบ/ศิลปะ (20%); Portfolio ความสามารถพิเศษ กีฬา ดนตรี วาดภาพ การประกวด (20%)"
     },
     {
+      "program_name_th": "สาขาวิชาการออกแบบนิเทศศิลป์ (ม.6)",
       "tcas_code": "31990104800101A",
-      "program_name_th": "",
-      "seats": 41,
-      "subject_codes": []
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6; ทุกแผนการเรียน; Portfolio (40%) แฟ้มสะสมผลงานด้านศิลปะ การออกแบบ กิจกรรม/จิตอาสา; สัมภาษณ์ (60%); นำ Portfolio ฉบับจริงมาในวันสัมภาษณ์; วัดทักษะพื้นฐานด้านการออกแบบนิเทศศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาสถาปัตยกรรม (ม.6)",
       "tcas_code": "31990104400501A",
-      "program_name_th": "",
-      "seats": 42,
-      "subject_codes": []
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า ทุกแผนการเรียน; วิทยาศาสตร์และเทคโนโลยีไม่น้อยกว่า 22 หน่วยกิต คณิตศาสตร์ไม่น้อยกว่า 12 หน่วยกิต; Portfolio ขนาด A4 ไม่น้อยกว่า 10 ผลงาน (30%); สอบวัดทักษะทางศิลปะและการออกแบบ (40%); สัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาสถาปัตยกรรมภายใน (ม.6)",
       "tcas_code": "31990104400701A",
-      "program_name_th": "",
-      "seats": 43,
-      "subject_codes": []
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; Portfolio (60%) ประวัติส่วนตัวและผลงานที่เกี่ยวข้องกับสถาปัตยกรรมภายใน; สัมภาษณ์ (40%); ความสามารถพิเศษ กีฬา ดนตรี วาดภาพ การประกวด"
     },
     {
+      "program_name_th": "สาขาวิชาการผังเมือง (ม.6)",
       "tcas_code": "31990104400401A",
-      "program_name_th": "",
-      "seats": 44,
-      "subject_codes": []
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; Portfolio (50%); สัมภาษณ์ (50%)"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีมัลติมีเดีย (ม.6)",
       "tcas_code": "31990104220101A",
-      "program_name_th": "",
-      "seats": 45,
-      "subject_codes": []
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+      "seats": 13,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกแผนการเรียน; สอบสัมภาษณ์ (40%); Portfolio (60%) แฟ้มสะสมผลงานด้านมัลติมีเดีย/ถ่ายภาพ/ตัดต่อวีดิโอ/การออกแบบ/กราฟิก/วาดภาพ และผลงานด้านกิจกรรม/จิตอาสา/การแข่งขัน"
     },
     {
+      "program_name_th": "สาขาวิชานวัตกรรมการพัฒนาเมืองและพื้นที่รอบสถานีขนส่งมวลชน (ม.6)",
       "tcas_code": "31990105220101A",
-      "program_name_th": "",
-      "seats": 46,
-      "subject_codes": []
+      "faculty_th": "คณะระบบรางและการขนส่ง",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (100%); ต้องไม่เป็นผู้มีตาบอดสี"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการการปฏิบัติการรถไฟ (ม.6)",
       "tcas_code": "31990105610205A",
-      "program_name_th": "",
-      "seats": 47,
-      "subject_codes": []
+      "faculty_th": "คณะระบบรางและการขนส่ง",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (100%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมระบบราง (ม.6)",
       "tcas_code": "31990103302201A",
-      "program_name_th": "",
-      "seats": 48,
-      "subject_codes": []
+      "faculty_th": "คณะระบบรางและการขนส่ง",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; สายวิทย์-คณิต หรือวิทยาศาสตร์ไม่น้อยกว่า 30 หน่วยกิต และคณิตศาสตร์ไม่น้อยกว่า 12 หน่วยกิต; Portfolio (60%) ความสามารถพิเศษ/โดดเด่น ด้านวิชาการ กีฬา ดนตรี; สอบสัมภาษณ์ (40%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมซ่อมบำรุงอากาศยาน (ม.6)",
       "tcas_code": "31990103303201A",
-      "program_name_th": "",
-      "seats": 49,
-      "subject_codes": []
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; วิทยาศาสตร์และคณิตศาสตร์รวมไม่น้อยกว่า 30 หน่วยกิต; Portfolio (60%) ความสามารถพิเศษ/โดดเด่น ด้านวิชาการ กีฬา ดนตรี; สอบสัมภาษณ์ (40%); ต้องไม่เป็นผู้มีตาบอดสี"
     },
     {
+      "program_name_th": "สาขาวิชาสัตวศาสตร์",
       "tcas_code": "31990107500401A",
-      "program_name_th": "",
-      "seats": 50,
-      "subject_codes": []
+      "faculty_th": "คณะนวัตกรรมและเทคโนโลยีการเกษตร",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; คณิตศาสตร์และวิทยาศาสตร์รวมไม่น้อยกว่า 10 หน่วยกิต; สอบสัมภาษณ์ (50%); Portfolio (50%) ส่งได้ที่ nopparuj.bo@rmuti.ac.th"
     },
     {
+      "program_name_th": "สาขาวิชาพืชศาสตร์",
       "tcas_code": "31990107500402A",
-      "program_name_th": "",
-      "seats": 51,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; มีหน่วยกิตคณิตศาสตร์และวิทยาศาสตร์รวมไม่ต่ำกว่า 10 หน่วยกิต; สอบสัมภาษณ์ (50%); Portfolio (50%) ส่งที่ nopparuj.bo@rmuti.ac.th"
     },
     {
+      "program_name_th": "สาขาวิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร",
       "tcas_code": "31990107500403A",
-      "program_name_th": "",
-      "seats": 52,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; มีหน่วยกิตคณิตศาสตร์และวิทยาศาสตร์รวมไม่ต่ำกว่า 10 หน่วยกิต; สอบสัมภาษณ์ (50%); Portfolio (50%) ส่งที่ nopparuj.bo@rmuti.ac.th"
     },
     {
+      "program_name_th": "สาขาวิชานวัตกรรมสร้างสรรค์และการเป็นผู้ประกอบการ",
       "tcas_code": "31990106800101A",
-      "program_name_th": "",
-      "seats": 53,
-      "subject_codes": []
+      "faculty_th": "สถาบันสหสรรพศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สำเร็จ BTEC Level 3 สาขา Art and Design หรือที่เกี่ยวข้อง; กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า ทุกกลุ่มสาระ; สอบสัมภาษณ์ (100%); ต้องไม่เป็นผู้มีตาบอดสี"
     },
     {
+      "program_name_th": "อส.บ. วิศวกรรมท่ออุตสาหกรรม",
       "tcas_code": "31990330703201A",
-      "program_name_th": "",
-      "seats": 54,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (30%); Portfolio (70%)"
     },
     {
+      "program_name_th": "ศศ.บ. ภาษาอังกฤษเพื่อการจัดการทางธุรกิจ",
       "tcas_code": "31990330902501A",
-      "program_name_th": "",
-      "seats": 55,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (30%); Portfolio (70%)"
     },
     {
+      "program_name_th": "ค.อ.บ. ครุศาสตร์อุตสาหกรรมโยธา",
       "tcas_code": "31990330702101A",
-      "program_name_th": "",
-      "seats": 56,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ด้านวิทย์-คณิต; สอบสัมภาษณ์ (70%); Portfolio (30%)"
     },
     {
+      "program_name_th": "ค.อ.บ. ครุศาสตร์อุตสาหกรรมไฟฟ้า",
       "tcas_code": "31990330701901A",
-      "program_name_th": "",
-      "seats": 57,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ด้านวิทย์-คณิต; GPAX 5 ภาคเรียน 2.50 ขึ้นไป; สอบสัมภาษณ์ (50%); Portfolio (50%)"
     },
     {
+      "program_name_th": "ค.อ.บ. ครุศาสตร์อุตสาหกรรมอุตสาหการ",
       "tcas_code": "31990330703401A",
-      "program_name_th": "",
-      "seats": 58,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (50%); Portfolio (50%)"
     },
     {
+      "program_name_th": "ค.อ.บ. อิเล็กทรอนิกส์และเมคคาทรอนิกส์",
       "tcas_code": "31990330703001A",
-      "program_name_th": "",
-      "seats": 59,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (60%); Portfolio (40%)"
     },
     {
+      "program_name_th": "ค.อ.บ. ครุศาสตร์อุตสาหกรรมการเชื่อม",
       "tcas_code": "31990330703201A",
-      "program_name_th": "",
-      "seats": 60,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (60%); Portfolio (40%)"
     },
     {
+      "program_name_th": "ค.อ.บ. เทคโนโลยีคอมพิวเตอร์",
       "tcas_code": "31990330700901A",
-      "program_name_th": "",
-      "seats": 61,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; สอบสัมภาษณ์ (30%); Portfolio (70%)"
     },
     {
+      "program_name_th": "ค.อ.บ. ครุศาสตร์อุตสาหกรรมเครื่องกล-วิชาเอกครุศาสตร์อุตสาหกรรมเครื่องกล",
       "tcas_code": "31990330701101A",
-      "program_name_th": "",
-      "seats": 62,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; GPAX 5 ภาคเรียน 2.50 ขึ้นไป; สอบสัมภาษณ์ (30%); Portfolio (70%)"
     },
     {
+      "program_name_th": "ค.อ.บ. ครุศาสตร์อุตสาหกรรมเครื่องกล-วิชาเอกยานยนต์ไฟฟ้า",
       "tcas_code": "31990330701102A",
-      "program_name_th": "",
-      "seats": 63,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะครุศาสตร์อุตสาหกรรม",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; ทุกกลุ่มสาระการเรียนรู้; GPAX 5 ภาคเรียน 2.50 ขึ้นไป; สอบสัมภาษณ์ (30%); Portfolio (70%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์และไฟฟ้าสื่อสาร (วศ.บ.)",
       "tcas_code": "31990331303401A",
-      "program_name_th": "",
-      "seats": 64,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "lang",
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": "9",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "วศ.บ. วิศวกรรมคอมพิวเตอร์",
       "tcas_code": "31990331300501A",
-      "program_name_th": "",
-      "seats": 65,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "lang",
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": "9",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล (วศ.บ.)",
       "tcas_code": "31990331300701A",
-      "program_name_th": "",
-      "seats": 66,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%); พิจารณาพิเศษ: เข้าร่วมแข่งขันวิชาการหรือกีฬา"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องจักรกลเกษตร (วศ.บ.)",
       "tcas_code": "31990331300401A",
-      "program_name_th": "",
-      "seats": 67,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "lang",
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": "9",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%); พิจารณาพิเศษ: เข้าร่วมแข่งขันวิชาการหรือกีฬา"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมแปรรูปอาหาร (วศ.บ.)",
       "tcas_code": "31990331300402A",
-      "program_name_th": "",
-      "seats": 68,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "lang",
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": "9",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%); พิจารณาพิเศษ: เข้าร่วมแข่งขันวิชาการหรือกีฬา"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมอุตสาหการ (วศ.บ.)",
       "tcas_code": "31990331303501A",
-      "program_name_th": "",
-      "seats": 69,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "lang",
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": "9",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมโลหการ (วศ.บ.)",
       "tcas_code": "31990331302501A",
-      "program_name_th": "",
-      "seats": 70,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาเคมีเทคนิคและอุตสาหกรรม (วท.บ.)",
       "tcas_code": "31990331210401A",
-      "program_name_th": "",
-      "seats": 71,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะวิศวกรรมศาสตร์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "sci",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "22",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "math",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "12",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการนวัตกรรมทางธุรกิจ (บธ.บ.)",
       "tcas_code": "31990332610201A",
-      "program_name_th": "",
-      "seats": 72,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะบริหารธุรกิจและเทคโนโลยีสารสนเทศ",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%); พิจารณาพิเศษ: เข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (แสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาการตลาด-วิชาเอกการบริหารการตลาด (บธ.บ.)",
       "tcas_code": "31990332610601A",
-      "program_name_th": "",
-      "seats": 73,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะบริหารธุรกิจและเทคโนโลยีสารสนเทศ",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%); พิจารณาพิเศษ: เข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (แสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาการตลาด-วิชาเอกการตลาดดิจิทัล (บธ.บ.)",
       "tcas_code": "31990332610602A",
-      "program_name_th": "",
-      "seats": 74,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะบริหารธุรกิจและเทคโนโลยีสารสนเทศ",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%); พิจารณาพิเศษ: เข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (แสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีธุรกิจดิจิทัล (บธ.บ.)",
       "tcas_code": "31990332610901A",
-      "program_name_th": "",
-      "seats": 75,
-      "subject_codes": []
+      "faculty_th": "วิทยาเขตขอนแก่น คณะบริหารธุรกิจและเทคโนโลยีสารสนเทศ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า; GPAX (30%); Portfolio (40%); สอบสัมภาษณ์ (30%); พิจารณาพิเศษ: เข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (แสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาการบัญชี (บช.บ.)",
       "tcas_code": "31990332610501A",
-      "program_name_th": "",
-      "seats": 76,
-      "subject_codes": []
+      "faculty_th": "ไม่ระบุ (วิทยาเขตก่อนหน้า)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกสาขาวิชา; GPAX (30%), Portfolio (40%), สอบสัมภาษณ์ (30%); พิจารณาพิเศษหากเข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (นำมาแสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการโลจิสติกส์ (บธ.บ.)",
       "tcas_code": "31990332611001A",
-      "program_name_th": "",
-      "seats": 77,
-      "subject_codes": []
+      "faculty_th": "ไม่ระบุ (วิทยาเขตก่อนหน้า)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกสาขาวิชา; GPAX (30%), Portfolio (40%), สอบสัมภาษณ์ (30%); พิจารณาพิเศษหากเข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (นำมาแสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาสตาร์ทอัพการท่องเที่ยวและการบริการ (บธ.บ.)",
       "tcas_code": "31990332620101A",
-      "program_name_th": "",
-      "seats": 78,
-      "subject_codes": []
+      "faculty_th": "ไม่ระบุ (วิทยาเขตก่อนหน้า)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกสาขาวิชา; GPAX (30%), Portfolio (50%), สอบสัมภาษณ์ (20%); พิจารณาพิเศษหากเข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (นำมาแสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาการบริหารธุรกิจแบบบูรณาการ (บธ.บ.)",
       "tcas_code": "31990332610202A",
-      "program_name_th": "",
-      "seats": 79,
-      "subject_codes": []
+      "faculty_th": "ไม่ระบุ (วิทยาเขตก่อนหน้า)",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกสาขาวิชา; GPAX (30%), Portfolio (40%), สอบสัมภาษณ์ (30%); พิจารณาพิเศษหากเข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (นำมาแสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการธุรกิจบูรณาการภาษา (บธ.บ.)",
       "tcas_code": "31990332610203A",
-      "program_name_th": "",
-      "seats": 80,
-      "subject_codes": []
+      "faculty_th": "ไม่ระบุ (วิทยาเขตก่อนหน้า)",
+      "seats": 2,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกสาขาวิชา; GPAX (30%), Portfolio (40%), สอบสัมภาษณ์ (30%); พิจารณาพิเศษหากเข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (นำมาแสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาสัตวศาสตร์",
       "tcas_code": "31990220501201A",
-      "program_name_th": "",
-      "seats": 81,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "3",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "3",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "ภาษาต่างประเทศ",
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": "3",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เปิดรับทุกสาขาวิชา; Portfolio (80%), สอบสัมภาษณ์ (20%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องจักรกลเกษตรและนวัตกรรมอัจฉริยะ",
       "tcas_code": "31990220300401A",
-      "program_name_th": "",
-      "seats": 82,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "วิทยาศาสตร์และเทคโนโลยี",
+          "subject_name_th": "วิทยาศาสตร์และเทคโนโลยี",
+          "weight_percent": "3",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "คณิตศาสตร์",
+          "subject_name_th": "คณิตศาสตร์",
+          "weight_percent": "3",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "ภาษาต่างประเทศ",
+          "subject_name_th": "ภาษาต่างประเทศ",
+          "weight_percent": "3",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; สอบสัมภาษณ์ (80%), Portfolio (20%)"
     },
     {
+      "program_name_th": "สาขาวิชาการออกแบบภูมิทัศน์และการจัดสวน",
       "tcas_code": "31990220500201A",
-      "program_name_th": "",
-      "seats": 83,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
       "tcas_code": "31990220220201A",
-      "program_name_th": "",
-      "seats": 84,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกกลุ่มสาระการเรียนรู้หรือเทียบเท่า หรือ ปวช. สาขาเทคนิคคอมพิวเตอร์หรือสาขาที่เกี่ยวข้อง; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีคอมพิวเตอร์",
       "tcas_code": "31990220700901A",
-      "program_name_th": "",
-      "seats": 85,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์+วัดแววความเป็นครู (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาเพาะเลี้ยงสัตว์น้ำ",
       "tcas_code": "31990220500601A",
-      "program_name_th": "",
-      "seats": 86,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาการออกแบบผลิตภัณฑ์และสิ่งทอสร้างสรรค์",
       "tcas_code": "31990220800101A",
-      "program_name_th": "",
-      "seats": 87,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีการอาหาร",
       "tcas_code": "31990220501101A",
-      "program_name_th": "",
-      "seats": 88,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (40%), สอบสัมภาษณ์ (60%); พิจารณาพิเศษหากเข้าร่วมกิจกรรมวิชาการ/กีฬา/วัฒนธรรม (นำมาแสดงใน Portfolio)"
     },
     {
+      "program_name_th": "สาขาวิชาพืชศาสตร์",
       "tcas_code": "31990220501301A",
-      "program_name_th": "",
-      "seats": 89,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล-วิชาเอกวิศวกรรมเครื่องกล",
       "tcas_code": "31990220300701A",
-      "program_name_th": "",
-      "seats": 90,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล-วิชาเอกวิศวกรรมยานยนต์",
       "tcas_code": "31990220300702A",
-      "program_name_th": "",
-      "seats": 91,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิทยาศาสตร์เครื่องสำอาง",
       "tcas_code": "31990220210401A",
-      "program_name_th": "",
-      "seats": 92,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; ต้องมีผลการเรียนกลุ่มวิชาวิทยาศาสตร์ไม่น้อยกว่า 20 หน่วยกิต และกลุ่มวิชาคณิตศาสตร์ไม่น้อยกว่า 30 หน่วยกิต; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีและการจัดการสิ่งแวดล้อม",
       "tcas_code": "31990220211901A",
-      "program_name_th": "",
-      "seats": 93,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; สอบสัมภาษณ์ (50%), Portfolio (50%)"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีชีวภาพการเกษตร",
       "tcas_code": "31990220211201A",
-      "program_name_th": "",
-      "seats": 94,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; สอบสัมภาษณ์ (70%), Portfolio (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาวิศวกรรมเมคคาทรอนิกส์",
       "tcas_code": "31990220300901A",
-      "program_name_th": "",
-      "seats": 95,
-      "subject_codes": []
+      "faculty_th": "คณะเกษตรศาสตร์และเทคโนโลยี วิทยาเขตสุรินทร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดรับทุกแผนการเรียน; Portfolio (70%), สอบสัมภาษณ์ (30%)"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการสมัยใหม่",
       "tcas_code": "31990221610201A",
-      "program_name_th": "",
-      "seats": 96,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ทุกแผนการเรียน; สอบสัมภาษณ์ (50%); Portfolio (50%); มีคุณสมบัติในข้อใดข้อหนึ่ง เช่น เข้าร่วมแข่งขันทางวิชาการระดับสถานศึกษา/จังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการนวัตกรรมการค้า",
       "tcas_code": "31990221610202A",
-      "program_name_th": "",
-      "seats": 97,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "ทุกแผนการเรียน; เกรดเฉลี่ย 5 ภาค 2.50 ขึ้นไป; Portfolio (30%); สอบสัมภาษณ์ (70%); เป็นผู้นำหรือคณะกรรมการในกิจกรรมของโรงเรียน/ชมรม/ห้องเรียน; มีความสามารถพิเศษในด้านอื่นๆ; มีความอดทนและเคยทำงาน Part Time"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีมัลติมีเดีย",
       "tcas_code": "31990221220101A",
-      "program_name_th": "",
-      "seats": 98,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีผลการเรียน (GPA) ไม่ต่ำกว่า 2.00; Portfolio (60%); สอบสัมภาษณ์ (40%); แฟ้มสะสมผลงานด้านการออกแบบ/กราฟฟิก/ถ่ายภาพ/วาดภาพ; แฟ้มสะสมผลงานด้านกิจกรรม/จิตอาสา; มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการ, กีฬา, ดนตรี, ศิลปะ, นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีธุรกิจดิจิทัล",
       "tcas_code": "31990221610901A",
-      "program_name_th": "",
-      "seats": 99,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับ ม.6 หรือ ปวช. ทุกแผนการเรียน; Portfolio (30%); สอบสัมภาษณ์ (70%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมกิจกรรม/แข่งขันทางวิชาการ, กีฬา, ดนตรี, ศิลปะ, นาฏศิลป์, วัฒนธรรม; เป็นผู้นำหรือคณะกรรมการนักเรียน; ผลงานด้านกิจกรรม/จิตอาสา"
     },
     {
+      "program_name_th": "สาขาวิชาการบัญชี",
       "tcas_code": "31990221610501A",
-      "program_name_th": "",
-      "seats": 100,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับสถานศึกษา/จังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาการตลาด",
       "tcas_code": "31990221610601A",
-      "program_name_th": "",
-      "seats": 101,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ทุกแผนการเรียน; Portfolio (70%); GPAX (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาภาษาอังกฤษเพื่อการสื่อสาร",
       "tcas_code": "31990221902501A",
-      "program_name_th": "",
-      "seats": 102,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ทุกแผนการเรียน; เกรดเฉลี่ย 5 ภาคเรียน 2.00 ขึ้นไป; Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับโรงเรียนขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านภาษาอังกฤษ"
     },
     {
+      "program_name_th": "สาขาวิชาการจัดการการท่องเที่ยว การโรงแรมและอีเวนท์",
       "tcas_code": "31990221620101A",
-      "program_name_th": "",
-      "seats": 103,
-      "subject_codes": []
+      "faculty_th": "คณะเทคโนโลยีการจัดการ",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ทุกแผนการเรียน; เกรดเฉลี่ย 5 ภาคเรียน 2.00 ขึ้นไป; Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับโรงเรียนขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาสัตวศาสตร์",
       "tcas_code": "31990551213201A",
-      "program_name_th": "",
-      "seats": 104,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาพืชศาสตร์",
       "tcas_code": "31990551212501A",
-      "program_name_th": "",
-      "seats": 105,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีการเพาะเลี้ยงสัตว์น้ำ",
       "tcas_code": "31990551213001A",
-      "program_name_th": "",
-      "seats": 106,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีการอาหาร",
       "tcas_code": "31990551211001A",
-      "program_name_th": "",
-      "seats": 107,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาวิทยาศาสตร์สุขภาพและความงาม",
       "tcas_code": "31990551111101A",
-      "program_name_th": "",
-      "seats": 108,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาการดูแลสุขภาพผู้สูงอายุและการชะลอวัย",
       "tcas_code": "31990551110401A",
-      "program_name_th": "",
-      "seats": 109,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาเทคนิคการสัตวแพทย์",
       "tcas_code": "31990551140101A",
-      "program_name_th": "",
-      "seats": 110,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชาการแพทย์แผนไทย",
       "tcas_code": "31990551110701A",
-      "program_name_th": "",
-      "seats": 111,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio (70%); สอบสัมภาษณ์ (30%); มีคุณสมบัติพิเศษ เช่น เข้าร่วมแข่งขันทางวิชาการระดับจังหวัดขึ้นไป, เป็นผู้นำหรือคณะกรรมการนักเรียน, เข้าร่วมแข่งขันด้านกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์"
     },
     {
+      "program_name_th": "สาขาวิชานวัตกรรมเกษตรอินทรีย์",
       "tcas_code": "31990551212502A",
-      "program_name_th": "",
-      "seats": 112,
-      "subject_codes": []
+      "faculty_th": null,
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จ ม.6 หรือเทียบเท่า 2. Portfolio (70%) 3. สอบสัมภาษณ์ (30%) 4. มีคุณสมบัติใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ นำมาแสดงใน Portfolio): 4.1 เข้าร่วมแข่งขันวิชาการระดับจังหวัดขึ้นไป 4.2 เป็นผู้นำหรือกรรมการนักเรียน 4.3 เข้าร่วมแข่งขันกีฬา/ดนตรี/ศิลปะ/นาฏศิลป์ ระดับจังหวัดขึ้นไป"
     }
   ]
 }

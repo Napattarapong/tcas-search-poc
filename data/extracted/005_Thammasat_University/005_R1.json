@@ -1,518 +1,1781 @@
 {
+  "university": "Thammasat University",
   "university_id": "005",
   "round": "R1",
-  "archetype": "index",
-  "count": 85,
+  "archetype": "criteria",
+  "program_count": 86,
   "programs": [
     {
+      "program_name_th": "บัญชีบัณฑิต",
       "tcas_code": "10050202610501A",
-      "program_name_th": "",
+      "faculty_th": "คณะพาณิชยศาสตร์และการบัญชี",
       "seats": 70,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6 / ปวช. / สำเร็จ ม.6 / กศน. / เทียบวุฒิต่างประเทศ; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คุณสมบัติอื่นๆ: ไม่กำหนด; การคัดเลือก: การประเมินสมรรถนะด้านการจัดการสมัยใหม่ (FORWARD) หรือ SAT; FORWARD: การวิเคราะห์เชิงปริมาณทางธุรกิจ 40%, การวิเคราะห์เชิงคุณภาพทางธุรกิจ 30%, การสื่อสารภาษาอังกฤษทางธุรกิจ 30%; SAT: Math 60%, Reading and Writing 40%; มีการสอบสัมภาษณ์และนำเสนอ Portfolio"
     },
     {
+      "program_name_th": "บริหารธุรกิจบัณฑิต",
       "tcas_code": "10050202610801A",
-      "program_name_th": "",
+      "faculty_th": "คณะพาณิชยศาสตร์และการบัญชี",
       "seats": 100,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6 / ปวช. / สำเร็จ ม.6 / กศน. / เทียบวุฒิต่างประเทศ; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คุณสมบัติอื่นๆ: ไม่กำหนด; การคัดเลือก: การประเมินสมรรถนะด้านการจัดการสมัยใหม่ (FORWARD) หรือ SAT; FORWARD: การวิเคราะห์เชิงปริมาณทางธุรกิจ 40%, การวิเคราะห์เชิงคุณภาพทางธุรกิจ 30%, การสื่อสารภาษาอังกฤษทางธุรกิจ 30%; SAT: Math 60%, Reading and Writing 40%; มีการสอบสัมภาษณ์และนำเสนอ Portfolio"
     },
     {
+      "program_name_th": "บช.บ.สาขาวิชาการบัญชีธุรกิจแบบบูรณาการ (ศึกษาที่ มธ.ท่าพระจันทร์)",
       "tcas_code": "10050102610501A",
-      "program_name_th": "",
+      "faculty_th": "คณะพาณิชยศาสตร์และการบัญชี",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6 / ปวช. / สำเร็จ ม.6 / กศน. / เทียบวุฒิต่างประเทศ; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คุณสมบัติอื่นๆ: ไม่กำหนด; การคัดเลือก: การประเมินสมรรถนะด้านการจัดการสมัยใหม่ (FORWARD) หรือ SAT; FORWARD: การวิเคราะห์เชิงปริมาณทางธุรกิจ 40%, การวิเคราะห์เชิงคุณภาพทางธุรกิจ 30%, การสื่อสารภาษาอังกฤษทางธุรกิจ 30%; SAT: Math 60%, Reading and Writing 40%; มีการสอบสัมภาษณ์และนำเสนอ Portfolio"
     },
     {
+      "program_name_th": "บธ.บ.สาขาวิชาการจัดการธุรกิจแบบบูรณาการ (ศึกษาที่ มธ.ท่าพระจันทร์)",
       "tcas_code": "10050102610801A",
-      "program_name_th": "",
+      "faculty_th": "คณะพาณิชยศาสตร์และการบัญชี",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6 / ปวช. / สำเร็จ ม.6 / กศน. / เทียบวุฒิต่างประเทศ; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คุณสมบัติอื่นๆ: ไม่กำหนด; การคัดเลือก: การประเมินสมรรถนะด้านการจัดการสมัยใหม่ (FORWARD) หรือ SAT; FORWARD: การวิเคราะห์เชิงปริมาณทางธุรกิจ 40%, การวิเคราะห์เชิงคุณภาพทางธุรกิจ 30%, การสื่อสารภาษาอังกฤษทางธุรกิจ 30%; SAT: Math 60%, Reading and Writing 40%; มีการสอบสัมภาษณ์และนำเสนอ Portfolio"
     },
     {
-      "tcas_code": "10050203903201AA",
-      "program_name_th": "",
+      "program_name_th": "ร.บ.วิชาเอกสาขาการเมืองการปกครอง",
+      "tcas_code": "1005023903201AA",
+      "faculty_th": "คณะรัฐศาสตร์",
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คะแนนเฉลี่ยสะสมวิชาภาษาอังกฤษ ม.4–6 ภาคเรียนที่ 1 (รวม 5 ภาค) ไม่ต่ำกว่า 3.50; ต้องมีผลงานกิจกรรมหรือรางวัลการแข่งขันด้านสังคมศาสตร์ ระดับประเทศขึ้นไป; การคัดเลือก: Portfolio 100% + กรรมการพิจารณาคุณสมบัติและผลงานเชิงประจักษ์ + สอบสัมภาษณ์"
     },
     {
-      "tcas_code": "10050203903201AB",
-      "program_name_th": "",
+      "program_name_th": "ร.บ.วิชาเอกสาขาความสัมพันธ์ระหว่างประเทศ",
+      "tcas_code": "1005023903201AB",
+      "faculty_th": "คณะรัฐศาสตร์",
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คะแนนเฉลี่ยสะสมวิชาภาษาอังกฤษ ม.4–6 ภาคเรียนที่ 1 (รวม 5 ภาค) ไม่ต่ำกว่า 3.50; ต้องมีผลงานกิจกรรมหรือรางวัลการแข่งขันด้านสังคมศาสตร์ ระดับประเทศขึ้นไป; การคัดเลือก: Portfolio 100% + กรรมการพิจารณาคุณสมบัติและผลงานเชิงประจักษ์ + สอบสัมภาษณ์"
     },
     {
-      "tcas_code": "10050203903201AC",
-      "program_name_th": "",
+      "program_name_th": "ร.บ.วิชาเอกสาขาบริหารรัฐกิจ",
+      "tcas_code": "1005023903201AC",
+      "faculty_th": "คณะรัฐศาสตร์",
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คะแนนเฉลี่ยสะสมวิชาภาษาอังกฤษ ม.4–6 ภาคเรียนที่ 1 (รวม 5 ภาค) ไม่ต่ำกว่า 3.50; ต้องมีผลงานกิจกรรมหรือรางวัลการแข่งขันด้านสังคมศาสตร์ ระดับประเทศขึ้นไป; การคัดเลือก: Portfolio 100% + กรรมการพิจารณาคุณสมบัติและผลงานเชิงประจักษ์ + สอบสัมภาษณ์"
     },
     {
+      "program_name_th": "เศรษฐศาสตรบัณฑิต",
       "tcas_code": "10050204611101A",
-      "program_name_th": "",
+      "faculty_th": "คณะเศรษฐศาสตร์",
       "seats": 70,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.70",
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6 / ปวช. / สำเร็จ ม.6 หรือเทียบเท่า / กศน. / เทียบวุฒิต่างประเทศ; หน่วยกิตขั้นต่ำ: ไม่กำหนด; GPAX ไม่ต่ำกว่า 3.70 และคะแนนเฉลี่ยสะสมวิชาคณิตศาสตร์ ไม่ต่ำกว่า 3.90 (หรือเป็นผู้ผ่าน สอวน. / เศรษฐศาสตร์โอลิมปิก / ได้รับรางวัลด้านเศรษฐศาสตร์ระดับจังหวัดขึ้นไป); การคัดเลือก: Portfolio 80% + สัมภาษณ์ 20%"
     },
     {
+      "program_name_th": "สังคมสงเคราะห์ศาสตรบัณฑิต",
       "tcas_code": "10050205903701A",
-      "program_name_th": "",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.25",
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คุณสมบัติอื่นๆ: ไม่กำหนด; การคัดเลือก: Portfolio 100% (พิจารณากิจกรรมทางสังคมภายใน 3 ปี, Statement of Purpose, สอบสัมภาษณ์)"
     },
     {
+      "program_name_th": "สังคมสงเคราะห์ศาสตรบัณฑิต (ศึกษาที่ มธ.ศูนย์ลำปาง)",
       "tcas_code": "10050405903701A",
-      "program_name_th": "",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
       "seats": 35,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การสำเร็จการศึกษา: กำลังศึกษา ม.6; หน่วยกิตขั้นต่ำ: ไม่กำหนด; คุณสมบัติอื่นๆ: ไม่กำหนด; การคัดเลือก: Portfolio 100% (พิจารณากิจกรรมทางสังคมภายใน 3 ปี, Statement of Purpose, สอบสัมภาษณ์)"
     },
     {
+      "program_name_th": "ศศ.บ. สาขาวิชานโยบายสังคมและการพัฒนา (โครงการพิเศษ) (ศึกษาที่มธ.ท่าพระจันทร์)",
       "tcas_code": "10050105903701B",
-      "program_name_th": "",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
       "seats": 18,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์การคัดเลือก: Portfolio 100% (พิจารณาจากแฟ้มสะสมผลงานด้านสังคม/นโยบายสังคม ภายใน 3 ปี 2566-2568, เรียงความ Statement of Purpose, และการสอบสัมภาษณ์ — คณะกรรมการถือเป็นที่สิ้นสุด). ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ"
     },
     {
+      "program_name_th": "ศศ.บ. วิชาเอกประวัติศาสตร์",
       "tcas_code": "10050206901401A",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปศาสตร์",
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์การคัดเลือก: Portfolio 100% + การสอบสัมภาษณ์ (คณะกรรมการถือเป็นที่สิ้นสุด). เกณฑ์การเทียบวุฒิ GED: คะแนนแต่ละวิชาต้องไม่ต่ำกว่า 165. ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ"
     },
     {
+      "program_name_th": "ศศ.บ. สาขาวิชาภาษาไทย",
       "tcas_code": "10050206902001A",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปศาสตร์",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT 91",
+          "subject_name_th": "TGAT รหัส 90 ความถนัดทั่วไป เฉพาะ TGAT รหัส 91 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT 92",
+          "subject_name_th": "TGAT รหัส 90 ความถนัดทั่วไป เฉพาะ TGAT รหัส 92 วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์การคัดเลือก: Portfolio 70% + TGAT 91 (15%) + TGAT 92 (15%) + การสอบสัมภาษณ์ (คณะกรรมการถือเป็นที่สิ้นสุด). ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ ไม่กำหนดเกณฑ์คุณสมบัติเฉพาะอื่นๆ"
     },
     {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาฝรั่งเศส",
       "tcas_code": "10050206902401A",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปศาสตร์",
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์การคัดเลือก: Portfolio 100% + การสอบสัมภาษณ์ (คณะกรรมการถือเป็นที่สิ้นสุด). เกณฑ์ภาษาต่างประเทศ: ต้องเป็นสายศิลป์-ภาษาฝรั่งเศส หรือ เคยแลกเปลี่ยนเรียนภาษาฝรั่งเศสไม่น้อยกว่า 8 เดือน หรือ มี DELF ระดับ A2 ขึ้นไป (ย้อนหลังไม่เกิน 2 ปี). เกณฑ์ GED: คะแนนแต่ละวิชาต้องไม่ต่ำกว่า 165"
     },
     {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาเยอรมัน",
       "tcas_code": "10050206902402A",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปศาสตร์",
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio (แฟ้มสะสมผลงาน)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีผลการสอบวัดระดับภาษาเยอรมันย้อนหลังไม่เกิน 2 ปี: ระดับ A2 คะแนนเฉลี่ยรวมทุกทักษะไม่ต่ำกว่า 70% หรือสอบผ่านทุกทักษะในระดับ B1 ขึ้นไป; การสอบสัมภาษณ์ (การพิจารณาและตัดสินผลการคัดเลือกของคณะกรรมการถือเป็นที่สิ้นสุด)"
     },
     {
+      "program_name_th": "ศศ.บ.วิชาเอกสเปนและลาตินอเมริกันศึกษา",
       "tcas_code": "10050206902404A",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปศาสตร์",
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio (แฟ้มสะสมงาน)",
+          "weight_percent": "75",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป (เฉพาะ TGAT1 รหัส 91 วิชาการสื่อสารภาษาอังกฤษ)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์ภาษาต่างประเทศ: กำลังศึกษาหรือสำเร็จ ม.6 สายศิลป์-ภาษาสเปน หรือ DELE/DELE Escolar/SIELE ระดับ A2 ขึ้นไป หรือแลกเปลี่ยนประเทศที่ใช้ภาษาสเปนอย่างน้อย 9 เดือน; GED ต้องมีคะแนนแต่ละวิชา 165 ขึ้นไป; การสอบสัมภาษณ์ (คณะกรรมการถือเป็นที่สิ้นสุด)"
     },
     {
-      "tcas_code": "10050206902401B",
-      "program_name_th": "",
+      "program_name_th": "ศศ.บ.สาขาวิชาอาณาบริเวณศึกษา วิชาเอกรัสเซียและยูเรเชียศึกษา (โครงการพิเศษ) (ศึกษาที่มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050106902801B",
+      "faculty_th": "คณะศิลปศาสตร์",
       "seats": 50,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio (แฟ้มสะสมผลงาน)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสอบสัมภาษณ์",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GED ต้องมีคะแนนแต่ละวิชา 165 ขึ้นไป; การพิจารณาและการตัดสินผลการสอบสัมภาษณ์ของคณะกรรมการถือเป็นที่สิ้นสุด"
     },
     {
-      "tcas_code": "10050106904301B",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050208903501A",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050208903501B",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209220201A",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209210301A",
-      "program_name_th": "",
-      "seats": 25,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209210401A",
-      "program_name_th": "",
-      "seats": 40,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209211001A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209211002A",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209211201A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209214001A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209212701A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209212801A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209213101A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209213301A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209500401A",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209220201B",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209220202B",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209210302A",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209213301B",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209210301B",
-      "program_name_th": "",
-      "seats": 25,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209213302B",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209210302B",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209211401B",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209212702A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050209211801A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050409220201A",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210300501A",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210300601A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210300701A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210301601A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210302101A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210303501A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210301001B",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210301601B",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050210302101B",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050310302001B",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050211100101A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050212111301A",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050212112001A",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050212112001B",
-      "program_name_th": "",
-      "seats": 150,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10050212902002B",
-      "program_name_th": "",
+      "program_name_th": "ศศ.บ.สาขาวิชาอาณาบริเวณศึกษา วิชาเอกเอเชียตะวันออกเฉียงใต้ศึกษา (โครงการพิเศษ) (ศึกษาที่มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050106902801B",
+      "faculty_th": "คณะศิลปศาสตร์",
       "seats": 70,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio (แฟ้มสะสมผลงาน)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสอบสัมภาษณ์",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GED ต้องมีคะแนนแต่ละวิชา 165 ขึ้นไป; การพิจารณาและการตัดสินผลการสอบสัมภาษณ์ของคณะกรรมการถือเป็นที่สิ้นสุด"
     },
     {
+      "program_name_th": "ศศ.บ.สาขาวิชาการแปลและล่ามในยุคดิจิทัล (โครงการพิเศษ) (ศึกษาที่มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050106904301B",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 35,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio) + การสอบสัมภาษณ์ (ภาษาไทย ภาษาอังกฤษ และทดสอบความถนัดทางการแปลและล่าม)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เกณฑ์ภาษาต่างประเทศ: TU GET (CBT) ≥ 78 หรือ TOEFL IBT ≥ 78 หรือ TOEFL ITP/PBT ≥ 547 หรือ IELTS ≥ 6.0 (ภายใน 2 ปีก่อนวันสมัคร); เกณฑ์ GED แต่ละวิชา ≥ 165 คะแนน; หน่วยกิตขั้นต่ำ: ไม่กำหนด; สอบสัมภาษณ์ออนไลน์ Zoom วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "สังคมวิทยาและมานุษยวิทยาบัณฑิต",
+      "tcas_code": "10050208903501A",
+      "faculty_th": "คณะสังคมวิทยาและมานุษยวิทยา",
+      "seats": 35,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: ไม่กำหนด; มีหลักฐานเข้าร่วมกิจกรรมด้านสังคมและวัฒนธรรม; คัดเลือก 2 ขั้นตอน (TGAT+Portfolio → สัมภาษณ์); สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569 ที่คณะ มธ. ศูนย์รังสิต"
+    },
+    {
+      "program_name_th": "สม.บ.สาขาวิชาการวิจัยทางสังคม (โครงการพิเศษ)",
+      "tcas_code": "10050208903501B",
+      "faculty_th": "คณะสังคมวิทยาและมานุษยวิทยา",
+      "seats": 35,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: ไม่กำหนด; มีหลักฐานเข้าร่วมกิจกรรมด้านสังคมและวัฒนธรรม; คัดเลือก 2 ขั้นตอน (TGAT+Portfolio → สัมภาษณ์); สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569 ที่คณะ มธ. ศูนย์รังสิต"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาการคอมพิวเตอร์",
+      "tcas_code": "10050209220201A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "TGAT วิชาสมรรถนะการทำงาน",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาคณิตศาสตร์",
+      "tcas_code": "10050209210301A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเคมี",
+      "tcas_code": "10050209210401A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "80",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร",
+      "tcas_code": "10050209211001A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "65",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์และนวัตกรรมทางอาหาร",
+      "tcas_code": "10050209211002A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีชีวภาพ",
+      "tcas_code": "10050209211201A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีเพื่อการพัฒนายั่งยืน",
+      "tcas_code": "10050209214001A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาฟิสิกส์",
+      "tcas_code": "10050209212701A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวัสดุศาสตร์",
+      "tcas_code": "10050209212801A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์สิ่งแวดล้อม",
+      "tcas_code": "10050209213101A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาสถิติ",
+      "tcas_code": "10050209213301A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีการเกษตร",
+      "tcas_code": "10050209500401A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาการคอมพิวเตอร์ (โครงการพิเศษ)",
+      "tcas_code": "10050209220201B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "TGAT วิชาสมรรถนะการทำงาน",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาคอมพิวเตอร์เครือข่ายและความปลอดภัยทางไซเบอร์ (โครงการพิเศษ)",
+      "tcas_code": "10050209220202B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "TGAT วิชาสมรรถนะการทำงาน",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก.; พิจารณา Portfolio + Statement of Purpose + สอบสัมภาษณ์; สอบสัมภาษณ์ วันที่ 24 ม.ค. 2569"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาคณิตศาสตร์ประยุกต์",
+      "tcas_code": "10050209210302A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก., ภาษาต่างประเทศ 9 นก. | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาสถิติ (โครงการพิเศษ)",
+      "tcas_code": "10050209213301B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก., ภาษาต่างประเทศ 9 นก. | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาคณิตศาสตร์ (โครงการพิเศษ)",
+      "tcas_code": "10050209210301B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 25,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก., ภาษาต่างประเทศ 9 นก. | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาการประกันภัย (โครงการพิเศษ)",
+      "tcas_code": "10050209213302B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก., ภาษาต่างประเทศ 9 นก. | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาคณิตศาสตร์การจัดการ (โครงการพิเศษ)",
+      "tcas_code": "10050209210302B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก., ภาษาต่างประเทศ 9 นก. | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ.เทคโนโลยีพลังงานชีวภาพและการแปรรูปเคมีชีวภาพ (โครงการพิเศษ)",
+      "tcas_code": "10050209211401B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 15,
+      "project_code": "โครงการพิเศษ",
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก. | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาฟิสิกส์อิเล็กทรอนิกส์",
+      "tcas_code": "10050209212702A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 22 นก., คณิตศาสตร์ 12 นก. | GPAX 2.75–2.99 ต้องยื่นหลักฐานเข้าร่วมประกวด/นำเสนอผลงานสิ่งประดิษฐ์ระดับชาติ/นานาชาติ | GPAX ≥ 3.00 ไม่ต้องยื่นหลักฐานดังกล่าว | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์และเทคโนโลยีสิ่งทอ",
+      "tcas_code": "10050209211801A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตขั้นต่ำ | ผู้สมัครต้องไม่มีอาการตาบอดสี (ต้องมีใบรับรองแพทย์) | ผู้สำเร็จ ปวช. เฉพาะประเภทวิชาอุตสาหกรรมสิ่งทอ/คหกรรม (สาขาเทคโนโลยีสิ่งทอ, เคมีสิ่งทอ, เทคโนโลยีเครื่องนุ่งห่ม, แฟชั่นและสิ่งทอ, งานอุตสาหกรรมเสื้อผ้า) | เกณฑ์การคัดเลือก: Portfolio 100%, Statement of Purpose, สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีและนวัตกรรมดิจิทัล (ศึกษาที่ มธ.ศูนย์ลำปาง)",
+      "tcas_code": "10050409220201A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตขั้นต่ำและไม่กำหนด GPAX ขั้นต่ำ | เกณฑ์การคัดเลือก: Portfolio 100%, สอบสัมภาษณ์ (ไม่มี Statement of Purpose) | สอบสัมภาษณ์ที่ มธ.ศูนย์ลำปาง"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมคอมพิวเตอร์",
+      "tcas_code": "10050210300501A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมเคมี",
+      "tcas_code": "10050210300601A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมเครื่องกล",
+      "tcas_code": "10050210300701A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมไฟฟ้า",
+      "tcas_code": "10050210301601A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมโยธา",
+      "tcas_code": "10050210302101A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมอุตสาหการ",
+      "tcas_code": "10050210303501A",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดด้านวิทยาศาสตร์ เทคโนโลยี และวิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.วิศวกรรมซอฟต์แวร์ (โครงการพิเศษ)",
+      "tcas_code": "10050210301001B",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 35,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือ ปวช. (ช่างอุตสาหกรรม) หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.วิศวกรรมไฟฟ้าและการจัดการอุตสาหกรรม (โครงการพิเศษ)",
+      "tcas_code": "10050210301601B",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 35,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือ ปวช. (ช่างอุตสาหกรรม) หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.วิศวกรรมโยธาและการบริหารการก่อสร้าง (โครงการพิเศษ)",
+      "tcas_code": "10050210302101B",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 35,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือ ปวช. (ช่างอุตสาหกรรม) หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "วศ.บ.วิศวกรรมยานยนต์และระบบอัตโนมัติ (โครงการพิเศษ) (ศึกษาที่ศูนย์พัทยา)",
+      "tcas_code": "10050310302001B",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3 ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้กำลังศึกษาหรือสำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือ ปวช. (ช่างอุตสาหกรรม) หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ; ศึกษาที่ศูนย์พัทยา; Portfolio ตามรูปแบบของมหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "program_name_th": "แพทยศาสตรบัณฑิต",
+      "tcas_code": "10050211100101A",
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "TBAT",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ภาษาอังกฤษ (IELTS/TOEFL iBT/TU-GET CBT/CU-TEP & speaking)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสอบสัมภาษณ์ Multiple Mini Interviews",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีสัญชาติไทย; เป็นผู้ไม่มีปัญหาสุขภาพที่เป็นอุปสรรคต่อการศึกษาและประกอบวิชาชีพแพทย์; เกณฑ์ภาษาอังกฤษขั้นต่ำ: IELTS Academic/UKVI ไม่น้อยกว่า 6.5 (แต่ละทักษะไม่ต่ำกว่า 5.5), TOEFL iBT ไม่น้อยกว่า 70, TU-GET CBT ไม่น้อยกว่า 70, CU-TEP total ไม่น้อยกว่า 70 และ speaking ไม่น้อยกว่า 19; ผลการเรียนเฉลี่ยกลุ่มสาระวิทยาศาสตร์/คณิตศาสตร์/ภาษาต่างประเทศ ไม่ต่ำกว่า 3.50; ขั้นตอนที่ 1 คิด 50% (ต้องได้คะแนนรวมไม่ต่ำกว่า 70% เพื่อเข้าขั้นตอนที่ 2 จำนวนไม่เกิน 40 คน); ขั้นตอนที่ 2 คิด 50% (Portfolio 20%, MMI 30%); ผ่านการตรวจร่างกายและสัมภาษณ์; ไม่รับ GED/IGCSE"
+    },
+    {
+      "program_name_th": "เทคนิคการแพทยบัณฑิต",
+      "tcas_code": "10050212111301A",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio (ผลงานด้านวิชาการ หน้า 6-10)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT1 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT2 วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "TGAT3 วิชาการสมรรถนะการทำงานในอนาคต",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผลการเรียนเฉลี่ยสะสมในวิชาภาษาอังกฤษ เคมี ชีววิทยาและคณิตศาสตร์ ม.4-6 (ตั้งแต่ 5 เทอมขึ้นไป) แต่ละหมวดไม่น้อยกว่า 3.50; ไม่มีความพิการทางการมองเห็น การได้ยินและร่างกายขั้นรุนแรง; ไม่มีภาวะตาบอดสีขั้นรุนแรง (อ่าน ISHIHARA PLATE ได้อย่างน้อย 12 PLATES); หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ ไม่น้อยกว่า 22 หน่วยกิต, คณิตศาสตร์ ไม่น้อยกว่า 12 หน่วยกิต"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์การกีฬาและการออกกำลังกาย",
+      "tcas_code": "10050212112001A",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "Portfolio (ประวัติส่วนตัว ผลการเรียน รางวัลการแข่งขันกีฬาระดับชาติหรือนานาชาติ)",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นนักกีฬาทีมชาติ นักกีฬาเยาวชนทีมชาติ นักกีฬานักเรียนอาเซียน; รางวัลชนะเลิศอันดับ 1-3 ในการแข่งขันกีฬาระดับชิงชนะเลิศแห่งประเทศไทย หรือรายการที่รับรองโดยสมาคมกีฬาฯ; นักกีฬาอาชีพที่มีสัญญาในลีกสูงสุด (ไม่น้อยกว่า 2 ปี); นักกีฬาอาชีพอื่นๆ เช่น กอล์ฟ เทนนิส; มีสุขภาพแข็งแรงสมบูรณ์ ไม่มีความพิการที่เป็นอุปสรรค; ผลงานกีฬาระหว่างปี พ.ศ. 2566-2568; หน่วยกิตขั้นต่ำ: วิทยาศาสตร์ 20-22 หน่วยกิต, คณิตศาสตร์ 10-12 หน่วยกิต"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาการจัดการกีฬา (โครงการพิเศษ)",
+      "tcas_code": "10050212112001B",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 150,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมงาน (Portfolio)",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสอบสัมภาษณ์",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กรณีนักศึกษาที่มีความพิการ รับเฉพาะผู้ที่มีความพิการทางการเคลื่อนไหวเท่านั้น; Portfolio แบ่งเป็น ระดับผลงานกีฬา 50%, ความสมบูรณ์ของเอกสาร 10%, ความมุ่งมั่นในการศึกษา 10%"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาการฝึกสอนกีฬา (โครงการพิเศษ)",
+      "tcas_code": "10050212902002B",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "Statement of Purpose และแฟ้มสะสมงาน (Portfolio)",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสอบสัมภาษณ์",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีคุณสมบัติพิเศษอย่างน้อย 1 ข้อ: ตัวแทนทีมชาติ/เยาวชนทีมชาติ/นักเรียนอาเซียน หรือ ตัวแทนเข้าร่วมการแข่งขันกีฬาแห่งชาติ หรือ ชนะเลิศอันดับ 1-3 ในรายการที่รับรอง หรือ นักกีฬาอาชีพในลีกสูงสุด (ผลงานย้อนหลังไม่เกิน 3 ปี สำหรับข้อ 4.1-4.3; สัญญาไม่น้อยกว่า 2 ปี สำหรับข้อ 4.4)"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
       "tcas_code": "10050214111701A",
-      "program_name_th": "",
+      "faculty_th": "คณะพยาบาลศาสตร์",
       "seats": 40,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "70",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนเฉลี่ย ม.4-ม.6 วิชาคณิตศาสตร์ ชีววิทยา และเคมี ไม่ต่ำกว่า 3.00 ทุกวิชา; มีผลงานประกวดโครงการวิทยาศาสตร์/ภาษาอังกฤษ/คอมพิวเตอร์ระดับจังหวัดขึ้นไป; ไม่พบตาบอดสี ไม่เจ็บป่วยหรือเป็นโรคติดต่อร้ายแรง; ต้องตรวจสุขภาพ (CBC, ไวรัสตับอักเสบ B, ปัสสาวะ, เอกซเรย์ปอด, ตาบอดสี, การมองเห็น)"
     },
     {
+      "program_name_th": "ศป.บ. สาขาวิชาศิลปะการออกแบบพัสตราภรณ์ วิชาเอกออกแบบสิ่งทอ",
       "tcas_code": "10050215800101AA",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นโรคติดต่อร้ายแรงหรือโรคที่เป็นอุปสรรคต่อการศึกษา; ต้องไม่มีอาการตาบอดสี พร้อมใบรับรองแพทย์จากโรงพยาบาลของรัฐ; Portfolio ส่วนผลงานด้านศิลปะต้องเกี่ยวกับศิลปะ/ศิลปหัตถกรรม/สิ่งทอ/แฟชั่น/เครื่องแต่งกาย"
     },
     {
+      "program_name_th": "ศป.บ. สาขาวิชาศิลปะการออกแบบพัสตราภรณ์ วิชาเอกออกแบบแฟชั่น",
       "tcas_code": "10050215800101AB",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นโรคติดต่อร้ายแรงหรือโรคที่เป็นอุปสรรคต่อการศึกษา; ต้องไม่มีอาการตาบอดสี พร้อมใบรับรองแพทย์จากโรงพยาบาลของรัฐ; Portfolio ส่วนผลงานด้านศิลปะต้องเกี่ยวกับศิลปะ/ศิลปหัตถกรรม/สิ่งทอ/แฟชั่น/เครื่องแต่งกาย"
     },
     {
-      "tcas_code": "10050215800401A",
-      "program_name_th": "",
+      "program_name_th": "ศป.บ. สาขาวิชาการละคร",
+      "tcas_code": "0050215800401A",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
       "seats": 40,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "80",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระ; ไม่เป็นโรคติดต่อร้ายแรงหรือโรคที่เป็นอุปสรรคต่อการศึกษา; Portfolio ประกอบด้วย บทความแนะนำตัว (20%), หลักฐานรางวัล/ผลงานด้านศิลปะการแสดง (40%), ผลงานสร้างสรรค์วิดีทัศน์สั้น (20%)"
     },
     {
+      "program_name_th": "ศป.บ. สาขาวิชาออกแบบหัตถกรรมอุตสาหกรรมสร้างสรรค์ (ศึกษาที่มธ.ศูนย์ลำปาง)",
       "tcas_code": "10050415800101A",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระ; ไม่เป็นโรคติดต่อร้ายแรง; ต้องไม่มีอาการตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสีจากโรงพยาบาลของรัฐ; Portfolio เป็นผลงานด้านทัศนศิลป์และการออกแบบ (Art and Design portfolio)"
     },
     {
+      "program_name_th": "ศป.บ. สาขาวิชาการบริหารจัดการศิลปะ (โครงการพิเศษ)",
       "tcas_code": "10050215800501B",
-      "program_name_th": "",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
       "seats": 50,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระ; ไม่เป็นโรคติดต่อร้ายแรง; Portfolio รวมผลงานศิลปะหรือบทบาทนักกิจกรรม (ไม่เกิน 3 ผลงาน); มี Statement of Purpose; รับผู้มีทักษะศิลปะและไม่มีทักษะศิลปะที่สนใจงานบริหารจัดการศิลปะ"
     },
     {
+      "program_name_th": "วท.บ. สาขาวิชาสถาปัตยกรรม",
       "tcas_code": "10050216400501B",
-      "program_name_th": "",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
       "seats": 60,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ประวัติผลงานทางสถาปัตยกรรมหรือการออกแบบ รางวัล และการแสดงความถนัดเชิงประจักษ์ (Sketch design)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "สอบสัมภาษณ์",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระ; Portfolio ต้องมีผลงาน 2 มิติสร้างสรรค์ด้วยมือ, ผลงานออกแบบอื่น ๆ, ผลงานออกแบบตามโจทย์ (ดูที่ www.tds.tu.ac.th); ส่งต้นฉบับจริงได้รับการพิจารณาเป็นพิเศษ"
     },
     {
+      "program_name_th": "สถาปัตยกรรมภายในบัณฑิต",
       "tcas_code": "10050216400701B",
-      "program_name_th": "",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจากแฟ้มสะสมผลงาน (Portfolio) ค่าน้ำหนัก 100% และสอบสัมภาษณ์ (ต้องได้คะแนนไม่ต่ำกว่า 60 คะแนน จาก 100 คะแนน); ผู้สมัครต้องอัปโหลดไฟล์ PDF และส่งแฟ้มสะสมผลงานฉบับจริง ขนาด A3; เนื้อหา Portfolio: Statement of Purpose, ภาพลายเส้นดินสอ, ภาพจิตรกรรม, ผลงานทัศนศิลป์, ผลงานออกแบบสถาปัตยกรรมภายในตามโจทย์, ผลงานออกแบบอื่นๆ; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 153"
     },
     {
+      "program_name_th": "การผังเมืองบัณฑิต",
       "tcas_code": "10050216400401B",
-      "program_name_th": "",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจากแฟ้มแนะนำตัวผู้สมัคร (Portfolio) ค่าน้ำหนัก 10% และสอบสัมภาษณ์ ค่าน้ำหนัก 90% (ความสามารถและทักษะด้านการสื่อสาร, ความรู้พื้นฐานด้านการวางแผนและผังเมือง); มีคะแนนเฉลี่ยสะสมวิชาภาษาอังกฤษ ม.4–6 ภาคเรียนที่ 1 (รวม 5 ภาค) ไม่ต่ำกว่า 3.00; ผู้สมัครต้องนำแฟ้มแนะนำตัวฉบับจริงมาในวันสอบสัมภาษณ์"
     },
     {
+      "program_name_th": "ภูมิสถาปัตยกรรมศาสตรบัณฑิต",
       "tcas_code": "10050216400301B",
-      "program_name_th": "",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจากแฟ้มสะสมผลงาน (Portfolio) ค่าน้ำหนัก 100% ประกอบด้วย: ทักษะทางศิลปะ 40%, ความเป็นเหตุผลและความคิดสร้างสรรค์ในการออกแบบ 40%, Statement of Purpose 20%; มีสอบสัมภาษณ์; เนื้อหา Portfolio: Statement of Purpose, ทัศนียภาพงานภูมิสถาปัตยกรรม, ผลงานอื่นๆที่เกี่ยวข้อง, Sketch design ตามโจทย์; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 153"
     },
     {
+      "program_name_th": "วท.บ.สาขาวิชาสถาปัตยกรรมเพื่อการพัฒนาอสังหาริมทรัพย์",
       "tcas_code": "10050216400502B",
-      "program_name_th": "",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
       "seats": 32,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจากแฟ้มสะสมผลงาน (Portfolio) ค่าน้ำหนัก 100% ประกอบด้วย: ทักษะพื้นฐานทางศิลปะ/ความถนัดสถาปัตยกรรม 30%, ทักษะการสื่อสารและนำเสนอผลงาน 30%, ความคิดสร้างสรรค์ 30%, คุณสมบัติเฉพาะบุคคล 10%; มีสอบสัมภาษณ์; เนื้อหา Portfolio: Statement of Purpose, ประวัติผลงาน/กิจกรรม, ผลงานด้านศิลปะ/การออกแบบ/สถาปัตยกรรม, ผลงานอื่นๆ"
     },
     {
-      "tcas_code": "10050216400201E",
-      "program_name_th": "",
+      "program_name_th": "วท.บ.สาขาวิชาการจัดการออกแบบธุรกิจและเทคโนโลยี (หลักสูตรนานาชาติ) (DBTM)",
+      "tcas_code": "10050216610201E",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "หลักสูตรนานาชาติ; ผู้สมัครที่มี GPAX 3.0 ขึ้นไป ต้องยื่น GPAX อย่างน้อย 5 ภาคการศึกษา และคะแนนภาษาอังกฤษ (TU-GET ≥450, TOEFL ≥450, IELTS ≥5.0, NEW SAT/GSAT ≥400); ผู้สมัครที่มี GPAX 2.50-2.99 ต้องยื่นเพิ่มคะแนนมาตรฐานคณิตศาสตร์ (SAT Math ≥600, GSAT Math ≥600, GCSE/IGCSE Math ≥B, IB Math ≥5, NCEA/NZQA Math Achieved); ต้องผ่านการสอบสัมภาษณ์; ส่ง Portfolio ไม่เกิน 10 หน้า ขนาดไม่เกิน 20 MB และส่งอีเมล dbtm@ap.tu.ac.th"
     },
     {
+      "program_name_th": "วท.บ. สาขาวิชาอาชีวอนามัยและความปลอดภัย",
       "tcas_code": "10050217112701A",
-      "program_name_th": "",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เฉพาะสายวิทย์-คณิต; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; ไม่มีโรคติดต่อร้ายแรง/โรคที่สังคมรังเกียจ; ไม่มีปัญหาด้านสายตา (ยื่นใบรับรองแพทย์); ไม่ตาบอดสีรุนแรง สายตาไม่ต่ำกว่า 6/24 ทั้งสองข้าง สายตาข้างดีไม่ต่ำกว่า 6/12; มองเห็นภาพสามมิติได้; ไม่พิการทางนิ้วมือ; มี Portfolio อย่างน้อย 1 ปี; มีผลงานประกวด/โครงงานวิทย์-คณิต หรือประสบการณ์เข้าค่ายวิชาการ; ต้องผ่านการสอบสัมภาษณ์"
     },
     {
+      "program_name_th": "วท.บ. สาขาวิชาอนามัยสิ่งแวดล้อม",
       "tcas_code": "10050217112702A",
-      "program_name_th": "",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เฉพาะสายวิทย์-คณิต; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; ไม่มีโรคติดต่อร้ายแรง/โรคที่สังคมรังเกียจ; มี Portfolio อย่างน้อย 1 ปี; มีผลงานประกวด/โครงงานวิทย์-คณิต หรือประสบการณ์เข้าค่ายวิชาการ; ต้องผ่านการสอบสัมภาษณ์"
     },
     {
+      "program_name_th": "วท.บ.อาชีวอนามัยและความปลอดภัย (ศึกษาที่ มธ.ศูนย์ลำปาง)",
       "tcas_code": "10050417112701A",
-      "program_name_th": "",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ศึกษาที่ มธ.ศูนย์ลำปาง; เฉพาะสายวิทย์-คณิต; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; ไม่มีโรคติดต่อร้ายแรง/โรคที่สังคมรังเกียจ; ไม่มีปัญหาด้านสายตา (ยื่นใบรับรองแพทย์); ไม่ตาบอดสีรุนแรง สายตาไม่ต่ำกว่า 6/24 ทั้งสองข้าง สายตาข้างดีไม่ต่ำกว่า 6/12; มองเห็นภาพสามมิติได้; ไม่พิการทางนิ้วมือ; Portfolio ย้อนหลังไม่เกิน 2 ปี; ต้องผ่านการสอบสัมภาษณ์"
     },
     {
+      "program_name_th": "วท.บ.อนามัยสิ่งแวดล้อม (ศึกษาที่ มธ.ศูนย์ลำปาง)",
       "tcas_code": "10050417112702A",
-      "program_name_th": "",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ศึกษาที่ มธ.ศูนย์ลำปาง; เฉพาะสายวิทย์-คณิต; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; ไม่มีโรคติดต่อร้ายแรง/โรคที่สังคมรังเกียจ; Portfolio ย้อนหลังไม่เกิน 2 ปี; ต้องผ่านการสอบสัมภาษณ์"
     },
     {
+      "program_name_th": "วท.บ.อนามัยชุมชน (ศึกษาที่ มธ.ศูนย์ลำปาง)",
       "tcas_code": "10050417112703A",
-      "program_name_th": "",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมงาน (Portfolio)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ศึกษาที่ มธ.ศูนย์ลำปาง; เฉพาะสายวิทย์-คณิต; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; ไม่มีโรคติดต่อร้ายแรง/โรคที่สังคมรังเกียจ; Portfolio ย้อนหลังไม่เกิน 2 ปี; ต้องผ่านการสอบสัมภาษณ์"
     },
     {
+      "program_name_th": "เภสัชศาสตรบัณฑิต",
       "tcas_code": "10050218130101A",
-      "program_name_th": "",
+      "faculty_th": "คณะเภสัชศาสตร์",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "เกรดเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "5%",
+          "min_threshold": "3.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาเคมี (GPA 4 ภาคการศึกษา)",
+          "weight_percent": "5%",
+          "min_threshold": "3.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาชีววิทยา (GPA 4 ภาคการศึกษา)",
+          "weight_percent": "5%",
+          "min_threshold": "3.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "กลุ่มคณิตศาสตร์ (GPA 4 ภาคการศึกษา)",
+          "weight_percent": "5%",
+          "min_threshold": "3.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาภาษาอังกฤษ (GPA 4 ภาคการศึกษา)",
+          "weight_percent": "5%",
+          "min_threshold": "3.50"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ขั้นตอนที่ 1 ค่าน้ำหนัก 50% (GPAX 5%, GPA วิชาเคมี 5%, GPA วิชาชีววิทยา 5%, GPA กลุ่มคณิตศาสตร์ 5%, GPA วิชาภาษาอังกฤษ 5%, Portfolio 25%); ขั้นตอนที่ 2 สอบสัมภาษณ์ ค่าน้ำหนัก 50%; ต้องมีสัญชาติไทย; ต้องมีสุขภาพสมบรณ์แข็งแรง ปราศจากโรคที่เป็นอุปสรรคต่อการประกอบวิชาชีพเภสัชกรรม; ผ่านเกณฑ์ขั้นตอนที่ 1 รวมไม่ต่ำกว่า 35% เพื่อเข้าสอบสัมภาษณ์ จำนวนไม่เกิน 60 คน; รับไม่เกิน 30 คน"
     },
     {
+      "program_name_th": "ศศ.บ.สาขาวิชาวิทยาการเรียนรู้และศึกษาศาสตร์",
       "tcas_code": "10050219903601A",
-      "program_name_th": "",
+      "faculty_th": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
       "seats": 65,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "การสัมภาษณ์",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "Portfolio ประกอบด้วยเอกสารแนะนำตัว ประวัติการศึกษา หลักฐานกิจกรรม เรียงความเรื่อง 'การเรียนรู้ที่ทรงพลัง' (เขียนด้วยลายมือ) และวีดีโอนำเสนอประเด็นทางสังคม 3-5 นาที; ห้ามคัดลอกผลงานหรือใช้ AI"
     },
     {
-      "tcas_code": "10050123220101B",
-      "program_name_th": "",
-      "seats": 23,
-      "subject_codes": []
-    },
-    {
+      "program_name_th": "ศศ.บ.สาขาวิชาการจัดการมรดกวัฒนธรรมและอุตสาหกรรมสร้างสรรค์ (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
       "tcas_code": "10050123904001B",
-      "program_name_th": "",
+      "faculty_th": "วิทยาลัยนวัตกรรม",
       "seats": 27,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาจาก Portfolio 100% (ความสามารถวิชาการที่สอดคล้องกับหลักสูตร 40% ความสามารถและศักยภาพด้านวัฒนธรรมและอุตสาหกรรมสร้างสรรค์ 60%); ต้องส่ง Statement of Purpose และเข้าสอบสัมภาษณ์; พิจารณาผลงาน/รางวัล/กิจกรรมที่เกี่ยวข้องกับวัฒนธรรมและอุตสาหกรรมสร้างสรรค์"
     },
     {
+      "program_name_th": "วท.บ.สาขาวิชานวัตกรรมและการแปรรูปทางดิจิทัล (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050123210801B",
+      "faculty_th": "วิทยาลัยนวัตกรรม",
+      "seats": 23,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "แฟ้มสะสมผลงาน (Portfolio)",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณาจาก Portfolio 100% เน้นกิจกรรมด้านนวัตกรรมและเทคโนโลยีดิจิทัล; ต้องส่ง Statement of Purpose และเข้าสอบสัมภาษณ์; พิจารณารางวัล/ผลงานในระดับต่าง ๆ ที่เกี่ยวข้อง"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาปรัชญา การเมือง และเศรษฐศาสตร์ (โครงการพิเศษ) (ศึกษาที่มธ.ท่าพระจันทร์)",
       "tcas_code": "10050124903601B",
-      "program_name_th": "",
+      "faculty_th": "วิทยาลัยสหวิทยาการ",
       "seats": 40,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "ไม่เป็นผู้ป่วยหรืออยู่ในสภาวะที่จะเป็นอุปสรรคร้ายแรงต่อการศึกษา; ไม่เป็นผู้ประพฤติผิดศีลธรรมอันดีหรือมีพฤติกรรมเสื่อมเสียอย่างร้ายแรง; เกณฑ์การคัดเลือก: แฟ้มสะสมผลงาน (Portfolio) 50%, สอบสัมภาษณ์ 50%"
     },
     {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์และนวัตกรรมข้อมูล (โครงการพิเศษ)",
       "tcas_code": "10050224210303B",
-      "program_name_th": "",
+      "faculty_th": "วิทยาลัยสหวิทยาการ",
       "seats": 30,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มีความรู้พื้นฐานด้านคอมพิวเตอร์และเทคโนโลยีสารสนเทศ; สามารถเขียนโปรแกรมภาษา C, Java และ Python; เกณฑ์การคัดเลือก: Portfolio 50%, Statement of Purpose 20%, สอบสัมภาษณ์ 30%"
     },
     {
+      "program_name_th": "ศศ.บ. สาขาสหวิทยาการ (หลักสูตรใหม่ พ.ศ. 2567) (หลักสูตรพหุวิทยาการ) (โครงการพิเศษ จำนวน 3 วิชาเอก) 1. วิชาเอกนวัตกรรมและความเป็นผู้ประกอบการในอนุภูมิภาคลุ่มน้ำโขง 2. วิชาเอกการจัดการการท่องเที่ยว 3. วิชาเอกการจัดการทรัพยากรทางสังคมและวัฒนธรรม",
       "tcas_code": "10050224903601B",
-      "program_name_th": "",
+      "faculty_th": "วิทยาลัยสหวิทยาการ",
       "seats": 80,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การคัดเลือก: Portfolio แฟ้มผลงานด้านสังคมศาสตร์ มนุษยศาสตร์ หรืออื่น ๆ ที่เกี่ยวข้อง 80%, สอบสัมภาษณ์ 20%"
     },
     {
+      "program_name_th": "ศศ.บ. สาขาสหวิทยาการ (หลักสูตรปรับปรุง พ.ศ. 2566) (หลักสูตรพหุวิทยาการ) (ศึกษาที่มธ.ศูนย์ลำปาง จำนวน 5 วิชาเอก) 1. วิชาเอกจีน-โลกศึกษา 2. วิชาเอกการจัดการการท่องเที่ยว 3. วิชาเอกการจัดการทรัพยากรทางสังคมวัฒนธรรม 4. วิชาเอกนวัตกรรมและความเป็นผู้ประกอบการในอนุภูมิภาคลุ่มน้ำโขง 5. วิชาเอกการบูรณาการเพื่อความยั่งยืน",
       "tcas_code": "10050424903601A",
-      "program_name_th": "",
+      "faculty_th": "วิทยาลัยสหวิทยาการ",
       "seats": 50,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การคัดเลือก: Portfolio แฟ้มผลงานด้านสังคมศาสตร์หรือมนุษยศาสตร์ 80%, สอบสัมภาษณ์ 20%"
     },
     {
+      "program_name_th": "ศศ.บ. สาขาวิชาปรัชญา การเมือง และเศรษฐศาสตร์ (โครงการพิเศษ) (ศึกษาที่มธ.ศูนย์ลำปาง)",
       "tcas_code": "10050424903601B",
-      "program_name_th": "",
+      "faculty_th": "วิทยาลัยสหวิทยาการ",
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "คัดเลือกด้วย Portfolio (ค่าน้ำหนัก 100%) และสอบสัมภาษณ์; เกรดเฉลี่ยสะสม 2.75 ขึ้นไป 4-5 ภาคเรียน (กำลังศึกษา) หรือ 6 ภาคเรียน (สำเร็จการศึกษา); ไม่กำหนดหน่วยกิตขั้นต่ำ; ศึกษาที่มหาวิทยาลัยธรรมศาสตร์ ศูนย์ลำปาง"
     },
     {
+      "program_name_th": "ศศ.บ. สาขาวิชานวัตกรรมการพัฒนามนุษย์และสังคม",
       "tcas_code": "10050230903601B",
-      "program_name_th": "",
+      "faculty_th": "วิทยาลัยพัฒนศาสตร์ ป๋วย อึ๊งภากรณ์",
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คัดเลือกด้วย Portfolio (ค่าน้ำหนัก 70%) และ TGAT รหัส 90 ความถนัดทั่วไป (30%) และสอบสัมภาษณ์; ไม่กำหนดหน่วยกิตขั้นต่ำ"
     }
   ]
 }

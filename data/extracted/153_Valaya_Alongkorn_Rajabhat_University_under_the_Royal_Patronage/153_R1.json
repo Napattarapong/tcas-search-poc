@@ -1,116 +1,234 @@
 {
+  "university": "Valaya Alongkorn Rajabhat University under the Royal Patronage",
   "university_id": "153",
   "round": "R1",
-  "archetype": "index",
-  "count": 18,
+  "archetype": "criteria",
+  "program_count": 18,
   "programs": [
     {
+      "program_name_th": "จิตวิทยา",
       "tcas_code": "15312000002",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ไม่เกิน 10 หน้า (รวมปก) แสดงการพัฒนาตนเอง กิจกรรม จิตอาสา; กำลังศึกษา ม.6 หรือสำเร็จ ม.ปลาย/เทียบเท่า ทุกหลักสูตร; ผ่านข้อบังคับ พ.ศ. 2557 และ 2561"
     },
     {
+      "program_name_th": "นิติศาสตร์",
       "tcas_code": "15312000005",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ประกอบด้วยผลงานด้านวิชาการ กิจกรรมบำเพ็ญประโยชน์/จิตอาสา และความสามารถพิเศษ; กำลังศึกษา ม.6 หรือสำเร็จ ม.ปลาย/เทียบเท่า; ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาไทย",
       "tcas_code": "15312000007",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio เน้นความสามารถด้านภาษาไทย ผลงานวิชาการ/แข่งขันภาษาไทย; ผ่านการสัมภาษณ์; ไม่เคยมีความประพฤติเสียหายร้ายแรง; ไม่เป็นคนวิกลจริต/โรคติดต่อร้ายแรง"
     },
     {
+      "program_name_th": "ภาษาอังกฤษ",
       "tcas_code": "15312000008",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Portfolio",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ไม่เกิน 12 หน้า (รวมปก) ประกอบด้วย ประวัติส่วนตัว ผลการเรียน ผลงานวิชาการ กิจกรรม/จิตอาสา ความสามารถพิเศษ; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร"
     },
     {
+      "program_name_th": "รัฐศาสตร์",
       "tcas_code": "15312000015",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Portfolio",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ประกอบด้วยผลงานด้านวิชาการ กิจกรรมบำเพ็ญประโยชน์/จิตอาสา และความสามารถพิเศษ; ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
       "tcas_code": "15312000016",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Portfolio",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ไม่เกิน 10 หน้า (รวมปก) ประกอบด้วย ประวัติส่วนตัว กิจกรรมภาษาอังกฤษ รางวัล ใบเกียรติบัตร; ผ่านการสัมภาษณ์; กำลังศึกษา ม.6 และจะสำเร็จปี 2568 หรือสำเร็จ ม.ปลาย/เทียบเท่า"
     },
     {
+      "program_name_th": "จิตวิทยา",
       "tcas_code": "15312000002",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Quota",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio แสดงการพัฒนาตนเอง กิจกรรม จิตอาสา; เป็นผู้มีความประพฤติดี; มีการเข้าร่วมกิจกรรมสร้างชื่อเสียง/ทำประโยชน์ให้โรงเรียน/สังคม; ผ่านข้อบังคับ พ.ศ. 2557 และ 2561"
     },
     {
+      "program_name_th": "นิติศาสตร์",
       "tcas_code": "15312000005",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Quota",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "โควตาเรียนดี (เกรดเฉลี่ย > 2.00) โควตาจิตอาสา โควตานักกีฬา โควตาความสามารถพิเศษ และโควตาอื่น ๆ; ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาไทย",
       "tcas_code": "15312000007",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Quota",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "นักเรียนที่มีความสามารถทางภาษาไทย นักเรียนในเครือข่ายความร่วมมือ (MOU); ผ่านการสัมภาษณ์; ไม่เคยมีความประพฤติเสียหายร้ายแรง; ไม่เป็นคนวิกลจริต/โรคติดต่อร้ายแรง"
     },
     {
+      "program_name_th": "ภาษาอังกฤษ",
       "tcas_code": "15312000008",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "โควตาเรียนดี โควตาความสามารถพิเศษ โควตานักเรียนผู้มีคุณธรรมและบำเพ็ญประโยชน์ โควตานักกีฬา โควตานักเรียนในเขตพื้นที่บริการ; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร"
     },
     {
+      "program_name_th": "รัฐศาสตร์",
       "tcas_code": "15312000015",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผลงานด้านวิชาการ โควตาจิตอาสา โควตานักกีฬา โควตาความสามารถพิเศษ และโควตาอื่น ๆ; ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
       "tcas_code": "15312000016",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผ่านการสัมภาษณ์โดยคณะกรรมการสอบสัมภาษณ์; กำลังศึกษา ม.6 และจะสำเร็จปี 2568 หรือสำเร็จ ม.ปลาย/เทียบเท่า"
     },
     {
+      "program_name_th": "จิตวิทยา",
       "tcas_code": "15312000002",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 80,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GAT",
+          "subject_name_th": "GAT",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณา GPAX และ GAT (ไม่ระบุขั้นต่ำ); ผ่านข้อบังคับ พ.ศ. 2557 และ 2561"
     },
     {
+      "program_name_th": "นิติศาสตร์",
       "tcas_code": "15312000005",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณา GPAX และ TGAT (ไม่ระบุคะแนนขั้นต่ำ); ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาไทย",
       "tcas_code": "15312000007",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร; ไม่เคยมีความประพฤติเสียหายร้ายแรง; ไม่เป็นคนวิกลจริต/โรคติดต่อร้ายแรง"
     },
     {
+      "program_name_th": "ภาษาอังกฤษ",
       "tcas_code": "15312000008",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร"
     },
     {
+      "program_name_th": "รัฐศาสตร์",
       "tcas_code": "15312000015",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "T-GAT",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "A-Level (คณิตศาสตร์ ภาษาไทย สังคมศึกษา)",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณา GPAX, T-GAT และ A-Level (ไม่จำกัดคะแนนขั้นต่ำ); ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
       "tcas_code": "15312000016",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผ่านการสัมภาษณ์โดยคณะกรรมการสอบสัมภาษณ์"
     }
   ]
 }

@@ -1,176 +1,317 @@
 {
+  "university": "Siam University",
   "university_id": "181",
   "round": "R1",
-  "archetype": "index",
-  "count": 28,
+  "archetype": "criteria",
+  "program_count": 28,
   "programs": [
     {
-      "tcas_code": "41810115120101A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810116113001A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810106111701A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810110112701A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810101300701A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810101301601A",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810101302101A",
-      "program_name_th": "",
-      "seats": 7,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810101300501A",
-      "program_name_th": "",
-      "seats": 8,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810101302001A",
-      "program_name_th": "",
-      "seats": 9,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810101303501A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810108220101A",
-      "program_name_th": "",
-      "seats": 11,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810108220501A",
-      "program_name_th": "",
-      "seats": 13,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810108610701A",
-      "program_name_th": "",
-      "seats": 14,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810107211001A",
-      "program_name_th": "",
+      "program_name_th": "ทันตแพทยศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะทันตแพทยศาสตร์",
       "seats": 15,
-      "subject_codes": []
+      "project_code": "41810115120101A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810107220201A",
-      "program_name_th": "",
-      "seats": 12,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810107220101A",
-      "program_name_th": "",
-      "seats": 16,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810103620101A",
-      "program_name_th": "",
-      "seats": 17,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810103902501A",
-      "program_name_th": "",
-      "seats": 18,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810103901901A",
-      "program_name_th": "",
-      "seats": 19,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "41810105901101A",
-      "program_name_th": "",
+      "program_name_th": "ทัศนมาตรศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะทัศนมาตรศาสตร์",
       "seats": 20,
-      "subject_codes": []
+      "project_code": "41810116113001A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810104901001A",
-      "program_name_th": "",
-      "seats": 21,
-      "subject_codes": []
+      "program_name_th": "พยาบาลศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะพยาบาลศาสตร์",
+      "seats": 30,
+      "project_code": "41810106111701A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810102610101A",
-      "program_name_th": "",
-      "seats": 22,
-      "subject_codes": []
+      "program_name_th": "อาชีวอนามัยและความปลอดภัย",
+      "tcas_code": null,
+      "faculty_th": "ภาควิชาสาธารณสุขศาสตร์ คณะแพทยศาสตร์",
+      "seats": 20,
+      "project_code": "41810110112701A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810102610601A",
-      "program_name_th": "",
-      "seats": 23,
-      "subject_codes": []
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": "41810101300701A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810102610301A",
-      "program_name_th": "",
-      "seats": 24,
-      "subject_codes": []
+      "program_name_th": "วิศวกรรมไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": "41810101301601A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810102610801A",
-      "program_name_th": "",
-      "seats": 25,
-      "subject_codes": []
+      "program_name_th": "วิศวกรรมโยธา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": "41810101302101A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810102610501A",
-      "program_name_th": "",
-      "seats": 26,
-      "subject_codes": []
+      "program_name_th": "วิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 30,
+      "project_code": "41810101300501A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810111610801E",
-      "program_name_th": "",
-      "seats": 27,
-      "subject_codes": []
+      "program_name_th": "วิศวกรรมยานยนต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": "41810101302001A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     },
     {
-      "tcas_code": "41810114903201A",
-      "program_name_th": "",
-      "seats": 28,
-      "subject_codes": []
+      "program_name_th": "วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": 40,
+      "project_code": "41810101303501A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศ",
+      "seats": 50,
+      "project_code": "41810108220101A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "แอนิเมชันและสื่อสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศ",
+      "seats": 50,
+      "project_code": "41810108220501A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "ธุรกิจดิจิทัลและเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีสารสนเทศ",
+      "seats": 50,
+      "project_code": "41810108610701A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "นวัตกรรมอาหารและการเป็นผู้ประกอบการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": "41810107211001A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "วิทยาการข้อมูลและคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": "41810107220201A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "การตลาดดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์",
+      "seats": 30,
+      "project_code": "41810107220101A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "การโรงแรม การท่องเที่ยวและการบริการ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 60,
+      "project_code": "41810103620101A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษสื่อสารธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 60,
+      "project_code": "41810103902501A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "ภาษาญี่ปุ่นเพื่อการสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 60,
+      "project_code": "41810103901901A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "นิเทศศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิเทศศาสตร์",
+      "seats": 50,
+      "project_code": "41810105901101A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569; วิชาเอกการประชาสัมพันธ์, วิชาเอกการโฆษณาและสื่อสารการตลาดดิจิทัล, วิชาเอกภาพยนตร์ โทรทัศน์ และสื่อดิจิทัล"
+    },
+    {
+      "program_name_th": "นิติศาสตร์",
+      "tcas_code": null,
+      "faculty_th": "คณะนิติศาสตร์",
+      "seats": 50,
+      "project_code": "41810104901001A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "การเงินและการลงทุน",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": "41810102610101A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "การตลาด",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": "41810102610601A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "การจัดการและการประกอบการ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": "41810102610301A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "การจัดการธุรกิจระหว่างประเทศ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 30,
+      "project_code": "41810102610801A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "การบัญชี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 50,
+      "project_code": "41810102610501A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
+    },
+    {
+      "program_name_th": "International Business",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยนานาชาติ",
+      "seats": 60,
+      "project_code": "41810111610801E",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569; วิชาเอกการบริหารธุรกิจระหว่างประเทศ (International Business), วิชาเอกการโรงแรมและการท่องเที่ยว การบริหารอุตสาหกรรมบริการ (Hotel & Tourism, Service Industry Management)"
+    },
+    {
+      "program_name_th": "การปกครอง",
+      "tcas_code": null,
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": 20,
+      "project_code": "41810114903201A",
+      "round_label": "รอบที่ 1 การรับด้วยแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "มหาวิทยาลัยสยาม รับนักศึกษาเข้าศึกษาต่อในระดับปริญญาตรี ประจำปีการศึกษา 2569"
     }
   ]
 }

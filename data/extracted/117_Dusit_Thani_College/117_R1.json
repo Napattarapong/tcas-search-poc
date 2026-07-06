@@ -3,7 +3,7 @@
   "university_id": "117",
   "round": "R1",
   "archetype": "criteria",
-  "program_count": 1,
+  "program_count": 2,
   "programs": [
     {
       "program_name_th": "สาขาวิชาการจัดการโรงแรม",
@@ -14,7 +14,18 @@
       "round_label": "รอบที่ 1 PORTFOLIO",
       "gpax_min": null,
       "weighted_subjects": [],
-      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต (หลักสูตรนานาชาติ BBA in Hospitality Management) ปีการศึกษา 2569 รับสมัคร ต.ค. 2568 สอบสัมภาษณ์ 6-7 ธ.ค. 2568 ประกาศผล 15 ธ.ค. 2568 ยืนยันสิทธิ์ 20 ธ.ค. 2568 ผ่านระบบ MYTCAS"
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต (ภาษาไทย) / B.B.A. IN HOSPITALITY MANAGEMENT (นานาชาติ) — กำหนดการ: รับสมัคร 20 ต.ค.–20 ธ.ค. 2568, สอบสัมภาษณ์ 6–7 ธ.ค. 2568, ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์ 20 ธ.ค. 2568, ประกาศผล ธ.ค. 2568, ยืนยันสิทธิ์ ธ.ค. 2568, สละสิทธิ์ ก.พ. 2569"
+    },
+    {
+      "program_name_th": "สาขาวิชาศิลปะการประกอบอาหาร",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยดุสิตธานี",
+      "seats": 24,
+      "project_code": null,
+      "round_label": "รอบที่ 1 PORTFOLIO",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "หลักสูตรบริหารธุรกิจบัณฑิต (ภาษาไทย) / B.B.A. IN PROFESSIONAL CULINARY ARTS (นานาชาติ) — กำหนดการ: รับสมัคร 20 ต.ค.–20 ธ.ค. 2568, สอบสัมภาษณ์ 6–7 ธ.ค. 2568, ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์ 20 ธ.ค. 2568, ประกาศผล ธ.ค. 2568, ยืนยันสิทธิ์ ธ.ค. 2568, สละสิทธิ์ ก.พ. 2569"
     }
   ]
 }

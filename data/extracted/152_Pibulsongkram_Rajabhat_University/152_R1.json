@@ -1,12 +1,207 @@
 {
+  "university": "Pibulsongkram Rajabhat University",
   "university_id": "152",
   "round": "R1",
-  "archetype": "list",
-  "count": 1,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 18,
+  "programs": [
     {
-      "item_no": "2",
-      "text": "2. รับสมัครบุคคลเข้าศึกษา"
+      "program_name_th": "สาขาวิชาสถาปัตยกรรม",
+      "tcas_code": "3411",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สถ.บ.5 ปี | วิทย์-คณิต/ศิลป์-คำนวณ/ศิลป์-ทั่วไป หรือที่เกี่ยวข้อง หรือ ปวช.ด้านสถาปัตยกรรม/ก่อสร้าง หรือสาขาที่เกี่ยวข้อง | สอบสัมภาษณ์ด้านสถาปัตยกรรมหรือออกแบบ"
+    },
+    {
+      "program_name_th": "สาขาวิชาศิลปะและการออกแบบ วิชาเอกเครื่องปั้นดินเผา",
+      "tcas_code": "3209",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ศป.บ.4 ปี | ทุกแผนการเรียน | ไม่กำหนดคะแนน"
+    },
+    {
+      "program_name_th": "สาขาวิชาศิลปะและการออกแบบ วิชาเอกออกแบบผลิตภัณฑ์",
+      "tcas_code": "3210",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ศป.บ.4 ปี | ทุกแผนการเรียน | ไม่กำหนดคะแนน"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมการผลิต",
+      "tcas_code": "3203",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | วิทย์-คณิต/ศิลป์-คำนวณ หรือ ปวช.สาขาช่างอุตสาหกรรมที่เกี่ยวข้อง"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมคอมพิวเตอร์",
+      "tcas_code": "3204",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 70,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | วิทย์-คณิต/ศิลป์-คำนวณ GPAX 2.50 | ศิลป์-ทั่วไป/ศิลป์-การงานอุตสาหกรรม/ศิลป์-คอมพิวเตอร์ธุรกิจ/ศิลป์-พาณิชยการ GPAX 2.75 (ต้องผ่าน COM-ENG Portfolio Camp) | ปวช.คอมพิวเตอร์ธุรกิจ/เทคโนโลยีสารสนเทศ GPAX 3.00 | สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล",
+      "tcas_code": "3205",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | วิทย์-คณิต/ศิลป์-คำนวณ GPAX 2.50 | ศิลป์-คำนวณ GPAX 2.75 | ปวช.อุตสาหกรรม/ช่างยนต์/ช่างกลโรงงาน ฯลฯ GPAX 2.75 | สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้าสื่อสารและอิเล็กทรอนิกส์",
+      "tcas_code": "3206",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | วิทย์-คณิต/ศิลป์-คำนวณ/ปวช.อิเล็กทรอนิกส์/ไฟฟ้า/การวัดคุม GPAX 2.00 | ศิลป์-ทั่วไป/ศิลป์-การงานอุตสาหกรรม/ศิลป์-คอมพิวเตอร์ธุรกิจ/ศิลป์-พาณิชยการ GPAX 2.50"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธา",
+      "tcas_code": "3207",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | วิทย์-คณิต/ศิลป์-คำนวณ/ช่างก่อสร้าง/ช่างสำรวจ/ช่างโยธา/ช่างสถาปัตยกรรม | สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโลจิสติกส์",
+      "tcas_code": "3208",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 135,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | วิทย์-คณิต/ศิลป์-คำนวณ/ปวช.สาขาที่เกี่ยวข้องกับอุตสาหกรรม"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมการผลิต (เทียบโอน)",
+      "tcas_code": "3303",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | ปวส/เทียบเท่า | เทคนิคการผลิต/เทคนิคแม่พิมพ์/เทคนิคเครื่องมือกล/เทคนิคเครื่องกล ฯลฯ หรือสาขาที่เกี่ยวข้องกับวิศวกรรมการผลิต"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมคอมพิวเตอร์ (เทียบโอน)",
+      "tcas_code": "3304",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | ปวส/เทียบเท่า | ช่างไฟฟ้ากำลัง/ช่างอิเล็กทรอนิกส์/เทคนิคอุตสาหกรรม/เทคโนโลยีคอมพิวเตอร์/แมคคาทรอนิกส์ ฯลฯ GPAX 2.50 | คอมพิวเตอร์ธุรกิจ/เทคโนโลยีธุรกิจดิจิทัล/เทคโนโลยีสารสนเทศ GPAX 3.00 | สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล (เทียบโอน)",
+      "tcas_code": "3305",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 80,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | ปวส/เทียบเท่า | ช่างอุตสาหกรรม/ช่างยนต์/ช่างเครื่องกล/ช่างเทคนิคการผลิต ฯลฯ หรือสาขาที่เกี่ยวข้องกับเครื่องกล | สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้าสื่อสารและอิเล็กทรอนิกส์ (เทียบโอน)",
+      "tcas_code": "3306",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | ปวส/เทียบเท่า | อิเล็กทรอนิกส์/อิเล็กทรอนิกส์อุตสาหกรรม/ไฟฟ้า/ไฟฟ้ากำลัง/ไฟฟ้าสื่อสาร/โทรคมนาคม/แมคคาทรอนิกส์/การวัดคุม/เทคนิคคอมพิวเตอร์ ฯลฯ หรือสาขาที่เกี่ยวข้อง"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธา (เทียบโอน)",
+      "tcas_code": "3307",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "วศ.บ.4 ปี | ปวส/เทียบเท่า | ช่างก่อสร้าง/ช่างสำรวจ/ช่างโยธา/ช่างสถาปัตยกรรม หรือสาขาที่เกี่ยวข้อง | สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สาขาวิชาศิลปะและการออกแบบ (เทียบโอน)",
+      "tcas_code": "3312",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ศป.บ.4 ปี | ปวส/เทียบเท่า | วิจิตรศิลป์/เทคโนโลยีเซรามิกส์/ดิจิทัลกราฟิก/เทคโนโลยีศิลปกรรม/ออกแบบนิเทศศิลป์ หรือสาขาที่เกี่ยวข้อง"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีอุตสาหกรรม วิชาเอกเทคโนโลยีวิศวกรรมการจัดการและโลจิสติกส์",
+      "tcas_code": "3101",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "อส.บ.2 ปี (ต่อเนื่อง) | ปวส/เทียบเท่า | ทุกสาขาที่มีพื้นฐานทางด้านอุตสาหกรรม/การจัดการและโลจิสติกส์ หรือสาขาที่เกี่ยวข้อง"
+    },
+    {
+      "program_name_th": "สาขาวิชาเทคโนโลยีอุตสาหกรรม วิชาเอกเทคโนโลยีวิศวกรรมไฟฟ้ากำลัง",
+      "tcas_code": "3102",
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "อส.บ.2 ปี (ต่อเนื่อง) | ปวส/เทียบเท่า | ช่างไฟฟ้ากำลัง/ช่างไฟฟ้า/ช่างอิเล็กทรอนิกส์/ไฟฟ้าอุตสาหกรรม หรือสาขาที่เกี่ยวข้อง | สอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": "4201",
+      "faculty_th": "คณะพยาบาลศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "พย.บ.4 ปี | ม.6 | วิทย์-คณิต"
     }
   ]
 }
