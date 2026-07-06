@@ -1,16 +1,105 @@
 {
+  "university": "Mahasarakham University",
   "university_id": "021",
   "round": "R3",
-  "archetype": "list",
-  "count": 2,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 2,
+  "programs": [
     {
-      "item_no": "1",
-      "text": "1. โครงการ รอบที่่ę 3 Admission รูปแบบที่่ę 1 เกณฑ์ ์ค่่าน้้ำหนักคะแนน GPAX/TGAT/TPAT/A-Level / รหัส สาขาวิชา / วิทยาลัยดุริยางคศิลป | สาขาวิชา | แผนการรับ บุคคลเข้าศึกษา (คน) | เกณฑ์ ์การพิจารณาคัดเลือก / ค่่าน้้ำหนักคะแนน TGAT/ TPAT (%) / TGAT ความถ ั นด ę่่ั ทวไป / รหัส 90 | TPAT2 / TPAT2 ความถ ั"
+      "program_name_th": "ภ.บ. การบริบาลทางเภสัชกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission รูปแบบที่ 3 โครงการ กสพท",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิทยาศาสตร์ (คิดคะแนนรวมของฟิสิกส์ เคมี และชีววิทยา)",
+          "weight_percent": "40%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "20%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "TPAT1",
+          "subject_name_th": "วิชาเฉพาะ กสพท (การทดสอบศักยภาพในการเรียนรู้ และการประเมินแนวคิดทางจริยธรรม)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "A-Level ใช้คะแนนสอบวันที่ 14-16 กรกฎาคม 2569 เท่านั้น | TPAT1 ใช้คะแนนสอบวันที่ 14 กุมภาพันธ์ 2569 เท่านั้น | ติดตามข้อมูลได้ที่ https://cotmesadmission.com/"
     },
     {
-      "item_no": "2",
-      "text": "2. โครงการ รอบที่่ę 3 Admission รูปแบบที่่ę 2 เกณฑ์ ์ค่่าน้้ำหนักคะแนน GPAX/GPA / รหัส สาขาวิชา / คณะนติ ิศาสตร | สาขาวิชา | แผนการ ั รบ ุ บคคลเ ้ ขา ึ ศกษา (คน) | เกณฑ์ ์การพิจารณาคัดเลือก / ่่ คา ้้ นำห ั นกคะแนนผลการเ ี รยนเ ล ฉ ę่่ ียสะสม (GPAX) ของ 6 ภาคเ ี รยน | ค่่าน้้ำหนักคะแนนผลการเรียนเฉaล"
+      "program_name_th": "สพ.บ. สัตวแพทยศาสตร์ (หลักสูตร 6 ปี)",
+      "tcas_code": null,
+      "faculty_th": "คณะสัตวแพทยศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission รูปแบบที่ 3 โครงการ กสพท",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "วิทยาศาสตร์ (คิดคะแนนรวมของฟิสิกส์ เคมี และชีววิทยา)",
+          "weight_percent": "40%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "20%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "Adj. T-SCORE >= 30% ของคะแนนเต็มในแต่ละวิชา"
+        },
+        {
+          "subject_code": "TPAT1",
+          "subject_name_th": "วิชาเฉพาะ กสพท (การทดสอบศักยภาพในการเรียนรู้ และการประเมินแนวคิดทางจริยธรรม)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "A-Level ใช้คะแนนสอบวันที่ 14-16 กรกฎาคม 2569 เท่านั้น | TPAT1 ใช้คะแนนสอบวันที่ 14 กุมภาพันธ์ 2569 เท่านั้น | ติดตามข้อมูลได้ที่ https://cotmesadmission.com/"
     }
   ]
 }

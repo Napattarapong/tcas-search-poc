@@ -1,12 +1,20 @@
 {
+  "university": "Princess Galyani Vadhana Institute of Music",
   "university_id": "265",
   "round": "R2",
-  "archetype": "list",
-  "count": 1,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 1,
+  "programs": [
     {
-      "item_no": "4",
-      "text": "4. การรับสมัครและการประกาศรายชื่อผู้มีสิทธิ์สอบ"
+      "program_name_th": "ดุริยางคศาสตรบัณฑิต",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาตุริยางคศาสตร์ สถาบันดนตรีกัลยาณิวัฒนา",
+      "seats": null,
+      "project_code": null,
+      "round_label": "Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "สำเร็จหรือคาดว่าจะสำเร็จ ม.6 หรือเทียบเท่า; มีความสามารถทางดนตรี (ปฏิบัติเครื่องมือเอก ทฤษฎีดนตรี ประวัติดนตรีตะวันตก โสตทักษะ); ผู้สมัคร GED ต้องมีคะแนนแต่ละวิชา ≥145 และคะแนนรวม ≥640; เกณฑ์การให้คะแนน: เกรดเฉลี่ย 4 ภาค 10 คะแนน, แฟ้มสะสมผลงาน (Portfolio) 10 คะแนน, Statement of Purpose 20 คะแนน, สอบปฏิบัติ 30 คะแนน, สอบสัมภาษณ์ 30 คะแนน (รวม 100 คะแนน); ค่าธรรมเนียมสมัคร 2,000 บาท"
     }
   ]
 }

@@ -1,24 +1,323 @@
 {
+  "university": "Chitralada Technology Institute",
   "university_id": "035",
   "round": "R2",
-  "archetype": "list",
-  "count": 4,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 24,
+  "programs": [
     {
-      "item_no": "2",
-      "text": "2. การรับสมัครและหลักฐานการสมัคร"
+      "program_name_th": "สาขาการจัดการนวัตกรรมอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถ และทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
     },
     {
-      "item_no": "1",
-      "text": "1. รับสมัครออนไลน 1.1 กรอกขอมลู การสมัครเรียนทางเว็บไซต รับสมัครของสถาบัน https://reg.cdti.ac.th 1.2 ชำระเงินคาสมัคร : พิมพใบแจงยอด คาสมัครนำไปชำระเงินที่ธนาคารหรือ ชองทางออนไลน 1.3 หลังจากชำระเงนิ แลว 1 วันทำการอัปโหลด เอกสารการสมัครเรียนทางเว็บไซตรับสมัคร ของสถาบัน ** อัปโหลดเปนไฟล PD"
+      "program_name_th": "สาขาการจัดการนวัตกรรมอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
     },
     {
-      "item_no": "1",
-      "text": "1. รับสมัครออนไลน 1.1 กรอกขอมลู การสมัครเรียนทางเว็บไซต รับสมัครของสถาบัน https://reg.cdti.ac.th 1.2 ชำระเงินคาสมัคร : พิมพใบแจงยอด คาสมัครนำไปชำระเงินที่ธนาคารหรือ ชองทางออนไลน 1.3 หลังจากชำระเงนิ แลว 1 วันทำการอัปโหลด เอกสารการสมัครเรียนทางเว็บไซตรับสมัคร ของสถาบัน ** อัปโหลดเปนไฟล PD"
+      "program_name_th": "สาขาการจัดการนวัตกรรมอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": null
     },
     {
-      "item_no": "1",
-      "text": "1. รับสมัครออนไลน กรอกขอมูลการสมัครเรียนท่รี ะบบ TCAS เว็บไซต  https://mytcas.com | 6 - 12 พ.ค. 2569 เว็บไซต TCAS : https://mytcas.com"
+      "program_name_th": "สาขาการประกอบการธุรกิจอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถ และทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาการประกอบการธุรกิจอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาการประกอบการธุรกิจอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": 70,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิศวกรรมเทคโนโลยีไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถ และทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาวิศวกรรมเทคโนโลยีไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาวิศวกรรมเทคโนโลยีไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีอุตสาหกรรม",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถ และทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาวิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "3.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "หรือ GPAX 2.75-2.99 และต้องมีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถ ทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์และทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานทางวิศวกรรม ความรู้ทางคอมพิวเตอร์และทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาวิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": "TGAT 1 (การสื่อสารภาษาอังกฤษ) ขั้นต่ำ 15"
+        },
+        {
+          "subject_code": "TPAT",
+          "subject_name_th": "TPAT",
+          "weight_percent": "40%",
+          "min_threshold": "TPAT 3 (ความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์) ขั้นต่ำ 30"
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "30%",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "A-Level 63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": null,
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "A-Level 64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": null,
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "A-Level รวมค่าน้ำหนัก 30% (รวม 3 วิชา)"
+    },
+    {
+      "program_name_th": "สาขาการออกแบบดิจิทัลและเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถ และทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาการออกแบบดิจิทัลและเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาการออกแบบดิจิทัลและเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาเทคโนโลยีเกษตรนวัต",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาเกษตรนวัต",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถ และทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาเทคโนโลยีเกษตรนวัต",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาเกษตรนวัต",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาเทคโนโลยีเกษตรนวัต",
+      "tcas_code": null,
+      "faculty_th": "สำนักวิชาเกษตรนวัต",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาการออกแบบเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานด้านการออกแบบ ด้านพื้นฐานทางศิลปะและด้านเทคโนโลยี หรือการออกแบบเทคโนโลยีที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาการออกแบบเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "2.75",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานด้านการออกแบบ ด้านพื้นฐานทางศิลปะและด้านเทคโนโลยี หรือการออกแบบเทคโนโลยีที่สอดคล้องกับสาขาที่สมัคร; เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาการออกแบบเทคโนโลยี",
+      "tcas_code": null,
+      "faculty_th": "คณะเทคโนโลยีดิจิทัล",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": "TGAT 1 (การสื่อสารภาษาอังกฤษ) คะแนนขั้นต่ำ 5, TGAT 2 (การคิดอย่างมีเหตุผล) คะแนนขั้นต่ำ 5, TGAT 3 (สมรรถนะการทำงาน) คะแนนขั้นต่ำ 5"
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "ทัศนศิลป์",
+          "weight_percent": "40%",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "A-Level 82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": null
+    },
+    {
+      "program_name_th": "สาขาวิชา (ไม่ระบุชื่อ - สาขาที่ 2)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบแฟ้มสะสมผลงาน (Portfolio)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "มีแฟ้มสะสมผลงานที่แสดงตัวตน ความรู้ ความสามารถและทักษะการเข้าร่วมกิจกรรมที่สอดคล้องกับสาขาที่สมัคร; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาวิชา (ไม่ระบุชื่อ - สาขาที่ 2)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบโควตา (Quota)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "เป็นผู้มีคุณสมบัติเฉพาะตามเกณฑ์การสมัครในรอบโควตา; สอบสัมภาษณ์เพื่อทดสอบความพร้อมทางวิชาการ ทักษะพื้นฐานและทัศนคติต่อวิชาชีพ"
+    },
+    {
+      "program_name_th": "สาขาวิชา (ไม่ระบุชื่อ - สาขาที่ 2)",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": null
     }
   ]
 }

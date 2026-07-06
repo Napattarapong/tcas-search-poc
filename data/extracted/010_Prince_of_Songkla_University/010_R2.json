@@ -1,16 +1,363 @@
 {
+  "university": "Prince of Songkla University",
   "university_id": "010",
   "round": "R2",
-  "archetype": "list",
-  "count": 2,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 8,
+  "programs": [
     {
-      "item_no": "1",
-      "text": "หมายเหตุ 1. เกณฑขั้นต่ํา คิดจากคะแนนเต็ม วิชาละ 100 คะแนน 2. คาน้ําหนักรวมกันเทากับ 100 คะแนน 3. ทุกสาขาวิชา บังคับสอบรายวิชา 82 ภาษาอังกฤษ 4. ผูสมัครตองมีผลคะแนนสอบครบทุกรายวิชา ตามที่คณะ/สาขาวิชากําหนด จึงจะไดรับการพิจารณาคัดเลือก คุณสมบัติเฉพาะและความพรอมทางการศึกษา 1. รับนักเรียนรายวิชาวิ"
+      "program_name_th": "การจัดการรัฐกิจ",
+      "tcas_code": "50115",
+      "faculty_th": "คณะพาณิชยศาสตร์และการจัดการ (ตรัง) (ต่อ)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "A",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
     },
     {
-      "item_no": "1",
-      "text": "20101 | คณิตศาสตร | A | 13 | 5 | 8 | คาน้ําหนัก เกณฑขั้นต่ํา | 40 25 |  |  | 10 15 | 10 15 | 10 15 |  | 20 40 | 10 15 |  |  | 1. รับนักเรียนแผนการเรียน วิทยาศาสตร 2. มีจํานวนหนวยกิต รวม 5 ภาคเรียน (ม.4-ม.6) ในกลุม สาระการเรียนรูตาง ๆ ดังนี้ 2.1 คณิตศาสตร ≥10 หนวย กิต 2.2 วิทยาศาสตร ≥20 ห"
+      "program_name_th": "การจัดการรัฐกิจ",
+      "tcas_code": "50116",
+      "faculty_th": "คณะพาณิชยศาสตร์และการจัดการ (ตรัง) (ต่อ)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "B",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 1",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "การจัดการรัฐกิจ",
+      "tcas_code": "50117",
+      "faculty_th": "คณะพาณิชยศาสตร์และการจัดการ (ตรัง) (ต่อ)",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "C",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 2",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
+      "tcas_code": "50118",
+      "faculty_th": "คณะพาณิชยศาสตร์และการจัดการ (ตรัง) (ต่อ)",
+      "seats": 6,
+      "project_code": null,
+      "round_label": "A",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
+      "tcas_code": "50119",
+      "faculty_th": "คณะพาณิชยศาสตร์และการจัดการ (ตรัง) (ต่อ)",
+      "seats": 8,
+      "project_code": null,
+      "round_label": "B",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 1",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
+      "tcas_code": "50120",
+      "faculty_th": "คณะพาณิชยศาสตร์และการจัดการ (ตรัง) (ต่อ)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "C",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 2",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": "50201",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์ (ตรัง)",
+      "seats": 12,
+      "project_code": null,
+      "round_label": "A",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรม",
+      "tcas_code": "50202",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์ (ตรัง)",
+      "seats": 12,
+      "project_code": null,
+      "round_label": "B",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ ประยุกต์ 1",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีการสอบสัมภาษณ์"
     }
   ]
 }

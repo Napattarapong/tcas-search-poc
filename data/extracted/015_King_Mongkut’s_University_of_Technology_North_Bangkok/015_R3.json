@@ -1,812 +1,908 @@
 {
+  "university": "King Mongkut’s University of Technology North Bangkok",
   "university_id": "015",
   "round": "R3",
-  "archetype": "index",
-  "count": 134,
+  "archetype": "criteria",
+  "program_count": 45,
   "programs": [
     {
-      "tcas_code": "10150101300301A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101300501A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101300601A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101300701A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101300701E",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101300702A",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101301601A",
-      "program_name_th": "",
-      "seats": 7,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101301601A",
-      "program_name_th": "",
-      "seats": 8,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101301601D",
-      "program_name_th": "",
-      "seats": 9,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101302101A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101302101B",
-      "program_name_th": "",
-      "seats": 11,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101302401A",
-      "program_name_th": "",
-      "seats": 12,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101302401B",
-      "program_name_th": "",
-      "seats": 13,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101302501A",
-      "program_name_th": "",
-      "seats": 14,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101302502E",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101302901D",
-      "program_name_th": "",
-      "seats": 16,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101303201A",
-      "program_name_th": "",
-      "seats": 17,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101303201E",
-      "program_name_th": "",
-      "seats": 18,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101303501A",
-      "program_name_th": "",
-      "seats": 19,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150201302301A",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101301501A",
-      "program_name_th": "",
-      "seats": 21,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101301501B",
-      "program_name_th": "",
-      "seats": 22,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150101301602D",
-      "program_name_th": "",
-      "seats": 23,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150102302101A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150102700101A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150102701101A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150102701102A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150102700901A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103213501A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103213501B",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103300702A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303401A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303401A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303401B",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303401A",
-      "program_name_th": "",
-      "seats": 7,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303401A",
-      "program_name_th": "",
-      "seats": 8,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303501A",
-      "program_name_th": "",
-      "seats": 9,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303501A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103303402A",
-      "program_name_th": "",
-      "seats": 11,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103300701A",
-      "program_name_th": "",
-      "seats": 12,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103300703A",
-      "program_name_th": "",
-      "seats": 13,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103300703A",
-      "program_name_th": "",
-      "seats": 14,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150103302501A",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104210301A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104210301B",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104210302A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104210302B",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104210401A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104210401B",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211001A",
-      "program_name_th": "",
-      "seats": 7,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211001B",
-      "program_name_th": "",
-      "seats": 8,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211201A",
-      "program_name_th": "",
-      "seats": 9,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211201B",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211901A",
-      "program_name_th": "",
-      "seats": 11,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211901B",
-      "program_name_th": "",
-      "seats": 12,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212701A",
-      "program_name_th": "",
-      "seats": 13,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212701A",
-      "program_name_th": "",
-      "seats": 14,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212701A",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212701B",
-      "program_name_th": "",
-      "seats": 16,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212702B",
-      "program_name_th": "",
-      "seats": 17,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212703B",
-      "program_name_th": "",
-      "seats": 18,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104213301A",
-      "program_name_th": "",
-      "seats": 19,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104213301B",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104213302A",
-      "program_name_th": "",
-      "seats": 21,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104213302B",
-      "program_name_th": "",
-      "seats": 22,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104220201A",
-      "program_name_th": "",
-      "seats": 23,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104220201B",
-      "program_name_th": "",
-      "seats": 24,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104220201C",
-      "program_name_th": "",
-      "seats": 25,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104220303A",
-      "program_name_th": "",
-      "seats": 26,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104220303B",
-      "program_name_th": "",
-      "seats": 27,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104300901A",
-      "program_name_th": "",
-      "seats": 28,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104300901B",
-      "program_name_th": "",
-      "seats": 29,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212704A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212704A",
-      "program_name_th": "",
-      "seats": 31,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212704B",
-      "program_name_th": "",
-      "seats": 32,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104212704B",
-      "program_name_th": "",
-      "seats": 33,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104501102A",
-      "program_name_th": "",
-      "seats": 34,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104501102B",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104303401A",
-      "program_name_th": "",
-      "seats": 36,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104303401B",
-      "program_name_th": "",
-      "seats": 37,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211001A",
-      "program_name_th": "",
-      "seats": 38,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150104211001B",
-      "program_name_th": "",
-      "seats": 39,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150107220101E",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150109303401E",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150109303401E",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150109302001E",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150111400501A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150111800102A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150111800102A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150111800103A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150111800104A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150115610801E",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150115610801E",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150115620201E",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150115620201E",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150116610801A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150116610802A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205211001A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205211001A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205211001A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205211002A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205211002A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205211002A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205212401A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205212401A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "10150205212401A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
+      "program_name_th": "สาขาวิชาวิศวกรรมการผลิต (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01101",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้ที่มีความพิการทุกประเภท"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมหุ่นยนต์และระบบอัตโนมัติ (หลักสูตรภาษาอังกฤษ)",
+      "tcas_code": "01102",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้ที่มีความพิการทุกประเภท"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเคมี (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01103",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางสายตา (ตาบอดสีและตาบอดสนิท) และพิการทางแขนและขา"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกล (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01105",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต หรือ ปวช. ประเภทวิชาอุตสาหกรรม (กลุ่มวิชาเครื่องกล/ไฟฟ้า/การก่อสร้าง/ฐานวิทยาศาสตร์); คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้ที่มีความพิการทุกประเภท"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมเครื่องกลเพื่อการออกแบบและนวัตกรรม (หลักสูตรนานาชาติ)",
+      "tcas_code": "01120",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต หรือ ปวช. ประเภทวิชาอุตสาหกรรม (กลุ่มวิชาเครื่องกล/ไฟฟ้า/การก่อสร้าง/ฐานวิทยาศาสตร์); คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้ที่มีความพิการทุกประเภท"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมการบินและอวกาศ (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01106",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต หรือ ปวช. ประเภทวิชาอุตสาหกรรม (กลุ่มวิชาเครื่องกล/ไฟฟ้า/การก่อสร้าง/ฐานวิทยาศาสตร์); คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้ที่มีความพิการทุกประเภท"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมการออกแบบการบินและอวกาศ (หลักสูตรนานาชาติ)",
+      "tcas_code": "01107",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต หรือ ปวช. ประเภทวิชาอุตสาหกรรม (กลุ่มวิชาเครื่องกล/ไฟฟ้า/การก่อสร้าง/ฐานวิทยาศาสตร์); คุณสมบัติเฉพาะ: ไม่เป็นผู้พิการที่เป็นอุปสรรคต่อการเรียนแบบปกติ"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้า - แขนงวิชาวิศวกรรมไฟฟ้ากำลังและควบคุมอัตโนมัติ (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01108",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางการได้ยิน พิการทางสายตา (ตาบอดสนิท) และพิการทางแขน"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้า - แขนงวิชาวิศวกรรมโทรคมนาคม (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01109",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางการได้ยิน พิการทางสายตา (ตาบอดสนิท) และพิการทางแขน"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมไฟฟ้าและระบบอัจฉริยะ (หลักสูตรภาษาอังกฤษ)",
+      "tcas_code": "01110",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางการได้ยิน พิการทางสายตา (ตาบอดสนิท) และพิการทางแขน"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมคอมพิวเตอร์ (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01111",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางการได้ยิน พิการทางสายตา (ตาบอดสนิท) และพิการทางแขน"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธา (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01112",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางการได้ยิน (เป็นใบ้) และพิการทางสายตา (ตาบอดสนิท)"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโยธา (เสริมทักษะภาษาอังกฤษ) (โครงการสมทบพิเศษ)",
+      "tcas_code": "01212",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต หรือ ปวช. ประเภทวิชาอุตสาหกรรม (กลุ่มวิชาเครื่องกล/ไฟฟ้า/การก่อสร้าง); คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางการได้ยิน (เป็นใบ้) และพิการทางสายตา (ตาบอดสนิท)"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมอุตสาหการ (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01113",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต; คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้พิการทางการได้ยิน พิการทางสายตา (ตาบอดสนิท) และพิการทางแขนและขาที่ไม่สามารถเดินทางและเขียนหนังสือได้"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมขนถ่ายวัสดุ (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01114",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต หรือ ปวช. ประเภทวิชาอุตสาหกรรม (กลุ่มวิชาเครื่องกล/ไฟฟ้า); คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้ที่มีความพิการทุกประเภท"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโลจิสติกส์ (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "01115",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัคร: ม.6 เน้นแผนการเรียนรู้คณิตศาสตร์-วิทยาศาสตร์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต หรือ ปวช. ประเภทวิชาอุตสาหกรรม (กลุ่มวิชาเครื่องกล/ไฟฟ้า); คุณสมบัติเฉพาะ: ต้องไม่เป็นผู้ที่มีความพิการทุกประเภท"
+    },
+    {
+      "program_name_th": "สาขาวิชาวิศวกรรมโลจิสติกส์ (เสริมทักษะภาษาอังกฤษ) (โครงการสมทบพิเศษ)",
+      "tcas_code": "01215",
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิผู้สมัครและคุณสมบัติเฉพาะ: ระบุในหน้าถัดไป (ข้อมูลถูกตัด)"
+    },
+    {
+      "program_name_th": "เทคโนโลยีเครื่องกลและกระบวนการผลิต",
       "tcas_code": "10150206211102A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT 1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT 3",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช"
     },
     {
+      "program_name_th": "คอมพิวเตอร์ช่วยออกแบบและบริหารงานก่อสร้าง",
       "tcas_code": "10150206211701A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT 1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT 3",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช"
     },
     {
+      "program_name_th": "เทคโนโลยีสารสนเทศ",
       "tcas_code": "10150206220101A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "10%",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT รวม",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช"
     },
     {
+      "program_name_th": "วิศวกรรมเกษตรและอาหาร",
       "tcas_code": "10150206300401A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT 1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT 3",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช"
     },
     {
+      "program_name_th": "วิศวกรรมสารสนเทศและเครือข่าย",
       "tcas_code": "10150206302601A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT 1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT 3",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช"
     },
     {
+      "program_name_th": "วิศวกรรมอุตสาหการและการจัดการโลจิสติกส์",
       "tcas_code": "10150206303501A",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT 1",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT 3",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช"
     },
     {
+      "program_name_th": "บริหารธุรกิจอุตสาหกรรมและการค้า (รูปแบบที่ 1)",
       "tcas_code": "10150217610801A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": 120,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT รวม",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาด แขนขาด ขาลีบ แขนลีบ นิ้วขาด และปากแหว่ง เพดานโหว่)"
     },
     {
+      "program_name_th": "บริหารธุรกิจอุตสาหกรรมและการค้า (รูปแบบที่ 2)",
       "tcas_code": "10150217610801A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาดและแขนขาด)"
     },
     {
+      "program_name_th": "บริหารธุรกิจอุตสาหกรรมและการค้า (รูปแบบที่ 3)",
       "tcas_code": "10150217610801A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": 120,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาดและแขนขาด)"
     },
     {
+      "program_name_th": "การจัดการอุตสาหกรรมท่องเที่ยวและโรงแรม (รูปแบบที่ 1)",
       "tcas_code": "10150217620101A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": 120,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT รวม",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาด แขนขาด ขาลีบ แขนลีบ นิ้วขาด และปากแหว่ง เพดานโหว่)"
     },
     {
+      "program_name_th": "การจัดการอุตสาหกรรมท่องเที่ยวและโรงแรม (รูปแบบที่ 2)",
       "tcas_code": "10150217620101A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาด แขนขาด ขาลีบ แขนลีบ นิ้วขาด และปากแหว่ง เพดานโหว่)"
     },
     {
+      "program_name_th": "การจัดการอุตสาหกรรมท่องเที่ยวและโรงแรม (รูปแบบที่ 3)",
       "tcas_code": "10150217620101A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
+      "faculty_th": "บริหารธุรกิจบัณฑิต",
+      "seats": 120,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 3",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาด แขนขาด ขาลีบ แขนลีบ นิ้วขาด และปากแหว่ง เพดานโหว่)"
     },
     {
+      "program_name_th": "เทคโนโลยีวิศวกรรมไฟฟ้าและอัตโนมัติ - แขนงวิชาวิศวกรรมไฟฟ้ากำลัง",
       "tcas_code": "10150312301701A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
+      "faculty_th": "วิศวกรรมศาสตรบัณฑิต",
+      "seats": 10,
+      "project_code": "A",
+      "round_label": null,
+      "gpax_min": ">=2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6 เน้นคณิต-วิทย์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต ต้องไม่มีความพิการทางการได้ยิน ทางสายตา (ตาบอดสนิท/ตาบอดสี) และทางแขนและขาที่ไม่สามารถเขียนหนังสือและเดินทางได้"
     },
     {
+      "program_name_th": "เทคโนโลยีวิศวกรรมไฟฟ้าและอัตโนมัติ - แขนงวิชาวิศวกรรมการวัดคุมและอัตโนมัติ",
       "tcas_code": "10150312302302A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
+      "faculty_th": "วิศวกรรมศาสตรบัณฑิต",
+      "seats": 10,
+      "project_code": "B",
+      "round_label": null,
+      "gpax_min": ">=2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6 เน้นคณิต-วิทย์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต ต้องไม่มีความพิการทางการได้ยิน ทางสายตา (ตาบอดสนิท/ตาบอดสี) และทางแขนและขาที่ไม่สามารถเขียนหนังสือและเดินทางได้"
     },
     {
+      "program_name_th": "เทคโนโลยีวิศวกรรมเครื่องกลและยานยนต์ - แขนงวิชาวิศวกรรมเครื่องกล",
       "tcas_code": "10150312300701A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
+      "faculty_th": "วิศวกรรมศาสตรบัณฑิต",
+      "seats": 20,
+      "project_code": "A",
+      "round_label": null,
+      "gpax_min": ">=2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT รวม",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6 เน้นคณิต-วิทย์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต ต้องไม่มีความพิการทางการได้ยิน ทางสายตา (ตาบอดสนิท/ตาบอดสี) และทางแขนและขาที่ไม่สามารถเขียนหนังสือและเดินทางได้"
     },
     {
+      "program_name_th": "เทคโนโลยีวิศวกรรมเครื่องกลและยานยนต์ - แขนงวิชาวิศวกรรมยานยนต์",
       "tcas_code": "10150312302001A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
+      "faculty_th": "วิศวกรรมศาสตรบัณฑิต",
+      "seats": 20,
+      "project_code": "B",
+      "round_label": null,
+      "gpax_min": ">=2.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT รวม",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6 เน้นคณิต-วิทย์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต ต้องไม่มีความพิการทางการได้ยิน ทางสายตา (ตาบอดสนิท/ตาบอดสี) และทางแขนและขาที่ไม่สามารถเขียนหนังสือและเดินทางได้"
     },
     {
+      "program_name_th": "เทคโนโลยีวิศวกรรมกระบวนการเคมี",
       "tcas_code": "10150312300601A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
+      "faculty_th": "วิศวกรรมศาสตรบัณฑิต",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": ">=2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT รวม",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6 เน้นคณิต-วิทย์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต ต้องไม่มีความพิการทางการได้ยิน ทางสายตา (ตาบอดสนิท/ตาบอดสี) และทางแขนและขาที่ไม่สามารถเขียนหนังสือและเดินทางได้"
     },
     {
+      "program_name_th": "เทคโนโลยีวิศวกรรมวัสดุและกระบวนการผลิต",
       "tcas_code": "10150312302501A",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
+      "faculty_th": "วิศวกรรมศาสตรบัณฑิต",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": ">=2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT รวม",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6 เน้นคณิต-วิทย์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต ต้องไม่มีความพิการทางการได้ยิน ทางสายตา (ตาบอดสนิท) และทางแขนและขาที่ไม่สามารถเขียนหนังสือและเดินทางได้"
     },
     {
+      "program_name_th": "เทคโนโลยีวิศวกรรมอุตสาหการและโลจิสติกส์",
       "tcas_code": "10150312302401A",
-      "program_name_th": "",
-      "seats": 7,
-      "subject_codes": []
+      "faculty_th": "วิศวกรรมศาสตรบัณฑิต",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": ">=2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT 2",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6 เน้นคณิต-วิทย์และเทคโนโลยี ไม่น้อยกว่า 30 หน่วยกิต ต้องไม่มีความพิการทางการได้ยิน ทางสายตา (ตาบอดสนิท/ตาบอดสี) และทางแขนและขาที่ไม่สามารถเขียนหนังสือและเดินทางได้"
     },
     {
+      "program_name_th": "กระบวนการอุตสาหกรรมเคมีและสิ่งแวดล้อม",
       "tcas_code": "10150313210401A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
+      "faculty_th": "วิทยาลัยเทคโนโลยีอุตสาหกรรม",
+      "seats": 20,
+      "project_code": "0",
+      "round_label": null,
+      "gpax_min": ">=2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6"
     },
     {
+      "program_name_th": "เทคโนโลยีพลังงานและการจัดการธุรกิจอุตสาหกรรมในยุคดิจิทัล - แขนงวิชาเทคโนโลยีการจัดการพลังงานอุตสาหกรรม",
       "tcas_code": "10150313211402A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
+      "faculty_th": "วิทยาลัยเทคโนโลยีอุตสาหกรรม",
+      "seats": 20,
+      "project_code": "A",
+      "round_label": null,
+      "gpax_min": ">=2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6"
     },
     {
+      "program_name_th": "เทคโนโลยีพลังงานและการจัดการธุรกิจอุตสาหกรรมในยุคดิจิทัล - แขนงวิชาเทคโนโลยีนวัตกรรมพลังงานไฟฟ้า",
       "tcas_code": "10150313211402A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
+      "faculty_th": "วิทยาลัยเทคโนโลยีอุตสาหกรรม",
+      "seats": 20,
+      "project_code": "B",
+      "round_label": null,
+      "gpax_min": ">=2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6"
     },
     {
+      "program_name_th": "วิทยาการข้อมูลและการคำนวณเชิงธุรกิจและอุตสาหกรรม",
       "tcas_code": "10150313220301A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
+      "faculty_th": "วิทยาลัยเทคโนโลยีอุตสาหกรรม",
+      "seats": 20,
+      "project_code": "0",
+      "round_label": null,
+      "gpax_min": ">=2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6"
     },
     {
+      "program_name_th": "เทคโนโลยีดิจิทัลและธุรกิจอัจฉริยะ",
       "tcas_code": "10150313220302A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
+      "faculty_th": "วิทยาลัยเทคโนโลยีอุตสาหกรรม",
+      "seats": 20,
+      "project_code": "0",
+      "round_label": null,
+      "gpax_min": ">=2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6"
     },
     {
-      "tcas_code": "10150314610501A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
+      "program_name_th": "สาขาวิชาคอมพิวเตอร์ธุรกิจ (เสริมทักษะภาษาอังกฤษ)",
       "tcas_code": "10150314610701A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
+      "faculty_th": "คณะพัฒนาธุรกิจและอุตสาหกรรม",
+      "seats": 60,
+      "project_code": "0",
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาดและแขนขาด)"
     },
     {
+      "program_name_th": "สาขาวิชาการบัญชี (เสริมทักษะภาษาอังกฤษ)",
+      "tcas_code": "10150314610501A",
+      "faculty_th": "คณะพัฒนาธุรกิจและอุตสาหกรรม",
+      "seats": 120,
+      "project_code": "0",
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาดและแขนขาด)"
+    },
+    {
+      "program_name_th": "สาขาวิชาบริหารธุรกิจอุตสาหกรรมและโลจิสติกส์ (เสริมทักษะภาษาอังกฤษ)",
       "tcas_code": "10150314611001A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
+      "faculty_th": "คณะพัฒนาธุรกิจและอุตสาหกรรม",
+      "seats": 200,
+      "project_code": "0",
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาดและแขนขาด)"
     },
     {
+      "program_name_th": "สาขาวิชาการตลาดดิจิทัล (เสริมทักษะภาษาอังกฤษ)",
       "tcas_code": "10150314610601A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
+      "faculty_th": "คณะพัฒนาธุรกิจและอุตสาหกรรม",
+      "seats": 120,
+      "project_code": "0",
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วุฒิ ม.6/ปวช. ต้องไม่เป็นผู้มีความพิการทางการได้ยิน (หูหนวก) ทางสายตา (ตาบอดสนิท) และทางร่างกาย (ขาขาดและแขนขาด)"
     }
   ]
 }

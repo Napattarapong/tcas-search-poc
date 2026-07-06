@@ -1,0 +1,53 @@
+{
+  "university": "King Mongkut’s Institute of Technology Ladkrabang",
+  "university_id": "016",
+  "round": "R2",
+  "archetype": "criteria",
+  "program_count": 4,
+  "programs": [
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาไทย",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ประกาศรับสมัครและประกาศผลผ่านเว็บไซต์สถาบันเท่านั้น"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาไทย",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 2 ความสามารถเด่น",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ประกาศรับสมัครและประกาศผลผ่านเว็บไซต์สถาบันเท่านั้น"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาไทย",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 3 คะแนน O-NET/AT และ A-Level",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับสมัครและประกาศผลทางเว็บไซต์ myTCAS"
+    },
+    {
+      "program_name_th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาไทย",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "รอบ 4 รับตรงอิสระ",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เปิดเฉพาะหลักสูตรที่จำนวนรับรอบ 1-3 ไม่เต็ม"
+    }
+  ]
+}

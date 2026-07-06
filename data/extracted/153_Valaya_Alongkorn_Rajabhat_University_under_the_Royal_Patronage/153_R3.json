@@ -1,116 +1,234 @@
 {
+  "university": "Valaya Alongkorn Rajabhat University under the Royal Patronage",
   "university_id": "153",
   "round": "R3",
-  "archetype": "index",
-  "count": 18,
+  "archetype": "criteria",
+  "program_count": 18,
   "programs": [
     {
+      "program_name_th": "จิตวิทยา",
       "tcas_code": "15312000002",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "แฟ้มสะสมผลงาน Portfolio ไม่เกิน 10 หน้า (รวมปก) แสดงการพัฒนาตนเอง กิจกรรม จิตอาสา กิจกรรมของโรงเรียน ชุมชน และสังคม; กำลังศึกษา ม.6 หรือสำเร็จการศึกษา ม.ปลาย/เทียบเท่า ทุกหลักสูตร; ผ่านข้อบังคับ พ.ศ. 2557 และ 2561"
     },
     {
+      "program_name_th": "นิติศาสตร์",
       "tcas_code": "15312000005",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "แฟ้มสะสมผลงาน Portfolio: ผลงานด้านวิชาการ กิจกรรมจิตอาสา ความสามารถพิเศษ; กำลังศึกษา ม.6 หรือสำเร็จ ม.ปลาย/เทียบเท่า; ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาไทย",
       "tcas_code": "15312000007",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio แสดงความสามารถด้านภาษาไทย ผลงานวิชาการ การแข่งขันภาษาไทย กิจกรรมที่เกี่ยวข้อง; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร; ไม่เคยมีความประพฤติเสียหายร้ายแรง; ไม่เป็นคนวิกลจริตหรือโรคติดต่อร้ายแรง"
     },
     {
+      "program_name_th": "ภาษาอังกฤษ",
       "tcas_code": "15312000008",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ไม่เกิน 12 หน้า (รวมปก): ประวัติส่วนตัว ผลการเรียน ผลงานวิชาการ กิจกรรม/จิตอาสา ความสามารถต่าง ๆ; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร"
     },
     {
+      "program_name_th": "รัฐศาสตร์",
       "tcas_code": "15312000015",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio: ผลงานด้านวิชาการ กิจกรรมจิตอาสา ความสามารถพิเศษ; ผ่านข้อบังคับ พ.ศ. 2557; ผลการเรียนสะสมตลอดหลักสูตรไม่ต่ำกว่า 2.00"
     },
     {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
       "tcas_code": "15312000016",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 1 Portfolio",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "Portfolio ไม่เกิน 10 หน้า (รวมปก): ประวัติส่วนตัว กิจกรรมภาษาอังกฤษ รางวัล ใบเกียรติบัตร ความสามารถอื่น ๆ; ผ่านการสัมภาษณ์; ผลการเรียนสะสมไม่ต่ำกว่า 2.00"
     },
     {
+      "program_name_th": "จิตวิทยา",
       "tcas_code": "15312000002",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 2 Quota",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "แฟ้มสะสมผลงาน: การพัฒนาตนเอง กิจกรรม จิตอาสา กิจกรรมโรงเรียน/ชุมชน/สังคม; เป็นผู้มีความประพฤติดี; มีกิจกรรมสร้างชื่อเสียงหรือทำประโยชน์ให้โรงเรียน/สังคม; ผ่านข้อบังคับ พ.ศ. 2557 และ 2561"
     },
     {
+      "program_name_th": "นิติศาสตร์",
       "tcas_code": "15312000005",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 2 Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผลงานด้านวิชาการ (โควตาเรียนดี เกรดเฉลี่ย > 2.00) จิตอาสา (โควตาจิตอาสา) ความสามารถพิเศษ (โควตานักกีฬา/ความสามารถพิเศษ/อื่น ๆ); ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาไทย",
       "tcas_code": "15312000007",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 2 Quota",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "เกณฑ์การรับ: นักเรียนที่มีความสามารถทางภาษาไทย นักเรียนในเครือข่ายความร่วมมือ (MOU) และอื่น ๆ ที่เกี่ยวข้อง; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร; ไม่เคยมีความประพฤติเสียหายร้ายแรง; ไม่เป็นคนวิกลจริตหรือโรคติดต่อร้ายแรง"
     },
     {
+      "program_name_th": "ภาษาอังกฤษ",
       "tcas_code": "15312000008",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 5,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 2 Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "โควตา: เรียนดี ความสามารถพิเศษ ผู้มีคุณธรรมและบำเพ็ญประโยชน์ นักกีฬา นักเรียนในเขตพื้นที่บริการ; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร"
     },
     {
+      "program_name_th": "รัฐศาสตร์",
       "tcas_code": "15312000015",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 2 Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผลงานด้านวิชาการ (การแข่งขัน/รางวัลวิชาการ) จิตอาสา (โควตาจิตอาสา) ความสามารถพิเศษ (โควตานักกีฬา/ความสามารถพิเศษ/อื่น ๆ); ผ่านข้อบังคับ พ.ศ. 2557; ผลการเรียนสะสมไม่ต่ำกว่า 2.00"
     },
     {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
       "tcas_code": "15312000016",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 2 Quota",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "คะแนน GPAX ไม่ต่ำกว่า 2.00; ผ่านการสัมภาษณ์โดยคณะกรรมการสอบสัมภาษณ์; ผลการเรียนสะสมตลอดหลักสูตรไม่ต่ำกว่า 2.00"
     },
     {
+      "program_name_th": "จิตวิทยา",
       "tcas_code": "15312000002",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 80,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission (แอดมิชชัน)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GAT",
+          "subject_name_th": "GAT",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณา GPAX และ GAT (ไม่ระบุขั้นต่ำ); ผ่านข้อบังคับ พ.ศ. 2557 และ 2561"
     },
     {
+      "program_name_th": "นิติศาสตร์",
       "tcas_code": "15312000005",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission (แอดมิชชัน)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณา GPAX และ TGAT (ไม่ระบุคะแนนขั้นต่ำ); ผ่านข้อบังคับ พ.ศ. 2557"
     },
     {
+      "program_name_th": "ภาษาไทย",
       "tcas_code": "15312000007",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 15,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission (แอดมิชชัน)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผลการเรียนเฉลี่ยสะสมไม่ต่ำกว่า 2.00; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร; ไม่เคยมีความประพฤติเสียหายร้ายแรง; ไม่เป็นคนวิกลจริตหรือโรคติดต่อร้ายแรง"
     },
     {
+      "program_name_th": "ภาษาอังกฤษ",
       "tcas_code": "15312000008",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission (แอดมิชชัน)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "ผลการเรียนเฉลี่ยสะสมไม่ต่ำกว่า 2.00; ผ่านการสัมภาษณ์โดยกรรมการหลักสูตร"
     },
     {
+      "program_name_th": "รัฐศาสตร์",
       "tcas_code": "15312000015",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 10,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission (แอดมิชชัน)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "T-GAT",
+          "weight_percent": null,
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "A-Level (คณิตศาสตร์ ภาษาไทย สังคมศึกษา)",
+          "weight_percent": null,
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "พิจารณา GPAX, T-GAT, A-Level (ไม่จำกัดคะแนนขั้นต่ำ); ผ่านข้อบังคับ พ.ศ. 2557; ผลการเรียนสะสมไม่ต่ำกว่า 2.00"
     },
     {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
       "tcas_code": "15312000016",
-      "program_name_th": "",
+      "faculty_th": null,
       "seats": 20,
-      "subject_codes": []
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission (แอดมิชชัน)",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "คะแนน GPAX ไม่ต่ำกว่า 2.00; ผ่านการสัมภาษณ์โดยคณะกรรมการสอบสัมภาษณ์"
     }
   ]
 }

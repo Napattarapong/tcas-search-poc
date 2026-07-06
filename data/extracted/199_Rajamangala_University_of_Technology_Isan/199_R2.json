@@ -1,638 +1,108 @@
 {
+  "university": "Rajamangala University of Technology Isan",
   "university_id": "199",
   "round": "R2",
-  "archetype": "index",
-  "count": 105,
+  "archetype": "criteria",
+  "program_count": 9,
   "programs": [
     {
-      "tcas_code": "31990101610501A",
-      "program_name_th": "",
-      "seats": 1,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610901A",
-      "program_name_th": "",
-      "seats": 2,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610101A",
-      "program_name_th": "",
-      "seats": 3,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610201A",
-      "program_name_th": "",
-      "seats": 4,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610202A",
-      "program_name_th": "",
-      "seats": 5,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610203A",
-      "program_name_th": "",
-      "seats": 6,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610601A",
-      "program_name_th": "",
-      "seats": 7,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990101610602A",
-      "program_name_th": "",
-      "seats": 8,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102212701A",
-      "program_name_th": "",
-      "seats": 9,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102220201A",
-      "program_name_th": "",
-      "seats": 10,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102210201A",
-      "program_name_th": "",
-      "seats": 11,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102210401A",
-      "program_name_th": "",
-      "seats": 12,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102213301A",
-      "program_name_th": "",
-      "seats": 13,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102211201A",
-      "program_name_th": "",
-      "seats": 14,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102903801A",
-      "program_name_th": "",
-      "seats": 15,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102112001A",
-      "program_name_th": "",
-      "seats": 16,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102620101A",
-      "program_name_th": "",
-      "seats": 17,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102902501A",
-      "program_name_th": "",
-      "seats": 18,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "319901025000402A",
-      "program_name_th": "",
-      "seats": 19,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102500403A",
-      "program_name_th": "",
-      "seats": 20,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990102212702A",
-      "program_name_th": "",
-      "seats": 21,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302102A",
-      "program_name_th": "",
-      "seats": 22,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302701A",
-      "program_name_th": "",
-      "seats": 23,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103301601A",
-      "program_name_th": "",
-      "seats": 24,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103303401A",
-      "program_name_th": "",
-      "seats": 25,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103303402A",
-      "program_name_th": "",
-      "seats": 26,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103301801A",
-      "program_name_th": "",
-      "seats": 27,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103300501A",
-      "program_name_th": "",
-      "seats": 28,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302401A",
-      "program_name_th": "",
-      "seats": 29,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302501A",
-      "program_name_th": "",
-      "seats": 30,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302502A",
-      "program_name_th": "",
-      "seats": 31,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103300701A",
-      "program_name_th": "",
-      "seats": 32,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103300703A",
-      "program_name_th": "",
-      "seats": 33,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103301901A",
-      "program_name_th": "",
-      "seats": 34,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103300702A",
-      "program_name_th": "",
-      "seats": 35,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103300401A",
-      "program_name_th": "",
-      "seats": 36,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103300402A",
-      "program_name_th": "",
-      "seats": 37,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990104800301A",
-      "program_name_th": "",
-      "seats": 38,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990104800102A",
-      "program_name_th": "",
-      "seats": 39,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990104400701A",
-      "program_name_th": "",
-      "seats": 40,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990104220101A",
-      "program_name_th": "",
-      "seats": 41,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990104400401A",
-      "program_name_th": "",
-      "seats": 42,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990105220101A",
-      "program_name_th": "",
-      "seats": 43,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990105610205A",
-      "program_name_th": "",
-      "seats": 44,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103302201A",
-      "program_name_th": "",
-      "seats": 45,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990103303201A",
-      "program_name_th": "",
-      "seats": 46,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990107500401A",
-      "program_name_th": "",
-      "seats": 47,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990107500402A",
-      "program_name_th": "",
-      "seats": 48,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990107500403A",
-      "program_name_th": "",
-      "seats": 49,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990106800101A",
-      "program_name_th": "",
-      "seats": 50,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990330703201A",
-      "program_name_th": "",
-      "seats": 51,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990330902501A",
-      "program_name_th": "",
-      "seats": 52,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990330702101A",
-      "program_name_th": "",
-      "seats": 53,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990330703201A",
-      "program_name_th": "",
-      "seats": 54,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990330701101A",
-      "program_name_th": "",
-      "seats": 55,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990330701102A",
-      "program_name_th": "",
-      "seats": 56,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331303401A",
-      "program_name_th": "",
-      "seats": 57,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331300501A",
-      "program_name_th": "",
-      "seats": 58,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331300701A",
-      "program_name_th": "",
-      "seats": 59,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331300401A",
-      "program_name_th": "",
-      "seats": 60,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331300402A",
-      "program_name_th": "",
-      "seats": 61,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331303501A",
-      "program_name_th": "",
-      "seats": 62,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331302501A",
-      "program_name_th": "",
-      "seats": 63,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990331210401A",
-      "program_name_th": "",
-      "seats": 64,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332610201A",
-      "program_name_th": "",
-      "seats": 65,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332610601A",
-      "program_name_th": "",
-      "seats": 66,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332610602A",
-      "program_name_th": "",
-      "seats": 67,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332610901A",
-      "program_name_th": "",
-      "seats": 68,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332610501A",
-      "program_name_th": "",
-      "seats": 69,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332611001A",
-      "program_name_th": "",
-      "seats": 70,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332620101A",
-      "program_name_th": "",
-      "seats": 71,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332610202A",
-      "program_name_th": "",
-      "seats": 72,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990332610203A",
-      "program_name_th": "",
-      "seats": 73,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220501201A",
-      "program_name_th": "",
-      "seats": 74,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220300401A",
-      "program_name_th": "",
-      "seats": 75,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220500201A",
-      "program_name_th": "",
-      "seats": 76,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220220201A",
-      "program_name_th": "",
-      "seats": 77,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220700901A",
-      "program_name_th": "",
-      "seats": 78,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220500601A",
-      "program_name_th": "",
-      "seats": 79,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220800101A",
-      "program_name_th": "",
-      "seats": 80,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220501101A",
-      "program_name_th": "",
-      "seats": 81,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220501301A",
-      "program_name_th": "",
-      "seats": 82,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220300701A",
-      "program_name_th": "",
-      "seats": 83,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220300702A",
-      "program_name_th": "",
-      "seats": 84,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220210401A",
-      "program_name_th": "",
-      "seats": 85,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220211901A",
-      "program_name_th": "",
-      "seats": 86,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220211201A",
-      "program_name_th": "",
-      "seats": 87,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990220300901A",
-      "program_name_th": "",
-      "seats": 88,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221610201A",
-      "program_name_th": "",
-      "seats": 89,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221610202A",
-      "program_name_th": "",
-      "seats": 90,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221220101A",
-      "program_name_th": "",
-      "seats": 91,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221610901A",
-      "program_name_th": "",
-      "seats": 92,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221610501A",
-      "program_name_th": "",
-      "seats": 93,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221610601A",
-      "program_name_th": "",
-      "seats": 94,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221902501A",
-      "program_name_th": "",
-      "seats": 95,
-      "subject_codes": []
-    },
-    {
-      "tcas_code": "31990221620101A",
-      "program_name_th": "",
-      "seats": 96,
-      "subject_codes": []
-    },
-    {
+      "program_name_th": "สาขาวิชาสัตวศาสตร์",
       "tcas_code": "31990551213201A",
-      "program_name_th": "",
-      "seats": 97,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชาพืชศาสตร์",
       "tcas_code": "31990551212501A",
-      "program_name_th": "",
-      "seats": 98,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีการเพาะเลี้ยงสัตว์น้ำ",
       "tcas_code": "31990551213001A",
-      "program_name_th": "",
-      "seats": 99,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชาเทคโนโลยีการอาหาร",
       "tcas_code": "31990551211001A",
-      "program_name_th": "",
-      "seats": 100,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชาวิทยาศาสตร์สุขภาพและความงาม",
       "tcas_code": "31990551111101A",
-      "program_name_th": "",
-      "seats": 101,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชาการดูแลสุขภาพผู้สูงอายุและการชะลอวัย",
       "tcas_code": "31990551110401A",
-      "program_name_th": "",
-      "seats": 102,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชาเทคนิคการสัตวแพทย์",
       "tcas_code": "31990551140101A",
-      "program_name_th": "",
-      "seats": 103,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชาการแพทย์แผนไทย",
       "tcas_code": "31990551110701A",
-      "program_name_th": "",
-      "seats": 104,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     },
     {
+      "program_name_th": "สาขาวิชานวัตกรรมการเกษตร",
       "tcas_code": "31990551212502A",
-      "program_name_th": "",
-      "seats": 105,
-      "subject_codes": []
+      "faculty_th": "คณะทรัพยากรธรรมชาติ (วิทยาเขตสกลนคร)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "1. กำลังศึกษาหรือสำเร็จม.6 หรือเทียบเท่า 2. สอบสัมภาษณ์ (30%) 3. GPAX (20%) 4. Portfolio (50%) 5. มีคุณสมบัติข้อใดข้อหนึ่ง (พิจารณาเป็นกรณีพิเศษ): เข้าร่วมแข่งขันวิชาการคณิตศาสตร์/วิทยาศาสตร์ หรือ เป็นนักเรียนในห้องเรียนผู้มีความสามารถพิเศษทางคณิตศาสตร์/วิทยาศาสตร์"
     }
   ]
 }

@@ -1,26 +1,123 @@
 {
+  "university": "Nation University",
   "university_id": "905",
   "round": "R3",
-  "archetype": "index",
-  "count": 3,
+  "archetype": "criteria",
+  "program_count": 3,
   "programs": [
     {
+      "program_name_th": "คณะพยาบาลศาสตร์ วิทยาเขตลำปาง",
       "tcas_code": "49050104111701A",
-      "program_name_th": "",
-      "seats": 100,
-      "subject_codes": []
+      "faculty_th": "คณะพยาบาลศาสตร์ วิทยาเขตลำปาง",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "เคมี",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "อังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ใช้ผลคะแนน GPAX, TGAT และ A-Level ที่ยังไม่หมดอายุ; ผู้สมัครต้องมีสุขภาพสมบูรณ์แข็งแรง ปราศจากโรคหรือความพิการอันเป็นอุปสรรคต่อการศึกษาและประกอบวิชาชีพ"
     },
     {
+      "program_name_th": "คณะพยาบาลศาสตร์ วิทยาเขตเชียงใหม่",
       "tcas_code": "49050205111701A",
-      "program_name_th": "",
-      "seats": 100,
-      "subject_codes": []
+      "faculty_th": "คณะพยาบาลศาสตร์ วิทยาเขตเชียงใหม่",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "เคมี",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "อังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ใช้ผลคะแนน GPAX, TGAT และ A-Level ที่ยังไม่หมดอายุ; ผู้สมัครต้องมีสุขภาพสมบูรณ์แข็งแรง ปราศจากโรคหรือความพิการอันเป็นอุปสรรคต่อการศึกษาและประกอบวิชาชีพ"
     },
     {
+      "program_name_th": "คณะเทคนิคการแพทย์ วิทยาเขตลำปาง",
       "tcas_code": "49050106111301A",
-      "program_name_th": "",
-      "seats": 100,
-      "subject_codes": []
+      "faculty_th": "คณะเทคนิคการแพทย์ วิทยาเขตลำปาง",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "เคมี",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "คณิตศาสตร์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "อังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ใช้ผลคะแนน GPAX, TGAT และ A-Level ที่ยังไม่หมดอายุ; ผู้สมัครต้องมีสุขภาพสมบูรณ์แข็งแรง ปราศจากโรคหรือความพิการอันเป็นอุปสรรคต่อการศึกษาและประกอบวิชาชีพ"
     }
   ]
 }

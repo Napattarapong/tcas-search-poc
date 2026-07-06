@@ -1,12 +1,3708 @@
 {
+  "university": "Thammasat University",
   "university_id": "005",
   "round": "R3",
-  "archetype": "list",
-  "count": 1,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 113,
+  "programs": [
     {
-      "item_no": "5",
-      "text": "5. การรับสมัคร"
+      "program_name_th": "ร.บ. วิชาเอกการเมืองการปกครอง",
+      "tcas_code": "1005023903201AA",
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": 45,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 TGAT + A-Level",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน) หรือ ภาษาฝรั่งเศส/เยอรมัน/ญี่ปุ่น/เกาหลี/จีน/สเปน (เลือก 1 วิชาที่ดีที่สุด)",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; GPAX ไม่กำหนด; TGAT รหัส 91 การสื่อสารภาษาอังกฤษ 15%, TGAT รหัส 92 การคิดอย่างมีเหตุผล 15% (รวมในค่าน้ำหนัก TGAT 30%)"
+    },
+    {
+      "program_name_th": "ร.บ. วิชาเอกสาขาการระหว่างประเทศ",
+      "tcas_code": "1005023903201AB",
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": 45,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 TGAT + A-Level",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน) หรือ ภาษาฝรั่งเศส/เยอรมัน/ญี่ปุ่น/เกาหลี/จีน/สเปน (เลือก 1 วิชาที่ดีที่สุด)",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; GPAX ไม่กำหนด; TGAT รหัส 91 การสื่อสารภาษาอังกฤษ 15%, TGAT รหัส 92 การคิดอย่างมีเหตุผล 15% (รวมในค่าน้ำหนัก TGAT 30%)"
+    },
+    {
+      "program_name_th": "ร.บ. วิชาเอกสาขาบริหารรัฐกิจ",
+      "tcas_code": "1005023903201AC",
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": 45,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 TGAT + A-Level",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน) หรือ ภาษาฝรั่งเศส/เยอรมัน/ญี่ปุ่น/เกาหลี/จีน/สเปน (เลือก 1 วิชาที่ดีที่สุด)",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; GPAX ไม่กำหนด; TGAT รหัส 91 การสื่อสารภาษาอังกฤษ 15%, TGAT รหัส 92 การคิดอย่างมีเหตุผล 15% (รวมในค่าน้ำหนัก TGAT 30%)"
+    },
+    {
+      "program_name_th": "ร.บ. สาขาวิชาการเมืองและการระหว่างประเทศ (หลักสูตรนานาชาติ) (BIR)",
+      "tcas_code": "10050103903201E",
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.80",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาเฉพาะ (วิชาความรู้ทั่วไปทางรัฐศาสตร์ และวิชาเรียงความ)",
+          "weight_percent": "100",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ผู้สมัครต้องไม่จบปริญญาตรีจากมหาวิทยาลัยอื่น; ผู้ใช้วุฒิต่างประเทศต้องมีคะแนนแต่ละวิชา 165 ขึ้นไป รวมขั้นต่ำ 660 คะแนน (4 วิชาไม่ซ้ำ); ต้องมีผลคะแนนภาษาอังกฤษ TOEFL PBT≥500/iBT≥61, IELTS≥6.0, TU-GET PBT≥500/CBT≥74, SAT Reading+Writing≥400 หรือ GSAT≥400 (ไม่เกิน 2 ปี); สอบข้อเขียนวันอาทิตย์ที่ 22 มี.ค. 2569"
+    },
+    {
+      "program_name_th": "เศรษฐศาสตรบัณฑิต",
+      "tcas_code": "10050204611101A",
+      "faculty_th": "คณะเศรษฐศาสตร์",
+      "seats": 230,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; GPAX ไม่กำหนด; TGAT รหัส 91 การสื่อสารภาษาอังกฤษ 5%, TGAT รหัส 92 การคิดอย่างมีเหตุผล 10% (รวมในค่าน้ำหนัก TGAT 15%)"
+    },
+    {
+      "program_name_th": "สังคมสงเคราะหศาสตรบัณฑิต (ศึกษาที่ มธ.ศูนย์รังสิต) - รูปแบบที่ 1 TGAT + วิชาเฉพาะ",
+      "tcas_code": "10050205903701A",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
+      "seats": 170,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 TGAT + วิชาเฉพาะ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาเฉพาะ (วิชาความถนัดเชิงวิชาชีพสังคมสงเคราะห์)",
+          "weight_percent": "70",
+          "min_threshold": "55"
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; สอบข้อเขียนวิชาเฉพาะ วันอาทิตย์ที่ 22 มี.ค. 2569 เวลา 09.00–12.00 น. ที่ มธ. ศูนย์รังสิต และศูนย์ลาปาง"
+    },
+    {
+      "program_name_th": "สังคมสงเคราะหศาสตรบัณฑิต (ศึกษาที่ มธ.ศูนย์รังสิต) - รูปแบบที่ 2 TGAT + A-Level",
+      "tcas_code": "10050205903701A",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 TGAT + A-Level",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ"
+    },
+    {
+      "program_name_th": "สังคมสงเคราะหศาสตรบัณฑิต (ศึกษาที่ มธ.ศูนย์ลาปาง) - รูปแบบที่ 1 TGAT + วิชาเฉพาะ",
+      "tcas_code": "10050405903701A",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 TGAT + วิชาเฉพาะ",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาเฉพาะ (วิชาความถนัดเฉพาะเชิงวิชาชีพสังคมสงเคราะห์)",
+          "weight_percent": "70",
+          "min_threshold": "20"
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; GPAX ไม่กำหนด; สอบข้อเขียนวิชาเฉพาะ วันอาทิตย์ที่ 22 มี.ค. 2569 เวลา 09.00–12.00 น. ที่ มธ. ศูนย์รังสิต และศูนย์ลาปาง"
+    },
+    {
+      "program_name_th": "สังคมสงเคราะหศาสตรบัณฑิต (ศึกษาที่ มธ.ศูนย์ลาปาง) - รูปแบบที่ 2 TGAT + A-Level",
+      "tcas_code": "10050405903701A",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 TGAT + A-Level",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; GPAX ไม่กำหนด"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชานโยบายสังคมและการพัฒนา (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050105903701B",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "โครงการพิเศษ",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิจขั้นต่ำ; GPAX ไม่กำหนด; ไม่กำหนดเกณฑ์อื่น"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชานโยบายสังคมและการพัฒนา (หลักสูตรนานาชาติ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050105903701E",
+      "faculty_th": "คณะสังคมสงเคราะห์ศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "หลักสูตรนานาชาติ",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT รหัส 91 92 93)",
+          "weight_percent": "60",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีคะแนนภาษาอังกฤษ: IELTS≥5.0, TOEFL iBT≥45/PBT≥400, TU-GET PBT≥400/CBT≥45, SAT Reading+Writing≥400, GSAT≥400 หรือ A-Level 82 ≥50 คะแนน"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาจิตวิทยา (รูปแบบที่ 1 A-Level 5 วิชา)",
+      "tcas_code": "10050206113101A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 A-Level 5 วิชา",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นผู้พิการทางสายตาและตาบอดสี; GED ต้องมีคะแนนแต่ละวิชา≥153 รวมขั้นต่ำ 612 คะแนน (4 วิชาไม่ซ้ำ)"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาจิตวิทยา (รูปแบบที่ 2 A-Level 4 วิชา)",
+      "tcas_code": "10050206113101A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 A-Level 4 วิชา",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน), ภาษาฝรั่งเศส, ภาษาเยอรมัน, ภาษาญี่ปุ่น, ภาษาเกาหลี, ภาษาจีน, ภาษาสเปน (ใช้เพียง 1 วิชา ระบบเลือกคะแนนดีที่สุด)",
+          "weight_percent": "25",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นผู้พิการทางสายตาและผู้ป่วยตาบอดสีรุนแรง และไม่มีความพิการอื่นๆ ที่เป็นอุปสรรคต่อการศึกษา; GED แต่ละวิชาต้องมีคะแนน 153 ขึ้นไป รวมขั้นต่ำ 612 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาจิตวิทยา (รูปแบบที่ 3 TGAT)",
+      "tcas_code": "10050206113101A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 3 TGAT",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นผู้พิการทางสายตาและผู้ป่วยตาบอดสีรุนแรง และไม่มีความพิการอื่นๆ ที่เป็นอุปสรรคต่อการศึกษา; GED แต่ละวิชาต้องมีคะแนน 153 ขึ้นไป รวมขั้นต่ำ 612 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาภูมิศาสตร์และภูมิสารสนเทศ",
+      "tcas_code": "10050206903001A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "TGAT วิชาสมรรถนะการทำงาน",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นผู้พิการทางสายตาและผู้ป่วยตาบอดสี และไม่มีความพิการอื่นๆ ที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาศาสตร์",
+      "tcas_code": "10050206900101A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/88/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน), ภาษาฝรั่งเศส, ภาษาเยอรมัน, ภาษาญี่ปุ่น, ภาษาเกาหลี, ภาษาจีน, ภาษาบาลี, ภาษาสเปน (ใช้เพียง 1 วิชา ระบบเลือกคะแนนดีที่สุด)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GED แต่ละวิชาต้องมีคะแนน 153 ขึ้นไป รวมขั้นต่ำ 612 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ.วิชาเอกบรรณารักษศาสตร์และสารสนเทศศาสตร์",
+      "tcas_code": "10050206901201A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "40"
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน), ภาษาฝรั่งเศส, ภาษาเยอรมัน, ภาษาญี่ปุ่น, ภาษาเกาหลี, ภาษาจีน, ภาษาสเปน (ใช้เพียง 1 วิชา ระบบเลือกคะแนนดีที่สุด)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดเงื่อนไขเฉพาะอื่นๆ"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกประวัติศาสตร์",
+      "tcas_code": "10050206901401A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน), ภาษาฝรั่งเศส, ภาษาเยอรมัน, ภาษาญี่ปุ่น, ภาษาเกาหลี, ภาษาจีน, ภาษาสเปน (ใช้เพียง 1 วิชา ระบบเลือกคะแนนดีที่สุด)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GED แต่ละวิชาต้องมีคะแนน 153 ขึ้นไป รวมขั้นต่ำ 612 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกปรัชญา",
+      "tcas_code": "10050206901501A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT วิชาการคิดอย่างมีเหตุผล",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดเงื่อนไขเฉพาะอื่นๆ"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาและวัฒนธรรมจีน",
+      "tcas_code": "10050206901801A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "87",
+          "subject_name_th": "วิชาภาษาจีน",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "GED แต่ละวิชาต้องมีคะแนน 165 ขึ้นไป รวมขั้นต่ำ 660 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาญี่ปุ่น (กลุ่มมีพื้นฐานความรู้ภาษาญี่ปุ่น)",
+      "tcas_code": "10050206901901A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "85",
+          "subject_name_th": "วิชาภาษาญี่ปุ่น",
+          "weight_percent": "25",
+          "min_threshold": "70"
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาญี่ปุ่น (กลุ่มไม่มีพื้นฐานความรู้ภาษาญี่ปุ่น)",
+      "tcas_code": "10050206901901A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/86/87/88/89",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 (พื้นฐาน) หรือ ภาษาฝรั่งเศส หรือ ภาษาเยอรมัน หรือ ภาษาเกาหลี หรือ ภาษาจีน หรือ ภาษาบาลี หรือ ภาษาสเปน (ใช้เพียง 1 วิชา โดยระบบเลือกคะแนนวิชาที่ดีที่สุด)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "กลุ่มไม่มีพื้นฐานความรู้ภาษาญี่ปุ่น: 1) ไม่มีผลการเรียนภาษาญี่ปุ่นในม.ปลายเกิน 6 หน่วยกิต 2) ไม่ได้สอบ A-Level 85-ภาษาญี่ปุ่น 3) ไม่เคยไปอยู่หรือศึกษาที่ประเทศญี่ปุ่นติดต่อกันนาน 6 เดือนขึ้นไป"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาภาษาไทย",
+      "tcas_code": "10050206902001A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90/92",
+          "subject_name_th": "TGAT ความถนัดทั่วไป (รหัส 90) และ การคิดอย่างมีเหตุผล (รหัส 92)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/88/89",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 หรือ ภาษาฝรั่งเศส หรือ ภาษาเยอรมัน หรือ ภาษาญี่ปุ่น หรือ ภาษาเกาหลี หรือ ภาษาจีน หรือ ภาษาบาลี หรือ ภาษาสเปน (ใช้เพียง 1 วิชา โดยระบบเลือกคะแนนวิชาที่ดีที่สุด)",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จ ม.6, ปวช., กศน. และเทียบวุฒิต่างประเทศ; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 153 คะแนน รวมขั้นต่ำ 612 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาฝรั่งเศส",
+      "tcas_code": "10050206902401A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "83",
+          "subject_name_th": "วิชาภาษาฝรั่งเศส",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้สมัครต้องเรียนสายศิลป์ภาษาฝรั่งเศสในระดับมัธยมศึกษาตอนปลาย (ม.4-ม.6)"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาเยอรมัน",
+      "tcas_code": "10050206902402A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT วิชาความถนัดทั่วไป",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "84",
+          "subject_name_th": "วิชาภาษาเยอรมัน",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีความรู้พื้นฐานภาษาเยอรมัน: 1) เคยเรียนสายศิลป์ภาษาเยอรมัน ม.4-ม.6 หรือ 2) สำเร็จการศึกษา ม.ปลายจากประเทศที่ใช้ภาษาเยอรมัน หรือ 3) เคยเป็นนักเรียนแลกเปลี่ยนในประเทศที่ใช้ภาษาเยอรมันไม่ต่ำกว่า 9 เดือน หรือ 4) มีผลสอบวัดระดับภาษาเยอรมันระดับ A2 คะแนนเฉลี่ยทุกทักษะไม่ต่ำกว่าร้อยละ 65"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษารัสเซีย",
+      "tcas_code": "10050206902403A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/88/89",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 (พื้นฐาน) หรือ ภาษาฝรั่งเศส หรือ ภาษาเยอรมัน หรือ ภาษาญี่ปุ่น หรือ ภาษาเกาหลี หรือ ภาษาจีน หรือ ภาษาบาลี หรือ ภาษาสเปน (ใช้เพียง 1 วิชา โดยระบบเลือกคะแนนวิชาที่ดีที่สุด)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จ ม.6, ปวช., กศน. และเทียบวุฒิต่างประเทศ; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "ศ.บ. วิชาเอกสเปนและลาตินอเมริกันศึกษา",
+      "tcas_code": "10050206902404A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/88/89",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 (พื้นฐาน) หรือ ภาษาฝรั่งเศส หรือ ภาษาเยอรมัน หรือ ภาษาญี่ปุ่น หรือ ภาษาเกาหลี หรือ ภาษาจีน หรือ ภาษาบาลี หรือ ภาษาสเปน (ใช้เพียง 1 วิชา โดยระบบเลือกคะแนนวิชาที่ดีที่สุด)",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จ ม.6, ปวช., กศน. และเทียบวุฒิต่างประเทศ; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 165 คะแนน รวมขั้นต่ำ 660 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาภาษาอังกฤษ",
+      "tcas_code": "10050206902501A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 70,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": "60"
+        }
+      ],
+      "other_conditions_th": "รับผู้สำเร็จ ม.6 และเทียบวุฒิต่างประเทศ; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 165 คะแนน รวมขั้นต่ำ 660 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ. วิชาเอกภาษาและวรรณคดีอังกฤษ",
+      "tcas_code": "10050206902502A",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 35,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ ปวช. หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; GED แต่ละวิชาต้อง >= 165 คะแนน รวมขั้นต่ำ 660 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาอาณาบริเวณศึกษา วิชาเอกรัสเซียและยูเรเซียศึกษา (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050106902401B",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 25,
+      "project_code": "RES",
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "วิชาการสื่อสารภาษาอังกฤษ (TGAT)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาการคิดอย่างมีเหตุผล (TGAT)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ ปวช. หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; GED แต่ละวิชาต้อง >= 153 คะแนน รวมขั้นต่ำ 612 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาอาณาบริเวณศึกษา วิชาเอกเอเชียตะวันออกเฉียงใต้ศึกษา (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050106902801B",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 30,
+      "project_code": "SEAS",
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "วิชาการสื่อสารภาษาอังกฤษ (TGAT)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาการคิดอย่างมีเหตุผล (TGAT)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ ปวช. หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; GED แต่ละวิชาต้อง >= 153 คะแนน รวมขั้นต่ำ 612 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาการแปลและล่ามในยุคดิจิทัล (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050106904301B",
+      "faculty_th": "คณะศิลปศาสตร์",
+      "seats": 15,
+      "project_code": "BTi",
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; GED แต่ละวิชาต้อง >= 165 คะแนน รวมขั้นต่ำ 660 คะแนน (4 รายวิชาไม่ซ้ำกัน)"
+    },
+    {
+      "program_name_th": "วารสารศาสตรบัณฑิต รูปแบบที่ 1 พื้นฐานวิทยาศาสตร์",
+      "tcas_code": "10050207903801A",
+      "faculty_th": "คณะวารสารศาสตร์และสื่อสารมวลชน",
+      "seats": 80,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ ปวช. หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนด GPAX ขั้นต่ำ; ไม่กำหนดเกณฑ์คุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "วารสารศาสตรบัณฑิต รูปแบบที่ 2 พื้นฐานศิลปศาสตร์",
+      "tcas_code": "10050207903801A",
+      "faculty_th": "คณะวารสารศาสตร์และสื่อสารมวลชน",
+      "seats": 120,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "83/84/85/86/87/89",
+          "subject_name_th": "ภาษาฝรั่งเศส/เยอรมัน/ญี่ปุ่น/เกาหลี/จีน/สเปน (เลือก 1 วิชาที่ดีที่สุด)",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ ปวช. หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนด GPAX ขั้นต่ำ; ไม่กำหนดเกณฑ์คุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "สังคมวิทยาและมานุษยวิทยาบัณฑิต",
+      "tcas_code": "10050208903501A",
+      "faculty_th": "คณะสังคมวิทยาและมานุษยวิทยา",
+      "seats": 65,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ ปวช. หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนด GPAX ขั้นต่ำ; ไม่กำหนดเกณฑ์คุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "สม.บ.สาขาวิชาการวิจัยทางสังคม (โครงการพิเศษ)",
+      "tcas_code": "10050208903501B",
+      "faculty_th": "คณะสังคมวิทยาและมานุษยวิทยา",
+      "seats": 65,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 หรือ ปวช. หรือ กศน. หรือเทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนด GPAX ขั้นต่ำ; ไม่กำหนดเกณฑ์คุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาการคอมพิวเตอร์",
+      "tcas_code": "10050209220201A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "วิชาการสื่อสารภาษาอังกฤษ (TGAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาการคิดอย่างมีเหตุผล (TGAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "วิชาสมรรถนะการทำงาน (TGAT)",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม)",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 เท่านั้น; รูปแบบกลุ่มพื้นฐานวิทยาศาสตร์-คณิตศาสตร์: วิทยาศาสตร์ >= 22 หน่วยกิต, คณิตศาสตร์ >= 12 หน่วยกิต, GPAX ไม่กำหนด; รูปแบบกลุ่มพื้นฐานคณิตศาสตร์และภาษาต่างประเทศ: คณิตศาสตร์ >= 12 หน่วยกิต, ภาษาต่างประเทศ >= 9 หน่วยกิต, GPAX >= 2.75"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาการคอมพิวเตอร์ (โครงการพิเศษ)",
+      "tcas_code": "10050209220201B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "วิชาการสื่อสารภาษาอังกฤษ (TGAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาการคิดอย่างมีเหตุผล (TGAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "วิชาสมรรถนะการทำงาน (TGAT)",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม)",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 เท่านั้น; รูปแบบกลุ่มพื้นฐานวิทยาศาสตร์-คณิตศาสตร์: วิทยาศาสตร์ >= 22 หน่วยกิต, คณิตศาสตร์ >= 12 หน่วยกิต, GPAX ไม่กำหนด; รูปแบบกลุ่มพื้นฐานคณิตศาสตร์และภาษาต่างประเทศ: คณิตศาสตร์ >= 12 หน่วยกิต, ภาษาต่างประเทศ >= 9 หน่วยกิต, GPAX >= 2.75"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาคอมพิวเตอร์เครือข่ายและความปลอดภัยทางไซเบอร์ (โครงการพิเศษ)",
+      "tcas_code": "10050209220202B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "วิชาการสื่อสารภาษาอังกฤษ (TGAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาการคิดอย่างมีเหตุผล (TGAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "93",
+          "subject_name_th": "วิชาสมรรถนะการทำงาน (TGAT)",
+          "weight_percent": "5",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม)",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.6 เท่านั้น; รูปแบบกลุ่มพื้นฐานวิทยาศาสตร์-คณิตศาสตร์: วิทยาศาสตร์ >= 22 หน่วยกิต, คณิตศาสตร์ >= 12 หน่วยกิต, GPAX ไม่กำหนด; รูปแบบกลุ่มพื้นฐานคณิตศาสตร์และภาษาต่างประเทศ: คณิตศาสตร์ >= 12 หน่วยกิต, ภาษาต่างประเทศ >= 9 หน่วยกิต, GPAX >= 2.75"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเคมี",
+      "tcas_code": "10050209210401A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีเพื่อการพัฒนายั่งยืน",
+      "tcas_code": "10050209211901A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวัสดุศาสตร์",
+      "tcas_code": "10050209212801A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีชีวภาพ",
+      "tcas_code": "10050209211201A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์สิ่งแวดล้อม",
+      "tcas_code": "10050209213101A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาสถิติ",
+      "tcas_code": "10050209213301A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีการเกษตร",
+      "tcas_code": "10050209500401A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาเทคโนโลยีพลังงานชีวภาพและการแปรรูปเคมีชีวภาพ (โครงการพิเศษ)",
+      "tcas_code": "10050209211401B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 35,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "60",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร",
+      "tcas_code": "10050209211001A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม) (A-Level)",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์และนวัตกรรมทางอาหาร",
+      "tcas_code": "10050209211002A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "45",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม) (A-Level)",
+          "weight_percent": "15",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รูปแบบที่ 1 (TGAT+TPAT+A-Level): TGAT 40%, TPAT 45%, A-Level คณิตฯ 15%; รูปแบบที่ 2 (TGAT+TPAT): TGAT 45%, TPAT 55%; สำเร็จการศึกษา ม.6 หรือเทียบวุฒิต่างประเทศ/นานาชาติ; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; ผู้สอบเทียบวุฒิต่างประเทศต้องมีคะแนนรวม 600 คะแนนขึ้นไป (RLA 145, Math 155, Science 155, Social 145)"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์และเทคโนโลยีสิ่งทอ",
+      "tcas_code": "10050209211801A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 35,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; ผู้สมัครต้องไม่มีอาการตาบอดสี ต้องมีใบรับรองแพทย์"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาฟิสิกส์",
+      "tcas_code": "10050209212701A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "80",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาฟิสิกส์อิเล็กทรอนิกส์",
+      "tcas_code": "10050209212702A",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม) (A-Level)",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รูปแบบที่ 1 (TGAT+TPAT+A-Level): TGAT 30%, TPAT 35%, A-Level คณิตฯ 35%; รูปแบบที่ 2 (TGAT+TPAT): TGAT 30%, TPAT 70%; สำเร็จการศึกษา ม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาการประกันภัย (โครงการพิเศษ)",
+      "tcas_code": "10050209213302B",
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "ไม่กำหนด / 2.75 (กลุ่มพื้นฐานคณิตศาสตร์และภาษาต่างประเทศ)",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "30",
+          "subject_name_th": "วิชาความถนัดวิทยาศาสตร์ เทคโนโลยี วิศวกรรมศาสตร์ (TPAT)",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "2 รูปแบบ: (1) กลุ่มพื้นฐานวิทยาศาสตร์คณิตศาสตร์ - วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต, GPAX ไม่กำหนด; (2) กลุ่มพื้นฐานคณิตศาสตร์และภาษาต่างประเทศ - คณิตศาสตร์ 12 หน่วยกิต, ภาษาต่างประเทศ 9 หน่วยกิต, GPAX ขั้นต่ำ 2.75; สำเร็จการศึกษา ม.6; คุณสมบัติอื่นๆ ไม่กำหนด"
+    },
+    {
+      "program_name_th": "การแพทย์แผนไทยประยุกต์บัณฑิต (ศึกษาที่มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต)",
+      "tcas_code": "10050211110801A",
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "10",
+          "subject_name_th": "วิชาเฉพาะ กสพท. (TPAT1)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "วิชาเคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; GPAX ไม่กำหนด; ภาษาอังกฤษ A-Level 10%, GPAX 10%"
+    },
+    {
+      "program_name_th": "การแพทย์แผนไทยประยุกต์บัณฑิต (ศึกษาที่มหาวิทยาลัยธรรมศาสตร์ ศูนย์ลำปาง)",
+      "tcas_code": "10050411110801A",
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "10",
+          "subject_name_th": "วิชาเฉพาะ กสพท. (TPAT1)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "วิชาเคมี",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; GPAX ไม่กำหนด; ภาษาอังกฤษ A-Level 10%, GPAX 10%"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชากายภาพบำบัด",
+      "tcas_code": "10050212110101A",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) + TGAT รหัส 92 การคิดอย่างมีเหตุผล",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "25",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "25",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "5",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; ควรมีความสูงไม่น้อยกว่า 155 ซม.; ไม่มีความพิการจนเป็นอุปสรรคในการใช้มือทั้งสองข้าง"
+    },
+    {
+      "program_name_th": "หลักสูตรเทคนิคการแพทยบัณฑิต",
+      "tcas_code": "10050212111301A",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "วิชาเคมี",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6; วิทยาศาสตร์ ≥22 หน่วยกิต, คณิตศาสตร์ ≥12 หน่วยกิต, ภาษาต่างประเทศ (อังกฤษ) ≥9 หน่วยกิต; สุขภาพแข็งแรง ไม่พิการทางการมองเห็น/ได้ยิน/ร่างกายขั้นรุนแรง; ไม่มีภาวะตาบอดสีขั้นรุนแรง (ISHIHARA ≥12 plates)"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชารังสีเทคนิค (โครงการพิเศษ)",
+      "tcas_code": "10050212111901B",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 34,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.25",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT) + TGAT1 รหัส 91 การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; GPAX ≥3.25; ไม่กำหนดคุณสมบัติอื่น"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาวิทยาศาสตร์การกีฬาและการออกกำลังกาย",
+      "tcas_code": "10050212112001A",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "วิชาเคมี",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6 หรือ กศน.; วิทยาศาสตร์ 22 หน่วยกิต, คณิตศาสตร์ 12 หน่วยกิต; สุขภาพแข็งแรง ไม่พิการทางการมองเห็น/ได้ยิน/สติปัญญา/ร่างกาย"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาการจัดการกีฬา (โครงการพิเศษ)",
+      "tcas_code": "10050212112001B",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6/ปวช./กศน./เทียบวุฒิต่างประเทศ; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดคุณสมบัติอื่น"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาการฝึกสอนกีฬา (โครงการพิเศษ)",
+      "tcas_code": "10050212902002B",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "60",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "สำเร็จม.6; ไม่กำหนดหน่วยกิตขั้นต่ำ; ไม่กำหนดคุณสมบัติอื่น"
+    },
+    {
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "tcas_code": "10050214111701A",
+      "faculty_th": "คณะพยาบาลศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่พบตาบอดสี ไม่เจ็บป่วยหรือเป็นโรคติดต่อร้ายแรง ตรวจสุขภาพ (เลือด ปัสสาวะ เอกซเรย์ปอด ตาบอดสี การมองเห็น) เมื่อเป็นผู้มีสิทธิ์เข้าสอบสัมภาษณ์"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาศิลปะการออกแบบพัสตราภรณ์ วิชาเอกออกแบบสิ่งทอ รูปแบบที่ 1 (TGAT+วิชาเฉพาะ)",
+      "tcas_code": "10050215800101AA",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 (TGAT+วิชาเฉพาะ)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาวาดเส้นเพื่อการออกแบบสิ่งทอ (วิชาเฉพาะ)",
+          "weight_percent": "35%",
+          "min_threshold": "17.5"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาความถนัดทางออกแบบสิ่งทอ (วิชาเฉพาะ)",
+          "weight_percent": "35%",
+          "min_threshold": "17.5"
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง ไม่ตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสี (จากโรงพยาบาลของรัฐ)"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาศิลปะการออกแบบพัสตราภรณ์ วิชาเอกออกแบบสิ่งทอ รูปแบบที่ 2 (TGAT+TPAT+A-Level)",
+      "tcas_code": "10050215800101AA",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 (TGAT+TPAT+A-Level)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "20",
+          "subject_name_th": "วิชาความถนัดศิลปกรรมศาสตร์ (TPAT2) หรือ TPAT4 สถาปัตยกรรมศาสตร์",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง ไม่ตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสี (จากโรงพยาบาลของรัฐ)"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาศิลปะการออกแบบพัสตราภรณ์ วิชาเอกออกแบบแฟชั่น รูปแบบที่ 1 (TGAT+วิชาเฉพาะ)",
+      "tcas_code": "10050215800101AB",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 7,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 (TGAT+วิชาเฉพาะ)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาวาดเส้นเพื่อการออกแบบแฟชั่น (วิชาเฉพาะ)",
+          "weight_percent": "35%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": null,
+          "subject_name_th": "วิชาความถนัดทางออกแบบแฟชั่น (วิชาเฉพาะ)",
+          "weight_percent": "35%",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง ไม่ตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสี (จากโรงพยาบาลของรัฐ)"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาศิลปะการออกแบบพัสตราภรณ์ วิชาเอกออกแบบแฟชั่น รูปแบบที่ 2 (TGAT+TPAT+A-Level)",
+      "tcas_code": "10050215800101AB",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 (TGAT+TPAT+A-Level)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "20",
+          "subject_name_th": "วิชาความถนัดศิลปกรรมศาสตร์ (TPAT2) หรือ TPAT4 สถาปัตยกรรมศาสตร์",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง ไม่ตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสี (จากโรงพยาบาลของรัฐ)"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาการบริหารจัดการศิลปะ (โครงการพิเศษ)",
+      "tcas_code": "10050215800501B",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "92",
+          "subject_name_th": "วิชาการคิดอย่างมีเหตุผล (TGAT2)",
+          "weight_percent": "70%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "20",
+          "subject_name_th": "วิชาความถนัดศิลปกรรมศาสตร์ (TPAT2)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง หรือโรคที่จะเป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาออกแบบหัตถกรรมอุตสาหกรรมสร้างสรรค์ (ศึกษาที่มธ.ศูนย์ลำปาง) รูปแบบที่ 1 (A-Level)",
+      "tcas_code": "10050415800101A",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 (A-Level)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคม",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง ไม่ตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสี (จากโรงพยาบาลของรัฐ)"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาออกแบบหัตถกรรมอุตสาหกรรมสร้างสรรค์ (ศึกษาที่มธ.ศูนย์ลำปาง) รูปแบบที่ 2 (A-Level+TPAT2)",
+      "tcas_code": "10050415800101A",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 (A-Level+TPAT2)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "20",
+          "subject_name_th": "วิชาความถนัดศิลปกรรมศาสตร์ (TPAT2)",
+          "weight_percent": "60%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคม",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง ไม่ตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสี (จากโรงพยาบาลของรัฐ)"
+    },
+    {
+      "program_name_th": "ศป.บ. สาขาวิชาออกแบบหัตถกรรมอุตสาหกรรมสร้างสรรค์ (ศึกษาที่มธ.ศูนย์ลำปาง) รูปแบบที่ 3 (TPAT21 ทัศนศิลป์)",
+      "tcas_code": "10050415800101A",
+      "faculty_th": "คณะศิลปกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 3 (TPAT21 ทัศนศิลป์)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "21",
+          "subject_name_th": "วิชาทัศนศิลป์ (TPAT21)",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่มีโรคติดต่อร้ายแรง ไม่ตาบอดสี ต้องมีใบรับรองแพทย์ว่าตาไม่บอดสี (จากโรงพยาบาลของรัฐ)"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาสถาปัตยกรรม",
+      "tcas_code": "10050216400501B",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+      "seats": 29,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "40",
+          "subject_name_th": "วิชาความถนัดสถาปัตยกรรมศาสตร์ (TPAT4)",
+          "weight_percent": "40%",
+          "min_threshold": "60"
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม)",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรมภายในบัณฑิต",
+      "tcas_code": "10050216400701B",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "40",
+          "subject_name_th": "วิชาความถนัดสถาปัตยกรรมศาสตร์ (TPAT4)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม)",
+          "weight_percent": "15%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "15%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ผู้สอบผ่านการศึกษาระดับเกรด 12 จากโรงเรียนนานาชาติที่กระทรวงศึกษาธิการรับรอง ต้องมี GPAX ไม่ต่ำกว่า 2.75; GED ต้องมีคะแนนแต่ละวิชาไม่ต่ำกว่า 153"
+    },
+    {
+      "program_name_th": "การผังเมืองบัณฑิต",
+      "tcas_code": "10050216400401B",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+      "seats": 25,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "35%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "ภูมิสถาปัตยกรรมบัณฑิต",
+      "tcas_code": "10050216400301B",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT วิชาความถนัดทั่วไป",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "40",
+          "subject_name_th": "TPAT4 วิชาความถนัดสถาปัตยกรรมศาสตร์",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "A-Level วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6 หรือเทียบเท่า; ผู้สมัครสอบผ่านการศึกษาระดับเกรด 12 จากโรงเรียนนานาชาติที่กระทรวงศึกษาธิการรับรอง หรือกำลังศึกษาในโรงเรียนนานาชาติระดับเกรด 12 เทอมสุดท้าย และมีผลการเรียนเทียบเกรดเฉลี่ยสะสม (GPAX) ไม่ต่ำกว่า 2.75; ผู้เทียบวุฒิความรู้ต่างประเทศ GED ต้องมีผลคะแนนแต่ละวิชาไม่ต่ำกว่า 153 คะแนน"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาสถาปัตยกรรมเพื่อการพัฒนาอสังหาริมทรัพย์",
+      "tcas_code": "10050216400502B",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT วิชาความถนัดทั่วไป",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "40",
+          "subject_name_th": "TPAT4 วิชาความถนัดสถาปัตยกรรมศาสตร์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "A-Level วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษาชั้นมัธยมศึกษาปีที่ 6; ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาการจัดการออกแบบ ธุรกิจและเทคโนโลยี (หลักสูตรนานาชาติ)",
+      "tcas_code": "10050216610201E",
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+      "seats": 1,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "91",
+          "subject_name_th": "TGAT การสื่อสารภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "92",
+          "subject_name_th": "TGAT การคิดอย่างมีเหตุผล",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "30%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "A-Level วิชาสังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": "30"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level วิชาภาษาอังกฤษ",
+          "weight_percent": "40%",
+          "min_threshold": "30"
+        }
+      ],
+      "other_conditions_th": "เกณฑ์คะแนนภาษาอังกฤษ (อย่างใดอย่างหนึ่ง): TU-GET ไม่ต่ำกว่า 450 / TU-GET (CBT) ไม่ต่ำกว่า 69 / TOEFL ไม่ต่ำกว่า 450 (paper-based) หรือ 45 (iBT) / IELTS ไม่ต่ำกว่า 5.0 / NEW SAT หรือ GSAT ไม่ต่ำกว่า 400 (Reading & Writing ต้องมีผลคะแนนไม่น้อยกว่า 20 คะแนน)"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาอาชีวอนามัยและความปลอดภัย (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "tcas_code": "10050217112701A",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "64",
+          "subject_name_th": "A-Level วิชาฟิสิกส์",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level วิชาเคมี",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level วิชาชีววิทยา",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level วิชาภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "สายวิทย์-คณิตเท่านั้น; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; เป็นผู้ไม่มีโรคติดต่อร้ายแรง โรคที่สังคมรังเกียจ หรือโรคสำคัญที่เป็นอุปสรรคต่อการศึกษา; ไม่มีปัญหาด้านสายตา (ยื่นใบรับรองแพทย์); ไม่มีความพิการทางนิ้วมือจนไม่สามารถควบคุมอุปกรณ์เครื่องมือได้"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาอนามัยสิ่งแวดล้อม (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "tcas_code": "10050217112702A",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level วิชาเคมี",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level วิชาชีววิทยา",
+          "weight_percent": "30%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level วิชาภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "สายวิทย์-คณิตเท่านั้น; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; เป็นผู้ไม่มีโรคติดต่อร้ายแรง โรคที่สังคมรังเกียจ หรือโรคสำคัญที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาอาชีวอนามัยและความปลอดภัย (ศึกษาที่ มธ.ศูนย์ลำปาง)",
+      "tcas_code": "10050417112701A",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "64",
+          "subject_name_th": "A-Level วิชาฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level วิชาเคมี",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level วิชาชีววิทยา",
+          "weight_percent": "30%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level วิชาภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "สายวิทย์-คณิตเท่านั้น; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; เป็นผู้ไม่มีโรคติดต่อร้ายแรง โรคที่สังคมรังเกียจ หรือโรคสำคัญที่เป็นอุปสรรคต่อการศึกษา; ไม่มีปัญหาด้านสายตา (ยื่นใบรับรองแพทย์); ไม่มีความพิการทางนิ้วมือจนไม่สามารถควบคุมอุปกรณ์เครื่องมือได้"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาอนามัยสิ่งแวดล้อม (ศึกษาที่ มธ.ศูนย์ลำปาง)",
+      "tcas_code": "10050417112702A",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level วิชาเคมี",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level วิชาชีววิทยา",
+          "weight_percent": "30%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level วิชาภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "สายวิทย์-คณิตเท่านั้น; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; เป็นผู้ไม่มีโรคติดต่อร้ายแรง โรคที่สังคมรังเกียจ หรือโรคสำคัญที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาอนามัยชุมชน (ศึกษาที่ มธ.ศูนย์ลำปาง)",
+      "tcas_code": "10050417112703A",
+      "faculty_th": "คณะสาธารณสุขศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "A-Level วิชาเคมี",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "A-Level วิชาชีววิทยา",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level วิชาภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "สายวิทย์-คณิตเท่านั้น; วิทยาศาสตร์ 22 หน่วยกิต คณิตศาสตร์ 12 หน่วยกิต; เป็นผู้ไม่มีโรคติดต่อร้ายแรง โรคที่สังคมรังเกียจ หรือโรคสำคัญที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "เภสัชศาสตรบัณฑิต",
+      "tcas_code": "10050218130101A",
+      "faculty_th": "คณะเภสัชศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "TGAT ความถนัดทั่วไป",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "A-Level วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64/65/66",
+          "subject_name_th": "A-Level วิชาฟิสิกส์/เคมี/ชีววิทยา (รวมกัน)",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "A-Level วิชาภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ต้องมีสัญชาติไทย; ต้องมีคุณสมบัติที่จะปฏิบัติงานในส่วนราชการหรือหน่วยงานของรัฐได้หลังจากจบการศึกษา โดยต้องสามารถทำสัญญาผูกพันฝ่ายเดียวหรือสัญญาปลายเปิดกับรัฐบาล; ต้องมีสุขภาพสมบูรณ์แข็งแรง ปราศจากโรคติดต่อร้ายแรง โรคทางจิตเวชขั้นรุนแรง ความผิดปกติด้านการแยกแยะสี ความพิการทางกายที่เป็นอุปสรรคต่อการศึกษาและการประกอบวิชาชีพเภสัชกรรม"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาวิทยาการเรียนรู้",
+      "tcas_code": "10050219903601A",
+      "faculty_th": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (เฉพาะรวม รหัส 91-93)",
+          "weight_percent": "25",
+          "min_threshold": "50"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "1"
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาศักยภาพมนุษย์และสุขภาวะ (โครงการพิเศษ) (หลักสูตรพหุวิทยาการ) (รูปแบบที่1 A-Level 5 วิชา)",
+      "tcas_code": "10050219903601B",
+      "faculty_th": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "วิชาชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นผู้พิการทางสายตาและผู้ป่วยตาบอดสี และไม่มีความพิการอื่น ๆ ที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาศักยภาพมนุษย์และสุขภาวะ (โครงการพิเศษ) (หลักสูตรพหุวิทยาการ) (รูปแบบที่2 A-Level 4 วิชา)",
+      "tcas_code": "10050219903601B",
+      "faculty_th": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "25",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "25",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "25",
+          "min_threshold": "25"
+        },
+        {
+          "subject_code": "62/83/84/85/86/87/89",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน), ภาษาฝรั่งเศส, ภาษาเยอรมัน, ภาษาญี่ปุ่น, ภาษาเกาหลี, ภาษาจีน, ภาษาสเปน (ใช้เพียง 1 วิชา ระบบเลือกคะแนนสูงสุด)",
+          "weight_percent": "25",
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นผู้พิการทางสายตาและผู้ป่วยตาบอดสี และไม่มีความพิการอื่น ๆ ที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาศักยภาพมนุษย์และสุขภาวะ (โครงการพิเศษ) (หลักสูตรพหุวิทยาการ) (รูปแบบที่3 TGAT)",
+      "tcas_code": "10050219903601B",
+      "faculty_th": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่เป็นผู้พิการทางสายตาและผู้ป่วยตาบอดสี และไม่มีความพิการอื่น ๆ ที่เป็นอุปสรรคต่อการศึกษา"
+    },
+    {
+      "program_name_th": "วศ.บ. สาขาวิชาวิศวกรรมไฟฟ้า สาขาวิชาวิศวกรรมโยธา สาขาวิชาวิศวกรรมเครื่องกล สาขาวิชาวิศวกรรมเคมี สาขาวิชาวิศวกรรมอุตสาหการและโลจิสติกส์อัจฉริยะ (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "10050222300001E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90/91",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาสำหรับผู้เลือก SIIT เป็นอันดับหนึ่งและคะแนนอยู่ในกลุ่มสูงสุด 10% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมดิจิทัลและสาขาวิชาวิศวกรรมคอมพิวเตอร์ (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "10050222300002E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90/91",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาสำหรับผู้เลือก SIIT เป็นอันดับหนึ่งและคะแนนอยู่ในกลุ่มสูงสุด 10% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาการวิเคราะห์ธุรกิจและโซอ่อปทาน (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "110050222210001E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90/91",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "70",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาสำหรับผู้เลือก SIIT เป็นอันดับหนึ่งและคะแนนอยู่ในกลุ่มสูงสุด 10% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมไฟฟ้า (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "10050222301601E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 รหัส 91 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาให้แต่ต้องเลือก SIIT เป็นอันดับหนึ่ง และคะแนนอยู่ในกลุ่มสูงสุด 5% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมโยธา (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "10050222302101E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 รหัส 91 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาให้แต่ต้องเลือก SIIT เป็นอันดับหนึ่ง และคะแนนอยู่ในกลุ่มสูงสุด 5% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมเครื่องกล (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "10050222300701E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 รหัส 91 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาให้แต่ต้องเลือก SIIT เป็นอันดับหนึ่ง และคะแนนอยู่ในกลุ่มสูงสุด 5% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมเคมี (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "10050222300601E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 รหัส 91 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาให้แต่ต้องเลือก SIIT เป็นอันดับหนึ่ง และคะแนนอยู่ในกลุ่มสูงสุด 5% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "วศ.บ.สาขาวิชาวิศวกรรมอุตสาหการและโลจิสติกส์อัจฉริยะ (หลักสูตรนานาชาติ) (SIIT)",
+      "tcas_code": "10050222303501E",
+      "faculty_th": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป เฉพาะ TGAT1 รหัส 91 วิชาการสื่อสารภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "วิชาฟิสิกส์",
+          "weight_percent": "35",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "คะแนนรวม 100% ไม่ต่ำกว่า 5 คะแนน; สถาบันมีทุนการศึกษาให้แต่ต้องเลือก SIIT เป็นอันดับหนึ่ง และคะแนนอยู่ในกลุ่มสูงสุด 5% แรก โดยมี GPAX ขั้นต่ำ 2.75"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาการจัดการมรดกวัฒนธรรมและอุตสาหกรรมสร้างสรรค์ (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050123904001B",
+      "faculty_th": "วิทยาลัยนวัตกรรม",
+      "seats": 90,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (รวม 3 ส่วน)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ส่งเอกสาร 20-28 พ.ค. 2569; สัมภาษณ์ 30 พ.ค. 2569 ที่ วิทยาลัยนวัตกรรม มธ. ท่าพระจันทร์ 08.30 น."
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชานวัตกรรมและการแปรรูปทางดิจิทัล (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050123210801B",
+      "faculty_th": "วิทยาลัยนวัตกรรม",
+      "seats": 35,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (รวม 3 ส่วน)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ส่งเอกสาร 20-28 พ.ค. 2569; สัมภาษณ์ 30 พ.ค. 2569 ที่ วิทยาลัยนวัตกรรม มธ. ท่าพระจันทร์ 08.30 น."
+    },
+    {
+      "program_name_th": "ศศ.บ.หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาปรัชญา การเมือง และเศรษฐศาสตร์ (โครงการพิเศษ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050124903601B",
+      "faculty_th": "วิทยาลัยสหวิทยาการ",
+      "seats": 37,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคม",
+          "weight_percent": "35",
+          "min_threshold": "T-score >= 10"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "35",
+          "min_threshold": "T-score >= 10"
+        }
+      ],
+      "other_conditions_th": "สุขภาพ: ไม่เป็นผู้ป่วยหรืออยู่ในสภาวะที่เป็นอุปสรรคต่อการศึกษา ไม่เป็นผู้ประพฤติผิดศีลธรรม; คะแนนขั้นต่ำคิดในรูปแบบ T-score"
+    },
+    {
+      "program_name_th": "วท.บ.สาขาวิชาวิทยาศาสตร์และนวัตกรรมข้อมูล (โครงการพิเศษ) (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "tcas_code": "10050224210303B",
+      "faculty_th": "วิทยาลัยสหวิทยาการ (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 1 (พื้นฐาน + เพิ่มเติม)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนด GPAX; ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาสหวิทยาการ (หลักสูตรพหุวิทยาการ) (โครงการพิเศษ ศึกษาที่ มธ.ศูนย์รังสิต) (3 วิชาเอก)",
+      "tcas_code": "10050224903601B",
+      "faculty_th": "วิทยาลัยสหวิทยาการ (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 A-Level",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วิชาเอก: 1) นวัตกรรมและความเป็นผู้ประกอบการในอนุภูมิภาคลุ่มน้ำโขง 2) การจัดการการท่องเที่ยว 3) การจัดการทรัพยากรทางสังคมวัฒนธรรม; ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนด GPAX"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาสหวิทยาการ (หลักสูตรพหุวิทยาการ) (โครงการพิเศษ ศึกษาที่ มธ.ศูนย์รังสิต) (3 วิชาเอก)",
+      "tcas_code": "10050224903601B",
+      "faculty_th": "วิทยาลัยสหวิทยาการ (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 TGAT วิชาความถนัดทั่วไป",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT รหัส 91 92 93)",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วิชาเอก: 1) นวัตกรรมและความเป็นผู้ประกอบการในอนุภูมิภาคลุ่มน้ำโขง 2) การจัดการการท่องเที่ยว 3) การจัดการทรัพยากรทางสังคมวัฒนธรรม; ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนด GPAX"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาการจัดการความยั่งยืน (โครงการพิเศษ) (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "tcas_code": "10050224213501B",
+      "faculty_th": "วิทยาลัยสหวิทยาการ (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 1 (A-Level)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิชาวิทยาศาสตร์ประยุกต์",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "วท.บ. สาขาวิชาการจัดการความยั่งยืน (โครงการพิเศษ) (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "tcas_code": "10050224213501B",
+      "faculty_th": "วิทยาลัยสหวิทยาการ (ศึกษาที่ มธ.ศูนย์รังสิต)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รูปแบบที่ 2 (TGAT)",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป",
+          "weight_percent": "100",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาสหวิทยาการ (หลักสูตรปรับปรุง พ.ศ. 2566) (หลักสูตรพหุวิทยาการ) (ศึกษาที่ มธ.ศูนย์ลำปาง) (5 วิชาเอก)",
+      "tcas_code": "10050424903601A",
+      "faculty_th": "วิทยาลัยสหวิทยาการ (ศึกษาที่ มธ.ศูนย์ลำปาง)",
+      "seats": 40,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "วิชาเอก: 1) จีน-โลกศึกษา 2) การจัดการการท่องเที่ยว 3) การจัดการทรัพยากรทางสังคมวัฒนธรรม 4) นวัตกรรมและความเป็นผู้ประกอบการในอนุภูมิภาคลุ่มน้ำโขง 5) การบูรณาการเพื่อความยั่งยืน; ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนดคุณสมบัติเฉพาะอื่น ๆ"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชาปรัชญา การเมือง และเศรษฐศาสตร์ (ศึกษาที่ มธ.ศูนย์ลำปาง)",
+      "tcas_code": "10050424903601B",
+      "faculty_th": "วิทยาลัยสหวิทยาการ (ศึกษาที่ มธ.ศูนย์ลำปาง)",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "62",
+          "subject_name_th": "วิชาคณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "30",
+          "min_threshold": "T-score >= 10"
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "35",
+          "min_threshold": "T-score >= 10"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "35",
+          "min_threshold": "T-score >= 10"
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; คุณสมบัติด้านสุขภาพ: ไม่เป็นผู้ป่วยหรืออยู่ในสภาวะที่เป็นอุปสรรคร้ายแรงต่อการศึกษา; ไม่เป็นผู้ประพฤติผิดศีลธรรมอันดีหรือมีพฤติกรรมเสื่อมเสียอย่างร้ายแรง; คะแนนขั้นต่ำคิดในรูปแบบ T-score"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาจีนศึกษา (หลักสูตรนานาชาติ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050127902801E",
+      "faculty_th": "วิทยาลัยนานาชาติปรีดีพนมยงค์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT รหัส 91 92 93)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; เกณฑ์ภาษาอังกฤษ: IELTS >=6.0 หรือ TOEFL IBT >=61/ITP,PBT >=500 หรือ TU-GET PBT >=500/CBT >=74 หรือ SAT (Reading and Writing) >=400 หรือ GSAT >=400 หรือ A-Level 82 >=55; หากมี HSK 4 (>=180) สามารถยื่นขอยกเว้นเรียนปรับพื้นฐานภาษาจีน"
+    },
+    {
+      "program_name_th": "ศศ.บ.สาขาวิชาไทยศึกษา (หลักสูตรนานาชาติ) (ศึกษาที่ มธ.ท่าพระจันทร์)",
+      "tcas_code": "10050127902601E",
+      "faculty_th": "วิทยาลัยนานาชาติปรีดีพนมยงค์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "วิชาความถนัดทั่วไป (TGAT รหัส 91 92 93)",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "วิชาสังคมศึกษา",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "วิชาภาษาไทย",
+          "weight_percent": "15",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "วิชาภาษาอังกฤษ",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; เกณฑ์ภาษาอังกฤษ: IELTS >=6.0 หรือ TOEFL IBT >=61/ITP,PBT >=500 หรือ TU-GET PBT >=500/CBT >=74 หรือ SAT (Reading and Writing) >=400 หรือ GSAT >=400 หรือ A-Level 82 >=55"
+    },
+    {
+      "program_name_th": "การแพทย์แผนจีนบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": "10050229110501E",
+      "faculty_th": "วิทยาลัยแพทยศาสตร์นานาชาติจุฬาภรณ์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": "2.50",
+      "weighted_subjects": [],
+      "other_conditions_th": "อายุไม่เกิน 30 ปีบริบูรณ์; ไม่เป็นสัญชาติจีน; ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; เกณฑ์ภาษาอังกฤษแบ่ง 4 กรณี: กรณีที่1 TOEFL ITP/PBT>=500, IBT>=61 หรือ IELTS>=6.0 หรือ TU-GET PBT>=500/CBT>=61 หรือ A-Level 82>=55; กรณีที่2 หากไม่ผ่านเกณฑ์หลักสูตรนานาชาติแต่เกรดเฉลี่ยภาษาอังกฤษ>=3.00 รับแบบมีเงื่อนไข (TOEFL ITP/PBT>=400, IBT>=32 หรือ IELTS>=4.5 หรือ TU-GET PBT>=400/CBT>=32 หรือ A-Level 82>=35); กรณีที่3 ผ่านเกณฑ์ภาษาอังกฤษและมี HSK 4 ขึ้นไป ไม่ต้องเรียน CMN 141; กรณีที่4 มี HSK 4 ขึ้นไปแต่ไม่ผ่านเกณฑ์ภาษาอังกฤษ รับแบบมีเงื่อนไข; ไม่เป็นผู้ป่วยหรือมีพฤติกรรมเสื่อมเสียอย่างร้ายแรง; ไม่มีตาบอดสีรุนแรงทั้งสองข้าง; ไม่เป็นนักศึกษามหาวิทยาลัยอื่น (ยกเว้นมหาวิทยาลัยเปิด/ออนไลน์)"
+    },
+    {
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาเทคโนโลยีหัวใจและทรวงอก (หลักสูตรนานาชาติ)",
+      "tcas_code": "10050229111501E",
+      "faculty_th": "วิทยาลัยแพทยศาสตร์นานาชาติจุฬาภรณ์",
+      "seats": 3,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "30",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "30",
+          "min_threshold": "20"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "เกณฑ์คะแนนภาษาอังกฤษ: TOEFL (ITP,PBT ≥500, IBT ≥61) หรือ IELTS ≥6.0 หรือ TU-GET (PBT ≥500, CBT ≥61) หรือ A-Level 82 ≥55; คะแนนสอบภาษาอังกฤษต้องไม่เกิน 2 ปี (A-Level 82 ไม่เกิน 1 ปี); ไม่รับ IELTS One Skill Retake; ไม่มีตาบอดสีชนิดรุนแรงทั้งสองข้าง; ไม่เป็นนักศึกษาสถาบันอุดมศึกษาอื่น (ยกเว้นมหาวิทยาลัยเปิด/ออนไลน์)"
+    },
+    {
+      "program_name_th": "ทัศนมาตรศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "tcas_code": "10050229113001E",
+      "faculty_th": "วิทยาลัยแพทยศาสตร์นานาชาติจุฬาภรณ์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "65",
+          "subject_name_th": "เคมี",
+          "weight_percent": "20",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "20",
+          "min_threshold": "10"
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": "25"
+        }
+      ],
+      "other_conditions_th": "เกณฑ์คะแนนภาษาอังกฤษ: TOEFL (ITP,PBT ≥500, IBT ≥61) หรือ IELTS ≥6.0 หรือ TU-GET (PBT ≥500, CBT ≥61) หรือ A-Level 82 ≥55; คะแนนสอบภาษาอังกฤษต้องไม่เกิน 2 ปี (A-Level 82 ไม่เกิน 1 ปี); ไม่รับ IELTS One Skill Retake; ต้องผ่านการเรียนวิทยาศาสตร์ ชีววิทยา เคมี ฟิสิกส์ และคณิตศาสตร์; ไม่มีความผิดปกติทางสายตาที่เป็นอุปสรรคต่อการศึกษา; ไม่เป็นนักศึกษาสถาบันอุดมศึกษาอื่น"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชานวัตกรรมการพัฒนามนุษย์และสังคม (รูปแบบที่ 1: TGAT+A-Level คณิตศาสตร์ประยุกต์ 1)",
+      "tcas_code": "10050230903601B",
+      "faculty_th": "วิทยาลัยพัฒนศาสตร์ ป๋วย อึ๊งภากรณ์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1 (พื้นฐาน+เพิ่มเติม)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รูปแบบที่ 1 รับ 40 คน (จากทั้งหมด 88 คน); รับ ม.6, ปวช., กศน., เทียบวุฒิต่างประเทศ/หลักสูตรนานาชาติ; ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ"
+    },
+    {
+      "program_name_th": "ศศ.บ. สาขาวิชานวัตกรรมการพัฒนามนุษย์และสังคม (รูปแบบที่ 2: TGAT+A-Level คณิตศาสตร์ประยุกต์ 2)",
+      "tcas_code": "10050230903601B",
+      "faculty_th": "วิทยาลัยพัฒนศาสตร์ ป๋วย อึ๊งภากรณ์",
+      "seats": 48,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "90",
+          "subject_name_th": "ความถนัดทั่วไป (TGAT)",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2 (พื้นฐาน)",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รูปแบบที่ 2 รับ 48 คน (จากทั้งหมด 88 คน); รับ ม.6, ปวช., กศน., เทียบวุฒิต่างประเทศ/หลักสูตรนานาชาติ; ไม่กำหนดหน่วยกิตกลุ่มสาระขั้นต่ำ; ไม่กำหนดเกณฑ์เฉพาะอื่นๆ"
+    },
+    {
+      "program_name_th": "หลักสูตรแพทยศาสตรบัณฑิต",
+      "tcas_code": "10050211100101A",
+      "faculty_th": "คณะแพทยศาสตร์",
+      "seats": 69,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ให้ติดตามประกาศกลุ่มสถาบันแพทยศาสตร์แห่งประเทศไทย ปีการศึกษา 2569 ที่ http://www9.si.mahidol.ac.th"
+    },
+    {
+      "program_name_th": "หลักสูตรทันตแพทยศาสตรบัณฑิต",
+      "tcas_code": "10050213120101A",
+      "faculty_th": "คณะทันตแพทยศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบ 3 ADMISSION",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "ให้ติดตามประกาศกลุ่มสถาบันแพทยศาสตร์แห่งประเทศไทย ปีการศึกษา 2569 ที่ http://www9.si.mahidol.ac.th"
     }
   ]
 }

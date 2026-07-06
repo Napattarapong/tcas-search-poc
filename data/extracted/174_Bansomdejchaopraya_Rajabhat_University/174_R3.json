@@ -1,16 +1,1209 @@
 {
+  "university": "Bansomdejchaopraya Rajabhat University",
   "university_id": "174",
   "round": "R3",
-  "archetype": "list",
-  "count": 2,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 64,
+  "programs": [
     {
-      "item_no": "2",
-      "text": "2. รับนักศึกษาที่สามารถพูด ฟัง อ่าน เขียน และเข้าใจภาษาอังกฤษได้เป็นอย่างดี โดยต้องมีผลคะแนนสอบ"
+      "program_name_th": "ค.บ. การประถมศึกษา",
+      "tcas_code": "21740101700201A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "30%",
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะผู้จบหลักสูตรแกนกลาง ไม่รับหลักสูตรนานาชาติ/อาชีวะ/กศน./GED ต้องสอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู มีเจตคติที่ดีต่อวิชาชีพครู ไม่เป็นผู้ทุพลภาพหรือมีโรคเป็นอุปสรรคต่อวิชาชีพครู ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
     },
     {
-      "item_no": "1",
-      "text": "คุณสมบัติผู้สมัคร 1. รับผู้สำเร็จการศึกษาระดับมัธยมศึกษาตอนปลาย (ม.6) กลุ่มสาระการเรียนรู้วิทยาศาสตร์ และกลุ่มวิชา คณิตศาสตร์ มีจำนวนหน่วยกิตรวมกันไม่ต่ำกว่า 12 หน่วยกิต 2. รับผู้สำเร็จการศึกษาระดับประกาศนียบัตรวิชาชีพ (ปวช.) ประเภทวิชาอุตสาหกรรม ในสาวิชายนต์ สาขาวิชา ตัวถังและสีรถยนต์ สาชาวิชายานยน"
+      "program_name_th": "ค.บ. วัดผลการศึกษาและการสอนคณิตศาสตร์",
+      "tcas_code": "21740101700401A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.75"
+        }
+      ],
+      "other_conditions_th": "รับผู้จบหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED มีเจตคติที่ดีต่อวิชาชีพครู ไม่เป็นผู้ทุพลภาพหรือมีโรคเป็นอุปสรรคต่อวิชาชีพครู ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. การศึกษาปฐมวัย",
+      "tcas_code": "21740101700601A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 15,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "40",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ; ไม่รับ กศน. และ GED; สอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. เทคโนโลยีดิจิทัลเพื่อการศึกษา",
+      "tcas_code": "21740101701501A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "60",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "20",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; สอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู; ไม่กำหนด GPAX ขั้นต่ำ; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. วิทยาศาสตร์ทั่วไป",
+      "tcas_code": "21740101702401A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.80",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "15",
+          "min_threshold": "2.80"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "35",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "50",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/GED; ไม่รับ กศน.; สอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู; ค่าธรรมเนียมภาคเรียนแรก 17,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. ศิลปศึกษา",
+      "tcas_code": "21740101702501A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "3.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "30",
+          "min_threshold": "3.00"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ต้องมีแฟ้มสะสมผลงานศิลปะ (Portfolio) และ/หรือประวัติผลงานการประกวดด้านศิลปะ; ค่าธรรมเนียมภาคเรียนแรก 17,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. ภาษาไทย",
+      "tcas_code": "21740101702001A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "50",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "30",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะผู้จบหลักสูตรแกนกลาง; ไม่รับ นานาชาติ/อาชีวะ/กศน./GED; สอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู; ไม่กำหนด GPAX ขั้นต่ำ; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. ภาษาอังกฤษ",
+      "tcas_code": "21740101702002A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "60",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; หากมีคะแนนภาษาอังกฤษจากสถาบันที่ได้รับการยอมรับ (CU-TEP≥30, TU-GET≥400, IELTS≥3.0, TOEFL iBT≥40) จะได้รับการพิจารณาเป็นพิเศษ; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. นาฏยศิลป์ศึกษา",
+      "tcas_code": "21740101702501A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 5,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.80",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "80",
+          "min_threshold": "2.80"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "10",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน.; ไม่รับ GED; คณะมนุษยศาสตร์และสังคมศาสตร์และคณะครุศาสตร์ร่วมผลิต; ต้องมีความรู้พื้นฐานทางนาฏยศิลป์; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. สังคมศึกษา",
+      "tcas_code": "21740101702701A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "20",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "40",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "40",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะผู้จบหลักสูตรแกนกลาง; ไม่รับ นานาชาติ/อาชีวะ/กศน./GED; สอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู; ต้องผ่านการสอบสัมภาษณ์โดยสาขาวิชาสังคมศึกษา; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. คณิตศาสตร์",
+      "tcas_code": "21740101700801A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 10,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.75",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "20%",
+          "min_threshold": "2.75"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "A-level คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้จบ วท-คม หรือ อ-คม; มีความถนัดในวิชาชีพครู บุคลิกภาพและจิตใจเหมาะสมที่จะเป็นครู; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. คอมพิวเตอร์ศึกษา",
+      "tcas_code": "21740101700901A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 8,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "50%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ไม่กำหนด GPAX ขั้นต่ำ; มีค่านิยมเจตคติที่ดีและคุณลักษณะเหมาะสมกับวิชาชีพครู; สอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ค.บ. ชีววิทยา",
+      "tcas_code": "21740101701301A",
+      "faculty_th": "ครุศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "60%",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT5",
+          "subject_name_th": "TPAT 5",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "มีค่านิยมเจตคติที่ดีและคุณลักษณะเหมาะสมกับวิชาชีพครู; สอบผ่านข้อสอบวัดคุณลักษณะความเป็นครู; มีคุณสมบัติตามหลักเกณฑ์ของกระทรวงศึกษาธิการ; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 17,000 บาท"
+    },
+    {
+      "program_name_th": "ศป.บ. ครีเอทีฟกราฟิก",
+      "tcas_code": "21740102800101A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "มีความสนใจด้านศิลปะและการออกแบบ มีแฟ้มสะสมผลงาน; ร่างกายแข็งแรงไม่เป็นโรคที่เป็นอุปสรรค; คุณสมบัติเฉพาะ: มีความสามารถโดดเด่นด้านงานศิลปะและงานออกแบบ (เคยได้รับรางวัล); รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศป.บ. นาฏยศาสตร์และการแสดง",
+      "tcas_code": "21740102800401A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "มีความสามารถด้านนาฏยศิลป์ (ไทยหรือสากล); มีความสามารถในการฟังพูดอ่านเขียนภาษาไทยได้ดี; สุขภาพร่างกายสมบูรณ์; มีความสนใจด้านศิลปะการแสดง การละคร นาฏศิลป์; ผู้เข้าสอบต้องจัดเตรียมอุปกรณ์ใช้สอบเอง; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "น.บ. นิติศาสตร์",
+      "tcas_code": "21740102901001A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "เป็นผู้สำเร็จการศึกษา ม.ปลายหรือเทียบเท่า; มีความประพฤติเรียบร้อย; ไม่เป็นโรคติดต่อร้ายแรง มีใบรับรองแพทย์; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศศ.บ. ภาษาจีน",
+      "tcas_code": "21740102901801A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.50"
+        }
+      ],
+      "other_conditions_th": "หากมีผลสอบ HSK ระดับ 3 ขึ้นไป จะพิจารณาเป็นพิเศษ; ไม่รับผู้จบหลักสูตร GED; รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน.; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศศ.บ. ภาษาไทย",
+      "tcas_code": "21740102902001A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศศ.บ. ภาษาอังกฤษ",
+      "tcas_code": "21740102902501A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.80",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100%; รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศศ.บ. ภาษาและวัฒนธรรมเอเชียตะวันออก แขนงวิชาภาษาและวัฒนธรรมเกาหลี",
+      "tcas_code": "21740102902801A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% (ไม่กำหนดผลการเรียนเฉลี่ยสะสม); รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศศ.บ. ภาษาและวัฒนธรรมเอเชียตะวันออก แขนงวิชาภาษาและวัฒนธรรมญี่ปุ่น",
+      "tcas_code": "21740102902801A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% (ไม่กำหนดผลการเรียนเฉลี่ยสะสม); รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศศ.บ. สังคมศาสตร์เพื่อการพัฒนา",
+      "tcas_code": "21740102903501A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100%; รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "รป.บ. รัฐประศาสนศาสตร์",
+      "tcas_code": "21740102903101A",
+      "faculty_th": "มนุษยศาสตร์และสังคมศาสตร์",
+      "seats": 100,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100%; รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; สามารถฟัง พูด อ่าน เขียนภาษาไทย; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "บธ.บ. การจัดการธุรกิจระหว่างประเทศ (หลักสูตรนานาชาติ)",
+      "tcas_code": "21740103610301E",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100%; ต้องมีคะแนน CEFR BSRU ระดับ B2 ขึ้นไป หรือ TOEFL ไม่น้อยกว่า 500 หรือ IELTS ไม่น้อยกว่า 5.0; รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 27,000 บาท"
+    },
+    {
+      "program_name_th": "บธ.บ. การจัดการธุรกิจและทรัพยากรมนุษย์",
+      "tcas_code": "21740103610401A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100%; รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน.; ไม่รับ GED; รับ ปวช. หรือเทียบเท่า; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "บธ.บ. การตลาดดิจิทัลเชิงสร้างสรรค์",
+      "tcas_code": "21740103610601A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "1.80",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100%; รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน.; ไม่รับ GED; รับ ปวช. หรือเทียบเท่า; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "บธ.บ. ธุรกิจดิจิทัล",
+      "tcas_code": "21740103610701A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; พิจารณาจาก GPAX 100% ไม่กำหนดผลการเรียนเฉลี่ยสะสม; ค่าธรรมเนียมภาคเรียนแรก 17,000 บาท"
+    },
+    {
+      "program_name_th": "บธ.บ. การเป็นผู้ประกอบการ",
+      "tcas_code": "21740103610801A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; พิจารณาจาก GPAX 100% ไม่กำหนดผลการเรียนเฉลี่ยสะสม; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "บธ.บ. การจัดการโลจิสติกส์และโซ่อุปทาน",
+      "tcas_code": "21740103611001A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/อาชีวะ/กศน. (ไม่รับนานาชาติและ GED); พิจารณาจาก GPAX 100% ไม่กำหนดผลการเรียนเฉลี่ยสะสม; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "บช.บ. การบัญชี",
+      "tcas_code": "21740103610501A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 100,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; รับ ปวช. และ ปวส. ที่ ก.พ. รับรอง; พิจารณาจาก GPAX 100% (ไม่ต่ำกว่า 2.00); ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศ.บ. นวัตกรรมทางเศรษฐกิจ การเงินและการลงทุน",
+      "tcas_code": "21740103611101A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 50,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; พิจารณาจาก GPAX 100% (ไม่ต่ำกว่า 2.00); ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ศศ.บ. นวัตกรรมการท่องเที่ยว",
+      "tcas_code": "21740103620101A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/อาชีวะ/กศน./GED (ไม่รับนานาชาติ); ผู้มีความรู้และประสบการณ์ด้านการท่องเที่ยวสามารถเทียบโอนประสบการณ์เป็นผลการเรียน; พิจารณาจาก GPAX 100% (ไม่ต่ำกว่า 2.00); ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "นศ.บ. การสื่อสารดิจิทัลคอนเทนต์",
+      "tcas_code": "21740103900401A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; พิจารณาจาก GPAX 100% ไม่กำหนดผลการเรียนเฉลี่ยสะสม; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "นศ.บ. การสื่อสารการตลาดและธุรกิจบันเทิง",
+      "tcas_code": "21740103901101A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "รับผู้สมัครจาก รร. หลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ไม่เป็นผู้บกพร่องทางการมองเห็น ได้ยิน หรือสื่อสาร; พิจารณาจาก GPAX 100% (ไม่ต่ำกว่า 2.00); ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "นศ.บ. ภาพยนตร์",
+      "tcas_code": "21740103901601A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 60,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ กศน. และ GED; ไม่รับหลักสูตรอาชีวะ; มีความรู้พื้นฐานด้านศิลปะภาพยนตร์; เป็นชาวไทยหรือชาวต่างชาติที่ฟัง พูด อ่าน เขียนภาษาไทยได้; ไม่กำหนดขั้นต่ำ GPAX; ค่าธรรมเนียมภาคเรียนแรก 27,000 บาท"
+    },
+    {
+      "program_name_th": "นศ.บ. บรอดคาสติงและสื่อสตรีมมิง",
+      "tcas_code": "21740103903801A",
+      "faculty_th": "วิทยาการจัดการ",
+      "seats": 80,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะผู้สมัครจากหลักสูตรแกนกลาง; ไม่รับหลักสูตรนานาชาติ อาชีวะ กศน. และ GED; สำเร็จการศึกษา ม.ปลายหรือเทียบเท่า; ค่าธรรมเนียมภาคเรียนแรก 17,000 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. วิทยาการธุรกิจสุขภาพและความงาม",
+      "tcas_code": "21740104111101A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "70%",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; ผ่านเกณฑ์ของ อว. และ/หรือข้อบังคับมหาวิทยาลัย; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. เทคโนโลยีสุขภาพ",
+      "tcas_code": "21740104111201A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "70%",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; นักศึกษาต่างชาติต้องใช้ภาษาไทยได้ในระดับดี; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. อาชีวอนามัยและความปลอดภัย",
+      "tcas_code": "21740104112701A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "50%",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะผู้สมัครจากหลักสูตรแกนกลาง; ไม่รับหลักสูตรนานาชาติ อาชีวะ กศน. และ GED; ต้องเคยเรียนคณิตศาสตร์และวิทยาศาสตร์; นักศึกษาต่างชาติต้องใช้ภาษาไทยได้ระดับดี; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. คอมพิวเตอร์อิเล็กทรอนิกส์",
+      "tcas_code": "21740104212002A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "70%",
+          "min_threshold": "2.00"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; รับผู้สำเร็จ ปวส. หรืออนุปริญญาหรือเทียบเท่า; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. แอนิเมชัน เกม และดิจิทัลมีเดีย",
+      "tcas_code": "21740104211601A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "1.80",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "1.80"
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ และกศน.; ไม่รับ GED; ค่าธรรมเนียมภาคเรียนแรก 27,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. การจัดการทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+      "tcas_code": "21740104211901A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม (GPAX)",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง อาชีวะ และกศน.; ไม่รับหลักสูตรนานาชาติและ GED; ต้องเรียนวิชาวิทยาศาสตร์หรือ ปวช.; ไม่รับผู้พิการหรือบกพร่องทางร่างกายและจิตใจทุกประเภท (มีภาคปฏิบัติและออกภาคสนาม); นักศึกษาต่างชาติต้องสื่อสารภาษาไทยได้ระดับดี; ค่าธรรมเนียมภาคเรียนแรก 15,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. เทคโนโลยีสารสนเทศและวิทยาการข้อมูล",
+      "tcas_code": "21740104220101A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; สามารถฟัง พูด อ่าน เขียนภาษาไทยได้; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. วิทยาการคอมพิวเตอร์",
+      "tcas_code": "21740104220201A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง อาชีวะ กศน. (ไม่รับนานาชาติและ GED); ไม่เป็นผู้พิการทางสมองและมีความบกพร่องทางสายตาทั้งสองข้าง; ค่าธรรมเนียมภาคเรียนแรก 19,500 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. เทคโนโลยีการเกษตร",
+      "tcas_code": "21740104500201A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; นักศึกษาต่างชาติต้องใช้ภาษาไทยได้ในระดับดี; ค่าธรรมเนียมภาคเรียนแรก 15,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. การประกอบและบริการอาหาร",
+      "tcas_code": "21740104111801A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง อาชีวะ กศน. (ไม่รับนานาชาติและ GED); ไม่เป็นผู้มีความบกพร่องทางสายตา การได้ยิน หรือความผิดปกติทางสมอง; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. วิทยาศาสตร์เครื่องสำอาง",
+      "tcas_code": "21740104111102A",
+      "faculty_th": "วิทยาศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; สำเร็จการศึกษาในแผนการเรียนวิทยาศาสตร์-คณิตศาสตร์หรือแผนการเรียนอื่นที่สัมพันธ์กับวิทยาศาสตร์; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. เทคโนโลยีโลจิสติกส์",
+      "tcas_code": "21740105210201A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. ออกแบบผลิตภัณฑ์และนวัตกรรม",
+      "tcas_code": "21740105800101A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับผู้สมัครจากหลักสูตรแกนกลาง นานาชาติ อาชีวะ กศน. และ GED; รับผู้สำเร็จ ปวส. สาขาที่เกี่ยวข้องสามารถเทียบโอนผลการเรียน; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ทล.บ. การจัดการอุตสาหกรรม (ต่อเนื่อง)",
+      "tcas_code": "21740105212103A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": null,
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะผู้สมัครจากหลักสูตรอาชีวะ (ไม่รับแกนกลาง นานาชาติ กศน. GED); สำเร็จการศึกษาระดับปวส. หรือเทียบเท่าในสาขาที่เกี่ยวข้อง; ไม่กำหนด GPAX ขั้นต่ำ; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ทล.บ. เทคโนโลยีอุตสาหกรรม (การจัดการอุตสาหกรรม)",
+      "tcas_code": "21740105212101A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% ไม่กำหนด GPAX ขั้นต่ำ; รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "ทล.บ. เทคโนโลยีอุตสาหกรรม (อุตสาหกรรมออกแบบตกแต่งภายใน)",
+      "tcas_code": "21740105212102A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% ไม่กำหนด GPAX ขั้นต่ำ; รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "อส.บ. การจัดการวิศวกรรมการผลิตและคลังสินค้า (แขนงวิชาการจัดการผลิตและคุณภาพ)",
+      "tcas_code": "21740105212201A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% ไม่กำหนด GPAX ขั้นต่ำ; รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; กรณีนักศึกษาต่างชาติต้องสื่อสารภาษาไทยได้ดี; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "อส.บ. การจัดการวิศวกรรมการผลิตและคลังสินค้า (แขนงวิชาการจัดการคลังสินค้าและระบบดิจิทัล)",
+      "tcas_code": "21740105212203A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% ไม่กำหนด GPAX ขั้นต่ำ; รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; กรณีนักศึกษาต่างชาติต้องสื่อสารภาษาไทยได้ดี; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "วศ.บ. วิศวกรรมพลังงาน",
+      "tcas_code": "21740105301501A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% (GPAX ไม่ต่ำกว่า 2.00); รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 17,000 บาท"
+    },
+    {
+      "program_name_th": "วศ.บ. วิศวกรรมไฟฟ้า",
+      "tcas_code": "21740105301601A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% (GPAX ไม่ต่ำกว่า 2.00); รับผู้จบ ม.ปลาย/ปวช. สาขาอิเล็กทรอนิกส์ ไฟฟ้าวัดคุมคอมพิวเตอร์ ไฟฟ้าสื่อสารโทรคมนาคม หรือที่เกี่ยวข้อง/ปวส. สาขาเดียวกันหรือที่เกี่ยวข้อง; รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 17,000 บาท"
+    },
+    {
+      "program_name_th": "วศ.บ. วิศวกรรมยานยนต์ไฟฟ้า",
+      "tcas_code": "21740105302001A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% (GPAX ไม่ต่ำกว่า 2.00); รับผู้จบ ม.6 กลุ่มสาระวิทยาศาสตร์และคณิตศาสตร์รวมไม่ต่ำกว่า 12 หน่วยกิต หรือ ปวช. สาขายานยนต์/ตัวถังและสีรถยนต์/ยานยนต์ไฟฟ้า/ช่างซ่อมบำรุง/ช่างไฟฟ้า หรือ ปวส. สาขาเทคโนโลยีบริการยานยนต์/เทคนิคยานยนต์ไฟฟ้า/เทคโนโลยีอุตสาหกรรมตัวถังและสีรถยนต์/เทคโนโลยีวิศวกรรมยานยนต์สมัยใหม่ หรือเทียบเท่า; รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "วศ.บ. วิศวกรรมอุตสาหการและการจัดการโซ่อุปทาน",
+      "tcas_code": "21740105303501A",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [],
+      "other_conditions_th": "พิจารณาจาก GPAX ค่าน้ำหนัก 100% ไม่กำหนด GPAX ขั้นต่ำ; รับผู้จบ ม.ปลาย/ปวช./ปวส. หรือเทียบเท่า; รับผู้จบหลักสูตรแกนกลาง/นานาชาติ/อาชีวะ/กศน./GED; กรณีนักศึกษาต่างชาติต้องใช้ภาษาไทยได้ในระดับดี; ค่าธรรมเนียมภาคเรียนแรก 15,000 บาท"
+    },
+    {
+      "program_name_th": "พท.บ. การแพทย์แผนไทย",
+      "tcas_code": "21740107110701A",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 20,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะหลักสูตรแกนกลาง; ต้องมีหน่วยกิตวิทยาศาสตร์≥22 คณิตศาสตร์≥12 ภาษาอังกฤษ≥9; ต้องมีใบรับรองแพทย์จากสถานพยาบาลของรัฐ; ค่าธรรมเนียมภาคเรียนแรก 27,600 บาท"
+    },
+    {
+      "program_name_th": "ส.บ. สาธารณสุขศาสตร์",
+      "tcas_code": "21740107112702A",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม",
+          "weight_percent": "80%",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง นานาชาติ และ GED; ค่าธรรมเนียมภาคเรียนแรก 17,600 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. เทคนิคการแพทย์",
+      "tcas_code": "21740107111301A",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 25,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม",
+          "weight_percent": null,
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "เคมี",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "35%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับเฉพาะหลักสูตรแกนกลาง สายวิทย์-คณิต; ไม่เป็นโรคตาบอดสี; ค่าธรรมเนียมภาคเรียนแรก 33,800 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. วิทยาศาสตร์การแพทย์",
+      "tcas_code": "21740107112101A",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 40,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.50",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม",
+          "weight_percent": "60%",
+          "min_threshold": "2.50"
+        },
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT 3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลางและนานาชาติ สายวิทย์-คณิตหรือสายวิทยาศาสตร์ที่เกี่ยวข้อง; ไม่ตาบอดสี; ค่าธรรมเนียมภาคเรียนแรก 22,400 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. ชีววิทยาการแพทย์",
+      "tcas_code": "21740107112201A",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง นานาชาติ กศน. และ GED; สายวิทย์-คณิตหรือเทียบเท่า; ค่าธรรมเนียมภาคเรียนแรก 22,400 บาท"
+    },
+    {
+      "program_name_th": "วท.บ. เทคโนโลยีการอาหาร",
+      "tcas_code": "21740107211001A",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 30,
+      "project_code": null,
+      "round_label": "รอบที่ 3 Admission",
+      "gpax_min": "2.00",
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "ผลการเรียนเฉลี่ยสะสม",
+          "weight_percent": "100%",
+          "min_threshold": "2.00"
+        }
+      ],
+      "other_conditions_th": "รับหลักสูตรแกนกลาง นานาชาติ อาชีวะ และกศน.; รับ ปวส. สาขาอาหาร/โภชนาการ/คหกรรม/อุตสาหกรรมเกษตรหรือเทียบเท่า; ค่าธรรมเนียมภาคเรียนแรก 15,600 บาท"
     }
   ]
 }
