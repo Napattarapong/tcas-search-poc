@@ -84,6 +84,31 @@ FACULTY = {
     "สาธารณสุข": ("Public Health", "สาธารณสุข public health"),
 }
 
+# major/specialization keywords -> (label, extra match terms). More specific than faculty.
+MAJOR = {
+    "คอมพิวเตอร์": ("Computer", "คอมพิวเตอร์ computer"), "computer": ("Computer", "คอมพิวเตอร์ computer"),
+    "คอม": ("Computer", "คอมพิวเตอร์ computer"),
+    "ไอที": ("IT", "สารสนเทศ information technology IT"),
+    "สารสนเทศ": ("IT", "สารสนเทศ information technology"),
+    "ซอฟต์แวร์": ("Software", "ซอฟต์แวร์ software"),
+    "ปัญญาประดิษฐ์": ("AI", "ปัญญาประดิษฐ์ artificial intelligence"),
+    "ข้อมูล": ("Data Science", "ข้อมูล data"),
+    "การตลาด": ("Marketing", "การตลาด marketing"), "marketing": ("Marketing", "การตลาด marketing"),
+    "การเงิน": ("Finance", "การเงิน finance"), "finance": ("Finance", "การเงิน finance"),
+    "การจัดการ": ("Management", "การจัดการ management"), "management": ("Management", "การจัดการ management"),
+    "บัญชี": ("Accounting", "บัญชี accounting"), "accounting": ("Accounting", "บัญชี accounting"),
+    "การออกแบบ": ("Design", "การออกแบบ design"), "design": ("Design", "การออกแบบ design"),
+    "จิตวิทยา": ("Psychology", "จิตวิทยา psychology"), "psychology": ("Psychology", "จิตวิทยา psychology"),
+    "กายภาพ": ("Physiotherapy", "กายภาพบำบัด physiotherapy physical therapy"),
+    "โภชนาการ": ("Nutrition", "โภชนาการ nutrition"), "อาหาร": ("Food Science", "อาหาร food"),
+    "การท่องเที่ยว": ("Tourism", "การท่องเที่ยว tourism"), "tourism": ("Tourism", "การท่องเที่ยว tourism"),
+    "โลจิสติกส์": ("Logistics", "โลจิสติกส์ logistics"),
+    "สื่อสารมวลชน": ("Mass Com", "สื่อสารมวลชน mass communication"),
+    "ดนตรี": ("Music", "ดนตรี music"), "ทัศนศิลป์": ("Visual Arts", "ทัศนศิลป์ visual arts"),
+    "สังคมวิทยา": ("Sociology", "สังคมวิทยา sociology"),
+    "วิศวกรรมคอมพิวเตอร์": ("Computer Eng", "วิศวกรรมคอมพิวเตอร์ computer engineering"),
+}
+
 
 # ---------- stages ----------
 def normalize(text):
@@ -137,10 +162,18 @@ def parse_signals(text):
                 if m not in keywords and m.lower() not in STOP:
                     keywords.append(m)
             break
+    major = None
+    for kw, (label, match) in MAJOR.items():
+        if kw in norm_low:
+            major = label
+            for m in match.split():
+                if m not in keywords and m.lower() not in STOP:
+                    keywords.append(m)
+            break
     return {"university": uni, "subjects": sorted(subjects),
             "seats_min": seats_min, "keywords": keywords,
             "round": round_label, "gpax": gpax, "intl": intl,
-            "faculty": faculty, "raw": text}
+            "faculty": faculty, "major": major, "raw": text}
 
 
 _TABLE = None

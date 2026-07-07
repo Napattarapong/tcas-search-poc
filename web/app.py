@@ -85,6 +85,8 @@ def do_search():
         chips += f'<span class="chip">🎓 <b>{sig["university"]}</b></span>'
     if sig.get("faculty"):
         chips += f'<span class="chip">🏛️ <b>{sig["faculty"]}</b></span>'
+    if sig.get("major"):
+        chips += f'<span class="chip">📚 <b>{sig["major"]}</b></span>'
     if sig["subjects"]:
         subs = ", ".join(CODE_NAME.get(c, c) for c in sig["subjects"])
         chips += f'<span class="chip">📐 <b>{subs}</b></span>'
