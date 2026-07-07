@@ -33,11 +33,36 @@ EXT = os.path.join(ROOT, "data", "extracted")
 K = 8
 FUZZ_THR = 85  # WRatio cutoff for fuzzy synonym matching
 
-# university synonyms -> canonical
+# university synonyms -> canonical (substring-matched against university name)
 UNI = {
     "chulalongkorn": "Chulalongkorn", "chula": "Chulalongkorn", "จุฬา": "Chulalongkorn",
-    "จุฬาลงกรณ์": "Chulalongkorn", "เชียงใหม่": "Chiang Mai", "cmu": "Chiang Mai",
-    "chiang mai": "Chiang Mai", "ธรรมศาสตร์": "Thammasat", "thammasat": "Thammasat",
+    "จุฬาลงกรณ์": "Chulalongkorn",
+    "เชียงใหม่": "Chiang Mai", "cmu": "Chiang Mai", "chiang mai": "Chiang Mai",
+    "ธรรมศาสตร์": "Thammasat", "thammasat": "Thammasat", "tu": "Thammasat",
+    "ราชมงคล": "Rajamangala", "rajamangala": "Rajamangala",
+    "มหิดล": "Mahidol", "mahidol": "Mahidol", "mu": "Mahidol",
+    "เกษตร": "Kasetsart", "kasetsart": "Kasetsart",
+    "ขอนแก่น": "Khon Kaen", "khon kaen": "Khon Kaen",
+    "สงขลา": "Prince of Songkla", "songkla": "Prince of Songkla", "psu": "Prince of Songkla",
+    "สิลปากร": "Silpakorn", "silpakorn": "Silpakorn",
+    "นเรศวร": "Naresuan", "naresuan": "Naresuan",
+    "แม่ฟ้าหลวง": "Mae Fah Luang", "mae fah luang": "Mae Fah Luang",
+    "มหาสารคาม": "Mahasarakham", "mahasarakham": "Mahasarakham",
+    "ศรีนครินทรวิโรฒ": "Srinakharinwirot", "srinakharinwirot": "Srinakharinwirot",
+    "ทักษิณ": "Thaksin", "thaksin": "Thaksin",
+    "วลัยลักษณ์": "Walailak", "walailak": "Walailak",
+    "สุรนารี": "Suranaree", "suranaree": "Suranaree",
+    "พระจอมเกล้า": "King Mongkut", "kmitl": "King Mongkut",
+    "บูรพา": "Burapha", "burapha": "Burapha",
+    "แม่โจ้": "Maejo", "maejo": "Maejo",
+    "รามคำแหง": "Ramkhamhaeng", "ramkhamhaeng": "Ramkhamhaeng",
+    "เชียงราย": "Mae Fah Luang",
+    # Thai university abbreviations
+    "มช": "Chiang Mai", "มธ": "Thammasat", "มก": "Kasetsart",
+    "มข": "Khon Kaen", "มศว": "Srinakharinwirot", "มรม": "Ramkhamhaeng",
+    "มอ": "Prince of Songkla", "มน": "Naresuan", "มจ": "Maejo",
+    "มฟล": "Mae Fah Luang", "มทส": "Suranaree", "มส": "Mahasarakham",
+    "มทร": "Rajamangala", "มกฬ": "Mahidol", "สมช": "Srinakharinwirot",
 }
 # subject synonyms -> A-Level code
 SUBJ = {
@@ -230,6 +255,12 @@ def parse_signals(text):
             "phrase": phrase, "phrase_active": phrase_active, "raw": text}
 
 
+    # fallback: check full text for multi-token Thai university names
+    if not uni:
+        for kw, val in UNI.items():
+            if len(kw) > 1 and kw in norm.lower():
+                uni = val
+                break
 _TABLE = None
 
 
@@ -258,7 +289,7 @@ def search(text, k=K):
     kw = " ".join(sig["keywords"])
 
     def passes(p):
-        if sig["university"] and p["university"] != sig["university"]:
+        if sig["university"] and sig["university"] not in p["university"]:
             return False
         if sig["subjects"] and not set(sig["subjects"]).issubset(p["codes"]):
             return False
