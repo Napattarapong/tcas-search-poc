@@ -1,28 +1,2181 @@
 {
+  "university": "Rajamangala University of Technology Rattanakosin",
   "university_id": "195",
   "round": "R3",
-  "archetype": "list",
-  "count": 5,
-  "items": [
+  "archetype": "criteria",
+  "program_count": 75,
+  "programs": [
     {
-      "item_no": "7",
-      "text": "7. รับราชการหรือพนักงานรัฐวิสาหกิจ"
+      "program_name_th": "วิศวกรรมโยธา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต; สัดส่วนเพิ่มเติม: A-Level 62 (คณิตศาสตร์ประยุกต์ 2) 20%, A-Level 63 (วิทยาศาสตร์ประยุกต์) 10%, A-Level 82 (ภาษาอังกฤษ) 10%"
     },
     {
-      "item_no": "9",
-      "text": "9. รับราชการ"
+      "program_name_th": "วิศวกรรมเมคคาทรอนิกส์และหุ่นยนต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายคณิต-อังกฤษ, สายศิลป์-คำนวณ หรือเทียบเท่า; มีประวัติผลงานความยาวไม่เกิน 10 หน้า รวม 1 ไฟล์ ในการฝึกอบรมด้านเทคโนโลยีทางวิศวกรรมเมคคาทรอนิกส์และหุ่นยนต์ หรือประสบการณ์ด้านการปฏิบัติโครงงาน หรือการเข้าร่วมแข่งขันงานทางวิศวกรรมเมคคาทรอนิกส์และหุ่นยนต์"
     },
     {
-      "item_no": "2",
-      "text": "2. รับราชการในหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับวิศวกรรมอุตสาหการหรือวิศวกรรมการผลิต"
+      "program_name_th": "วิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ, สายศิลป์-คอมพิวเตอร์; ผ่านการทดสอบการเรียนเขียนโปรแกรม"
     },
     {
-      "item_no": "10",
-      "text": "10. รับราชการ"
+      "program_name_th": "วิศวกรรมการวัดคุมและระบบอัตโนมัติ - วิศวกรรมการวัดคุม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ; มีประสบการณ์การแข่งขันหรือร่วมกิจกรรมที่เกี่ยวข้องกับวิศวกรรมการวัดคุม, ระบบอัตโนมัติ, ไฟฟ้า, อิเล็กทรอนิกส์"
     },
     {
-      "item_no": "6",
-      "text": "6. รับราชการในตำแหน่งเจ้าหน้าที่กองอนุรักษ์หัตถศิลป์ในงานช่างสิบหมู่ ของกรมศิลปากร"
+      "program_name_th": "วิศวกรรมการวัดคุมและระบบอัตโนมัติ - วิศวกรรมระบบอัตโนมัติ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "80%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ; มีประสบการณ์การแข่งขันหรือร่วมกิจกรรมที่เกี่ยวข้องกับวิศวกรรมการวัดคุม, ระบบอัตโนมัติ, ไฟฟ้า, อิเล็กทรอนิกส์"
+    },
+    {
+      "program_name_th": "วิศวกรรมเครื่องกล",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต; สัดส่วนเพิ่มเติม: A-Level 64 (ฟิสิกส์) 20%, A-Level 82 (ภาษาอังกฤษ) 20%"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน; เงื่อนไขบังคับ: กลุ่มคณิตศาสตร์ไม่น้อยกว่า 15 หน่วยกิต, กลุ่มวิทยาศาสตร์ไม่น้อยกว่า 10 หน่วยกิต; สัดส่วนเพิ่มเติม: A-Level 82 (ภาษาอังกฤษ) 10%, GPAX 20%"
+    },
+    {
+      "program_name_th": "วิศวกรรมวัสดุ-ปิโตรเคมีภัณฑ์และพอลิเมอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "80%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT11",
+          "subject_name_th": "TPAT11",
+          "weight_percent": "5%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต; สัดส่วนเพิ่มเติม: A-Level 61 (คณิตศาสตร์ประยุกต์ 1) 10%, A-Level 62 (คณิตศาสตร์ประยุกต์ 2) 10%, A-Level 63 (วิทยาศาสตร์ประยุกต์) 10%, A-Level 64 (ฟิสิกส์) 10%, GPAX 10%"
+    },
+    {
+      "program_name_th": "วิศวกรรมโลจิสติกส์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน หรือเทียบเท่า; แสดงใบประกาศจากที่ได้รางวัล, วุฒิบัตร หรือความสามารถพิเศษ; มีความสามารถในการประดิษฐ์อุปกรณ์ในทางวิศวกรรมโลจิสติกส์และ Start Up; สัดส่วนเพิ่มเติม: A-Level 62 (คณิตศาสตร์ประยุกต์ 2) 20%, A-Level 63 (วิทยาศาสตร์ประยุกต์) 10%, A-Level 64 (ฟิสิกส์) 10%"
+    },
+    {
+      "program_name_th": "วิศวกรรมไฟฟ้าสื่อสารและอิเล็กทรอนิกส์อัจฉริยะ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน; สัดส่วนเพิ่มเติม: A-Level 63 (วิทยาศาสตร์ประยุกต์) 15%, A-Level 64 (ฟิสิกส์) 10%, A-Level 65 (เคมี) 5%, A-Level 81 (ภาษาไทย) 10%, A-Level 82 (ภาษาอังกฤษ) 10%"
+    },
+    {
+      "program_name_th": "วิศวกรรมปัญญาประดิษฐ์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "60%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน หรือเทียบเท่า; ให้อยู่ในดุลยพินิจของอาจารย์ผู้รับผิดชอบหลักสูตร"
+    },
+    {
+      "program_name_th": "วิศวกรรมโยธา",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 64",
+          "subject_name_th": "ฟิสิกส์",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, คณิต-อังกฤษ หรือเทียบเท่า"
+    },
+    {
+      "program_name_th": "วิศวกรรมอุตสาหการและการผลิต - วิศวกรรมอุตสาหการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต"
+    },
+    {
+      "program_name_th": "วิศวกรรมโลจิสติกส์และการจัดการ",
+      "tcas_code": null,
+      "faculty_th": "คณะวิศวกรรมศาสตร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT11",
+          "subject_name_th": "TPAT11",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน หรือเทียบเท่า; สัดส่วนเพิ่มเติม: A-Level 82 (ภาษาอังกฤษ) 5%, GPAX 30%"
+    },
+    {
+      "program_name_th": "การจัดการงานก่อสร้างและนวัตกรรมอาคาร – การจัดการงานก่อสร้าง",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การจัดการงานก่อสร้างและนวัตกรรมอาคาร – การจัดการนวัตกรรมอาคาร",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ออกแบบผลิตภัณฑ์และนวัตกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การออกแบบสื่อดิจิทัล – เกมแอนิเมชัน",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "40%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การออกแบบสื่อดิจิทัล – นิเทศศิลป์",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การออกแบบสื่อดิจิทัล – ภาพยนตร์และภาพเคลื่อนไหว",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "30%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "30%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน และหลักสูตรตามที่กระทรวงศึกษาธิการรับรอง"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสถาปัตยกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรมภายใน",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT4",
+          "subject_name_th": "TPAT4",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "5%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน; GPAX 30%"
+    },
+    {
+      "program_name_th": "สถาปัตยกรรมผังเมือง",
+      "tcas_code": null,
+      "faculty_th": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสื่อสารมวลชนและนวัตกรรมการสื่อสาร",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT11",
+          "subject_name_th": "TPAT11",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT13",
+          "subject_name_th": "TPAT13",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน; A-Level 82 ภาษาอังกฤษ 10%; GPAX 30%"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT11",
+          "subject_name_th": "TPAT11",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT13",
+          "subject_name_th": "TPAT13",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน; A-Level 61 คณิตศาสตร์ประยุกต์ 1 10%"
+    },
+    {
+      "program_name_th": "เทคโนโลยีวิศวกรรมคอมพิวเตอร์",
+      "tcas_code": null,
+      "faculty_th": "คณะอุตสาหกรรมและเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "14%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "14%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "16%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "14%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "14%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "81",
+          "subject_name_th": "ภาษาไทย",
+          "weight_percent": "14%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน หรือเทียบเท่า; A-Level 82 ภาษาอังกฤษ 14%"
+    },
+    {
+      "program_name_th": "เทคโนโลยีวิศวกรรมไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะอุตสาหกรรมและเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "7%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "7%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "7%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "7%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT1",
+          "subject_name_th": "TPAT1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "3%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน; TPAT3 10%; TPAT11 10%; TPAT13 3%; A-Level 61 คณิตศาสตร์ประยุกต์ 1 6%; A-Level 62 คณิตศาสตร์ประยุกต์ 2 6%; A-Level 63 วิทยาศาสตร์ประยุกต์ 5%; A-Level 64 ฟิสิกส์ 5%; A-Level 65 เคมี 2%; A-Level 70 สังคมศึกษา 4%; A-Level 81 ภาษาไทย 4%; A-Level 82 ภาษาอังกฤษ 4%"
+    },
+    {
+      "program_name_th": "เทคโนโลยียานยนต์ไฟฟ้า",
+      "tcas_code": null,
+      "faculty_th": "คณะอุตสาหกรรมและเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การโรงแรม",
+      "tcas_code": null,
+      "faculty_th": "คณะอุตสาหกรรมการโรงแรมและการท่องเที่ยว",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน ต้องไม่มีความบกพร่องทางด้านสมอง ร่างกายไม่พิการ และไม่เป็นโรคไวรัสตับอักเสบบี"
+    },
+    {
+      "program_name_th": "นวัตกรรมการท่องเที่ยวและมัคคุเทศก์",
+      "tcas_code": null,
+      "faculty_th": "คณะอุตสาหกรรมการโรงแรมและการท่องเที่ยว",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน ต้องไม่มีความบกพร่องทางด้านสมอง และไม่เป็นโรคไวรัสตับอักเสบบี"
+    },
+    {
+      "program_name_th": "การจัดประชุมนิทรรศการและอีเวนต์",
+      "tcas_code": null,
+      "faculty_th": "คณะอุตสาหกรรมการโรงแรมและการท่องเที่ยว",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน ต้องไม่มีความบกพร่องทางด้านสมอง"
+    },
+    {
+      "program_name_th": "นวัตกรรมบริการส่งเสริมสุขภาพองค์รวม",
+      "tcas_code": null,
+      "faculty_th": "คณะอุตสาหกรรมการโรงแรมและการท่องเที่ยว",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน ต้องไม่มีความบกพร่องทางด้านสมอง และร่างกายไม่พิการไม่เป็นอุปสรรคต่อการเรียน"
+    },
+    {
+      "program_name_th": "การบัญชี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT11",
+          "subject_name_th": "TPAT11",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 70",
+          "subject_name_th": "สังคมศึกษา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การตลาดดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT11",
+          "subject_name_th": "TPAT11",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT13",
+          "subject_name_th": "TPAT13",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการ – การจัดการอุตสาหกรรม",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการ – การจัดการโลจิสติกส์และโซ่อุปทาน",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 66",
+          "subject_name_th": "ชีววิทยา",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีทางธุรกิจดิจิทัล – การพัฒนาซอฟต์แวร์เพื่อธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีทางธุรกิจดิจิทัล – เทคโนโลยีดิจิทัลมีเดียทางธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT1",
+          "subject_name_th": "TGAT1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT2",
+          "subject_name_th": "TGAT2",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT3",
+          "subject_name_th": "TPAT3",
+          "weight_percent": "5%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "10%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีทางธุรกิจดิจิทัล – การจัดการธุรกิจดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การบริหารธุรกิจระหว่างประเทศ (หลักสูตรภาษาอังกฤษ)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การบัญชี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีทางธุรกิจดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การบัญชี",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษธุรกิจ",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การตลาดดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เทคโนโลยีทางธุรกิจดิจิทัล",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "บริหารธุรกิจ (หลักสูตรภาษาจีน)",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน หลักสูตรแบ่งเป็น 2 แผนการเรียน: 1) แผน 2+2 (เรียนไทย 2 ปี เรียนจีน 2 ปี ได้ใบปริญญาบัตร 2 ใบ) 2) แผน 4 ปี (1 ปริญญาบัตร) ผู้สมัครควรมีความรู้พื้นฐานภาษาจีน หากยังไม่มีผล HSK สามารถติดต่อสาขาวิชาเพื่อทำแบบทดสอบวัดความรู้ภาษาจีนออนไลน์"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการ – การจัดการสมัยใหม่",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "นวัตกรรมการจัดการ – การจัดการโลจิสติกส์และโซ่อุปทาน",
+      "tcas_code": null,
+      "faculty_th": "คณะบริหารธุรกิจ",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 (Admission)",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาอังกฤษเพื่อการสื่อสารสากล",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์ (บพิตรพิมุข จักรวรรดิ)",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาญี่ปุ่น",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์ (บพิตรพิมุข จักรวรรดิ)",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน; หากมีผล JLPT N5 ขึ้นไป จะได้รับการพิจารณาเป็นพิเศษ"
+    },
+    {
+      "program_name_th": "ภาษาจีน",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์ (บพิตรพิมุข จักรวรรดิ)",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ภาษาจีน",
+      "tcas_code": null,
+      "faculty_th": "คณะศิลปศาสตร์ (ศาลายา)",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "วิทยาการแปรรูปและการประกอบอาหาร",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีและการจัดการสิ่งแวดล้อม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีสุขภาพและความงาม",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ"
+    },
+    {
+      "program_name_th": "เทคโนโลยีการกีฬาและการออกกำลังกาย",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์และปัญญาประดิษฐ์ประยุกต์",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ"
+    },
+    {
+      "program_name_th": "นวัตกรรมโภชนาการเพื่อการชะลอวัย",
+      "tcas_code": null,
+      "faculty_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 สายวิทย์-คณิต, สายศิลป์-คำนวณ"
+    },
+    {
+      "program_name_th": "จิตรกรรมไทย",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "40%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ประติมากรรมไทย",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "หัตถศิลป์",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ออกแบบนิเทศศิลป์",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ออกแบบผลิตภัณฑ์",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ออกแบบภายใน",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "ศิลปะการถ่ายภาพ",
+      "tcas_code": null,
+      "faculty_th": null,
+      "seats": null,
+      "project_code": null,
+      "round_label": "TCAS 3 Admission",
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TGAT3",
+          "subject_name_th": "TGAT3",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT2",
+          "subject_name_th": "TPAT2",
+          "weight_percent": "20%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "TPAT21",
+          "subject_name_th": "TPAT21",
+          "weight_percent": "10%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "50%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เซรามิกส์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยเพาะช่าง",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "เครื่องโลหะและรูปพรรณอัญมณี",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยเพาะช่าง",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "หัตกรรมสร้างสรรค์",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยเพาะช่าง",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "TGAT",
+          "subject_name_th": "TGAT",
+          "weight_percent": "20%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียน"
+    },
+    {
+      "program_name_th": "การเป็นผู้ประกอบการอุตสาหกรรมสร้างสรรค์สากล (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยผู้ประกอบการสร้างสรรค์นานาชาติรัตนโกสินทร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 ทุกแผนการเรียนหรือเทียบเท่า; ต้องมีระดับภาษาอังกฤษ IELTS ≥ 4.5 หรือ Paper-based TOEFL ≥ 475 หรือ Internet-based TOEFL ≥ 49 หรือเทียบเท่า; ผู้ที่ไม่ผ่านเกณฑ์อาจได้รับการพิจารณาพิเศษ ต้องลงทะเบียนเรียนภาษาอังกฤษเตรียมความพร้อม หรือสอบข้อเขียนและสัมภาษณ์โดยคณะกรรมการหลักสูตร"
+    },
+    {
+      "program_name_th": "การเป็นผู้ประกอบการธุรกิจการออกแบบสร้างสรรค์ (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยผู้ประกอบการสร้างสรรค์นานาชาติรัตนโกสินทร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "GPAX",
+          "subject_name_th": "GPAX",
+          "weight_percent": "100%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หรือสำเร็จการศึกษาด้วยวุฒิการศึกษาของต่างประเทศที่กระทรวงศึกษาธิการรับรอง; ต้องมีระดับภาษาอังกฤษ IELTS ≥ 4.5 หรือ Paper-based TOEFL ≥ 475 หรือ Internet-based TOEFL ≥ 49 หรือเทียบเท่า; ผู้ที่ไม่ผ่านเกณฑ์อาจได้รับการพิจารณาพิเศษ ต้องลงทะเบียนเรียนภาษาอังกฤษเตรียมความพร้อม หรือสอบข้อเขียนโดยคณะกรรมการหลักสูตร"
+    },
+    {
+      "program_name_th": "วิทยาการคอมพิวเตอร์และเทคโนโลยีดิจิทัล (หลักสูตรนานาชาติ)",
+      "tcas_code": null,
+      "faculty_th": "วิทยาลัยผู้ประกอบการสร้างสรรค์นานาชาติรัตนโกสินทร์",
+      "seats": null,
+      "project_code": null,
+      "round_label": null,
+      "gpax_min": null,
+      "weighted_subjects": [
+        {
+          "subject_code": "A-Level 61",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 1",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 62",
+          "subject_name_th": "คณิตศาสตร์ประยุกต์ 2",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 63",
+          "subject_name_th": "วิทยาศาสตร์ประยุกต์",
+          "weight_percent": "25%",
+          "min_threshold": null
+        },
+        {
+          "subject_code": "A-Level 82",
+          "subject_name_th": "ภาษาอังกฤษ",
+          "weight_percent": "25%",
+          "min_threshold": null
+        }
+      ],
+      "other_conditions_th": "ม.6 หรือสำเร็จการศึกษาด้วยวุฒิการศึกษาของต่างประเทศที่กระทรวงศึกษาธิการรับรอง; ต้องมีระดับภาษาอังกฤษ IELTS ≥ 4.5 หรือ Paper-based TOEFL ≥ 475 หรือ Internet-based TOEFL ≥ 49 หรือ CEFR ≥ B1; ผู้ที่ไม่ผ่านเกณฑ์อาจได้รับการพิจารณาพิเศษ ต้องลงทะเบียนเรียนภาษาอังกฤษเตรียมความพร้อม"
     }
   ]
 }
