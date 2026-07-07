@@ -169,15 +169,17 @@ def do_search():
             for p in hits:
                 codes = sorted(p.get("codes") or [])
                 subj = ", ".join(CODE_NAME.get(c, c) for c in codes[:5]) if codes else ""
+                prov = f" · {p.get('round','')} · {p.get('source','')}"
                 body += _hit(p["university"], p["program"], p["seats"],
-                             f"· requires: {subj}" if subj else "")
+                             (f"· requires: {subj}" if subj else "") + prov)
         else:
             body += f"<div>{len(hits)} matches</div>"
             for p in hits:
                 codes = sorted(p.get("codes") or [])
                 subj = ", ".join(CODE_NAME.get(c, c) for c in codes[:5]) if codes else ""
+                prov = f" · {p.get('round','')} · {p.get('source','')}"
                 body += _hit(p["university"], p["program"], p["seats"],
-                             f"· requires: {subj}" if subj else "")
+                             (f"· requires: {subj}" if subj else "") + prov)
     else:
         body += '<div class="none">No matches.</div>'
     return page("🎓 TCAS Search", "LLM-free · Thai or English (typos OK)", "search", body)
