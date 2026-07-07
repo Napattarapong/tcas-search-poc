@@ -196,75 +196,90 @@ def _is_noise(t):
 
 
 def parse_signals(text):
+    """Phase 1: extract ALL signals independently from the full text.
+    Phase 2: compute keywords + phrase from what remains."""
     norm = normalize(text)
+    norm_low = norm.lower()
     toks = _tok(norm)
     low = [t.lower() for t in toks]
-    uni, subjects, consumed = None, set(), set()
-    for t, tl in zip(toks, low):
-        u = _fuzzy(t, UNI) or _fuzzy(tl, UNI)
-        if u and not uni:
-            uni, consumed = u, consumed | {t}
-            continue
-        s = _fuzzy(t, SUBJ) or _fuzzy(tl, SUBJ)
-        if s:
-            subjects.add(s); consumed.add(t)
-    # fallback: check full text for multi-token Thai university names
+
+    # === PHASE 1: independent signal extraction (no token consumption) ===
+
+    # university — full-text scan first, then per-token fuzzy
+    uni = next((val for kw, val in UNI.items() if kw in norm_low), None)
     if not uni:
-        for kw, val in UNI.items():
-            if len(kw) > 1 and kw in norm.lower():
-                uni = val
+        for t, tl in zip(toks, low):
+            u = _fuzzy(t, UNI) or _fuzzy(tl, UNI)
+            if u:
+                uni = u
                 break
-    m = re.search(r"(?:more than|over|มากกว่า|>)\s*(\d+)", text)
-    seats_min = int(m.group(1)) if m else None
-    joined_low = " ".join(low)
-    norm_low = norm.lower()
-    round_label = next((rk for kw, rk in ROUND_KW.items() if kw in norm_low), None)
-    gm = re.search(r"(?:GPAX|เกรดเฉลี่ย|เกรด)\s*[: ]?\s*(\d+\.?\d*)", norm, re.I)
+
+    # faculty, major, format — full-text scan
+    faculty = next((label for kw, (label, _) in FACULTY.items() if kw in norm_low), None)
+    major = next((label for kw, (label, _) in MAJOR.items() if kw in norm_low), None)
+    fmt = next((((lbl, mt)) for kw, (lbl, mt) in FORMAT.items() if kw in norm_low), (None, None))
+
+    # subjects — per-token fuzzy
+    subjects = sorted({s for t, tl in zip(toks, low)
+                       for s in [_fuzzy(t, SUBJ) or _fuzzy(tl, SUBJ)] if s})
+
+    # regex-based signals
+    sm = re.search(r"(?:more than|over|\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32|>)\s*(\d+)", norm)
+    seats_min = int(sm.group(1)) if sm else None
+    gm = re.search(r"(?:GPAX|\u0e40\u0e01\u0e23\u0e14)\s*[: ]?\s*(\d+\.?\d*)", norm, re.I)
     gpax = float(gm.group(1)) if gm else None
-    intl = "นานาชาติ" in norm_low or "international" in norm_low
+
+    # keyword-based signals
+    round_label = next((rk for kw, rk in ROUND_KW.items() if kw in norm_low), None)
+    intl = "\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34" in norm_low or "international" in norm_low
+    intent = next((label for kw, label in INTENT.items() if kw in norm_low), None)
+
+    # === PHASE 2: compute keywords + phrase from leftover content ===
+
+    # collect all signal keywords to exclude
+    consumed = set()
+    for table in (UNI, SUBJ):
+        for kw, val in table.items():
+            if (val == uni) or (val in subjects):
+                consumed.add(kw.lower())
+    if faculty:
+        consumed.update(kw.lower() for kw, (lbl, _) in FACULTY.items() if lbl == faculty)
+    if major:
+        consumed.update(kw.lower() for kw, (lbl, _) in MAJOR.items() if lbl == major)
+
     keywords = [t for t in toks
-                if t not in consumed and t.lower() not in STOP and not _is_noise(t)]
-    # phrase = original content keywords joined (before enrichment), space-normalized
-    # used for precise substring matching: "วิศวกรรมคอมพิวเตอร์" should NOT match "วิทยาการคอมพิวเตอร์"
-    # phrase from text with university name removed (university is not a program name)
+                if t.lower() not in consumed and t.lower() not in STOP and not _is_noise(t)]
+
+    # enrich with cross-script match terms
+    for table in (FACULTY, MAJOR):
+        lbl = faculty if table is FACULTY else major
+        if lbl:
+            for kw, (l, match) in table.items():
+                if l == lbl:
+                    for m in match.split():
+                        if m not in keywords and m.lower() not in STOP:
+                            keywords.append(m)
+                    break
+
+    # phrase: content minus university name (univ name is not a program name)
     phrase_src = norm
     if uni:
-        for kw_u, val_u in UNI.items():
-            if val_u == uni and kw_u in phrase_src:
-                phrase_src = phrase_src.replace(kw_u, " ")
+        for kw, val in UNI.items():
+            if val == uni and kw in phrase_src:
+                phrase_src = phrase_src.replace(kw, " ")
                 break
     phrase_kw = [t for t in _tok(phrase_src)
-                if t.strip() and t.lower() not in STOP and not _is_noise(t)]
+                 if t.strip() and t.lower() not in STOP and not _is_noise(t)]
     phrase_expanded = [ABBREV.get(kw, kw) for kw in phrase_kw]
     phrase = re.sub(r"\s+", "", "".join(phrase_expanded)).lower()
-    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and any("฀" <= c <= "๿" for c in phrase)
-    faculty = None
-    for kw, (label, match) in FACULTY.items():
-        if kw in norm_low:
-            faculty = label
-            for m in match.split():
-                if m not in keywords and m.lower() not in STOP:
-                    keywords.append(m)
-            break
-    major = None
-    for kw, (label, match) in MAJOR.items():
-        if kw in norm_low:
-            major = label
-            for m in match.split():
-                if m not in keywords and m.lower() not in STOP:
-                    keywords.append(m)
-            break
-    fmt_label, fmt_kw = None, None
-    for kw, (label, match) in FORMAT.items():
-        if kw in norm_low:
-            fmt_label, fmt_kw = label, match
-            break
-    intent = next((label for kw, label in INTENT.items() if kw in norm_low), None)
-    return {"university": uni, "subjects": sorted(subjects),
+    phrase_active = (len(phrase_kw) >= 2 and len(phrase) > 3
+                     and any("\u0e00" <= c <= "\u0e7f" for c in phrase))
+
+    return {"university": uni, "subjects": subjects,
             "seats_min": seats_min, "keywords": keywords,
             "round": round_label, "gpax": gpax, "intl": intl,
             "faculty": faculty, "major": major,
-            "format": fmt_label, "format_kw": fmt_kw, "intent": intent,
+            "format": fmt[0], "format_kw": fmt[1], "intent": intent,
             "phrase": phrase, "phrase_active": phrase_active, "raw": text}
 
 
