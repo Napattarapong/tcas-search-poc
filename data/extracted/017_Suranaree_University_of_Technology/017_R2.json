@@ -712,7 +712,7 @@
       "program_name_th": "หลักสูตรวิศวกรรมปิโตรเคมีและพอลิเมอร์ (หลักสูตรนานาชาติ)",
       "tcas_code": null,
       "faculty_th": null,
-      "seats": null,
+      "seats": 30,
       "project_code": "18",
       "round_label": "รอบ 2 Quota",
       "gpax_min": "3.00",
