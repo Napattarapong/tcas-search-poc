@@ -64,6 +64,7 @@ ROUND_KW = {
 FACULTY = {
     "วิศวกรรม": ("Engineering", "วิศวกรรม engineering"), "วิศวะ": ("Engineering", "วิศวกรรม engineering"),
     "engineering": ("Engineering", "วิศวกรรม engineering"),
+    "engineer": ("Engineering", "วิศวกรรม engineering"),
     "แพทย์": ("Medicine", "แพทยศาสตร์ medicine"), "medicine": ("Medicine", "แพทยศาสตร์ medicine"),
     "พยาบาล": ("Nursing", "พยาบาลศาสตร์ nursing"), "nursing": ("Nursing", "พยาบาลศาสตร์ nursing"),
     "เภสัช": ("Pharmacy", "เภสัชศาสตร์ pharmacy"), "ทันตแพทย์": ("Dentistry", "ทันตแพทย์ dentistry"),
@@ -179,7 +180,7 @@ def parse_signals(text):
     # used for precise substring matching: "วิศวกรรมคอมพิวเตอร์" should NOT match "วิทยาการคอมพิวเตอร์"
     phrase_kw = keywords.copy()
     phrase = re.sub(r"\s+", "", "".join(phrase_kw)).lower()
-    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3
+    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and bool(re.search(r"[฀-๿]", phrase))
     faculty = None
     for kw, (label, match) in FACULTY.items():
         if kw in norm_low:
