@@ -175,6 +175,11 @@ def parse_signals(text):
     intl = "นานาชาติ" in norm_low or "international" in norm_low
     keywords = [t for t in toks
                 if t not in consumed and t.lower() not in STOP and not _is_noise(t)]
+    # phrase = original content keywords joined (before enrichment), space-normalized
+    # used for precise substring matching: "วิศวกรรมคอมพิวเตอร์" should NOT match "วิทยาการคอมพิวเตอร์"
+    phrase_kw = keywords.copy()
+    phrase = re.sub(r"\s+", "", "".join(phrase_kw)).lower()
+    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3
     faculty = None
     for kw, (label, match) in FACULTY.items():
         if kw in norm_low:
@@ -201,7 +206,8 @@ def parse_signals(text):
             "seats_min": seats_min, "keywords": keywords,
             "round": round_label, "gpax": gpax, "intl": intl,
             "faculty": faculty, "major": major,
-            "format": fmt_label, "format_kw": fmt_kw, "intent": intent, "raw": text}
+            "format": fmt_label, "format_kw": fmt_kw, "intent": intent,
+            "phrase": phrase, "phrase_active": phrase_active, "raw": text}
 
 
 _TABLE = None
@@ -247,6 +253,10 @@ def search(text, k=K):
             return False
         if sig.get("format_kw") and sig["format_kw"] not in p.get("name", "").lower():
             return False
+        if sig.get("phrase_active"):
+            name_nospace = re.sub(r"\s+", "", p.get("name", "")).lower()
+            if sig["phrase"] not in name_nospace:
+                return False
         return True
 
     cands = [p for p in progs if passes(p)]
