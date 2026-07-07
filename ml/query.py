@@ -109,6 +109,27 @@ MAJOR = {
     "วิศวกรรมคอมพิวเตอร์": ("Computer Eng", "วิศวกรรมคอมพิวเตอร์ computer engineering"),
 }
 
+# program format -> (label, thai keyword to filter program names by)
+FORMAT = {
+    "ภาคปกติ": ("Regular", None), "regular": ("Regular", None),
+    "ภาคพิเศษ": ("Special", "ภาคพิเศษ"), "special": ("Special", "ภาคพิเศษ"),
+    "evening": ("Special", "ภาคพิเศษ"), "พิเศษ": ("Special", "ภาคพิเศษ"),
+    "ทวิภาคี": ("Dual Degree", "ทวิภาคี"), "dual": ("Dual Degree", "ทวิภาคี"),
+    "double": ("Dual Degree", "ทวิภาคี"),
+    "bilingual": ("Bilingual", "bilingual"), "สองภาษา": ("Bilingual", "bilingual"),
+    "ต่อเนื่อง": ("Integrated", "ต่อเนื่อง"),
+    "sandbox": ("Sandbox", "sandbox"),
+}
+
+# query intent -> what the user wants to do (routing signal, no filter)
+INTENT = {
+    "เกณฑ์": "criteria", "คะแนน": "criteria", "น้ำหนัก": "criteria",
+    "ต้องใช้": "criteria", "คุณสมบัติ": "criteria", "criteria": "criteria",
+    "เทียบ": "compare", "เปรียบเทียบ": "compare", "ดีกว่า": "compare", "อันไหนดี": "compare",
+    "อาชีพ": "career", "เงินเดือน": "career", "หางาน": "career", "จ้าง": "career",
+    "ทุน": "cost", "เรียนฟรี": "cost", "ค่าเทอม": "cost", "ค่าเล่าเรียน": "cost", "ถูก": "cost",
+}
+
 
 # ---------- stages ----------
 def normalize(text):
@@ -170,10 +191,17 @@ def parse_signals(text):
                 if m not in keywords and m.lower() not in STOP:
                     keywords.append(m)
             break
+    fmt_label, fmt_kw = None, None
+    for kw, (label, match) in FORMAT.items():
+        if kw in norm_low:
+            fmt_label, fmt_kw = label, match
+            break
+    intent = next((label for kw, label in INTENT.items() if kw in norm_low), None)
     return {"university": uni, "subjects": sorted(subjects),
             "seats_min": seats_min, "keywords": keywords,
             "round": round_label, "gpax": gpax, "intl": intl,
-            "faculty": faculty, "major": major, "raw": text}
+            "faculty": faculty, "major": major,
+            "format": fmt_label, "format_kw": fmt_kw, "intent": intent, "raw": text}
 
 
 _TABLE = None
@@ -216,6 +244,8 @@ def search(text, k=K):
             return False
         if sig["intl"] and "นานาชาติ" not in p.get("name", "").lower() \
                 and "international" not in p.get("name", "").lower():
+            return False
+        if sig.get("format_kw") and sig["format_kw"] not in p.get("name", "").lower():
             return False
         return True
 

@@ -100,6 +100,10 @@ def do_search():
         chips += f'<span class="chip">🌍 <b>International</b></span>'
     if sig["keywords"]:
         chips += f'<span class="chip">🔍 <b>{", ".join(sig["keywords"])}</b></span>'
+    if sig.get("format"):
+        chips += f'<span class="chip">📝 <b>{sig["format"]}</b></span>'
+    if sig.get("intent"):
+        chips += f'<span class="chip">🎯 <b>{sig["intent"].title()}</b></span>'
     body += f'<div class="signals">{chips}</div>'
     if hits:
         body += f"<div>{len(hits)} matches</div>"
