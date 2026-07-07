@@ -1,0 +1,121 @@
+{
+  "university_id": "911",
+  "university": "Pathumthani University",
+  "round": "catalog",
+  "archetype": "catalog",
+  "count": 16,
+  "programs": [
+    {
+      "tcas_code": "49110101300701A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110101301602A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110101302104A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110101302105L",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110101303503A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต",
+      "faculty_th": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110102610202A",
+      "program_name_th": "บริหารธุรกิจบัณฑิต",
+      "faculty_th": "คณะบริหารธุรกิจและการบัญชี",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110102610501A",
+      "program_name_th": "บัญชีบัณฑิต",
+      "faculty_th": "คณะบริหารธุรกิจและการบัญชี",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110102610704A",
+      "program_name_th": "บริหารธุรกิจบัณฑิต",
+      "faculty_th": "คณะบริหารธุรกิจและการบัญชี",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110102611003A",
+      "program_name_th": "บริหารธุรกิจบัณฑิต",
+      "faculty_th": "คณะบริหารธุรกิจและการบัญชี",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110103901001A",
+      "program_name_th": "นิติศาสตรบัณฑิต",
+      "faculty_th": "คณะนิติศาสตร์",
+      "seats": 70,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110104903201A",
+      "program_name_th": "รัฐศาสตรบัณฑิต",
+      "faculty_th": "คณะรัฐศาสตร์",
+      "seats": 70,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110106110703A",
+      "program_name_th": "แพทย์แผนไทยบัณฑิต",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110106112701A",
+      "program_name_th": "สาธารณสุขศาสตรบัณฑิต",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 50,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110106112702A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต",
+      "faculty_th": "คณะสหเวชศาสตร์",
+      "seats": 50,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110107700601A",
+      "program_name_th": "ศึกษาศาสตรบัณฑิต",
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": 70,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "49110107702802A",
+      "program_name_th": "ศึกษาศาสตรบัณฑิต",
+      "faculty_th": "คณะศึกษาศาสตร์",
+      "seats": 50,
+      "subject_codes": []
+    }
+  ]
+}

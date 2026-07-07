@@ -1,0 +1,415 @@
+{
+  "university_id": "023",
+  "university": "Walailak University",
+  "round": "catalog",
+  "archetype": "catalog",
+  "count": 58,
+  "programs": [
+    {
+      "tcas_code": "10230111901803A",
+      "program_name_th": "ศิลปศาสตรบัณฑิต สาขาวิชาภาษาจีน",
+      "faculty_th": "ศิลปศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230111902001A",
+      "program_name_th": "ศิลปศาสตรบัณฑิต สาขาภาษาไทยเพื่อการสื่อสาร",
+      "faculty_th": "ศิลปศาสตร์",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230111902502A",
+      "program_name_th": "ศิลปศาสตรบัณฑิต สาขาภาษาอังกฤษ",
+      "faculty_th": "ศิลปศาสตร์",
+      "seats": 90,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112210303A",
+      "program_name_th": "วิทยาศาตรบัณฑิต (วิทยาศาสตร์ คณิตศาสตร์)",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112210404A",
+      "program_name_th": "วิทยาศาตรบัณฑิต (วิทยาศาสตร์ เคมี)",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112210705A",
+      "program_name_th": "วิทยาศาตรบัณฑิต (วิทยาศาสตร์ ชีววิทยา)",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112212706A",
+      "program_name_th": "วิทยาศาตรบัณฑิต (วิทยาศาสตร์ ฟิสิกส์)",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 10,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112213002A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิทยาศาสตร์ทางทะเล",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112213501A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิทยาศาสตร์",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112700809A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกคณิตศาสตร์",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112700910A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกคอมพิวเตอร์ศึกษา",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112701308A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกชีววิทยา",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230112702407A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกวิทยาศาสตร์ทั่วไป",
+      "faculty_th": "วิทยาศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230114903101A",
+      "program_name_th": "รัฐประศาสนศาสตรบัณฑิต",
+      "faculty_th": "รัฐศาสตร์และรัฐประศาสนศาสตร์",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230114903202A",
+      "program_name_th": "รัฐศาสตรบัณฑิต สาขาความสัมพันธ์ระหว่างประเทศ",
+      "faculty_th": "รัฐศาสตร์และรัฐประศาสนศาสตร์",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230114903203A",
+      "program_name_th": "รัฐศาสตรบัณฑิต สาขาการเมืองการปกครอง",
+      "faculty_th": "รัฐศาสตร์และรัฐประศาสนศาสตร์",
+      "seats": 120,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230115901001A",
+      "program_name_th": "นิติศาสตรบัณฑิต",
+      "faculty_th": "นิติศาสตร์",
+      "seats": 200,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230116700207A",
+      "program_name_th": "ศึกษาศาสตรบัณฑิต  สาขาการประถมศึกษา",
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230116700601A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกปฐมวัย",
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230116702002A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกภาษาไทย",
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230116702003A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกภาษาอังกฤษ",
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230116702505A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกนาฏศิลป์",
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 20,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230116702704A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกสังคมศึกษา",
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230116702806A",
+      "program_name_th": "ครุศาสตรบัณฑิต วิชาเอกพลศึกษา",
+      "faculty_th": "ศึกษาศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230120610101A",
+      "program_name_th": "บริหารธุรกิจบัณฑิต สาขาการจัดการธุรกิจและการเงินยุคดิจิทัล",
+      "faculty_th": "การบัญชีและการเงิน",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230120610502A",
+      "program_name_th": "บัญชีบัณฑิต",
+      "faculty_th": "การบัญชีและการเงิน",
+      "seats": 105,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230120610804A",
+      "program_name_th": "บริหารธุรกิจ การเงินและเศรษฐศาสตร์ (การจัดการธุรกิจและการเงินยุคดิจิทัล ,เศรษฐศาสตร์)",
+      "faculty_th": "การบัญชีและการเงิน",
+      "seats": null,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230120611103A",
+      "program_name_th": "เศรษฐศาสตรบัณฑิต",
+      "faculty_th": "การบัญชีและการเงิน",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230121610602A",
+      "program_name_th": "บริหารธุรกิจบัณฑิต สาขาการตลาดดิจิทัลและการสร้างแบรนด์",
+      "faculty_th": "การจัดการ",
+      "seats": 90,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230121611001A",
+      "program_name_th": "บริหารธุรกิจบัณฑิต สาขาการจัดการโลจิสติกส์",
+      "faculty_th": "การจัดการ",
+      "seats": 90,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230121620103A",
+      "program_name_th": "บริหารธุรกิจบัณฑิต สาขาการจัดการการท่องเที่ยวและการโรงแรม",
+      "faculty_th": "การจัดการ",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230121620104A",
+      "program_name_th": "ศิลปะการประกอบอาหารอย่างมืออาชีพ",
+      "faculty_th": "การจัดการ",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230122220104A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาเทคโนโลยีสารสนเทศอัจฉริยะ",
+      "faculty_th": "สารสนเทศศาสตร์",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230122220105A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาเทคโนโลยีดิจิทัลทางการแพทย์",
+      "faculty_th": "สารสนเทศศาสตร์",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230122220503A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาอินเทอร์แอคทีฟมัลติมีเดียแอนิเมชัน และเกม",
+      "faculty_th": "สารสนเทศศาสตร์",
+      "seats": 80,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230122900802A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาดิจิทัลคอนเทนต์และสื่อ",
+      "faculty_th": "สารสนเทศศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230122901101A",
+      "program_name_th": "นิเทศศาสตรบัณฑิต สาขานิเทศศาสตร์ดิจิทัล",
+      "faculty_th": "สารสนเทศศาสตร์",
+      "seats": 40,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230125300501A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230125300602A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมเคมีและเคมีเภสัชกรรม",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230125300706A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมเครื่องกลและหุ่นยนต์",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230125301405A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิศวกรรมปิโตรเคมีและพอลิเมอร์",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230125301603A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิศวกรรมไฟฟ้า",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230125302104A",
+      "program_name_th": "วิศวกรรมศาสตรบัณฑิต สาขาวิศวกรรมโยธา",
+      "faculty_th": "วิศวกรรมศาสตร์และเทคโนโลยี",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230126211001A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิทยาศาสตร์อาหารและนวัตกรรม",
+      "faculty_th": "เทคโนโลยีการเกษตรและอุตสาหกรรมอาหาร",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230126500202A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาเกษตรศาสตร์และนวัตกรรม",
+      "faculty_th": "เทคโนโลยีการเกษตรและอุตสาหกรรมอาหาร",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230132111701A",
+      "program_name_th": "พยาบาลศาสตรบัณฑิต",
+      "faculty_th": "พยาบาลศาสตร์",
+      "seats": 160,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230133130101A",
+      "program_name_th": "เภสัชศาสตรบัณฑิต",
+      "faculty_th": "เภสัชศาสตร์",
+      "seats": 100,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230134100101A",
+      "program_name_th": "แพทยศาสตรบัณฑิต",
+      "faculty_th": "แพทยศาสตร์",
+      "seats": 48,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230134110803A",
+      "program_name_th": "การแพทย์แผนไทยประยุกต์บัณฑิต",
+      "faculty_th": "แพทยศาสตร์",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230134112002A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขาวิทยาศาสตร์การกีฬาและการออกกำลังกาย",
+      "faculty_th": "แพทยศาสตร์",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230135110101A",
+      "program_name_th": "วิทยาศาสตรบัณฑิต สาขากายภาพบำบัด",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 100,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230135111302A",
+      "program_name_th": "เทคนิคการแพทยบัณฑิต (ภาษาไทย ปกติ)",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 150,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230135111303E",
+      "program_name_th": "เทคนิคการแพทยบัณฑิต (หลักสูตรนานาชาติ)",
+      "faculty_th": "สหเวชศาสตร์",
+      "seats": 35,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230136112701A",
+      "program_name_th": "สาธารณสุขศาสตร์ (อนามัยสิ่งแวดล้อม, อาชีวอนามัยและความปลอดภัย, สาธารณสุขชุมชน)",
+      "faculty_th": "สาธารณสุขศาสตร์",
+      "seats": 220,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230137120101E",
+      "program_name_th": "ทันตแพทยศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "faculty_th": "ทันตแพทยศาสตร์นานาชาติ",
+      "seats": 30,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230138140101E",
+      "program_name_th": "สัตวแพทยศาสตรบัณฑิต (หลักสูตรนานาชาติ)",
+      "faculty_th": "สัตวแพทยศาสตร์อัครราชกุมารี",
+      "seats": 50,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230141400502A",
+      "program_name_th": "สถาปัตยกรรมศาสตรบัณฑิต",
+      "faculty_th": "สถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": 60,
+      "subject_codes": []
+    },
+    {
+      "tcas_code": "10230141400701A",
+      "program_name_th": "ศิลปบัณฑิต สาขาการออกแบบภายใน",
+      "faculty_th": "สถาปัตยกรรมศาสตร์และการออกแบบ",
+      "seats": 35,
+      "subject_codes": []
+    }
+  ]
+}
