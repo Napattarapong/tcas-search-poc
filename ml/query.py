@@ -60,6 +60,30 @@ ROUND_KW = {
     "รับตรง": "R4", "รอบ 4": "R4", "รอบ4": "R4", "รอบที่4": "R4", "direct": "R4",
 }
 
+# faculty/field keywords -> (canonical label, extra match terms for fuzzy)
+FACULTY = {
+    "วิศวกรรม": ("Engineering", "วิศวกรรม engineering"), "วิศวะ": ("Engineering", "วิศวกรรม engineering"),
+    "engineering": ("Engineering", "วิศวกรรม engineering"),
+    "แพทย์": ("Medicine", "แพทยศาสตร์ medicine"), "medicine": ("Medicine", "แพทยศาสตร์ medicine"),
+    "พยาบาล": ("Nursing", "พยาบาลศาสตร์ nursing"), "nursing": ("Nursing", "พยาบาลศาสตร์ nursing"),
+    "เภสัช": ("Pharmacy", "เภสัชศาสตร์ pharmacy"), "ทันตแพทย์": ("Dentistry", "ทันตแพทย์ dentistry"),
+    "วิทยาศาสตร์": ("Science", "วิทยาศาสตร์ science"), "science": ("Science", "วิทยาศาสตร์ science"),
+    "อักษร": ("Arts", "อักษรศาสตร์ arts"), "ศิลปศาสตร์": ("Arts", "ศิลปศาสตร์ arts"),
+    "arts": ("Arts", "ศิลปศาสตร์ arts"), "ศิลปกรรม": ("Fine Arts", "ศิลปกรรม fine arts"),
+    "พาณิชย์": ("Business", "พาณิชย์ commerce business"),
+    "บริหาร": ("Business", "บริหารธุรกิจ business"), "business": ("Business", "บริหารธุรกิจ business"),
+    "นิติ": ("Law", "นิติศาสตร์ law"), "law": ("Law", "นิติศาสตร์ law"),
+    "ครุ": ("Education", "ครุศาสตร์ education"), "ศึกษาศาสตร์": ("Education", "ศึกษาศาสตร์ education"),
+    "นิเทศ": ("Communication", "นิเทศศาสตร์ communication"),
+    "รัฐศาสตร์": ("Political Science", "รัฐศาสตร์ political"),
+    "เศรษฐศาสตร์": ("Economics", "เศรษฐศาสตร์ economics"), "economics": ("Economics", "เศรษฐศาสตร์ economics"),
+    "สถาปัตย": ("Architecture", "สถาปัตยกรรม architecture"),
+    "เกษตร": ("Agriculture", "เกษตรศาสตร์ agriculture"),
+    "สัตวแพทย์": ("Veterinary", "สัตวแพทย์ veterinary"),
+    "เทคโนโลยี": ("Technology", "เทคโนโลยี technology"),
+    "สาธารณสุข": ("Public Health", "สาธารณสุข public health"),
+}
+
 
 # ---------- stages ----------
 def normalize(text):
@@ -105,9 +129,18 @@ def parse_signals(text):
     intl = "นานาชาติ" in norm_low or "international" in norm_low
     keywords = [t for t in toks
                 if t not in consumed and t.lower() not in STOP and not _is_noise(t)]
+    faculty = None
+    for kw, (label, match) in FACULTY.items():
+        if kw in norm_low:
+            faculty = label
+            for m in match.split():
+                if m not in keywords and m.lower() not in STOP:
+                    keywords.append(m)
+            break
     return {"university": uni, "subjects": sorted(subjects),
             "seats_min": seats_min, "keywords": keywords,
-            "round": round_label, "gpax": gpax, "intl": intl, "raw": text}
+            "round": round_label, "gpax": gpax, "intl": intl,
+            "faculty": faculty, "raw": text}
 
 
 _TABLE = None
