@@ -131,22 +131,21 @@ INTENT = {
     "ทุน": "cost", "เรียนฟรี": "cost", "ค่าเทอม": "cost", "ค่าเล่าเรียน": "cost", "ถูก": "cost",
 }
 
-# Thai abbreviations -> full form (for phrase expansion before matching)
+# Thai abbreviations -> full form (expanded per-token, no cascading)
 ABBREV = {
-    "วิศวกรรม": "วิศวกรรม", "วิศวะ": "วิศวกรรม", "วิศว": "วิศวกรรม",
-    "คอมพิวเตอร์": "คอมพิวเตอร์", "คอม": "คอมพิวเตอร์",
-    "แพทยศาสตร์": "แพทยศาสตร์", "แพทย์": "แพทยศาสตร์", "เมด": "แพทยศาสตร์",
-    "พยาบาลศาสตร์": "พยาบาลศาสตร์", "พยาบาล": "พยาบาลศาสตร์",
-    "บัญชีบัณฑิต": "บัญชีบัณฑิต", "บัญชี": "บัญชีบัณฑิต",
-    "สถาปัตยกรรม": "สถาปัตยกรรม", "สถาปัตย์": "สถาปัตยกรรม",
-    "นิเทศศาสตร์": "นิเทศศาสตร์", "นิเทศ": "นิเทศศาสตร์",
-    "เภสัชศาสตร์": "เภสัชศาสตร์", "เภสัช": "เภสัชศาสตร์",
-    "ทันตแพทย์": "ทันตแพทย์", "ทันต": "ทันตแพทย์",
-    "สัตวแพทย์": "สัตวแพทย์", "สัตว์": "สัตวแพทย์",
-    "เกษตรศาสตร์": "เกษตรศาสตร์", "เกษตร": "เกษตรศาสตร์",
-    "นิติศาสตร์": "นิติศาสตร์", "นิติ": "นิติศาสตร์",
-    "ครุศาสตร์": "ครุศาสตร์", "ครุ": "ครุศาสตร์",
-    "ศึกษาศาสตร์": "ศึกษาศาสตร์", "ศึกษา": "ศึกษาศาสตร์",
+    "วิศวะ": "วิศวกรรม",
+    "คอม": "คอมพิวเตอร์",
+    "แพทย์": "แพทยศาสตร์", "เมด": "แพทยศาสตร์",
+    "พยาบาล": "พยาบาลศาสตร์",
+    "บัญชี": "บัญชีบัณฑิต",
+    "สถาปัตย์": "สถาปัตยกรรม",
+    "นิเทศ": "นิเทศศาสตร์",
+    "เภสัช": "เภสัชศาสตร์",
+    "ทันต": "ทันตแพทย์",
+    "สัตว์": "สัตวแพทย์",
+    "เกษตร": "เกษตรศาสตร์",
+    "นิติ": "นิติศาสตร์",
+    "ครุ": "ครุศาสตร์",
 }
 
 
@@ -197,11 +196,10 @@ def parse_signals(text):
     # phrase = original content keywords joined (before enrichment), space-normalized
     # used for precise substring matching: "วิศวกรรมคอมพิวเตอร์" should NOT match "วิทยาการคอมพิวเตอร์"
     phrase_kw = keywords.copy()
-    phrase = re.sub(r"\s+", "", "".join(phrase_kw)).lower()
-    # expand Thai abbreviations: วิศวะ→วิศวกรรม, คอม→คอมพิวเตอร์
-    for abbrev, full in sorted(ABBREV.items(), key=lambda x: -len(x[0])):
-        phrase = phrase.replace(abbrev, full)
-    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and bool(re.search(r"[฀-๿]", phrase))
+    # expand each token's abbreviation independently (no cascading)
+    phrase_expanded = [ABBREV.get(kw, kw) for kw in phrase_kw]
+    phrase = re.sub(r"\s+", "", "".join(phrase_expanded)).lower()
+    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and bool(re.search(r"[฀-ҿ]", phrase))
     faculty = None
     for kw, (label, match) in FACULTY.items():
         if kw in norm_low:
