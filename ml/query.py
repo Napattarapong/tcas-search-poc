@@ -235,6 +235,8 @@ def parse_signals(text):
                 break
     phrase_kw = [t for t in _tok(phrase_src)
                 if t.strip() and t.lower() not in STOP and not _is_noise(t)]
+    phrase_expanded = [ABBREV.get(kw, kw) for kw in phrase_kw]
+    phrase = re.sub(r"\s+", "", "".join(phrase_expanded)).lower()
     phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and any("฀" <= c <= "๿" for c in phrase)
     faculty = None
     for kw, (label, match) in FACULTY.items():
