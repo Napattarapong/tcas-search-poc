@@ -199,7 +199,7 @@ def parse_signals(text):
     # expand each token's abbreviation independently (no cascading)
     phrase_expanded = [ABBREV.get(kw, kw) for kw in phrase_kw]
     phrase = re.sub(r"\s+", "", "".join(phrase_expanded)).lower()
-    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and bool(re.search(r"[฀-ҿ]", phrase))
+    phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and any("฀" <= c <= "๿" for c in phrase)
     faculty = None
     for kw, (label, match) in FACULTY.items():
         if kw in norm_low:
