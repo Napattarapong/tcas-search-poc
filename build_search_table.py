@@ -40,7 +40,7 @@ def num(v):
         return None
 
 
-def normalize_program(p, uni, uid, rnd):
+def normalize_program(p, uni, uid, rnd, source="?"):
     name_th = p.get("program_name_th") or p.get("faculty_major_th") or ""
     if "subject_codes" in p:                       # RB criteria/index output
         subject_codes = sorted({c for c in (p["subject_codes"] or []) if c.isdigit()})
@@ -69,6 +69,7 @@ def normalize_program(p, uni, uid, rnd):
         "min_gpax": num(p.get("min_gpax")) if p.get("min_gpax") is not None else num(p.get("gpax_min")),
         "subject_codes": subject_codes,
         "topic": None,
+        "source": source,
         "weights": weights,
     }
 
@@ -85,7 +86,7 @@ def main():
         uni = UID_NAME.get(uid, "?")
         rnd = d.get("round") or base[4:6]
         for p in d.get("programs", []):
-            row = normalize_program(p, uni, uid, rnd)
+            row = normalize_program(p, uni, uid, rnd, d.get("archetype", "?"))
             key = (uid, rnd, row["tcas_code"] or row["program_name_th"])
             if key in seen:
                 continue

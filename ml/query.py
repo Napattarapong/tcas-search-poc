@@ -301,6 +301,7 @@ def load_programs():
                      + " " + r["program_name_th"]).strip(),
             "seats": r.get("seats"),
             "round": r.get("round"),
+            "source": r.get("source", "?"),
             "min_gpax": r.get("min_gpax"),
             "codes": set(r.get("subject_codes") or []),
         } for r in rows]
