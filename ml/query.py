@@ -261,13 +261,15 @@ def parse_signals(text):
                             keywords.append(m)
                     break
 
-    # phrase: content minus university name (univ name is not a program name)
+    # phrase: content minus ALL signal keywords (only program-name content remains)
     phrase_src = norm
-    if uni:
-        for kw, val in UNI.items():
-            if val == uni and kw in phrase_src:
-                phrase_src = phrase_src.replace(kw, " ")
-                break
+    for table in (UNI, ROUND_KW, INTENT):
+        for kw in table:
+            phrase_src = phrase_src.replace(kw, " ")
+    for table in (FACULTY, MAJOR, FORMAT):
+        for kw in table:
+            phrase_src = phrase_src.replace(kw, " ")
+    phrase_src = re.sub(r"\d+\.?\d*|[><=]", " ", phrase_src)
     phrase_kw = [t for t in _tok(phrase_src)
                  if t.strip() and t.lower() not in STOP and not _is_noise(t)]
     phrase_expanded = [ABBREV.get(kw, kw) for kw in phrase_kw]
