@@ -53,6 +53,13 @@ STOP = set("ที่ ของ และ the a an of with needing need require 
            "and more than over at in for to is are มี ต้องการ อยาก เรียน เข้า "
            "หลักสูตร programs program seats ที่นั่ง มากกว่า คน".split())
 
+ROUND_KW = {
+    "portfolio": "R1", "แฟ้มสะสม": "R1", "รอบ 1": "R1", "รอบ1": "R1", "รอบที่1": "R1",
+    "quota": "R2", "โควตา": "R2", "รอบ 2": "R2", "รอบ2": "R2", "รอบที่2": "R2",
+    "admission": "R3", "รอบ 3": "R3", "รอบ3": "R3", "รอบที่3": "R3",
+    "รับตรง": "R4", "รอบ 4": "R4", "รอบ4": "R4", "รอบที่4": "R4", "direct": "R4",
+}
+
 
 # ---------- stages ----------
 def normalize(text):
@@ -76,7 +83,8 @@ def _is_noise(t):
 
 
 def parse_signals(text):
-    toks = _tok(normalize(text))
+    norm = normalize(text)
+    toks = _tok(norm)
     low = [t.lower() for t in toks]
     uni, subjects, consumed = None, set(), set()
     for t, tl in zip(toks, low):
@@ -89,10 +97,17 @@ def parse_signals(text):
             subjects.add(s); consumed.add(t)
     m = re.search(r"(?:more than|over|มากกว่า|>)\s*(\d+)", text)
     seats_min = int(m.group(1)) if m else None
+    joined_low = " ".join(low)
+    norm_low = norm.lower()
+    round_label = next((rk for kw, rk in ROUND_KW.items() if kw in norm_low), None)
+    gm = re.search(r"(?:GPAX|เกรดเฉลี่ย|เกรด)\s*[: ]?\s*(\d+\.?\d*)", norm, re.I)
+    gpax = float(gm.group(1)) if gm else None
+    intl = "นานาชาติ" in norm_low or "international" in norm_low
     keywords = [t for t in toks
                 if t not in consumed and t.lower() not in STOP and not _is_noise(t)]
     return {"university": uni, "subjects": sorted(subjects),
-            "seats_min": seats_min, "keywords": keywords, "raw": text}
+            "seats_min": seats_min, "keywords": keywords,
+            "round": round_label, "gpax": gpax, "intl": intl, "raw": text}
 
 
 _TABLE = None
@@ -110,6 +125,8 @@ def load_programs():
             "name": (r.get("program_name_en", "") + " " + r["faculty_th"]
                      + " " + r["program_name_th"]).strip(),
             "seats": r.get("seats"),
+            "round": r.get("round"),
+            "min_gpax": r.get("min_gpax"),
             "codes": set(r.get("subject_codes") or []),
         } for r in rows]
     return _TABLE
@@ -126,6 +143,13 @@ def search(text, k=K):
         if sig["subjects"] and not set(sig["subjects"]).issubset(p["codes"]):
             return False
         if sig["seats_min"] and (p["seats"] or 0) < sig["seats_min"]:
+            return False
+        if sig["round"] and p.get("round") != sig["round"]:
+            return False
+        if sig["gpax"] and (p.get("min_gpax") or 0) > sig["gpax"]:
+            return False
+        if sig["intl"] and "นานาชาติ" not in p.get("name", "").lower() \
+                and "international" not in p.get("name", "").lower():
             return False
         return True
 

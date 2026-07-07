@@ -88,6 +88,12 @@ def do_search():
         chips += f'<span class="chip">📐 <b>{subs}</b></span>'
     if sig["seats_min"]:
         chips += f'<span class="chip">💺 ≥<b>{sig["seats_min"]}</b> seats</span>'
+    if sig.get("round"):
+        chips += f'<span class="chip">🔄 <b>{sig["round"]}</b></span>'
+    if sig.get("gpax"):
+        chips += f'<span class="chip">📊 GPAX <b>{sig["gpax"]}</b></span>'
+    if sig.get("intl"):
+        chips += f'<span class="chip">🌍 <b>International</b></span>'
     if sig["keywords"]:
         chips += f'<span class="chip">🔍 <b>{", ".join(sig["keywords"])}</b></span>'
     body += f'<div class="signals">{chips}</div>'
