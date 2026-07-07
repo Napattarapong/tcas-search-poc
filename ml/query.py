@@ -208,6 +208,12 @@ def parse_signals(text):
         s = _fuzzy(t, SUBJ) or _fuzzy(tl, SUBJ)
         if s:
             subjects.add(s); consumed.add(t)
+    # fallback: check full text for multi-token Thai university names
+    if not uni:
+        for kw, val in UNI.items():
+            if len(kw) > 1 and kw in norm.lower():
+                uni = val
+                break
     m = re.search(r"(?:more than|over|มากกว่า|>)\s*(\d+)", text)
     seats_min = int(m.group(1)) if m else None
     joined_low = " ".join(low)
@@ -255,12 +261,6 @@ def parse_signals(text):
             "phrase": phrase, "phrase_active": phrase_active, "raw": text}
 
 
-    # fallback: check full text for multi-token Thai university names
-    if not uni:
-        for kw, val in UNI.items():
-            if len(kw) > 1 and kw in norm.lower():
-                uni = val
-                break
 _TABLE = None
 
 
