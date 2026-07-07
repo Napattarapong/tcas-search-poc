@@ -4,6 +4,7 @@ Web app: keyword search + My Fit (score-based program matcher).
 LLM-free. Run: python web/app.py -> http://localhost:5000
 """
 import os
+import sqlite3
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -14,6 +15,56 @@ from ml.query import search  # noqa: E402
 from ml.myfit import myfit  # noqa: E402
 
 app = Flask(__name__)
+DB_PATH = os.path.join(ROOT, "data", "search", "tcas.db")
+
+
+def _criteria_view(hits):
+    """Show weighting breakdown per program (subjects, weights, thresholds)."""
+    con = sqlite3.connect(DB_PATH)
+    con.row_factory = sqlite3.Row
+    html = ""
+    for p in hits[:10]:
+        row = con.execute("SELECT id,min_gpax,min_total FROM program WHERE program_name_th=? LIMIT 1",
+                          (p["program"],)).fetchone()
+        wt = ""
+        if row:
+            subs = con.execute(
+                "SELECT s.name_en,s.name_th,ps.weight_percent,ps.min_threshold "
+                "FROM program_subject ps JOIN subject s ON s.code=ps.subject_code "
+                "WHERE ps.program_id=? AND ps.weight_percent IS NOT NULL "
+                "ORDER BY ps.weight_percent DESC", (row["id"],)).fetchall()
+            for s in subs:
+                mn = f" (min {s['min_threshold']:g})" if s["min_threshold"] else ""
+                nm = s["name_en"] or s["name_th"] or s["code"] if "code" in s.keys() else (s["name_en"] or s["name_th"])
+                wt += f'<div class="meta">&nbsp;&nbsp;📊 {nm}: {s["weight_percent"]:g}%{mn}</div>'
+            if row["min_gpax"]:
+                wt += f'<div class="meta">&nbsp;&nbsp;📋 Min GPAX: {row["min_gpax"]:g}</div>'
+            if row["min_total"]:
+                wt += f'<div class="meta">&nbsp;&nbsp;📋 Min total: {row["min_total"]:g}</div>'
+        if not wt:
+            wt = '<div class="meta">&nbsp;&nbsp;(no weight data available)</div>'
+        html += _hit(p["university"], p["program"], p["seats"]) + wt
+    con.close()
+    return html
+
+
+def _compare_view(hits):
+    """Side-by-side comparison table of top programs."""
+    top = hits[:4]
+    cols = "".join(f'<th style="text-align:left;padding:6px 8px;border-left:1px solid #ddd">{p["program"][:22]}</th>'
+                   for p in top)
+    rows = ""
+    for label, key in [("University", "university"), ("Seats", "seats")]:
+        cells = "".join(f'<td style="padding:6px 8px;border-left:1px solid #ddd">{p[key] or "—"}</td>' for p in top)
+        rows += f'<tr><td style="color:#888;font-weight:600">{label}</td>{cells}</tr>'
+    # required subjects
+    cells = ""
+    for p in top:
+        codes = sorted(p.get("codes") or [])
+        subj = ", ".join(CODE_NAME.get(c, c) for c in codes[:5]) if codes else "—"
+        cells += f'<td style="padding:6px 8px;border-left:1px solid #ddd;font-size:.8rem">{subj}</td>'
+    rows += f'<tr><td style="color:#888;font-weight:600">Requires</td>{cells}</tr>'
+    return f'<table style="width:100%;border-collapse:collapse;font-size:.85rem;margin:1em 0"><tr><th></th>{cols}</tr>{rows}</table>'
 
 CODE_NAME = {"61": "Math1", "62": "Math2", "63": "Stat", "64": "Physics", "65": "Chem",
              "66": "Bio", "70": "Social", "81": "Thai", "82": "English", "83": "French",
@@ -106,12 +157,27 @@ def do_search():
         chips += f'<span class="chip">🎯 <b>{sig["intent"].title()}</b></span>'
     body += f'<div class="signals">{chips}</div>'
     if hits:
-        body += f"<div>{len(hits)} matches</div>"
-        for p in hits:
-            codes = sorted(p.get("codes") or [])
-            subj = ", ".join(CODE_NAME.get(c, c) for c in codes[:5]) if codes else ""
-            body += _hit(p["university"], p["program"], p["seats"],
-                         f"· requires: {subj}" if subj else "")
+        intent = sig.get("intent")
+        if intent == "criteria":
+            body += f'<div>{len(hits)} matches · 📋 <b>Criteria view</b> — weighting breakdown</div>'
+            body += _criteria_view(hits)
+        elif intent == "compare":
+            body += f'<div>{len(hits)} matches · ⚖️ <b>Compare view</b></div>'
+            body += _compare_view(hits)
+        elif intent in ("career", "cost"):
+            body += f'<div class="meta">📋 {intent.title()} info not yet available — showing matching programs.</div>'
+            for p in hits:
+                codes = sorted(p.get("codes") or [])
+                subj = ", ".join(CODE_NAME.get(c, c) for c in codes[:5]) if codes else ""
+                body += _hit(p["university"], p["program"], p["seats"],
+                             f"· requires: {subj}" if subj else "")
+        else:
+            body += f"<div>{len(hits)} matches</div>"
+            for p in hits:
+                codes = sorted(p.get("codes") or [])
+                subj = ", ".join(CODE_NAME.get(c, c) for c in codes[:5]) if codes else ""
+                body += _hit(p["university"], p["program"], p["seats"],
+                             f"· requires: {subj}" if subj else "")
     else:
         body += '<div class="none">No matches.</div>'
     return page("🎓 TCAS Search", "LLM-free · Thai or English (typos OK)", "search", body)
