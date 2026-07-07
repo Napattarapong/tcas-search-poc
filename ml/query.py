@@ -226,10 +226,15 @@ def parse_signals(text):
                 if t not in consumed and t.lower() not in STOP and not _is_noise(t)]
     # phrase = original content keywords joined (before enrichment), space-normalized
     # used for precise substring matching: "วิศวกรรมคอมพิวเตอร์" should NOT match "วิทยาการคอมพิวเตอร์"
-    phrase_kw = keywords.copy()
-    # expand each token's abbreviation independently (no cascading)
-    phrase_expanded = [ABBREV.get(kw, kw) for kw in phrase_kw]
-    phrase = re.sub(r"\s+", "", "".join(phrase_expanded)).lower()
+    # phrase from text with university name removed (university is not a program name)
+    phrase_src = norm
+    if uni:
+        for kw_u, val_u in UNI.items():
+            if val_u == uni and kw_u in phrase_src:
+                phrase_src = phrase_src.replace(kw_u, " ")
+                break
+    phrase_kw = [t for t in _tok(phrase_src)
+                if t.strip() and t.lower() not in STOP and not _is_noise(t)]
     phrase_active = len(phrase_kw) >= 2 and len(phrase) > 3 and any("฀" <= c <= "๿" for c in phrase)
     faculty = None
     for kw, (label, match) in FACULTY.items():
