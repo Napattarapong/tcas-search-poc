@@ -46,6 +46,9 @@ button{padding:10px 18px;font-size:1rem;border:0;background:#1a477f;color:#fff;b
 .fit-field label{font-size:.75rem;color:#666}
 .fit-field input{width:70px;padding:6px;border:1px solid #ccc;border-radius:4px;font-size:.9rem}
 .badge{display:inline-block;background:#e8f0e8;color:#2d6a2d;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:600;margin-left:6px}
+.signals{margin-bottom:1em}
+.chip{display:inline-block;background:#eef3f8;color:#1a477f;padding:4px 10px;border-radius:12px;font-size:.8rem;margin:2px}
+.chip b{color:#d2691e}
 </style></head><body>
 <h1>{{ title }}</h1><div class="sub">{{ subtitle }}</div>
 <nav><a {% if tab=='search' %}class="cur"{% endif %} href="/">Search</a>
@@ -76,12 +79,25 @@ def do_search():
     if not q:
         return page("🎓 TCAS Search", "LLM-free · Thai or English (typos OK)", "search", body)
     sig, hits = search(q)
-    subs = ", ".join(CODE_NAME.get(c, c) for c in sig["subjects"]) or "any"
-    body += f'<div class="meta">Parsed → uni: <b>{sig["university"] or "any"}</b> · subjects: <b>{subs}</b> · min seats: <b>{sig["seats_min"] or "—"}</b></div>'
+    # visual signal chips
+    chips = ""
+    if sig["university"]:
+        chips += f'<span class="chip">🎓 <b>{sig["university"]}</b></span>'
+    if sig["subjects"]:
+        subs = ", ".join(CODE_NAME.get(c, c) for c in sig["subjects"])
+        chips += f'<span class="chip">📐 <b>{subs}</b></span>'
+    if sig["seats_min"]:
+        chips += f'<span class="chip">💺 ≥<b>{sig["seats_min"]}</b> seats</span>'
+    if sig["keywords"]:
+        chips += f'<span class="chip">🔍 <b>{", ".join(sig["keywords"])}</b></span>'
+    body += f'<div class="signals">{chips}</div>'
     if hits:
         body += f"<div>{len(hits)} matches</div>"
         for p in hits:
-            body += _hit(p["university"], p["program"], p["seats"])
+            codes = sorted(p.get("codes") or [])
+            subj = ", ".join(CODE_NAME.get(c, c) for c in codes[:5]) if codes else ""
+            body += _hit(p["university"], p["program"], p["seats"],
+                         f"· requires: {subj}" if subj else "")
     else:
         body += '<div class="none">No matches.</div>'
     return page("🎓 TCAS Search", "LLM-free · Thai or English (typos OK)", "search", body)
